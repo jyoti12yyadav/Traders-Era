@@ -2,7 +2,7 @@
 <html lang="en">
 
 
-<!-- Mirrored from pixner.net/tradez/main/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 16 Jan 2024 07:18:54 GMT -->
+<!-- Mirrored from pixner.net/tradez/main/index-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 16 Jan 2024 07:19:13 GMT -->
 <head>
     <!-- required meta -->
     <meta charset="UTF-8">
@@ -17,7 +17,7 @@
     <!-- #favicon -->
     <link rel="shortcut icon" href="assets/images/fav.png" type="image/x-icon">
     <!-- ==== css dependencies start ==== -->
-    <link rel="stylesheet" href="assets/cdn.jsdelivr.net/npm/@tabler/icons-webfont@2.36.0/tabler-icons.min.css">
+    <link rel="stylesheet" href="assets/cdn.jsdelivr.net/npm/%40tabler/icons-webfont%402.36.0/tabler-icons.min.css">
     <link rel="stylesheet" href="assets/css/style.min.css">
 </head>
 <body>
@@ -37,12 +37,12 @@
         <span class="cursor-dot"></span>
     </div>
     <!-- End Custom Cursor -->
-
+ 
     <!-- header-section start -->
-    <header class="header-section a2-bg-0 header-section--secondary header-menu w-100">
-        <div class="container d-center "> 
-            <nav class="navbar a2-lg-bg py-5 p-lg-5 rounded-3 navbar-expand-lg w-100 justify-content-between ">
-                <div class="d-flex align-items-center">
+    <header class="header-section a2-bg header-menu w-100">
+        <div class="container  d-center ">
+           <nav class="navbar py-2 py-xl-4 rounded-3 navbar-expand-lg w-100 justify-content-between ">
+                <div class="d-flex align-items-center py-3">
                     <button class="navbar-toggler ms-4" type="button" data-bs-toggle="collapse" aria-label="Navbar Toggler"
                     data-bs-target="#navbar-content" aria-expanded="true" id="nav-icon3">
                         <span></span><span></span><span></span><span></span>
@@ -63,7 +63,7 @@
                     </div>
                 </div>
                 <div class="collapse navbar-collapse justify-content-center" id="navbar-content">
-                    <ul class="navbar-nav gap-2 gap-lg-3 gap-xxl-8  align-self-center mx-auto mt-4 mt-lg-0">
+                <ul class="navbar-nav gap-2 gap-lg-3 gap-xxl-8  align-self-center mx-auto mt-4 mt-lg-0">
                         <li class="">
                             <a class="dropdown-item" href="index.php">Home</a>
 
