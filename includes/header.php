@@ -40,6 +40,16 @@
  
     <!-- header-section start -->
     <header class="header-section a2-bg header-menu w-100">
+        <div class="container-fluid bg-upper-header upper-header">
+            <div class="container"></div>
+                <div class="upper-header-content">
+                <div class="right-area position-relative  ms-0 d-end gap-1 gap-xl-4 d-none d-lg-flex">
+                        <div class="single-item">
+                            <a href="signin.html" class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw1-color"> Login <i class="ti ti-arrow-right fs-six-up"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
         <div class="container  d-center ">
            <nav class="navbar py-2 py-xl-4 rounded-3 navbar-expand-lg w-100 justify-content-between ">
                 <div class="d-flex align-items-center py-3">
