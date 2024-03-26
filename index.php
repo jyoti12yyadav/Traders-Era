@@ -109,21 +109,96 @@ a.slide_btn {
     <div class="slide_viewer">
       <div class="slide_group">
         <div class="slide hero-section--secondary">
-            <div class="container" style="position: relative;
-            top: 434px;display: flex;justify-content: center;">
-            <div class="row banner-content">
-                <div class="col-lg-6">
-                    <h1>hello</h1>
+            <div class="container pt-20 mt-20">
+                <div class="row pt-4 pt-lg-10 gy-12 gy-lg-0 justify-content-center align-items-center">
+                    <div class="col-lg-10 col-xxl-7">
+                        <div class="hero-content text-center">
+                            <h1 class="display-two mb-10 mb-lg-15">"Trading Expansion"</h1>
+                            <div class="d-center flex-wrap gap-4 gap-lg-10">
+                                <a href="signup.html" class="cmn-btn secondary-alt fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6">Start Trading <i class="ti ti-trending-up"></i></a>
+                                <a href="signin.html" class="cmn-btn link  fs-five  gap-2 gap-lg-3 align-items-center "><i class="ti ti-arrow-narrow-right"></i> Try demo account</a>
+                            </div>
+                        </div>
+                        <div class="circle-text first d-center cus-z1 position-absolute d-none d-xxxl-flex">
+                            <div class="text d-end">
+                                <p class="fs-six"><span style="transform:rotate(0deg)">T</span><span style="transform:rotate(12deg)">r</span><span style="transform:rotate(24deg)">a</span><span style="transform:rotate(36deg)">d</span><span style="transform:rotate(48deg)">i</span><span style="transform:rotate(60deg)">n</span><span style="transform:rotate(72deg)">g</span><span style="transform:rotate(84deg)"> </span><span style="transform:rotate(96deg)">U</span><span style="transform:rotate(108deg)">n</span><span style="transform:rotate(120deg)">l</span><span style="transform:rotate(132deg)">o</span><span style="transform:rotate(144deg)">c</span><span style="transform:rotate(156deg)">k</span><span style="transform:rotate(168deg)">i</span><span style="transform:rotate(180deg)">n</span><span style="transform:rotate(192deg)">g</span><span style="transform:rotate(204deg)"> </span><span style="transform:rotate(216deg)">D</span><span style="transform:rotate(228deg)">i</span><span style="transform:rotate(240deg)">v</span><span style="transform:rotate(252deg)">e</span><span style="transform:rotate(264deg)">r</span><span style="transform:rotate(276deg)">s</span><span style="transform:rotate(288deg)">i</span><span style="transform:rotate(300deg)">f</span><span style="transform:rotate(312deg)">i</span><span style="transform:rotate(324deg)">e</span><span style="transform:rotate(336deg)">d</span></p>
+                            </div>
+                            <img src="assets/images/circle_star2.png" alt="star" class="push_animat">
+                        </div>
+                        <div class="circle-text first d-center cus-z1 position-absolute end-0 top-0 d-none d-xxl-flex  pe-lg-10 pt-lg-10">
+                            
+                        </div>
+                    </div>
                 </div>
-                <div class="col-lg-6">
-                    
+                <div class="row justify-content-center">
+                    <div class="col-sm-7 col-lg-5 col-xxl-4">
+                        <div class="hero-video-area pseudo_element_before mb-10 mx-auto ms-auto ms-md-10 ms-lg-20 mt-8 mt-lg-10 justify-content-center justify-content-sm-end">
+                            <img src="assets/images/hero_video.png" alt="image">
+                           
+                            <div class="video_content position-absolute end-0 bottom-0 d-flex gap-3 z-1 ps-4">
+                                <a href="https://www.youtube.com/watch?v=BHACKCNDMW8" class="popup-video small box_10 btn-popup-animation position-absolute d-center rounded-circle">
+                                    <i class="fa-solid fa-play fs-four"></i>
+                                </a>
+                                <span class="ms-14">Let’s See how we did it</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-5 col-lg-5 col-xxl-8 d-none d-md-flex">
+                        <div class="vector_thumbs position-relative z-0 ms-4 pt-8 pt-lg-10">
+                            <img src="assets/images/hero_mobile.png" class=" ms-8 ms-lg-15" alt="image">
+                            <div class="position-absolute z-n1 start-0 top-0">
+                                <img src="assets/images/hero_mobile_star.png" alt="image" class="rotate time_dur">
+                            </div>
+                        </div>
+                    </div>
                 </div>
-                
-            </div>
-               
             </div>
         </div>
         <div class="slide hero-section--secondary">
+            <div class="container pt-20 mt-20">
+                <div class="row pt-4 pt-lg-10 gy-12 gy-lg-0 justify-content-center align-items-center">
+                    <div class="col-lg-10 col-xxl-7">
+                        <div class="hero-content text-center">
+                            <h1 class="display-two mb-10 mb-lg-15">"Trading Expansion"</h1>
+                            <div class="d-center flex-wrap gap-4 gap-lg-10">
+                                <a href="signup.html" class="cmn-btn secondary-alt fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6">Start Trading <i class="ti ti-trending-up"></i></a>
+                                <a href="signin.html" class="cmn-btn link  fs-five  gap-2 gap-lg-3 align-items-center "><i class="ti ti-arrow-narrow-right"></i> Try demo account</a>
+                            </div>
+                        </div>
+                        <div class="circle-text first d-center cus-z1 position-absolute d-none d-xxxl-flex">
+                            <div class="text d-center">
+                                <p class="fs-six"><span style="transform:rotate(0deg)">T</span><span style="transform:rotate(12deg)">r</span><span style="transform:rotate(24deg)">a</span><span style="transform:rotate(36deg)">d</span><span style="transform:rotate(48deg)">i</span><span style="transform:rotate(60deg)">n</span><span style="transform:rotate(72deg)">g</span><span style="transform:rotate(84deg)"> </span><span style="transform:rotate(96deg)">U</span><span style="transform:rotate(108deg)">n</span><span style="transform:rotate(120deg)">l</span><span style="transform:rotate(132deg)">o</span><span style="transform:rotate(144deg)">c</span><span style="transform:rotate(156deg)">k</span><span style="transform:rotate(168deg)">i</span><span style="transform:rotate(180deg)">n</span><span style="transform:rotate(192deg)">g</span><span style="transform:rotate(204deg)"> </span><span style="transform:rotate(216deg)">D</span><span style="transform:rotate(228deg)">i</span><span style="transform:rotate(240deg)">v</span><span style="transform:rotate(252deg)">e</span><span style="transform:rotate(264deg)">r</span><span style="transform:rotate(276deg)">s</span><span style="transform:rotate(288deg)">i</span><span style="transform:rotate(300deg)">f</span><span style="transform:rotate(312deg)">i</span><span style="transform:rotate(324deg)">e</span><span style="transform:rotate(336deg)">d</span></p>
+                            </div>
+                            <img src="assets/images/circle_star2.png" alt="star" class="push_animat">
+                        </div>
+                        <div class="circle-text first d-center cus-z1 position-absolute end-0 top-0 d-none d-xxl-flex  pe-lg-10 pt-lg-10">
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-sm-7 col-lg-5 col-xxl-4">
+                        <div class="hero-video-area pseudo_element_before mb-10 mx-auto ms-auto ms-md-10 ms-lg-20 mt-8 mt-lg-10 justify-content-center justify-content-sm-end">
+                            <img src="assets/images/hero_video.png" alt="image">
+                           
+                            <div class="video_content position-absolute end-0 bottom-0 d-flex gap-3 z-1 ps-4">
+                                <a href="https://www.youtube.com/watch?v=BHACKCNDMW8" class="popup-video small box_10 btn-popup-animation position-absolute d-center rounded-circle">
+                                    <i class="fa-solid fa-play fs-four"></i>
+                                </a>
+                                <span class="ms-14">Let’s See how we did it</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-5 col-lg-5 col-xxl-8 d-none d-md-flex">
+                        <div class="vector_thumbs position-relative z-0 ms-4 pt-8 pt-lg-10">
+                            <img src="assets/images/hero_mobile.png" class=" ms-8 ms-lg-15" alt="image">
+                            <div class="position-absolute z-n1 start-0 top-0">
+                                <img src="assets/images/hero_mobile_star.png" alt="image" class="rotate time_dur">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
       </div>
     </div>
