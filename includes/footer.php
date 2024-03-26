@@ -1,5 +1,11 @@
 
     <!-- Footer Section Starts -->
+<style>
+    .social-area{
+        margin-left: -65px;
+    margin-top: 25px;
+    }
+</style>
     <footer class="footer a2-bg position-relative pt-15 pt-lg-0 z-0 ">
         <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1 d-none d-xxxl-flex">
             <img src="assets/images/vector.png" alt="vector" class="position-absolute jello">
@@ -23,26 +29,30 @@
             </div>
             
             <div class="row gy-8 gy-sm-12 gy-lg-0 pt-120 pb-120">
+      <div class="col-6 col-lg-3">
+            
 
-
-            <div class="col-6 col-lg-3">
                     <div class="footer__part">
-                        <h4 class="mb-6 mb-lg-8">Learn</h4>
-                        <h6 class="mb-6 mb-lg-8">Research</h6>
-                        <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
+                        
+                        <a href="index.html" class="navbar-brand m-0 p-0 d-flex align-items-center gap-5 gap-xl-5 me-2">
+                            <img src="assets/images/fav.png" class="logo small_logo d-sm-none" alt="logo">
+                            <img src="assets/images/logo.png" class="logo d-none d-sm-flex" alt="logo">
+                        </a>
+                    <ul class="social-area d-center gap-2 gap-md-3">
                             <li>
-                                <a class="n2-color" href="terms-conditions.html">Economic Calendar</a>
+                                <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-facebook"></i></a>
                             </li>
                             <li>
-                                <a class="n2-color" href="privacy-policy.html">Calculators</a>
-                            </li>
-                            <h6 class="mb-6 mb-lg-8">Note</h6>
-                            
-                            <li>
-                                <a class="n2-color" href="contact.html">FAQ’s</a>
+                                <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-twitch"></i></a>
                             </li>
                             <li>
-                                <a class="n2-color" href="contact.html">Glossary</a>
+                                <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-instagram"></i></a>
+                            </li>
+                            <li>
+                                <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-discord-filled"></i></a>
+                            </li>
+                            <li>
+                                <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-youtube"></i></a>
                             </li>
                         </ul>
                     </div>
