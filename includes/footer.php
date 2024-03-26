@@ -23,58 +23,201 @@
             </div>
             
             <div class="row gy-8 gy-sm-12 gy-lg-0 pt-120 pb-120">
-                <div class="col-6 col-lg-3">
+
+
+            <div class="col-6 col-lg-3">
                     <div class="footer__part">
-                        <h4 class="mb-6 mb-lg-8">Quick Link</h4>
+                        <h4 class="mb-6 mb-lg-8">Learn</h4>
+                        <h6 class="mb-6 mb-lg-8">Research</h6>
                         <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
                             <li>
-                                <a class="n2-color d-flex align-items-center" href="market.html"> markets</a>
+                                <a class="n2-color" href="terms-conditions.html">Economic Calendar</a>
                             </li>
                             <li>
-                                <a class="n2-color" href="education.html">Education</a>
+                                <a class="n2-color" href="privacy-policy.html">Calculators</a>
+                            </li>
+                            <h6 class="mb-6 mb-lg-8">Note</h6>
+                            
+                            <li>
+                                <a class="n2-color" href="contact.html">FAQ’s</a>
                             </li>
                             <li>
-                                <a class="n2-color" href="support.html">Support</a>
+                                <a class="n2-color" href="contact.html">Glossary</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+
+                <div class="col-6 col-lg-3">
+                    <div class="footer__part">
+                        <h4 class="mb-6 mb-lg-8">Assets</h4>
+                        <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
+                            <li>
+                                <a class="n2-color d-flex align-items-center" href="market.html">Forex</a>
                             </li>
                             <li>
-                                <a class="n2-color" href="legal-docs.html">Legal docs</a>
+                                <a class="n2-color" href="education.html">Stocks</a>
                             </li>
+                            <li>
+                                <a class="n2-color" href="support.html">Indices</a>
+                            </li>
+                            <li>
+                                <a class="n2-color" href="legal-docs.html">Commodities</a>
+                            </li>
+                            <li>
+                                <a class="n2-color" href="legal-docs.html">Cryptocurrencies</a>
+                            </li>
+                         
                         </ul>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3">
                     <div class="footer__part">
-                        <h4 class="mb-6 mb-lg-8">Company</h4>
+                        <h4 class="mb-6 mb-lg-8">Trade</h4>
                         <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
                             <li>
-                                <a class="n2-color" href="about.html">About</a>
+                                <a class="n2-color" href="about.html">MT5 Desktop</a>
                             </li>
                             <li>
-                                <a class="n2-color" href="blog.html">Blog</a>
+                                <a class="n2-color" href="blog.html">MT5 Mobile</a>
                             </li>
                             <li>
-                                <a class="n2-color" href="careers.html">Carreers</a>
+                                <a class="n2-color" href="careers.html">MT5 Web</a>
+                            </li>
+                            <li>
+                                <a class="n2-color" href="blog.html">PAMM Investor</a>
                             </li>
                         </ul>
                     </div>
                 </div>
+           
+<br><br><br><br><br>
+
                 <div class="col-6 col-lg-3">
                     <div class="footer__part">
-                        <h4 class="mb-6 mb-lg-8">Legal</h4>
+                        <h4 class="mb-6 mb-lg-8">Learn</h4>
+                        <h6 class="mb-6 mb-lg-8">Research</h6>
                         <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
                             <li>
-                                <a class="n2-color" href="terms-conditions.html">Terms & Conditions</a>
+                                <a class="n2-color" href="terms-conditions.html">Economic Calendar</a>
                             </li>
                             <li>
-                                <a class="n2-color" href="privacy-policy.html">Privacy & Policy</a>
+                                <a class="n2-color" href="privacy-policy.html">Calculators</a>
+                            </li>
+                            <h6 class="mb-6 mb-lg-8">Note</h6>
+                            
+                            <li>
+                                <a class="n2-color" href="contact.html">FAQ’s</a>
                             </li>
                             <li>
-                                <a class="n2-color" href="contact.html">Contact</a>
+                                <a class="n2-color" href="contact.html">Glossary</a>
                             </li>
                         </ul>
                     </div>
                 </div>
+
                 <div class="col-6 col-lg-3">
+                    <div class="footer__part">
+                        <h4 class="mb-6 mb-lg-8">Account</h4>
+                        <h6 class="mb-6 mb-lg-8">Manage Your Account</h6>
+                        <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
+                            <li>
+                                <a class="n2-color" href="terms-conditions.html">Deposit</a>
+                            </li>
+                            <li>
+                                <a class="n2-color" href="privacy-policy.html">Withdrawal</a>
+                            </li>
+                           
+                            
+                            <li>
+                                <a class="n2-color" href="contact.html">Trader Room</a>
+                            </li>
+                            
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-6 col-lg-3">
+                    <div class="footer__part">
+                       
+                        <h6 class="mb-6 mb-lg-8">Accounts We Offer</h6>
+                        <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
+                            <li>
+                                <a class="n2-color" href="terms-conditions.html">Mini Account</a>
+                            </li>
+                            <li>
+                                <a class="n2-color" href="privacy-policy.html">Standard Account</a>
+                            </li>
+                           
+                            <li>
+                                <a class="n2-color" href="contact.html">Premium Account</a>
+                            </li>
+                            <li>
+                                <a class="n2-color" href="contact.html">Investor Account</a>
+                            </li>
+                            <li>
+                                <a class="n2-color" href="contact.html">Zero Spread Account</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-6 col-lg-3">
+                    <div class="footer__part">
+                        <h4 class="mb-6 mb-lg-8">Partners</h4>
+                        <h6 class="mb-6 mb-lg-8">Become a Partner</h6>
+                        <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
+                            <li>
+                                <a class="n2-color" href="terms-conditions.html">Refer A Friend</a>
+                            </li>
+                            <li>
+                                <a class="n2-color" href="privacy-policy.html">Country Representative</a>
+                            </li>
+                            
+                            <li>
+                                <a class="n2-color" href="contact.html">Whitelabel</a>
+                            </li>
+                            <li>
+                                <a class="n2-color" href="contact.html">Money Manager</a>
+                            </li>
+                            <li>
+                                <a class="n2-color" href="contact.html">IB</a>
+                            </li>
+                         
+                        </ul>
+                    </div>
+                </div>
+
+
+                
+                <div class="col-6 col-lg-3">
+                    <div class="footer__part">
+                        <h4 class="mb-6 mb-lg-8">About Endurefx</h4>
+                 
+                        <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
+                            <li>
+                                <a class="n2-color" href="terms-conditions.html">Who We Are</a>
+                            </li>
+                            <li>
+                                <a class="n2-color" href="privacy-policy.html">Legal</a>
+                            </li>
+                            
+                            <li>
+                                <a class="n2-color" href="contact.html">Our Location</a>
+                            </li>
+                            <li>
+                                <a class="n2-color" href="contact.html">Ombudsman</a>
+                            </li>
+                            <li>
+                                <a class="n2-color" href="contact.html">Contact Us</a>
+                            </li>
+                         
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- <div class="col-6 col-lg-3">
                     <div class="footer__part">
                         <h4 class="mb-6 mb-lg-8">Contact Us</h4>
                         <div class="d-flex flex-column gap-2 gap-sm-3 gap-md-4">
@@ -82,8 +225,14 @@
                             <a href="tel:+123456789">+0123 456 789</a>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
+
+
+
+            
+
+
             <div class="row">
                 <div class="col-12 border-top border-color opac-20 py-7 py-xxl-8">
                     <div class="footer__copyright d-center gap-15 flex-wrap justify-content-md-between">
