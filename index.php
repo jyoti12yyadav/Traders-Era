@@ -9,7 +9,7 @@
 }
 
 .slide_viewer {
-  height: 800px;
+  height: 900px;
   overflow: hidden;
   position: relative;
 }
@@ -226,10 +226,10 @@ a.slide_btn {
                     <div class="row pt-120 pb-120">
                         <div class="col-xxl-6 offset-xxl-2">
                             <div class="why-trade__part">
-                                <span class="heading fs-five">Why Trade With</span>
-                                <h3 class="mb-3 mt-5">Trade Genius</h3>
-                                <p>Trading is the art and science of buying and selling financial instruments, such as stocks bonds currencies. </p>
-                                <a href="about.html" class="cmn-btn link secondary-link fs-six-up  gap-2 gap-lg-3 align-items-center mt-5"> Learn more <i class="ti ti-arrow-narrow-right fs-four"></i></a>
+                                <span class="heading fs-five">Reasons to select</span>
+                                <h3 class="mb-3">TradersEra</h3>
+                                <p>Trustworthy, readily available resources, expertise, and assistance at all times.</p>
+                                <br><br>
                             </div>  
                         </div>  
                         <div class="col-xxl-12 mt-7 mt-md-8 mt-xxl-3">
@@ -238,9 +238,9 @@ a.slide_btn {
                                     <img src="assets/images/trade_vector.png" alt="Image" class="max-xxl-un">
                                 </div>
                                 <div class="content">
+                                <span class="heading fs-five">Reasons to select</span>
                                     <h3 class="mb-3">Trade Apex</h3>
-                                    <p>Trading is the art and science of buying and selling financial instruments, suc stocks, bonds, currencies commodities, and cryptocurrencies, with the aim of making a profit. It's a dynamic and multifaceted professionals from around the world.</p>
-                                    <a href="about.html" class="cmn-btn link secondary-link fs-six-up  gap-2 gap-lg-3 align-items-center mt-5"> Learn more <i class="ti ti-arrow-narrow-right fs-four"></i></a>    
+                                    <p>TradersEra stands out as a trustworthy and reliable choice due to its proven track record of expertise in the trading industry. With a reputation built on transparency, integrity, and a team of seasoned professionals, TradersEra ensures clients' investments are managed with precision and care, fostering a relationship founded on trust and success.</p>
                                 </div>
                             </div>  
                         </div>
@@ -260,9 +260,9 @@ a.slide_btn {
             <div class="row justify-content-center">
                 <div class="col-lg-8 col-xxl-7">
                     <div class="heading__content mb-10 mb-lg-15 text-center">
-                        <span class="heading p1-color fs-five mb-5">We Provide World’s</span>
-                        <h3 class="mb-5 mb-lg-6">Join a club of more than <span class="s1-color">480,000</span> traders</h3>
-                        <p class="fs-six-up mx-ch mx-auto">Trading is the art and science of buying and selling financial instruments, such as stocks bonds currencies commodities</p>
+                        <span class="heading p1-color fs-five mb-5">WHY US?</span>
+                        <h3 class="mb-5 mb-lg-6">Why Trade With TradersEra?</h3>
+                        <p class="fs-six-up mx-ch mx-auto">Choosing one broker to begin trading from a plethora of options seems tough. To make it easier for you, peruse our below-mentioned distinctives.</p>
                     </div>
                 </div>
             </div>
@@ -272,8 +272,8 @@ a.slide_btn {
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                             <i class="ti ti-award-filled fs-three p1-color"></i>
                         </span>
-                       <h4 class="mt-5 mb-5">Best Reputation</h4>
-                       <p>transformed the trading landscape. Online trading platforms and mobile apps have made it easier than ever for individuals</p>
+                       <h4 class="mt-5 mb-5">Lower spreads</h4>
+                       <p>Cut down on transaction costs & relish faster trade executions with our tight spreads.Get the lowest spreads possible during all market conditions with us.</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-xxl-4">
@@ -281,8 +281,9 @@ a.slide_btn {
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                             <i class="ti ti-users fs-three p1-color"></i>
                         </span>
-                       <h4 class="mt-5 mb-5">480,000+ Clients</h4>
-                       <p>One of the fundamental principles of trading is risk management. Successful traders carefully manage their capital,</p>
+                       <h4 class="mt-5 mb-5">Secured funds</h4>
+                       <p>Trade across all the assets with confidence and quit worrying about your funds’ safety. Also get 24×5 customer support from TradersEra.</p>
+                   <br>
                     </div>
                 </div>
                 <div class="col-md-6 col-xxl-4">
@@ -290,8 +291,8 @@ a.slide_btn {
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                             <i class="ti ti-shield-check-filled fs-three p1-color"></i>
                         </span>
-                       <h4 class="mt-5 mb-5">Trusted and Secure</h4>
-                       <p>Trading is not without its challenges, as markets can be highly volatile and unpredictable. It requires discipline</p>
+                       <h4 class="mt-5 mb-5">Quick deposits and withdrawals</h4>
+                       <p>Become an TradersEra client quickly. Register yourself, fund your chosen account type and start trading hassle-free.</p>
                     </div>
                 </div>
             </div>
@@ -310,16 +311,9 @@ a.slide_btn {
             <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
                 <div class="col-lg-6 col-xxl-5">
                     <div class="trade_on__content">
-                        <span class="heading s1-color fs-five mb-5">Trade On Our</span>
-                        <h3 class="mb-4 mb-lg-5">World Class Platform</h3>
-                        <p class="fs-six mx-ch">Trading in financial markets involves a wide range of strategies that traders employ to make informed decisions. From trading to swing trading and long-term investing, each strategy has its own set of principles and risk factors.</p>   
-                        <ul class="d-flex gap-4 flex-column mt-6">
-                            <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Charts trading</li>
-                            <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Understanding Trading Strategies </li>
-                            <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Risk Management in Trading </li>
-                            <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Technical vs. Fundamental Analysis </li>
-                        </ul>
-                        <a href="signup.html" class="cmn-btn secondary-alt fs-six-up nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6 mt-7 mt-xxl-8">Sign up Now <i class="ti ti-arrow-right fs-four"></i></a>
+                        <span class="heading s1-color fs-five mb-5">JOIN NOW</span>
+                        <h2 class="mb-4 mb-lg-5">Looking for a responsible Forex broker? Wish to know about us?</h2>
+                        <a href="signup.html" class="cmn-btn secondary-alt fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6" style="--top: 38.609375px; --left: 209.25px;">Know More <i class="ti ti-trending-up"></i></a>
                     </div>
                 </div>
                 <div class="col-md-8 col-lg-6">
@@ -333,7 +327,7 @@ a.slide_btn {
     <!-- Trade On end -->
     
     <!--People Trust start-->
-    <section class="people_trust pt-120 pb-120 position-relative z-0">
+    <!-- <section class="people_trust pt-120 pb-120 position-relative z-0">
         <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
             <img src="assets/images/vector.png" alt="vector" class="position-absolute jello d-none d-xl-flex">
             <img src="assets/images/star3.png" alt="vector" class="position-absolute push_animat d-none d-xxxl-flex">
@@ -495,11 +489,11 @@ a.slide_btn {
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- People Trust end -->   
     
     <!--Testimonial start-->
-    <section class="testimonial p1-bg pt-120 pb-120 position-relative z-0">
+    <!-- <section class="testimonial p1-bg pt-120 pb-120 position-relative z-0">
         <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
             <img src="assets/images/star.png" alt="vector" class="position-absolute push_animat">
             <img src="assets/images/vector2.png" alt="vector" class="position-absolute bottom-0 start-0 d-none d-xxxl-flex">
@@ -576,11 +570,11 @@ a.slide_btn {
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- Testimonial end -->   
    
     <!--blog_news start-->
-    <section class="blog_news pt-120 pb-120 position-relative z-0">
+    <!-- <section class="blog_news pt-120 pb-120 position-relative z-0">
         <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
             <img src="assets/images/star.png" alt="vector" class="position-absolute">
             <img src="assets/images/vector2.png" alt="vector" class="position-absolute bottom-0 start-0">
@@ -644,7 +638,7 @@ a.slide_btn {
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
      <!-- blog_news end -->  
 <script>
 
