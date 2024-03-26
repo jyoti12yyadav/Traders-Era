@@ -6,7 +6,7 @@
             <img src="assets/images/vector4.png" alt="vector" class="position-absolute bottom-0 end-0">
         </div>
         <div class="container">
-            <div class="start-earning nb3-bg cus-rounded-2 d-flex align-items-center p-4 p-sm-6 p-md-10 p-lg-15 p-xl-20 pe-lg-6 pe-xl-16 overflow-hidden position-relative">
+            <!-- <div class="start-earning nb3-bg cus-rounded-2 d-flex align-items-center p-4 p-sm-6 p-md-10 p-lg-15 p-xl-20 pe-lg-6 pe-xl-16 overflow-hidden position-relative">
                 <div class="vector_effect position-absolute d-center justify-content-end end-0  d-flex gap-20">
                     <img src="assets/images/star2.png" alt="vector" class="d-none d-xxl-flex push_animat">
                     <img src="assets/images/star_focus.png" alt="vector" class="d-none d-sm-flex rotate time_dur ms-auto ms-lg-0 me-md-5">
@@ -20,7 +20,7 @@
                         <a href="signup.html" class="cmn-btn secondary-alt ms-auto fs-five nb4-xxl-bg gap-2 align-items-center  py-2 px-4 py-lg-3 px-lg-5">Register <i class="ti ti-arrow-right fs-four"></i></a>
                     </div>
                 </div>
-            </div>
+            </div> -->
             
             <div class="row gy-8 gy-sm-12 gy-lg-0 pt-120 pb-120">
 
