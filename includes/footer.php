@@ -67,16 +67,16 @@
                                 <a class="n2-color d-flex align-items-center" href="market.html">Forex</a>
                             </li>
                             <li>
-                                <a class="n2-color" href="education.html">Stocks</a>
+                                <a class="n2-color" href="stocks.php">Stocks</a>
                             </li>
                             <li>
-                                <a class="n2-color" href="support.html">Indices</a>
+                                <a class="n2-color" href="indices.php">Indices</a>
                             </li>
                             <li>
-                                <a class="n2-color" href="legal-docs.html">Commodities</a>
+                                <a class="n2-color" href="commodities.php">Commodities</a>
                             </li>
                             <li>
-                                <a class="n2-color" href="legal-docs.html">Cryptocurrencies</a>
+                                <a class="n2-color" href="Cryptocurrencies.php">Cryptocurrencies</a>
                             </li>
                          
                         </ul>
@@ -87,16 +87,16 @@
                         <h4 class="mb-6 mb-lg-8">Trade</h4>
                         <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
                             <li>
-                                <a class="n2-color" href="about.html">MT5 Desktop</a>
+                                <a class="n2-color" href="mt5-desktop.php">MT5 Desktop</a>
                             </li>
                             <li>
-                                <a class="n2-color" href="blog.html">MT5 Mobile</a>
+                                <a class="n2-color" href="mt5-mobile.php">MT5 Mobile</a>
                             </li>
                             <li>
-                                <a class="n2-color" href="careers.html">MT5 Web</a>
+                                <a class="n2-color" href="mt5-web.php">MT5 Web</a>
                             </li>
                             <li>
-                                <a class="n2-color" href="blog.html">PAMM Investor</a>
+                                <a class="n2-color" href="pamm-investor">PAMM Investor</a>
                             </li>
                         </ul>
                     </div>
@@ -110,18 +110,18 @@
                         <h6 class="mb-6 mb-lg-8">Research</h6>
                         <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
                             <li>
-                                <a class="n2-color" href="terms-conditions.html">Economic Calendar</a>
+                                <a class="n2-color" href="economic-calendar.php">Economic Calendar</a>
                             </li>
                             <li>
-                                <a class="n2-color" href="privacy-policy.html">Calculators</a>
+                                <a class="n2-color" href="calculators.php">Calculators</a>
                             </li>
                             <h6 class="mb-6 mb-lg-8">Note</h6>
                             
                             <li>
-                                <a class="n2-color" href="contact.html">FAQ’s</a>
+                                <a class="n2-color" href="faqs.php">FAQ’s</a>
                             </li>
                             <li>
-                                <a class="n2-color" href="contact.html">Glossary</a>
+                                <a class="n2-color" href="Glossary.php">Glossary</a>
                             </li>
                         </ul>
                     </div>
@@ -133,15 +133,15 @@
                         <h6 class="mb-6 mb-lg-8">Manage Your Account</h6>
                         <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
                             <li>
-                                <a class="n2-color" href="terms-conditions.html">Deposit</a>
+                                <a class="n2-color" href="deposit.php">Deposit</a>
                             </li>
                             <li>
-                                <a class="n2-color" href="privacy-policy.html">Withdrawal</a>
+                                <a class="n2-color" href="withdrawal.php">Withdrawal</a>
                             </li>
                            
                             
                             <li>
-                                <a class="n2-color" href="contact.html">Trader Room</a>
+                                <a class="n2-color" href="trader-room.php">Trader Room</a>
                             </li>
                             
                         </ul>
@@ -154,20 +154,20 @@
                         <h6 class="mb-6 mb-lg-8">Accounts We Offer</h6>
                         <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
                             <li>
-                                <a class="n2-color" href="terms-conditions.html">Mini Account</a>
+                                <a class="n2-color" href="mini-account.php">Mini Account</a>
                             </li>
                             <li>
-                                <a class="n2-color" href="privacy-policy.html">Standard Account</a>
+                                <a class="n2-color" href="standard-account.php">Standard Account</a>
                             </li>
                            
                             <li>
-                                <a class="n2-color" href="contact.html">Premium Account</a>
+                                <a class="n2-color" href="premium-account.php">Premium Account</a>
                             </li>
                             <li>
-                                <a class="n2-color" href="contact.html">Investor Account</a>
+                                <a class="n2-color" href="investor-account.php">Investor Account</a>
                             </li>
                             <li>
-                                <a class="n2-color" href="contact.html">Zero Spread Account</a>
+                                <a class="n2-color" href="zero-spread-account.php">Zero Spread Account</a>
                             </li>
                         </ul>
                     </div>
@@ -179,20 +179,20 @@
                         <h6 class="mb-6 mb-lg-8">Become a Partner</h6>
                         <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
                             <li>
-                                <a class="n2-color" href="terms-conditions.html">Refer A Friend</a>
+                                <a class="n2-color" href="refer-a-friend.php">Refer A Friend</a>
                             </li>
                             <li>
-                                <a class="n2-color" href="privacy-policy.html">Country Representative</a>
+                                <a class="n2-color" href="country-representative.php">Country Representative</a>
                             </li>
                             
                             <li>
-                                <a class="n2-color" href="contact.html">Whitelabel</a>
+                                <a class="n2-color" href="whitelabel.php">Whitelabel</a>
                             </li>
                             <li>
-                                <a class="n2-color" href="contact.html">Money Manager</a>
+                                <a class="n2-color" href="money-manager.php">Money Manager</a>
                             </li>
                             <li>
-                                <a class="n2-color" href="contact.html">IB</a>
+                                <a class="n2-color" href="IB.php">IB</a>
                             </li>
                          
                         </ul>
@@ -207,20 +207,20 @@
                  
                         <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
                             <li>
-                                <a class="n2-color" href="terms-conditions.html">Who We Are</a>
+                                <a class="n2-color" href="who-we-are.php">Who We Are</a>
                             </li>
                             <li>
-                                <a class="n2-color" href="privacy-policy.html">Legal</a>
+                                <a class="n2-color" href="legal.php">Legal</a>
                             </li>
                             
                             <li>
-                                <a class="n2-color" href="contact.html">Our Location</a>
+                                <a class="n2-color" href="our-location.php">Our Location</a>
                             </li>
                             <li>
-                                <a class="n2-color" href="contact.html">Ombudsman</a>
+                                <a class="n2-color" href="ombudsman.php">Ombudsman</a>
                             </li>
                             <li>
-                                <a class="n2-color" href="contact.html">Contact Us</a>
+                                <a class="n2-color" href="contact-us.php">Contact Us</a>
                             </li>
                          
                         </ul>
