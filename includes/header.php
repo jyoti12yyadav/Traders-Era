@@ -64,20 +64,20 @@
                 </div>
                 <div class="collapse navbar-collapse justify-content-center" id="navbar-content">
                     <ul class="navbar-nav gap-2 gap-lg-3 gap-xxl-8  align-self-center mx-auto mt-4 mt-lg-0">
-                        <li class="dropdown show-dropdown">
-                            <button type="button" aria-label="Navbar Dropdown Button"
-                                class="dropdown-toggle dropdown-nav active">home</button>
-                            <ul class="dropdown-menu">
-                                <li><a class="dropdown-item active" href="index.html">home one</a></li>
-                                <li><a class="dropdown-item" href="index-2.html">home two</a></li>
-                            </ul>
+                        <li class="">
+                            <a class="dropdown-item" href="index.php">Home</a>
+
+                           
                         </li>
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
-                                class="dropdown-toggle dropdown-nav">Markets</button>
+                                class="dropdown-toggle dropdown-nav">Assets</button>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="market.html">Markets</a></li>
-                                <li><a class="dropdown-item" href="market-details.html">Markets Details</a></li>
+                                <li><a class="dropdown-item" href="market.html">Forex</a></li>
+                                <li><a class="dropdown-item" href="market-details.html">Stocks</a></li>
+                                <li><a class="dropdown-item" href="market-details.html">Indices</a></li>
+                                <li><a class="dropdown-item" href="market-details.html">Commodities</a></li>
+                                <li><a class="dropdown-item" href="market-details.html">Cryptocurrencies</a></li>
                             </ul>
                         </li>
                         <li class="dropdown show-dropdown">
