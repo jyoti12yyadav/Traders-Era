@@ -1,59 +1,138 @@
 
 
 <?php include("includes/header.php") ?>
-    <!-- hero section start  jyoti -->
-    <section class="hero-section position-relative z-0 ">
-        <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-            <img src="assets/images/hero_vector.png" alt="vector" class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX">
-        </div>
-        <div class="container pt-20 mt-12 mt-lg-20">
-            <div class="row pt-4 pt-lg-10 gy-12 gy-lg-0 justify-content-center justify-content-lg-between align-items-center">
-                <div class="col-lg-6 col-xxl-7">
-                    <div class="hero-card p1-xxl-bg pt-xl-20 pb-xl-20 position-relative">
-                        <div class="pt-xxl-10 pb-xxl-10">
-                            <div class="circle-text first d-center cus-z1 position-absolute end-0 top-0 d-none d-xxl-flex  me-lg-10 mt-lg-10">
-                                <div class="text d-center">
-                                    <p class="fs-six">Trading Unlocking Diversified</p>
-                                </div>
-                                <img src="assets/images/circle_star.png" alt="star" class="push_animat">
-                            </div>
-                            <span class="heading p1-max-xxl nb4-xxl-color fs-five mb-3">Trading platforms </span>
-                            <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Trade Abundance</h1>
-                            <p class="fs-six-up fw_500 nb4-xxl-color">Covesting allows you to automatically copy top performing traders and achieve the returns</p>
-                            <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8 mt-lg-10">
-                                <a href="signup.html" class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6">Start Trading <i class="ti ti-trending-up"></i></a>
-                                <a href="signin.html" class="cmn-btn link link-xxl-color fs-five  gap-2 gap-lg-3 align-items-center "><i class="ti ti-arrow-narrow-right fs-four"></i> Try demo account</a>
-                            </div>
-                        </div>
-                    </div>
+    <!-- header-section start -->
+<style>
+.slider {
+  margin: 0 auto;
+  max-width: auto;
+}
+
+.slide_viewer {
+  height: 800px;
+  overflow: hidden;
+  position: relative;
+}
+
+.slide_group {
+  height: 100%;
+  position: relative;
+  width: 100%;
+}
+
+.slide {
+  display: none;
+  height: 100%;
+  position: absolute;
+  width: 100%;
+}
+
+.slide:first-child {
+  display: block;
+}
+
+.slide_buttons {
+  left: 0;
+  position: absolute;
+  right: 0;
+  text-align: center;
+}
+
+a.slide_btn {
+  color: #474544;
+  font-size: 42px;
+  margin: 0 0.175em;
+  -webkit-transition: all 0.4s ease-in-out;
+  -moz-transition: all 0.4s ease-in-out;
+  -ms-transition: all 0.4s ease-in-out;
+  -o-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+}
+
+.slide_btn.active, .slide_btn:hover {
+  color: #428CC6;
+  cursor: pointer;
+}
+
+.directional_nav {
+  height: 0px;
+  margin: 0 auto;
+  max-width: 940px;
+  position: relative;
+  top: -340px;
+}
+
+.previous_btn {
+  bottom: 0;
+  left: 100px;
+  margin: auto;
+  position: absolute;
+  top: 0;
+}
+
+.next_btn {
+  bottom: 0;
+  margin: auto;
+  position: absolute;
+  right: 100px;
+  top: 0;
+}
+
+.previous_btn, .next_btn {
+  cursor: pointer;
+  height: 65px;
+  opacity: 0.5;
+  -webkit-transition: opacity 0.4s ease-in-out;
+  -moz-transition: opacity 0.4s ease-in-out;
+  -ms-transition: opacity 0.4s ease-in-out;
+  -o-transition: opacity 0.4s ease-in-out;
+  transition: opacity 0.4s ease-in-out;
+  width: 65px;
+}
+
+.previous_btn:hover, .next_btn:hover {
+  opacity: 1;
+}
+
+@media only screen and (max-width: 767px) {
+  .previous_btn {
+    left: 50px;
+  }
+  .next_btn {
+    right: 50px;
+  }
+}
+
+
+</style>
+<div class="slider">
+    <div class="slide_viewer">
+      <div class="slide_group">
+        <div class="slide hero-section--secondary">
+            <div class="container" style="position: relative;
+            top: 434px;display: flex;justify-content: center;">
+            <div class="row banner-content">
+                <div class="col-lg-6">
+                    <h1>hello</h1>
                 </div>
-                <div class="col-sm-10 col-lg-6 col-xxl-5">
-                    <div class="hero-section__thumbs pb-xxl-10">
-                        <img src="assets/images/hero_thumb.png" class="max-auto max-xxl-un" alt="img">
-                    </div>
+                <div class="col-lg-6">
+                    
                 </div>
-                <ul class="list_items col-12 d-flex row-gap-6 gap-lg-15 justify-content-between flex-wrap pt-2 pt-lg-15 pt-xl-2 pt-xxl-15 pb-15">
-                    <li class="d-flex gap-3 align-items-center">
-                        <span class="d-center s1-bg p-3 p-lg-4 rounded-circle"><i class="ti ti-tools fs-three nb4-color"></i></span>
-                        <h4 class="nw1-color">Enhanced Tools</h4>
-                    </li>
-                    <li class="d-flex gap-3 align-items-center">
-                        <span class="d-center s1-bg p-3 p-lg-4 rounded-circle"><i class="ti ti-trending-up fs-three nb4-color"></i></span>
-                        <h4 class="nw1-color">Trading Guides</h4>
-                    </li>
-                    <li class="d-flex gap-3 align-items-center">
-                        <span class="d-center s1-bg p-3 p-lg-4 rounded-circle"><i class="ti ti-broadcast fs-three nb4-color"></i></span>
-                        <h4 class="nw1-color">Fast Execution</h4>
-                    </li>
-                    <li class="d-flex gap-3 align-items-center">
-                        <span class="d-center s1-bg p-3 p-lg-4 rounded-circle"><i class="ti ti-percentage fs-three nb4-color"></i></span>
-                        <h4 class="nw1-color">0% Commission</h4>
-                    </li>
-                </ul>
+                
+            </div>
+               
             </div>
         </div>
-    </section>
-    <!-- hero section end -->
+        <div class="slide hero-section--secondary">
+        </div>
+      </div>
+    </div>
+  </div><!-- End // .slider -->
+  
+  <div class="slide_buttons">
+  </div>
+  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 
     <!-- Why Trade start-->
     <section class="why-trade s1-bg alt-color position-relative z-0">
@@ -492,5 +571,97 @@
         </div>
     </section>
      <!-- blog_news end -->  
+<script>
 
+$('.slider').each(function() {
+  var $this = $(this);
+  var $group = $this.find('.slide_group');
+  var $slides = $this.find('.slide');
+  var bulletArray = [];
+  var currentIndex = 0;
+  var timeout;
+  
+  function move(newIndex) {
+    var animateLeft, slideLeft;
+    
+    advance();
+    
+    if ($group.is(':animated') || currentIndex === newIndex) {
+      return;
+    }
+    
+    bulletArray[currentIndex].removeClass('active');
+    bulletArray[newIndex].addClass('active');
+    
+    if (newIndex > currentIndex) {
+      slideLeft = '100%';
+      animateLeft = '-100%';
+    } else {
+      slideLeft = '-100%';
+      animateLeft = '100%';
+    }
+    
+    $slides.eq(newIndex).css({
+      display: 'block',
+      left: slideLeft
+    });
+    $group.animate({
+      left: animateLeft
+    }, function() {
+      $slides.eq(currentIndex).css({
+        display: 'none'
+      });
+      $slides.eq(newIndex).css({
+        left: 0
+      });
+      $group.css({
+        left: 0
+      });
+      currentIndex = newIndex;
+    });
+  }
+  
+  function advance() {
+    clearTimeout(timeout);
+    timeout = setTimeout(function() {
+      if (currentIndex < ($slides.length - 1)) {
+        move(currentIndex + 1);
+      } else {
+        move(0);
+      }
+    }, 4000);
+  }
+  
+  $('.next_btn').on('click', function() {
+    if (currentIndex < ($slides.length - 1)) {
+      move(currentIndex + 1);
+    } else {
+      move(0);
+    }
+  });
+  
+  $('.previous_btn').on('click', function() {
+    if (currentIndex !== 0) {
+      move(currentIndex - 1);
+    } else {
+      move(3);
+    }
+  });
+  
+  $.each($slides, function(index) {
+    var $button = $('<a class="slide_btn">&bull;</a>');
+    
+    if (index === currentIndex) {
+      $button.addClass('active');
+    }
+    $button.on('click', function() {
+      move(index);
+    }).appendTo('.slide_buttons');
+    bulletArray.push($button);
+  });
+  
+  advance();
+});
+
+</script>
 <?php include("includes/footer.php") ?>

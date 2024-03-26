@@ -2,7 +2,7 @@
 <html lang="en">
 
 
-<!-- Mirrored from pixner.net/tradez/main/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 16 Jan 2024 07:18:54 GMT -->
+<!-- Mirrored from pixner.net/tradez/main/index-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 16 Jan 2024 07:19:13 GMT -->
 <head>
     <!-- required meta -->
     <meta charset="UTF-8">
@@ -17,7 +17,7 @@
     <!-- #favicon -->
     <link rel="shortcut icon" href="assets/images/fav.png" type="image/x-icon">
     <!-- ==== css dependencies start ==== -->
-    <link rel="stylesheet" href="assets/cdn.jsdelivr.net/npm/@tabler/icons-webfont@2.36.0/tabler-icons.min.css">
+    <link rel="stylesheet" href="assets/cdn.jsdelivr.net/npm/%40tabler/icons-webfont%402.36.0/tabler-icons.min.css">
     <link rel="stylesheet" href="assets/css/style.min.css">
 </head>
 <body>
@@ -37,12 +37,12 @@
         <span class="cursor-dot"></span>
     </div>
     <!-- End Custom Cursor -->
-
+ 
     <!-- header-section start -->
-    <header class="header-section a2-bg-0 header-section--secondary header-menu w-100">
-        <div class="container d-center "> 
-            <nav class="navbar a2-lg-bg py-5 p-lg-5 rounded-3 navbar-expand-lg w-100 justify-content-between ">
-                <div class="d-flex align-items-center">
+    <header class="header-section a2-bg header-menu w-100">
+        <div class="container  d-center ">
+           <nav class="navbar py-2 py-xl-4 rounded-3 navbar-expand-lg w-100 justify-content-between ">
+                <div class="d-flex align-items-center py-3">
                     <button class="navbar-toggler ms-4" type="button" data-bs-toggle="collapse" aria-label="Navbar Toggler"
                     data-bs-target="#navbar-content" aria-expanded="true" id="nav-icon3">
                         <span></span><span></span><span></span><span></span>
@@ -63,49 +63,69 @@
                     </div>
                 </div>
                 <div class="collapse navbar-collapse justify-content-center" id="navbar-content">
-                    <ul class="navbar-nav gap-2 gap-lg-3 gap-xxl-8  align-self-center mx-auto mt-4 mt-lg-0">
+                <ul class="navbar-nav gap-2 gap-lg-3 gap-xxl-8  align-self-center mx-auto mt-4 mt-lg-0">
+                        <li class="">
+                            <a class="dropdown-item" href="index.php">Home</a>
+
+                           
+                        </li>
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
-                                class="dropdown-toggle dropdown-nav active">home</button>
+                                class="dropdown-toggle dropdown-nav">Assets</button>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item active" href="index.html">home one</a></li>
-                                <li><a class="dropdown-item" href="index-2.html">home two</a></li>
+                                <li><a class="dropdown-item" href="forex.php">Forex</a></li>
+                                <li><a class="dropdown-item" href="stocks.php">Stocks</a></li>
+                                <li><a class="dropdown-item" href="indices.php">Indices</a></li>
+                                <li><a class="dropdown-item" href="commodities.php">Commodities</a></li>
+                                <li><a class="dropdown-item" href="Cryptocurrencies.php">Cryptocurrencies</a></li>
                             </ul>
                         </li>
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
-                                class="dropdown-toggle dropdown-nav">Markets</button>
+                                class="dropdown-toggle dropdown-nav">Trade</button>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="market.html">Markets</a></li>
-                                <li><a class="dropdown-item" href="market-details.html">Markets Details</a></li>
+                                <li><a class="dropdown-item" href="mt5-desktop.php">MT5 Desktop</a></li>
+                                <li><a class="dropdown-item" href="mt5-mobile.php">MT5 Mobile</a></li>
+                                <li><a class="dropdown-item" href="mt5-web.php">MT5 Web</a></li>
+                                <li><a class="dropdown-item" href="pamm-investor.php">PAMM Investor</a></li>
                             </ul>
                         </li>
+
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
-                                class="dropdown-toggle dropdown-nav">Company</button>
+                                class="dropdown-toggle dropdown-nav">Learn</button>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="about.html">about</a></li>
-                                <li><a class="dropdown-item" href="team.html">team</a></li>
-                                <li><a class="dropdown-item" href="team-details.html">team details</a></li>
-                                <li><a class="dropdown-item" href="blog.html">Blog</a></li>
-                                <li><a class="dropdown-item" href="blog-details.html">Blog Details</a></li>
-                                <li><a class="dropdown-item" href="careers.html">careers</a></li>
-                                <li><a class="dropdown-item" href="contact.html">contact</a></li>
+                                <li><a class="dropdown-item" href="research.php">Research</a></li>
+                                <li><a class="dropdown-item" href="note.php">Note</a></li>
                             </ul>
                         </li>
-                        <li>
-                            <a class="dropdown-item" href="education.html">Education</a>
-                        </li>
+
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
-                                class="dropdown-toggle dropdown-nav">Resources</button>
+                                class="dropdown-toggle dropdown-nav">Account</button>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="legal-docs.html">legal docs</a></li>
-                                <li><a class="dropdown-item" href="customers.html">customers</a></li>
-                                <li><a class="dropdown-item" href="roadmap.html">roadmap</a></li>
-                                <li><a class="dropdown-item" href="support.html">support</a></li>
-                                <li><a class="dropdown-item" href="terms-conditions.html">terms conditions</a></li>
-                                <li><a class="dropdown-item" href="privacy-policy.html">privacy-policy</a></li>
+                                <li><a class="dropdown-item" href="manage-your-account.php">Manage Your Account</a></li>
+                                <li><a class="dropdown-item" href="accounts-we-offer.php">Accounts We Offer</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown show-dropdown">
+                            <button type="button" aria-label="Navbar Dropdown Button"
+                                class="dropdown-toggle dropdown-nav">Partners</button>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="become-a-partner.php">Become a Partner</a></li>
+                            </ul>
+                        </li>
+
+                        <li class="dropdown show-dropdown">
+                            <button type="button" aria-label="Navbar Dropdown Button"
+                                class="dropdown-toggle dropdown-nav">About EdureFx</button>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="who-we-are.php">Who We Are</a></li>
+                                <li><a class="dropdown-item" href="legal.php">Legal</a></li>
+                                <li><a class="dropdown-item" href="our-location.php">Our Location</a></li>
+                                <li><a class="dropdown-item" href="ombudsman.php">Ombudsman</a></li>
+                                <li><a class="dropdown-item" href="contact-us.php">Contact Us</a></li>
                             </ul>
                         </li>
                     </ul>
