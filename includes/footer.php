@@ -6,7 +6,7 @@
     margin-top: 25px;
     }
     .pt-150{
-        padding-top: 100px;
+        padding-top: 220px;
     }
 </style>
     <footer class="footer a2-bg position-relative pt-15 pt-lg-0 z-0 ">
