@@ -79,6 +79,7 @@
                     <div class="apply-card nb3-bg cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                        <h3 class="mb-4">Separate Accounts</h3>
                        <p>TradersEra ensures that its client’s funds are kept in separate accounts with pre-eminent banks and completely segregated from the assets of the firm.</p>
+                       <br>
                     </div>
                 </div>
                 <div class="col-lg-6 col-xxl-6">
@@ -91,6 +92,7 @@
                     <div class="apply-card nb3-bg cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                        <h3 class="mb-4">Regulation</h3>
                        <p>TradersEra is regulated in several jurisdictions and meets all strict financial standards as per FCA ordinances, including capital adequacy requirements.</p>
+                       <br>
                     </div>
                 </div>
             </div>
