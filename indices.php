@@ -17,66 +17,71 @@
     </section>
 
     <section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
-        <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-            <img src="assets/images/coin.png" alt="vector" class="position-absolute d-none d-md-flex previewShapeRevX">
-            <img src="assets/images/star2.png" alt="vector" class="position-absolute d-none d-xl-flex push_animat">
-            <img src="assets/images/coin_vector.png" alt="vector" class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX opacity-50">
-        </div>
-        <div class="container">
-            <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
-                <div class="col-lg-6 col-xxl-5">
-                    <div class="trade_on__content">
-                        <span class="heading s1-color fs-five mb-5">Trade On Our</span>
-                        <h3 class="mb-4 mb-lg-5">World Class Platform</h3>
-                        <p class="fs-six mx-ch">Trading in financial markets involves a wide range of strategies that traders employ to make informed decisions. From trading to swing trading and long-term investing, each strategy has its own set of principles and risk factors.</p>   
-                        <ul class="d-flex gap-4 flex-column mt-6">
-                            <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Charts trading</li>
-                            <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Understanding Trading Strategies </li>
-                            <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Risk Management in Trading </li>
-                            <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Technical vs. Fundamental Analysis </li>
-                        </ul>
-                    </div>
+    <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
+        <img src="assets/images/coin.png" alt="vector" class="position-absolute d-none d-md-flex previewShapeRevX">
+        <img src="assets/images/star2.png" alt="vector" class="position-absolute d-none d-xl-flex push_animat">
+        <img src="assets/images/coin_vector.png" alt="vector"
+            class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX opacity-50">
+    </div>
+    <div class="container">
+        <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
+            <div class="col-lg-6 col-xxl-5">
+                <div class="trade_on__content">
+                    <!-- <span class="heading s1-color fs-five mb-5">Trade On Our</span> -->
+                    <h3 class="mb-4 mb-lg-5">What are Indices and Indices trading?</h3>
+                    <p class="fs-six mx-ch">An index is mostly defined as a portfolio of stocks that represent a particular market or sector. Hence, indices measure the price performance of a group of stocks of a particular sector of the stock market. Let’s consider an example for a better understanding. 
+                    </p>
+                    <br>
+                    <p class="fs-six mx-ch">The USA500 is based on the 500 largest companies weighted largely by market capitalization that are itemized on the New York Exchange or NASDAQ.</p>
+                    <br>
+                    <p class="fs-six mx-ch">Index trading helps you get complete exposure to an entire sector or market by just opening a single exposition. Indices prices fluctuate due to a range of factors such as political events, events that affect companies in a particular sector, employment statistics, etc.</p>
+                    <br>
+                    <p class="fs-six mx-ch">We at TradersEra offer traders the opportunity to trade derivatives on some major indices across global markets. Open a live account and relish benefits like lower spreads and fast order execution.</p>
                 </div>
-                <div class="col-md-8 col-lg-6">
-                    <div class="trade_on__thumbs d-flex justify-content-end">
-                        <img src="assets/images/trade_on.png" alt="Imgae">
-                    </div>
+            </div>
+            <div class="col-md-8 col-lg-6">
+                <div class="trade_on__thumbs d-flex justify-content-end">
+                    <img src="assets/images/trade_on.png" alt="Imgae">
                 </div>
             </div>
         </div>
-    </section>
+    </div>
+</section>
+
+
+
 
     <section class="provide-world pt-120 pb-120  position-relative z-0">
         <div class="container">
             <div class="row justify-content-center text-center mb-10 mb-lg-15">
                 <div class="col-md-8 col-xl-5">
-                    <h3>Apply Today</h3>
-                    <p class="mt-5">We're constantly improving our trading platform, trying to make it the best on the market.</p>
+                    <h3>Why Trade Indices with TradersEra?</h3>
                 </div>
             </div>
             <div class="row gy-6">
                 <div class="col-lg-6 col-xxl-6">
                     <div class="apply-card nb3-bg cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                       <h3 class="mb-4">Software Developer</h3>
-                       <p>Trading doesn't have to be a solitary adventure. Join online trading communities, forums, and social media groups to connect with experienced traders, share insights, and learn from others.</p>
+                       <h3 class="mb-4">Lower Transaction Costs</h3>
+                       <p>Trade commission free with no exchange fees. Start index trading with us.</p>
+                       <br>
                     </div>
                 </div>
                 <div class="col-lg-6 col-xxl-6">
                     <div class="apply-card nb3-bg cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                       <h3 class="mb-4">Flutter Developer</h3>
-                       <p>Trading doesn't have to be a solitary adventure. Join online trading communities, forums, and social media groups to connect with experienced traders, share insights, and learn from others.</p>
+                       <h3 class="mb-4">Enhanced Execution</h3>
+                       <p>Trade indices without minimum stop distances on most products with TradersEra.</p>
                     </div>
                 </div>
                 <div class="col-lg-6 col-xxl-6">
                     <div class="apply-card nb3-bg cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                       <h3 class="mb-4">Crypto marketer</h3>
-                       <p>Trading doesn't have to be a solitary adventure. Join online trading communities, forums, and social media groups to connect with experienced traders, share insights, and learn from others.</p>
+                       <h3 class="mb-4">Transparency</h3>
+                       <p>TradersEra’s performance statistics, requote, slippage, and order executions are regularly checked by PwC to ensure 100% genuinity and transparency.</p>
                     </div>
                 </div>
                 <div class="col-lg-6 col-xxl-6">
                     <div class="apply-card nb3-bg cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                       <h3 class="mb-4">Data Analysist</h3>
-                       <p>Trading doesn't have to be a solitary adventure. Join online trading communities, forums, and social media groups to connect with experienced traders, share insights, and learn from others.</p>
+                       <h3 class="mb-4">Safe & Secure Funds</h3>
+                       <p>EdureFX makes sure that all your funds are kept in segregated accounts with top-tier banks. Your funds are also kept separate from the firm’s assets.</p>
                     </div>
                 </div>
             </div>
@@ -88,8 +93,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-8 col-xxl-6">
                     <div class="heading__content mb-10 mb-lg-15 text-center">
-                        <h3 class="mb-5 mb-lg-6">Powered by a Fusion of Experts and Learners</h3>
-                        <p class="fs-six mx-ch mx-auto">We've already helped hundreds of innovative companies succeed at becoming of sensitive data. And we're just getting started.</p>
+                        <h3 class="mb-5 mb-lg-6">Get Started with Us!</h3>
                     </div>
                 </div>
             </div>
@@ -99,8 +103,7 @@
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                             <i class="ti ti-brand-apple-arcade fs-three p1-color"></i>
                         </span>
-                       <h4 class="mt-5 mb-5">Apply</h4>
-                       <p>Trading is not without its challenges, as markets can be highly volatile and unpredictable. It requires discipline</p>
+                       <p>Register yourself and open a Live account by submitting the online application.</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-xxl-4">
@@ -108,8 +111,7 @@
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                             <i class="ti ti-users fs-three p1-color"></i>
                         </span>
-                       <h4 class="mt-5 mb-5">Interview</h4>
-                       <p>Trading is not without its challenges, as markets can be highly volatile and unpredictable. It requires discipline</p>
+                       <p>Fund your chosen account type and place your first trade.</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-xxl-4">
@@ -117,8 +119,7 @@
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                             <i class="ti ti-wash-dry-hang fs-three p1-color"></i>
                         </span>
-                       <h4 class="mt-5 mb-5">Assessment</h4>
-                       <p>Trading is not without its challenges, as markets can be highly volatile and unpredictable. It requires discipline</p>
+                       <p>Explore our indices offering in the most preferred MT5 trading platform.</p>
                     </div>
                 </div>
             </div>
