@@ -144,10 +144,6 @@
                         </li>
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
-                                class="dropdown-toggle dropdown-nav"><a class="dropdown-item" href="contact.php">Contact</a></button>
-                        </li>
-                        <li class="dropdown show-dropdown">
-                            <button type="button" aria-label="Navbar Dropdown Button"
                                 class="dropdown-toggle dropdown-nav"><a class="dropdown-item" href="blog.php">Blog</a></button>
                         </li>
 
