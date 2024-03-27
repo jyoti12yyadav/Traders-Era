@@ -3,11 +3,11 @@
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
             <div class="col-12 breadcrumb-area ">
-                <h2 class="mb-4">Education</h2>
+                <h2 class="mb-4">TradersEra</h2>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb mb-0">
                         <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                        <li class="breadcrumb-item ms-2 ps-7 active" aria-current="page"><span>Education</span></li>
+                        <li class="breadcrumb-item ms-2 ps-7 active" aria-current="page"><span>TradersEra</span></li>
                     </ol>
                 </nav>
             </div>
@@ -30,11 +30,11 @@
             </div>
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
-                    <span class="heading p1-color fs-six mb-5">Trader Academy</span>
-                    <h4 class="mb-4 mb-lg-5">Investing in Knowledge A Wise Choice for Success</h4>
-                    <p class="mx-ch">Knowledge empowers individuals to make informed decisions. Whether it's in personal
-                        finance, career choices, or everyday life navigate challenges with confidence.</p>
-                    <div class="d-flex gap-3 align-items-center mt-5 mt-lg-6"> <span
+                    <!-- <span class="heading p1-color fs-six mb-5">Trader Academy</span> -->
+                    <h4 class="mb-4 mb-lg-5">TradersEra</h4>
+                    <p class="mx-ch">Welcome to TradersEra , your premier forex and commodities broker. We provide transparent access to global markets, offer the dominant MT5 trading platform, ensure lightning-fast execution, and deliver dedicated technical support. Trade under optimal conditions with us, featuring competitive spreads, deep liquidity, and tailored trading options. Join TradersEra today and pursue your financial goals with confidence.
+</p>
+                    <!-- <div class="d-flex gap-3 align-items-center mt-5 mt-lg-6"> <span
                             class="s1-bg py-1 px-2 rounded-4 fs-seven nb4-color">Learn</span><i
                             class="ti ti-arrow-narrow-right p1-color fs-four"></i><span
                             class="s1-bg py-1 px-2 rounded-4 fs-seven nb4-color ms-1">Understand</span><i
@@ -43,7 +43,7 @@
                     <a href="signup.html"
                         class="cmn-btn fs-six-up nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-4 py-lg-3 px-lg-5 mt-7 mt-xxl-8">Start
                         Learning <i class="ti ti-arrow-right fs-four"></i></a>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>

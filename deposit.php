@@ -34,7 +34,7 @@
                 <div class="row ms-xl-3 ms-xxl-10">
                     <div class="col-xxl-12">
                         <div class="company-story__part">
-                          
+
                             <h3 class="mb-3 mt-5">Easy Deposits and Friendly Support</h3>
                             <p>
                                 ﻿At TradersEra, we have made depositing funds a breeze! With our consumer friendly
@@ -46,7 +46,7 @@
                     </div>
                     <div class="col-xxl-12 mt-8 mt-md-10 mt-xxl-13">
                         <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
-                           
+
                             <div class="content">
                                 <h3 class="mb-3">Your Easy Deposit Experience Starts Here</h3>
                                 <p>We're usually looking for new approaches to make depositing even easier for you!

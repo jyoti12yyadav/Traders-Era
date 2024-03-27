@@ -1,18 +1,17 @@
-
-    <!-- Footer Section Starts -->
+<!-- Footer Section Starts -->
 <style>
-    .social-area{
+    .social-area {
         margin-left: -65px;
-    margin-top: 25px;
+        margin-top: 25px;
     }
 </style>
-    <footer class="footer a2-bg position-relative pt-15 pt-lg-0 z-0 ">
-        <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1 d-none d-xxxl-flex">
-            <img src="assets/images/vector.png" alt="vector" class="position-absolute jello">
-            <img src="assets/images/vector4.png" alt="vector" class="position-absolute bottom-0 end-0">
-        </div>
-        <div class="container">
-             <!-- <div class="start-earning nb3-bg cus-rounded-2 d-flex align-items-center p-4 p-sm-6 p-md-10 p-lg-15 p-xl-20 pe-lg-6 pe-xl-16 overflow-hidden position-relative">
+<footer class="footer a2-bg position-relative pt-15 pt-lg-0 z-0 ">
+    <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1 d-none d-xxxl-flex">
+        <img src="assets/images/vector.png" alt="vector" class="position-absolute jello">
+        <img src="assets/images/vector4.png" alt="vector" class="position-absolute bottom-0 end-0">
+    </div>
+    <div class="container">
+        <!-- <div class="start-earning nb3-bg cus-rounded-2 d-flex align-items-center p-4 p-sm-6 p-md-10 p-lg-15 p-xl-20 pe-lg-6 pe-xl-16 overflow-hidden position-relative">
                 <div class="vector_effect position-absolute d-center justify-content-end end-0  d-flex gap-20">
                     <img src="assets/images/star2.png" alt="vector" class="d-none d-xxl-flex push_animat">
                     <img src="assets/images/star_focus.png" alt="vector" class="d-none d-sm-flex rotate time_dur ms-auto ms-lg-0 me-md-5">
@@ -27,207 +26,147 @@
                     </div>
                 </div>
             </div>  -->
-            
-            <div class="row gy-8 gy-sm-12 gy-lg-0 pt-120 pb-120" >
-      <div class="col-6 col-lg-3">
-            
 
-                    <div class="footer__part">
-                        
-                        <a href="index.html" class="navbar-brand m-0 p-0 d-flex align-items-center gap-5 gap-xl-5 me-2">
-                            <img src="assets/images/fav.png" class="logo small_logo d-sm-none" alt="logo">
-                            <img src="assets/images/logo.png" class="logo d-none d-sm-flex" alt="logo">
-                        </a>
+        <div class="row gy-8 gy-sm-12 gy-lg-0 pt-120 ">
+            <div class="col-6 col-lg-3">
+
+
+                <div class="footer__part">
+
+                    <a href="index.html" class="navbar-brand m-0 p-0 d-flex align-items-center gap-5 gap-xl-5 me-2">
+                        <img src="assets/images/fav.png" class="logo small_logo d-sm-none" alt="logo">
+                        <img src="assets/images/logo.png" class="logo d-none d-sm-flex" alt="logo">
+                    </a>
                     <ul class="social-area d-center gap-2 gap-md-3">
-                            <li>
-                                <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-facebook"></i></a>
-                            </li>
-                            <li>
-                                <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-twitch"></i></a>
-                            </li>
-                            <li>
-                                <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-instagram"></i></a>
-                            </li>
-                            <li>
-                                <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-discord-filled"></i></a>
-                            </li>
-                            <li>
-                                <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-youtube"></i></a>
-                            </li>
-                        </ul>
-                    </div>
+                        <li>
+                            <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-facebook"></i></a>
+                        </li>
+                        <li>
+                            <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-twitch"></i></a>
+                        </li>
+                        <li>
+                            <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-instagram"></i></a>
+                        </li>
+                        <li>
+                            <a class="d-center cus-rounded-1 fs-four" href="#"><i
+                                    class="ti ti-brand-discord-filled"></i></a>
+                        </li>
+                        <li>
+                            <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-youtube"></i></a>
+                        </li>
+                    </ul>
                 </div>
+            </div>
 
 
-                <div class="col-6 col-lg-3">
-                    <div class="footer__part">
-                        <h4 class="mb-6 mb-lg-8">Assets</h4>
-                        <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
-                            <li>
-                                <a class="n2-color d-flex align-items-center" href="market.html">Forex</a>
-                            </li>
-                            <li>
-                                <a class="n2-color" href="stocks.php">Stocks</a>
-                            </li>
-                            <li>
-                                <a class="n2-color" href="indices.php">Indices</a>
-                            </li>
-                            <li>
-                                <a class="n2-color" href="commodities.php">Commodities</a>
-                            </li>
-                            <li>
-                                <a class="n2-color" href="Cryptocurrencies.php">Cryptocurrencies</a>
-                            </li>
-                         
-                        </ul>
-                    </div>
+            <div class="col-6 col-lg-2">
+                <div class="footer__part">
+                    <h4 class="mb-6 mb-lg-8">Trading</h4>
+                    <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
+                        <li>
+                            <a class="n2-color d-flex align-items-center" href="market.html">Account Types</a>
+                        </li>
+                        <li>
+                            <a class="n2-color" href="stocks.php">Deposite</a>
+                        </li>
+                        <li>
+                            <a class="n2-color" href="indices.php">Withdrawal</a>
+                        </li>
+                        <li>
+                            <a class="n2-color" href="commodities.php">Offers</a>
+                        </li>
+                        <li>
+                            <a class="n2-color" href="Cryptocurrencies.php">Contests</a>
+                        </li>
+
+                    </ul>
                 </div>
-                <div class="col-6 col-lg-3">
-                    <div class="footer__part">
-                        <h4 class="mb-6 mb-lg-8">Trade</h4>
-                        <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
-                            <li>
-                                <a class="n2-color" href="mt5-desktop.php">MT5 Desktop</a>
-                            </li>
-                            <li>
-                                <a class="n2-color" href="mt5-mobile.php">MT5 Mobile</a>
-                            </li>
-                            <li>
-                                <a class="n2-color" href="mt5-web.php">MT5 Web</a>
-                            </li>
-                            <li>
-                                <a class="n2-color" href="pamm-investor">PAMM Investor</a>
-                            </li>
-                        </ul>
-                    </div>
+            </div>
+            <div class="col-6 col-lg-2">
+                <div class="footer__part">
+                    <h4 class="mb-6 mb-lg-8">Markets</h4>
+                    <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
+                        <li>
+                            <a class="n2-color" href="mt5-desktop.php">Crypto</a>
+                        </li>
+                        <li>
+                            <a class="n2-color" href="mt5-mobile.php">Indices</a>
+                        </li>
+                        <li>
+                            <a class="n2-color" href="mt5-web.php">Stocks</a>
+                        </li>
+                        <li>
+                            <a class="n2-color" href="pamm-investor">Forex</a>
+                        </li>
+                        <li>
+                            <a class="n2-color" href="pamm-investor">Commodity</a>
+                        </li>
+                    </ul>
                 </div>
-           
+            </div>
+
+            
 
 
-                <div class="col-6 col-lg-3">
-                    <div class="footer__part">
-                        <h4 class="mb-6 mb-lg-8">Learn</h4>
-                        <h6 class="mb-6 mb-lg-8">Research</h6>
-                        <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
-                            <li>
-                                <a class="n2-color" href="economic-calendar.php">Economic Calendar</a>
-                            </li>
-                            <li>
-                                <a class="n2-color" href="calculators.php">Calculators</a>
-                            </li>
-                            <h6 class="mb-6 mb-lg-8">Note</h6>
-                            
-                            <li>
-                                <a class="n2-color" href="faqs.php">FAQ’s</a>
-                            </li>
-                            <li>
-                                <a class="n2-color" href="Glossary.php">Glossary</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
 
-                <div class="col-6 col-lg-3">
-                    <div class="footer__part">
-                        <h4 class="mb-6 mb-lg-8">Account</h4>
-                        <h6 class="mb-6 mb-lg-8">Manage Your Account</h6>
-                        <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
-                            <li>
-                                <a class="n2-color" href="deposit.php">Deposit</a>
-                            </li>
-                            <li>
-                                <a class="n2-color" href="withdrawal.php">Withdrawal</a>
-                            </li>
-                           
-                            
-                            <li>
-                                <a class="n2-color" href="trader-room.php">Trader Room</a>
-                            </li>
-                            
-                        </ul>
-                    </div>
-                </div>
+<div class="col-6 col-lg-2">
+    <div class="footer__part">
+        <h4 class="mb-6 mb-lg-8">Tools</h4>
 
-                <div class="col-6 col-lg-3">
-                    <div class="footer__part">
-                       
-                        <h6 class="mb-6 mb-lg-8">Accounts We Offer</h6>
-                        <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
-                            <li>
-                                <a class="n2-color" href="mini-account.php">Mini Account</a>
-                            </li>
-                            <li>
-                                <a class="n2-color" href="standard-account.php">Standard Account</a>
-                            </li>
-                           
-                            <li>
-                                <a class="n2-color" href="premium-account.php">Premium Account</a>
-                            </li>
-                            <li>
-                                <a class="n2-color" href="investor-account.php">Investor Account</a>
-                            </li>
-                            <li>
-                                <a class="n2-color" href="zero-spread-account.php">Zero Spread Account</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-
-                <div class="col-6 col-lg-3">
-                    <div class="footer__part">
-                        <h4 class="mb-6 mb-lg-8">Partners</h4>
-                        <h6 class="mb-6 mb-lg-8">Become a Partner</h6>
-                        <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
-                            <li>
-                                <a class="n2-color" href="refer-a-friend.php">Refer A Friend</a>
-                            </li>
-                            <li>
-                                <a class="n2-color" href="country-representative.php">Country Representative</a>
-                            </li>
-                            
-                            <li>
-                                <a class="n2-color" href="whitelabel.php">Whitelabel</a>
-                            </li>
-                            <li>
-                                <a class="n2-color" href="money-manager.php">Money Manager</a>
-                            </li>
-                            <li>
-                                <a class="n2-color" href="IB.php">IB</a>
-                            </li>
-                         
-                        </ul>
-                    </div>
-                </div>
+        <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
+            <li>
+                <a class="n2-color" href="economic-calendar.php">Economic Calendar</a>
+            </li>
+            <li>
+                <a class="n2-color" href="calculators.php">News & Research</a>
+            </li>
 
 
-                
-                <div class="col-6 col-lg-3">
-                    <div class="footer__part">
-                        <h4 class="mb-6 mb-lg-8">About Endurefx</h4>
-                 
-                        <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
-                            <li>
-                                <a class="n2-color" href="who-we-are.php">Who We Are</a>
-                            </li>
-                            <li>
-                                <a class="n2-color" href="legal.php">Legal</a>
-                            </li>
-                            
-                            <li>
-                                <a class="n2-color" href="our-location.php">Our Location</a>
-                            </li>
-                            <li>
-                                <a class="n2-color" href="ombudsman.php">Ombudsman</a>
-                            </li>
-                            <li>
-                                <a class="n2-color" href="contact-us.php">Contact Us</a>
-                            </li>
-                         
-                        </ul>
-                    </div>
-                </div>
+            <li>
+                <a class="n2-color" href="faqs.php">Academy</a>
+            </li>
 
-                <!-- <div class="col-6 col-lg-3">
+        </ul>
+        <h4 class="mb-6 mb-lg-8 mt-4">Partners</h4>
+
+        <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4 mb-4">
+            <li>
+                <a class="n2-color" href="deposit.php">Become An IB</a>
+            </li>
+            <li>
+                <a class="n2-color" href="withdrawal.php">FAQ</a>
+            </li>
+
+
+        </ul>
+    </div>
+</div>
+
+<div class="col-6 col-lg-2">
+    <div class="footer__part">
+
+        <h4 class="mb-6 mb-lg-8">About Us</h4>
+        <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
+            <li>
+                <a class="n2-color" href="mini-account.php">Tradersera</a>
+            </li>
+            <li>
+                <a class="n2-color" href="standard-account.php">Safety of Funds</a>
+            </li>
+
+            <li>
+                <a class="n2-color" href="premium-account.php">Regulatory</a>
+            </li>
+            <li>
+                <a class="n2-color" href="investor-account.php">Help Center</a>
+            </li>
+
+        </ul>
+    </div>
+</div>
+
+
+            <!-- <div class="col-6 col-lg-3">
                     <div class="footer__part">
                         <h4 class="mb-6 mb-lg-8">Contact Us</h4>
                         <div class="d-flex flex-column gap-2 gap-sm-3 gap-md-4">
@@ -235,66 +174,91 @@
                             <a href="tel:+123456789">+0123 456 789</a>
                         </div>
                     </div>
-                </div> -->
-            </div>
+                </div> 
+            </div> -->
 
 
 
-            
+
 
 
             <div class="row">
                 <div class="col-12 border-top border-color opac-20 py-7 py-xxl-8">
                     <div class="footer__copyright d-center gap-15 flex-wrap justify-content-md-between">
-                        <p class="fs-six order-2 order-md-0 text-center text-md-start">Copyright ©<span class="currentYear"></span> Tradez <span>|</span> Designed By <a href="https://themeforest.net/user/uiaxis" class="p1-color"> UIAXIS</a> </p>
-                      
+                        <p class="fs-six order-2 order-md-0 text-center text-md-start">Copyright ©<span
+                                class="currentYear"></span> Tradez <span>|</span> Designed By <a
+                                href="https://themeforest.net/user/uiaxis" class="p1-color"> UIAXIS</a> </p>
+
                         <ul class=" d-center gap-2 gap-md-3">
-                        <li>
+                            <li>
                                 <a class="n2-color" href="terms-condition.php">Terms & Conditions</a>
                             </li>
                             <li>
                                 <a class="n2-color" href="risk-disclaimer.php">Risk Disclaimer</a>
                             </li>
-                            
+
                             <li>
                                 <a class="n2-color" href="privacy-policy.php">Privacy Policy</a>
                             </li>
                             <li>
                                 <a class="n2-color" href="aml-kyc.php">AML & KYC Policy</a>
                             </li>
-                         
+
                         </ul>
-                      
-                      
+
+
                         <ul class="social-area d-center gap-2 gap-md-3">
                             <li>
-                                <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-facebook"></i></a>
+                                <a class="d-center cus-rounded-1 fs-four" href="#"><i
+                                        class="ti ti-brand-facebook"></i></a>
                             </li>
                             <li>
-                                <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-twitch"></i></a>
+                                <a class="d-center cus-rounded-1 fs-four" href="#"><i
+                                        class="ti ti-brand-twitch"></i></a>
                             </li>
                             <li>
-                                <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-instagram"></i></a>
+                                <a class="d-center cus-rounded-1 fs-four" href="#"><i
+                                        class="ti ti-brand-instagram"></i></a>
                             </li>
                             <li>
-                                <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-discord-filled"></i></a>
+                                <a class="d-center cus-rounded-1 fs-four" href="#"><i
+                                        class="ti ti-brand-discord-filled"></i></a>
                             </li>
                             <li>
-                                <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-youtube"></i></a>
+                                <a class="d-center cus-rounded-1 fs-four" href="#"><i
+                                        class="ti ti-brand-youtube"></i></a>
                             </li>
                         </ul>
                     </div>
                 </div>
             </div>
         </div>
-    </footer>
-    <!-- Footer Section Ends -->
-    <!-- ==== js dependencies start ==== -->
-    <script data-cfasync="false" src="assets/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/js/plugins/plugins.js"></script>
-    <script src="assets/js/plugins/plugin-custom.js"></script>
-    <script src="assets/js/main.js"></script>
+</footer>
+<!-- Footer Section Ends -->
+<!-- ==== js dependencies start ==== -->
+<script data-cfasync="false" src="assets/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+<script src="assets/js/plugins/plugins.js"></script>
+<script src="assets/js/plugins/plugin-custom.js"></script>
+<script src="assets/js/main.js"></script>
 </body>
 
 
 <!-- Mirrored from pixner.net/tradez/main/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 16 Jan 2024 07:19:07 GMT -->
+
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

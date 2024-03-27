@@ -94,6 +94,7 @@
                     <p>TradersEra utilises enterprise-level hardware on its trade servers to ensure the lowest latency
                         and fastest trade execution only for you.
                     </p>
+                    <br>
                 </div>
             </div>
             <div class="col-lg-6 col-xxl-6">

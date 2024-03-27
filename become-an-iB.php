@@ -19,6 +19,7 @@
 <section class="market-details pt-120 pb-120 position-relative z-0">
     <div class="container">
         <div class="row justify-content-center">
+        <h2 class="d-flex justify-content-center mb-10">Become An IB</h2>
             <div class="col-lg-10">
                 <div class="market-details__card">
                     <div class="market-details__thumbs position-relative">
