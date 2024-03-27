@@ -102,8 +102,17 @@ a.slide_btn {
     right: 50px;
   }
 }
-
-
+.fs-three, h3, h3>a{
+    font-size: 22px;
+}
+.company-story__part{
+    border: solid 1px white;
+    padding: 30px;
+    border-radius: 19px;
+}
+.p1-xxl-bg2{
+    background-color: #f5c06d;
+}
 </style>
 <div class="slider">
     <div class="slide_viewer">
@@ -117,15 +126,13 @@ a.slide_btn {
                 <div class="col-lg-6 col-xxl-7">
                     <div class="hero-card p1-xxl-bg pt-xl-20 pb-xl-20 position-relative">
                         <div class="pt-xxl-10 pb-xxl-10">
-                            <div class="circle-text first d-center cus-z1 position-absolute end-0 top-0 d-none d-xxl-flex  me-lg-10 mt-lg-10">
-                                <div class="text d-center">
-                                    <p class="fs-six"><span style="transform:rotate(0deg)">T</span><span style="transform:rotate(12deg)">r</span><span style="transform:rotate(24deg)">a</span><span style="transform:rotate(36deg)">d</span><span style="transform:rotate(48deg)">i</span><span style="transform:rotate(60deg)">n</span><span style="transform:rotate(72deg)">g</span><span style="transform:rotate(84deg)"> </span><span style="transform:rotate(96deg)">U</span><span style="transform:rotate(108deg)">n</span><span style="transform:rotate(120deg)">l</span><span style="transform:rotate(132deg)">o</span><span style="transform:rotate(144deg)">c</span><span style="transform:rotate(156deg)">k</span><span style="transform:rotate(168deg)">i</span><span style="transform:rotate(180deg)">n</span><span style="transform:rotate(192deg)">g</span><span style="transform:rotate(204deg)"> </span><span style="transform:rotate(216deg)">D</span><span style="transform:rotate(228deg)">i</span><span style="transform:rotate(240deg)">v</span><span style="transform:rotate(252deg)">e</span><span style="transform:rotate(264deg)">r</span><span style="transform:rotate(276deg)">s</span><span style="transform:rotate(288deg)">i</span><span style="transform:rotate(300deg)">f</span><span style="transform:rotate(312deg)">i</span><span style="transform:rotate(324deg)">e</span><span style="transform:rotate(336deg)">d</span></p>
-                                </div>
-                                <img src="assets/images/circle_star.png" alt="star" class="push_animat">
+                            <div class="first d-center cus-z1 position-absolute end-0 top-0 d-none d-xxl-flex  me-lg-10 mt-lg-10">
+                                
+                              
                             </div>
-                            <span class="heading p1-max-xxl nb4-xxl-color fs-five mb-3">Trading platforms </span>
-                            <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Trade Abundance</h1>
-                            <p class="fs-six-up fw_500 nb4-xxl-color">Covesting allows you to automatically copy top performing traders and achieve the returns</p>
+                            <span class="heading p1-max-xxl nb4-xxl-color fs-five mb-3">Master the Markets</span>
+                            <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Trade Smart with TradingEra</h1>
+                            <p class="fs-six-up fw_500 nb4-xxl-color">TradingEra helps you trade smarter with tools and insights, making navigating financial markets easier.</p>
                             <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8 mt-lg-10">
                                 <a href="signup.html" class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6">Start Trading <i class="ti ti-trending-up"></i></a>
                                 <a href="signin.html" class="cmn-btn link link-xxl-color fs-five  gap-2 gap-lg-3 align-items-center "><i class="ti ti-arrow-narrow-right fs-four"></i> Try demo account</a>
@@ -159,49 +166,51 @@ a.slide_btn {
             </div>
         </div>
         </div>
-        <div class="slide hero-section--secondary">
-            <div class="container pt-20 mt-20">
-                <div class="row pt-4 pt-lg-10 gy-12 gy-lg-0 justify-content-center align-items-center">
-                    <div class="col-lg-10 col-xxl-7">
-                        <div class="hero-content text-center">
-                            <h1 class="display-two mb-10 mb-lg-15">"Trading Expansion"</h1>
-                            <div class="d-center flex-wrap gap-4 gap-lg-10">
-                                <a href="signup.html" class="cmn-btn secondary-alt fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6" style="--top: 38.609375px; --left: 209.25px;">Start Trading <i class="ti ti-trending-up"></i></a>
-                                <a href="signin.html" class="cmn-btn link  fs-five  gap-2 gap-lg-3 align-items-center " style="--top: 5.609375px; --left: 3.9375px;"><i class="ti ti-arrow-narrow-right"></i> Try demo account</a>
-                            </div>
-                        </div>
-                        <div class="circle-text first d-center cus-z1 position-absolute d-none d-xxxl-flex">
-                            <div class="text d-center">
-                                <p class="fs-six"><span style="transform:rotate(0deg)">T</span><span style="transform:rotate(12deg)">r</span><span style="transform:rotate(24deg)">a</span><span style="transform:rotate(36deg)">d</span><span style="transform:rotate(48deg)">i</span><span style="transform:rotate(60deg)">n</span><span style="transform:rotate(72deg)">g</span><span style="transform:rotate(84deg)"> </span><span style="transform:rotate(96deg)">U</span><span style="transform:rotate(108deg)">n</span><span style="transform:rotate(120deg)">l</span><span style="transform:rotate(132deg)">o</span><span style="transform:rotate(144deg)">c</span><span style="transform:rotate(156deg)">k</span><span style="transform:rotate(168deg)">i</span><span style="transform:rotate(180deg)">n</span><span style="transform:rotate(192deg)">g</span><span style="transform:rotate(204deg)"> </span><span style="transform:rotate(216deg)">D</span><span style="transform:rotate(228deg)">i</span><span style="transform:rotate(240deg)">v</span><span style="transform:rotate(252deg)">e</span><span style="transform:rotate(264deg)">r</span><span style="transform:rotate(276deg)">s</span><span style="transform:rotate(288deg)">i</span><span style="transform:rotate(300deg)">f</span><span style="transform:rotate(312deg)">i</span><span style="transform:rotate(324deg)">e</span><span style="transform:rotate(336deg)">d</span></p>
-                            </div>
-                            <img src="assets/images/circle_star2.png" alt="star" class="push_animat">
-                        </div>
-                        <div class="circle-text first d-center cus-z1 position-absolute end-0 top-0 d-none d-xxl-flex  pe-lg-10 pt-lg-10">
-                            
-                        </div>
-                    </div>
-                </div>
-                <div class="row justify-content-center">
-                    <div class="col-sm-7 col-lg-5 col-xxl-4">
-                        <div class="hero-video-area pseudo_element_before mb-10 mx-auto ms-auto ms-md-10 ms-lg-20 mt-8 mt-lg-10 justify-content-center justify-content-sm-end">
-                            <img src="assets/images/hero_video.png" alt="image">
-                           
-                            <div class="video_content position-absolute end-0 bottom-0 d-flex gap-3 z-1 ps-4">
-                                <a href="https://www.youtube.com/watch?v=BHACKCNDMW8" class="popup-video small box_10 btn-popup-animation position-absolute d-center rounded-circle">
-                                    <i class="fa-solid fa-play fs-four"></i>
-                                </a>
-                                <span class="ms-14">Let’s See how we did it</span>
+        <div class="slide hero-section--secondary hero-section2 position-relative z-0 ">
+            <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
+                <img src="assets/images/hero_vector.png" alt="vector" class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX">
+            </div>
+            <div class="container pt-20 mt-12 mt-lg-20">
+                <div class="row pt-4 pt-lg-10 gy-12 gy-lg-0 justify-content-center justify-content-lg-between align-items-center">
+                    <div class="col-lg-6 col-xxl-7">
+                        <div class="hero-card p1-xxl-bg2 pt-xl-20 pb-xl-20 position-relative">
+                            <div class="pt-xxl-10 pb-xxl-10">
+                                <div class=" first d-center cus-z1 position-absolute end-0 top-0 d-none d-xxl-flex  me-lg-10 mt-lg-10">
+                                 
+                                </div>
+                                <span class="heading p1-max-xxl nb4-xxl-color fs-five mb-3">Empower Your Trades</span>
+                                <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Maximize Your Potential with TradingEra</h1>
+                                <p class="fs-six-up fw_500 nb4-xxl-color">Trade smarter with TradingEra's insights, maximizing your financial potential.</p>
+                                <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8 mt-lg-10">
+                                    <a href="signup.html" class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6">Start Trading <i class="ti ti-trending-up"></i></a>
+                                    <a href="signin.html" class="cmn-btn link link-xxl-color fs-five  gap-2 gap-lg-3 align-items-center "><i class="ti ti-arrow-narrow-right fs-four"></i> Try demo account</a>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-5 col-lg-5 col-xxl-8 d-none d-md-flex">
-                        <div class="vector_thumbs position-relative z-0 ms-4 pt-8 pt-lg-10">
-                            <img src="assets/images/hero_mobile.png" class=" ms-8 ms-lg-15" alt="image">
-                            <div class="position-absolute z-n1 start-0 top-0">
-                                <img src="assets/images/hero_mobile_star.png" alt="image" class="rotate time_dur">
-                            </div>
+                    <div class="col-sm-10 col-lg-6 col-xxl-5">
+                        <div class="hero-section__thumbs pb-xxl-10">
+                            <img src="assets/images/hero_thumb.png" class="max-auto max-xxl-un" alt="img">
                         </div>
                     </div>
+                    <ul class="list_items col-12 d-flex row-gap-6 gap-lg-15 justify-content-between flex-wrap pt-2 pt-lg-15 pt-xl-2 pt-xxl-15 pb-15">
+                        <li class="d-flex gap-3 align-items-center">
+                            <span class="d-center s1-bg p-3 p-lg-4 rounded-circle"><i class="ti ti-tools fs-three nb4-color"></i></span>
+                            <h4 class="nw1-color">Enhanced Tools</h4>
+                        </li>
+                        <li class="d-flex gap-3 align-items-center">
+                            <span class="d-center s1-bg p-3 p-lg-4 rounded-circle"><i class="ti ti-trending-up fs-three nb4-color"></i></span>
+                            <h4 class="nw1-color">Trading Guides</h4>
+                        </li>
+                        <li class="d-flex gap-3 align-items-center">
+                            <span class="d-center s1-bg p-3 p-lg-4 rounded-circle"><i class="ti ti-broadcast fs-three nb4-color"></i></span>
+                            <h4 class="nw1-color">Fast Execution</h4>
+                        </li>
+                        <li class="d-flex gap-3 align-items-center">
+                            <span class="d-center s1-bg p-3 p-lg-4 rounded-circle"><i class="ti ti-percentage fs-three nb4-color"></i></span>
+                            <h4 class="nw1-color">0% Commission</h4>
+                        </li>
+                    </ul>
                 </div>
             </div>
         </div>
@@ -215,37 +224,133 @@ a.slide_btn {
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 
     <!-- Why Trade start-->
-    <section class="why-trade s1-bg alt-color position-relative z-0">
-        <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-            <img src="assets/images/sun.png" alt="vector" class="position-absolute push_animat">
-            <img src="assets/images/star.png" alt="vector" class="position-absolute  d-xxxl-flex previewSkew">
-        </div>
+
+    <!-- Why Trade end -->   
+
+    <!--provide-world start-->
+
+    <!-- provide-world end -->   
+
+    <!--Trade On start-->
+    <section class="company-story position-relative z-0  pt-120 pb-120 ">
+       
         <div class="container">
-            <div class="row gy-3 gy-lg-0 justify-content-center">
-                <div class="col-sm-7 col-lg-6 col-xxl-5 order-2 order-lg-0">
-                    <div class="why-trade__thumbs h-100 d-flex align-items-end ps-20 ps-sm-5 ps-lg-0">
-                        <img src="assets/images/why_trade.png" alt="Imgae">
+            <div class="row justify-content-center">
+                <div class="col-lg-8 col-xxl-7">
+                    <div class="heading__content mb-10 mb-lg-15 text-center">
+                        <span class="heading p1-color fs-five mb-5">Global Trust, Unbeatable Rates</span>
+                        <h2 class="mb-5 mb-lg-6">Why Traders Choose TradersEra</h2>
                     </div>
                 </div>
-                <div class="col-lg-6 col-xxl-7">
-                    <div class="row pt-120 pb-120">
-                        <div class="col-xxl-6 offset-xxl-2">
-                            <div class="why-trade__part">
-                                <span class="heading fs-five">Reasons to select</span>
-                                <h3 class="mb-3">TradersEra</h3>
-                                <p>Trustworthy, readily available resources, expertise, and assistance at all times.</p>
-                                <br><br>
+            </div>
+            <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
+                
+                <div class="col-sm-10 col-lg-6 col-xxl-5  order-2 order-lg-0">
+                    <div class="row d-flex justify-content-end">
+                        <div class="col-xxl-12">
+                            <div class="company-story__part">
+                                <div class="row">
+                                    <div class="col-lg-2 d-flex align-items-center">
+                                        <img src="assets/images/icon/seesaw.png" alt="">
+                                    </div>
+                                    <div class="col-lg-10 d-flex align-items-center">
+                                        <div class="row">
+                                            <h3 class="">CRYPTO AND FX LEVERAGE</h3>
+                                            
+                                    <span>1:500</span>
+                                        </div>
+                                        
+                                    </div>
+                                </div>
                             </div>  
                         </div>  
-                        <div class="col-xxl-12 mt-7 mt-md-8 mt-xxl-3">
-                            <div class="why-trade__part d-flex align-items-center">
-                                <div class="vector d-none d-xxl-flex px-xxl-15">
-                                    <img src="assets/images/trade_vector.png" alt="Image" class="max-xxl-un">
+                        <div class="col-xxl-12 mt-8 mt-md-10 mt-xxl-13">
+                            <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
+                                <div class="row">
+                                    <div class="col-lg-2 d-flex align-items-center">
+                                        <img src="assets/images/icon/download.png" alt="">
+                                    </div>
+                                    <div class="col-lg-10 d-flex align-items-center">
+                                        <div class="row">
+                                            <h3 class="">NO DOWNLOADS REQUIRED</h3>
+                                            
+                                    <span>Our web-based platform supports all operating systems.</span>
+                                        </div>
+                                        
+                                    </div>
                                 </div>
-                                <div class="content">
-                                <span class="heading fs-five">Reasons to select</span>
-                                    <h3 class="mb-3">Trade Apex</h3>
-                                    <p>TradersEra stands out as a trustworthy and reliable choice due to its proven track record of expertise in the trading industry. With a reputation built on transparency, integrity, and a team of seasoned professionals, TradersEra ensures clients' investments are managed with precision and care, fostering a relationship founded on trust and success.</p>
+                            </div>  
+                        </div>
+                        <div class="col-xxl-12 mt-8 mt-md-10 mt-xxl-13">
+                            <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
+                                <div class="row">
+                                    <div class="col-lg-2 d-flex align-items-center">
+                                        <img src="assets/images/icon/candlestick-chart.png" alt="">
+                                    </div>
+                                    <div class="col-lg-10 d-flex align-items-center">
+                                        <div class="row">
+                                            <h3 class="">LOWEST TRADING FEES</h3>
+                                            
+                                    <span>Guaranteed</span>
+                                        </div>
+                                        
+                                    </div>
+                                </div>
+                            </div>  
+                        </div>
+                    </div>  
+                </div>
+                <div class="col-lg-6 col-xxl-6">
+                    <div class="row ms-xl-3 ms-xxl-10">
+                        <div class="col-xxl-12 ">
+                            <div class="company-story__part">
+                                
+                                <div class="row">
+                                    <div class="col-lg-2 d-flex align-items-center">
+                                        <img src="assets/images/icon/active-user.png" alt="">
+                                    </div>
+                                    <div class="col-lg-10 d-flex align-items-center">
+                                        <div class="row">
+                                            <h3 class="">INSTANT ACCOUNT OPENING</h3>
+                                            
+                                    <span>No KYC</span>
+                                        </div>
+                                        
+                                    </div>
+                                </div>
+                            </div>  
+                        </div>  
+                        <div class="col-xxl-12 mt-md-10 mt-xxl-13">
+                            <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
+                                <div class="row">
+                                    <div class="col-lg-2 d-flex align-items-center">
+                                        <img src="assets/images/icon/insurance.png" alt="">
+                                    </div>
+                                    <div class="col-lg-10 d-flex align-items-center">
+                                        <div class="row">
+                                            <h3 class="">SECURE FUNDING</h3>
+                                            
+                                    <span>Direct from your crypto wallet</span>
+                                        </div>
+                                        
+                                    </div>
+                                </div>
+                            </div>   
+                        </div>
+                        <div class="col-xxl-12 mt-8 mt-md-10 mt-xxl-13">
+                            <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
+                                <div class="row">
+                                    <div class="col-lg-2 d-flex align-items-center">
+                                        <img src="assets/images/icon/withdrawal.png" alt="">
+                                    </div>
+                                    <div class="col-lg-10 d-flex align-items-center">
+                                        <div class="row">
+                                            <h3 class="">FAST WITHDRAWALS</h3>
+                                            
+                                    <span>Twenty-four hours a day, seven days a week</span>
+                                        </div>
+                                        
+                                    </div>
                                 </div>
                             </div>  
                         </div>
@@ -254,9 +359,6 @@ a.slide_btn {
             </div>
         </div>
     </section>
-    <!-- Why Trade end -->   
-
-    <!--provide-world start-->
     <section class="provide-world bg nb4-bg pt-120 pb-120  position-relative z-0">
         <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1 d-none d-md-flex">
             <img src="assets/images/button.png" alt="vector" class="position-absolute pt-6 pt-xl-15 previewShapeRevX">
@@ -265,9 +367,8 @@ a.slide_btn {
             <div class="row justify-content-center">
                 <div class="col-lg-8 col-xxl-7">
                     <div class="heading__content mb-10 mb-lg-15 text-center">
-                        <span class="heading p1-color fs-five mb-5">WHY US?</span>
-                        <h3 class="mb-5 mb-lg-6">Why Trade With TradersEra?</h3>
-                        <p class="fs-six-up mx-ch mx-auto">Choosing one broker to begin trading from a plethora of options seems tough. To make it easier for you, peruse our below-mentioned distinctives.</p>
+                        <span class="heading p1-color fs-five mb-5">Quick and Seamless Trading Setup</span>
+                        <h2 class="mb-5 mb-lg-6">Start Trading in 3 Easy Steps</h2>
                     </div>
                 </div>
             </div>
@@ -275,60 +376,64 @@ a.slide_btn {
                 <div class="col-md-6 col-xxl-4">
                     <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                            <i class="ti ti-award-filled fs-three p1-color"></i>
-                        </span>
-                       <h4 class="mt-5 mb-5">Lower spreads</h4>
-                       <p>Cut down on transaction costs & relish faster trade executions with our tight spreads.Get the lowest spreads possible during all market conditions with us.</p>
-                    </div>
-                </div>
-                <div class="col-md-6 col-xxl-4">
-                    <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                        <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                             <i class="ti ti-users fs-three p1-color"></i>
                         </span>
-                       <h4 class="mt-5 mb-5">Secured funds</h4>
-                       <p>Trade across all the assets with confidence and quit worrying about your funds’ safety. Also get 24×5 customer support from TradersEra.</p>
-                   <br>
+                       <h4 class="mt-5 mb-5">Sign Up</h4>
+                       <p>Create your account quickly and securely.</p>
+                       <br>
                     </div>
                 </div>
                 <div class="col-md-6 col-xxl-4">
                     <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                            <i class="ti ti-shield-check-filled fs-three p1-color"></i>
+                            <i class="ti ti-tools fs-three p1-color"></i>
                         </span>
-                       <h4 class="mt-5 mb-5">Quick deposits and withdrawals</h4>
-                       <p>Become an TradersEra client quickly. Register yourself, fund your chosen account type and start trading hassle-free.</p>
+                       <h4 class="mt-5 mb-5">Fund Your Account</h4>
+                       <p>Deposit funds using our secure payment methods.</p>
+                    </div>
+                </div>
+                <div class="col-md-6 col-xxl-4">
+                    <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                        <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                            <i class="ti ti-trending-up fs-three p1-color"></i>
+                        </span>
+                       <h4 class="mt-5 mb-5">Trade</h4>
+                       <p>Explore markets, place trades, and watch your investments grow.</p>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <!-- provide-world end -->   
 
-    <!--Trade On start-->
-    <section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
+    <section class="customers position-relative z-0">
         <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-            <img src="assets/images/coin.png" alt="vector" class="position-absolute d-none d-md-flex previewShapeRevX">
-            <img src="assets/images/star2.png" alt="vector" class="position-absolute d-none d-xl-flex push_animat">
-            <img src="assets/images/coin_vector.png" alt="vector" class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX opacity-50">
+            <img src="assets/images/vector6.png" alt="vector" class="position-absolute rotate d-none d-xxxl-flex start-0 top-0 pt-20 mt-5 ps-20 ms-5">
+            <img src="assets/images/vector8.png" alt="vector" class="position-absolute bottom-0 pb-20 mb-4 d-none d-xxl-flex">
+            <img src="assets/images/earth.png" alt="vector" class="position-absolute d-none d-xl-flex bottom-0 end-0 rotate">
         </div>
         <div class="container">
-            <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
-                <div class="col-lg-6 col-xxl-5">
-                    <div class="trade_on__content">
-                        <span class="heading s1-color fs-five mb-5">JOIN NOW</span>
-                        <h2 class="mb-4 mb-lg-5">Looking for a responsible Forex broker? Wish to know about us?</h2>
-                        <a href="signup.html" class="cmn-btn secondary-alt fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6" style="--top: 38.609375px; --left: 209.25px;">Know More <i class="ti ti-trending-up"></i></a>
+            <div class="row gy-10 gy-xl-0 justify-content-center justify-content-lg-between align-items-center align-items-xxl-end">
+                <div class="col-lg-6 col-xxl-5 pb-0 pt-120 pb-lg-120">
+                    <div class="customers__content me-xxl-18">
+                        <h3 class="mb-4">Your Go-To for Crypto Trading</h3>
+                        <p class="mx-ch">At TradingEra, we specialize in what we do best – Crypto trading. Our platform is designed to provide you with a simple, secure, and seamless experience, ensuring you can trade cryptocurrencies with confidence.</p>   
+                        <ul class="list_divided d-flex flex-wrap gap-5 mt-5 mt-xxl-6">
+                            <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Expertise</li>
+                            <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Security</li>
+                            <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>User-Friendly Interface</li>
+                            <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>24/7 Support</li>
+                        </ul>
                     </div>
                 </div>
-                <div class="col-md-8 col-lg-6">
-                    <div class="trade_on__thumbs d-flex justify-content-end">
-                        <img src="assets/images/trade_on.png" alt="Imgae">
+                <div class="col-10 col-sm-8 col-lg-6 col-xxl-6 ">
+                    <div class="customers__thumb">
+                        <img src="assets/images/customers.png" class="w-100 max-xxl-un cus-rounded-2" alt="video">
                     </div>
                 </div>
             </div>
         </div>
     </section>
+  
     <!-- Trade On end -->
     
     <!--People Trust start-->
