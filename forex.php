@@ -72,6 +72,8 @@
                        <p>Trading is not without its challenges, as markets can be highly volatile and unpredictable. It requires discipline</p>
                     </div>
                 </div>
+            </div>
+            <div class="row gy-6 gy-xxl-0 mt-5">
                 <div class="col-md-6 col-xxl-4">
                     <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
@@ -99,6 +101,7 @@
                        <p>Trading is not without its challenges, as markets can be highly volatile and unpredictable. It requires discipline</p>
                     </div>
                 </div>
+            </div>
             </div>
         </div>
     </section>
