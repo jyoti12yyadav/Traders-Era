@@ -30,11 +30,13 @@
             </div>
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
-                    <span class="heading p1-color fs-six mb-5">Trader Academy</span>
-                    <h4 class="mb-4 mb-lg-5">Investing in Knowledge A Wise Choice for Success</h4>
-                    <p class="mx-ch">Knowledge empowers individuals to make informed decisions. Whether it's in personal
-                        finance, career choices, or everyday life navigate challenges with confidence.</p>
-                    <div class="d-flex gap-3 align-items-center mt-5 mt-lg-6"> <span
+                    <span class="heading p1-color fs-six mb-5"></span>
+                    <h4 class="mb-4 mb-lg-5">Welcome to MT5 Platform</h4>
+                    <p class="mx-ch">The most advanced and powerful
+                        trading platform</p>
+                    <p></p>
+                    
+                    <div class="d-flex gap-3 align-items-center mt-5 mt-lg-6"> <span>
                             class="s1-bg py-1 px-2 rounded-4 fs-seven nb4-color">Learn</span><i
                             class="ti ti-arrow-narrow-right p1-color fs-four"></i><span
                             class="s1-bg py-1 px-2 rounded-4 fs-seven nb4-color ms-1">Understand</span><i
@@ -86,7 +88,8 @@
         <div class="trade_on__content">
             <span class="heading s1-color fs-five mb-5 text-center">Trade On Our</span>
             <h3 class="mb-4 mb-lg-5 d-flex justify-content-center">World Class Platform</h3>
-            <p class="fs-six mx-ch d-flex justify-content-center">Trading in financial markets involves a wide range of strategies that traders employ
+            <p class="fs-six mx-ch d-flex justify-content-center">Trading in financial markets involves a wide range of
+                strategies that traders employ
                 to make informed decisions. From trading to swing trading and long-term investing, each strategy has its
                 own set of principles and risk factors.</p>
             <ul class="d-flex gap-4 flex-column mt-6">
