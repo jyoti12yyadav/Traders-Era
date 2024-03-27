@@ -97,6 +97,7 @@
                                 <li><a class="dropdown-item" href="withdrawal.php">Withdrawal</a></li>
                                 <li><a class="dropdown-item" href="offers.php">Offers</a></li>
                                 <li><a class="dropdown-item" href="contests.php">Contests</a></li>
+                            </ul>
                         </li>
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
@@ -120,7 +121,7 @@
                             </ul>
                         </li>
 
-                    
+
 
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
@@ -143,11 +144,11 @@
                         </li>
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
-                                class="dropdown-toggle dropdown-nav">Contact</button>
+                                class="dropdown-toggle dropdown-nav"><a class="dropdown-item" href="contact.php">Contact</a></button>
                         </li>
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
-                                class="dropdown-toggle dropdown-nav">Blog</button>
+                                class="dropdown-toggle dropdown-nav"><a class="dropdown-item" href="blog.php">Blog</a></button>
                         </li>
 
                     </ul>
