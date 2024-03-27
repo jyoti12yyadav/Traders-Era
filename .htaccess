@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteCond %{tradersera} !-d
+RewriteCond %{tradersera/index}\.php -f
+RewriteRule ^(.*)$ $1.php [NC,L]
