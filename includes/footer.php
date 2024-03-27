@@ -64,19 +64,19 @@
                     <h4 class="mb-6 mb-lg-8">Trading</h4>
                     <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
                         <li>
-                            <a class="n2-color d-flex align-items-center" href="market.html">Account Types</a>
+                            <a class="n2-color d-flex align-items-center" href="account-types.php">Account Types</a>
                         </li>
                         <li>
-                            <a class="n2-color" href="stocks.php">Deposite</a>
+                            <a class="n2-color" href="deposit.php">Deposite</a>
                         </li>
                         <li>
-                            <a class="n2-color" href="indices.php">Withdrawal</a>
+                            <a class="n2-color" href="withdrawal.php">Withdrawal</a>
                         </li>
                         <li>
-                            <a class="n2-color" href="commodities.php">Offers</a>
+                            <a class="n2-color" href="offers.php">Offers</a>
                         </li>
                         <li>
-                            <a class="n2-color" href="Cryptocurrencies.php">Contests</a>
+                            <a class="n2-color" href="contests.php">Contests</a>
                         </li>
 
                     </ul>
@@ -87,19 +87,19 @@
                     <h4 class="mb-6 mb-lg-8">Markets</h4>
                     <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
                         <li>
-                            <a class="n2-color" href="mt5-desktop.php">Crypto</a>
+                            <a class="n2-color" href="crypto.php">Crypto</a>
                         </li>
                         <li>
-                            <a class="n2-color" href="mt5-mobile.php">Indices</a>
+                            <a class="n2-color" href="indices.php">Indices</a>
                         </li>
                         <li>
-                            <a class="n2-color" href="mt5-web.php">Stocks</a>
+                            <a class="n2-color" href="stocks.php">Stocks</a>
                         </li>
                         <li>
-                            <a class="n2-color" href="pamm-investor">Forex</a>
+                            <a class="n2-color" href="forex.php">Forex</a>
                         </li>
                         <li>
-                            <a class="n2-color" href="pamm-investor">Commodity</a>
+                            <a class="n2-color" href="commodity.php">Commodity</a>
                         </li>
                     </ul>
                 </div>
@@ -118,12 +118,12 @@
                 <a class="n2-color" href="economic-calendar.php">Economic Calendar</a>
             </li>
             <li>
-                <a class="n2-color" href="calculators.php">News & Research</a>
+                <a class="n2-color" href="news-research.php">News & Research</a>
             </li>
 
 
             <li>
-                <a class="n2-color" href="faqs.php">Academy</a>
+                <a class="n2-color" href="academy.php">Academy</a>
             </li>
 
         </ul>
@@ -131,10 +131,10 @@
 
         <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4 mb-4">
             <li>
-                <a class="n2-color" href="deposit.php">Become An IB</a>
+                <a class="n2-color" href="become-an-ib.php">Become An IB</a>
             </li>
             <li>
-                <a class="n2-color" href="withdrawal.php">FAQ</a>
+                <a class="n2-color" href="faq.php">FAQ</a>
             </li>
 
 
@@ -148,17 +148,17 @@
         <h4 class="mb-6 mb-lg-8">About Us</h4>
         <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
             <li>
-                <a class="n2-color" href="mini-account.php">Tradersera</a>
+                <a class="n2-color" href="tradersera.php">Tradersera</a>
             </li>
             <li>
-                <a class="n2-color" href="standard-account.php">Safety of Funds</a>
+                <a class="n2-color" href="safety-of-funds.php">Safety of Funds</a>
             </li>
 
             <li>
-                <a class="n2-color" href="premium-account.php">Regulatory</a>
+                <a class="n2-color" href="regulatory.php">Regulatory</a>
             </li>
             <li>
-                <a class="n2-color" href="investor-account.php">Help Center</a>
+                <a class="n2-color" href="help-center.php">Help Center</a>
             </li>
 
         </ul>

@@ -25,14 +25,14 @@
                     <h2 class="text-center mb-10 mb-lg-15">PRIVACY POLICY</h2>
                     <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
                         <div class="privacy-policy__part">
-                            <h5 class="mb-4">Personal Information</h5>
+                            <h4 class="mb-4">Personal Information</h4>
                             <p class="mt-3">When you apply for or maintain a live account with TradersEra, we collect your
                                 personal information for business purposes, such as evaluating your financial needs,
                                 processing your requests and transactions, informing you about products and services
                                 that may be of interest to you, and providing customer service. </p>
                         </div>
                         <div class="privacy-policy__part">
-                            <h3 class="mb-4">Such information may include:</h3>
+                            <h4 class="mb-4">Such information may include:</h4>
                             <br>
                             <h5 class="mb-4">Application information:</h5>
                             <p class="mt-4 mb-5">Information you provide to us on applications and other forms, such as
@@ -51,7 +51,7 @@
                                 from other entities not affiliated with TradersEra.</p>
                         </div>
                         <div class="privacy-policy__part">
-                            <h3 class="mb-4">About Cookies</h3>
+                            <h5 class="mb-4">About Cookies</h5>
                             <p class="mt-3">Cookies are small files containing information that a website uses to track
                                 its visitors. TradersEra may set and access its cookies on your computer, enabling us to
                                 learn which advertisements and promotions bring users to our website. TradersEra or any of
@@ -60,7 +60,7 @@
                                 and not personally identifiable. </p>
                         </div>
                         <div class="privacy-policy__part">
-                            <h3 class="mb-4">Security Technology</h3>
+                            <h5 class="mb-4">Security Technology</h5>
                             <p class="mt-3">TradersEra uses Secure Socket Layer (SSL) encryption technology in order to
                                 protect certain information that you submit. This type of technology protects you from
                                 having your information intercepted by anyone other than TradersEra while it is being
@@ -71,7 +71,7 @@
                                 control unauthorized access to systems and data.</p>
                         </div>
                         <div class="privacy-policy__part">
-                            <h3 class="mb-4">Sharing Information with Our Affiliates</h3>
+                            <h5 class="mb-4">Sharing Information with Our Affiliates</h5>
                             <p class="mt-3">We may share personal information described above with our affiliates for
                                 business purposes, such as, but not limited to, servicing customer accounts and
                                 informing customers about new products and services, or to aid in the trading activity
@@ -83,7 +83,7 @@
                                 extent TradersEra does in accordance with this Policy. </p>
                         </div>
                         <div class="privacy-policy__part">
-                            <h3 class="mb-4">Sharing Information with Third Parties</h3>
+                            <h5 class="mb-4">Sharing Information with Third Parties</h5>
                             <p class="mt-3">TradersEra does not disclose your personal information to third parties,
                                 except as described in this Policy. Third party disclosures may include sharing such
                                 information with non-affiliated companies that perform support services for your account
@@ -97,7 +97,7 @@
                                 to know that TradersEra will not sell your personal information.</p>
                         </div>
                         <div class="privacy-policy__part">
-                            <h3 class="mb-4">Regulatory Disclosure</h3>
+                            <h5 class="mb-4">Regulatory Disclosure</h5>
                             <p class="mt-3">Under limited circumstances, TradersEra may disclose your personal information
                                 to third parties as permitted by, or to comply with, applicable laws and regulations.
                                 For example, we may disclose personal information to cooperate with regulatory
@@ -108,7 +108,7 @@
                                 or we obtain your permission. </p>
                         </div>
                         <div class="privacy-policy__part">
-                            <h3 class="mb-4">Opt Out</h3>
+                            <h5 class="mb-4">Opt Out</h5>
                             <p class="mt-3">You are not required to supply any of the personal information that we may
                                 request; however, failure to do so may result in our being unable to open or maintain
                                 your account or to provide services to you. While we make every effort to ensure that

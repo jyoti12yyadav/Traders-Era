@@ -31,14 +31,19 @@
                                 funding of terrorism and money laundering activities, law requires all financial
                                 institutions to obtain, verify, and record information that identifies each person
                                 opening an account</p>
-                            <p class="mt-3">
-                            <h6>Money laundering - </h6>the process of converting funds, received
+                           
+                        </div>
+
+                        <div class="privacy-policy__part">
+                           
+                        <h5 class="mb-4">Money laundering  </h5>
+                            <p class="mt-3">The process of converting funds, received
                             from illegal activities (such as fraud, corruption, terrorism, etc.), into other funds
                             or investments that look legitimate to hide or distort the real source of funds.</p>
                         </div>
                         <div class="privacy-policy__part">
-                            <h3 class="mb-4">The process of money laundering can be divided into three sequential stages
-                            </h3>
+                            <h4 class="mb-4">The process of money laundering can be divided into three sequential stages
+                            </h4>
                             <br>
                             <h5 class="mb-4">Placement</h5>
                             <p class="mt-4 mb-5">At this stage, funds are converted into financial instruments, such as
@@ -70,7 +75,7 @@
                                 of the staff. </p>
                         </div>
                         <div class="privacy-policy__part">
-                            <h3 class="mb-4">Company Procedures</h3>
+                            <h5 class="mb-4">Company Procedures</h5>
                             <p class="mt-3">TradersEra will make sure that it is dealing with a real person or legal
                                 entity. TradersEra also performs all the required measures in accordance with applicable
                                 law and regulations, issued by monetary authorities. The AML policy is being fulfilled
@@ -82,7 +87,7 @@
                             </ul>
                         </div>
                         <div class="privacy-policy__part">
-                            <h3 class="mb-4">Know Your Customer and Due Diligence</h3>
+                            <h5 class="mb-4">Know Your Customer and Due Diligence</h5>
                             <p class="mt-3">Because of the company’s commitment to the AML and KYC policies, each client
                                 of the company has to finish a verification procedure. Before TradersEra starts any
                                 cooperation with the client, the company ensures that satisfactory evidence is produced
@@ -94,7 +99,7 @@
                                 named countries.</p>
                         </div>
                         <div class="privacy-policy__part">
-                            <h3 class="mb-4">Corporate clients</h3>
+                            <h5 class="mb-4">Corporate clients</h5>
                             <p class="mt-3">In case the applicant company is listed on a recognised or approved stock
                                 exchange or when there is independent evidence to show that the applicant is a wholly
                                 owned subsidiary or a subsidiary under the control of such a company, no further steps
@@ -120,7 +125,7 @@
                             </ul>
                         </div>
                         <div class="privacy-policy__part">
-                            <h3 class="mb-4">Monitoring of client activity</h3>
+                            <h5 class="mb-4">Monitoring of client activity</h5>
                             <p class="mt-3">In addition to gathering information from the clients, TradersEra continues to
                                 monitor the activity of every client to identify and prevent any suspicious
                                 transactions. A suspicious transaction is known as a transaction that is inconsistent
@@ -130,7 +135,7 @@
                                 company’s services by criminals.</p>
                         </div>
                         <div class="privacy-policy__part">
-                            <h3 class="mb-4">Record keeping</h3>
+                            <h5 class="mb-4">Record keeping</h5>
                             <p class="mt-3">Records must be kept of all transaction data and data obtained for the
                                 purpose of identification, as well as of all documents related to money laundering
                                 topics (e.g. files on suspicious activity reports, documentation of AML account
@@ -138,7 +143,7 @@
                                 closed.</p>
                         </div>
                         <div class="privacy-policy__part">
-                            <h3 class="mb-4">Deposit and withdrawal requirements</h3>
+                            <h5 class="mb-4">Deposit and withdrawal requirements</h5>
                             <p class="mt-3">All deposits and withdrawals on trading accounts held with TradersEra the
                                 following strict requirements:</p>
                             <ul class="ul-decimal mt-5 d-flex gap-3 flex-column">
@@ -160,7 +165,7 @@
                             </ul>
                         </div>
                         <div class="privacy-policy__part">
-                            <h3 class="mb-4">Examples</h3>
+                            <h5 class="mb-4">Examples</h5>
                             <p class="mt-3">You deposited $100 via Credit Card and earned a profit of $1,000. Requesting
                                 a withdrawal of $1,000, you will get $100 to your Credit Card and the rest $900 to your
                                 bank account.</p>
@@ -179,7 +184,7 @@
                             </ul>
                         </div>
                         <div class="privacy-policy__part">
-                            <h3 class="mb-4">Measures taken</h3>
+                            <h5 class="mb-4">Measures taken</h5>
                             <p class="mt-3">In cases of an attempt to execute transactions which TradersEra suspects are
                                 related to money laundering or other criminal activity, it will proceed in accordance
                                 with the applicable law and report suspicious activity to regulating authority.</p>

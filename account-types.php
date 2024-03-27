@@ -1,4 +1,5 @@
 <?php include("includes/header.php"); ?>
+
 <section class="banner-section pt-120 pb-120">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
@@ -14,6 +15,7 @@
         </div>
     </div>
 </section>
+
 <div class="container">
     <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
         <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
