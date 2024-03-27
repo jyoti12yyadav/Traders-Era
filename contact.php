@@ -96,7 +96,7 @@ St.Vincent and Grenadines</p>
                         <div class="contact__mail d-flex flex-column gap-5 gap-lg-6 pb-8 pb-lg-10 border-bottom border-color four">
                             <div class="d-flex align-items-center gap-3">
                                 <span class="box_12 p1-bg rounded-circle d-center"><i class="ti ti-message fs-four-up nb4-color"></i></span>
-                                <span class="fs-six-up">info@endurefx.com</span>
+                                <span class="fs-six-up">info@TradersEra.com</span>
                             </div>
                             <div class="d-flex align-items-center gap-3">
                                 <span class="box_12 p1-bg rounded-circle d-center"><i class="ti ti-arrow-right fs-four-up nb4-color"></i></span>

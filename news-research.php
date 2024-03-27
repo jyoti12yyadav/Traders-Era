@@ -32,7 +32,7 @@
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
                     <span class="heading p1-color fs-six mb-5"></span>
-                    <h4 class="mb-4 mb-lg-5">Welcome to EndureFx's News & Research Hub!</h4>
+                    <h4 class="mb-4 mb-lg-5">Welcome to TradersEra's News & Research Hub!</h4>
                     <p class="mx-ch">Stay ahead of the curve with the latest news, insights, and analysis in the dynamic
                         world of forex trading and brokerage. Our dedicated team of experts scours the markets to bring
                         you timely updates, expert commentary, and in-depth research to help you make informed decisions
@@ -57,14 +57,12 @@
     </div>
     <div class="container">
         <div class="row justify-content-between align-items-center mb-10 mb-lg-15">
-            <div class="col-xl-5">
-                <span class="heading s1-color fs-five mb-5">Our Mission</span>
-                <h3>Empowering Success How We're Making a Difference</h3>
+            <div class="col-xl-12">
+                <!-- <span class="heading s1-color fs-five mb-5">Our Mission</span> -->
+                <h3>Empower Your Trading Journey with TradersEra's News & Research Hub!
+                </h3>
             </div>
-            <div class="col-xl-4">
-                <p class="fs-six-up mx-ch text-xl-end mt-3 mt-xl-0">we believe that success is not reserved for the
-                    privileged few. It's a journey that anyone can embark upon with right guidance</p>
-            </div>
+            
         </div>
         <div class="row gy-6 gy-xxl-0">
             <div class="col-md-6 col-xxl-4">
@@ -107,14 +105,90 @@
 
         </div>
 
-        <div class="row gy-6 gy-xxl-0">
-            
-        </div>
+        <div class="container">
+            <div class="row justify-content-between align-items-center mb-10 mb-lg-15">
+                <!-- <div class="col-xl-5">
+                    <span class="heading s1-color fs-five mb-5">Our Mission</span>
+                    <h3>Empowering Success How We're Making a Difference</h3>
+                </div>
+                <div class="col-xl-4">
+                    <p class="fs-six-up mx-ch text-xl-end mt-3 mt-xl-0">we believe that success is not reserved for the
+                        privileged few. It's a journey that anyone can embark upon with right guidance</p>
+                </div> -->
+            </div>
+            <div class="row gy-6 gy-xxl-0">
+                <div class="col-md-6 col-xxl-4">
+                    <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                        <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                            <i class="ti ti-currency-dollar-brunei  fs-three p1-color"></i>
+                        </span>
+                        <h4 class="mt-5 mb-5">Technical Analysis</h4>
+                        <p>Unlock the power of technical analysis with our comprehensive charts, indicators, and technical insights. Whether you're interested in chart patterns, Fibonacci retracements, or oscillators, our technical analysis tools empower you to identify potential trade opportunities and optimize your entry and exit points.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-6 col-xxl-4">
+                    <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                        <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                            <i class="ti ti-brand-cakephp fs-three p1-color"></i>
+                        </span>
+                        <h4 class="mt-5 mb-5">Fundamental Analysis</h4>
+                        <p>Understand the fundamental drivers behind currency movements with our in-depth analysis of economic data releases, central bank policies, and macroeconomic trends. Our fundamental analysis equips you with the knowledge to interpret market fundamentals and anticipate future market trends.</p>
+                    <br>
+                    </div>
+                </div>
+                <div class="col-md-6 col-xxl-4">
+                    <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                        <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                            <i class="ti ti-broadcast fs-three p1-color"></i>
+                        </span>
+                        <h4 class="mt-5 mb-5">Research Reports</h4>
+                        <p>Dive deep into the forex market with our research reports, which provide detailed analysis and forecasts on key currency pairs and market trends. Whether you're interested in short-term trading opportunities or long-term investment strategies, our research reports offer valuable insights to guide your decision-making proces</p>
+                    </div>
+                </div>
+    
+            </div>
+    
+</section>
+<!-- Our Mission end -->
 
+
+<!--Customers start-->
+<section class="customers position-relative z-0">
+    <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
+        <img src="assets/images/vector6.png" alt="vector" class="position-absolute rotate d-none d-xxxl-flex start-0 top-0 pt-20 mt-5 ps-20 ms-5">
+        <img src="assets/images/vector8.png" alt="vector" class="position-absolute bottom-0 pb-20 mb-4 d-none d-xxl-flex">
+        <img src="assets/images/earth.png" alt="vector" class="position-absolute d-none d-xl-flex bottom-0 end-0 rotate">
     </div>
+    <div class="container">
+        <div class="row gy-10 gy-xl-0 justify-content-center justify-content-lg-between align-items-center align-items-xxl-end">
+            <div class="col-lg-6 col-xxl-5 pb-0 pt-120 pb-lg-120">
+                <div class="customers__content me-xxl-18">
+                    <h4 class="mb-4">Ready to take your trading to the next level? Explore our News & Research section now!
 
-    <div class="row gy-6 gy-xxl-0">
-         
+                    </h4>
+                    <p class="mx-ch">At TradersEra, we're committed to providing you with the tools, insights, and resources you need to succeed in the fast-paced world of forex trading. Bookmark this page and make it your go- to destination for staying informed and empowered in your trading journey.</p>   
+                  
+                    
+                </div>
+            </div>
+            <div class="col-10 col-sm-8 col-lg-6 col-xxl-6 ">
+                <div class="customers__thumb">
+                    <img src="assets/images/customers.png" class="w-100 max-xxl-un cus-rounded-2" alt="video">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Customers end -->   
+
+
+<?php include("includes/footer.php"); ?>
+
+
+
+
+
 
 
 
@@ -154,14 +228,4 @@
             long-term investment strategies, our research reports offer valuable insights to guide your decision-making
             process./p>
     </div>
-</div>   
-    </div>
-</section>
-<!-- Our Mission end -->
-
-
-<?php include("includes/footer.php"); ?>
-
-
-
-
+</div>
