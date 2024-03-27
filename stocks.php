@@ -65,6 +65,7 @@
                     <p>With an aim to provide the lowest spreads possible during all market conditions, we regularly add
                         and twitch our technology only for you.
                     </p>
+                    <br>
                 </div>
             </div>
             <div class="col-lg-6 col-xxl-6">
@@ -89,6 +90,7 @@
                     <p>TradersEra ensures that its client’s funds are kept in separate accounts with pre-eminent banks and
                         completely segregated from the assets of the firm.
                     </p>
+                    <br>
                 </div>
             </div>
             <div class="col-lg-6 col-xxl-6">
@@ -116,7 +118,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-8 col-xxl-6">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h3 class="mb-5 mb-lg-6">Why traders choose us</h3>
+                    <h3 class="mb-5 mb-lg-6">Why traders choose us ?</h3>
                 </div>
             </div>
         </div>

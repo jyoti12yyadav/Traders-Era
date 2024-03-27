@@ -97,7 +97,6 @@
                     </span>
                     <h4 class="mt-5 mb-5">24x5 Customer Support</h4>
                     <p>Get help from TradersEra anytime and anywhere. Solve all your pressing issues right away.</p>
-                    <br>
                 </div>
             </div>
             <div class="col-md-6 col-xxl-4">
