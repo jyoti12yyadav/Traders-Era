@@ -23,14 +23,14 @@
         </div>
         <div class="col-md-10 col-lg-6 col-xxl-5">
             <div class="trade_on__content">
-                <span class="heading p1-color fs-six mb-5 mt-6">TradersEra ECN</span>
+                <span class="heading p1-color fs-six mb-5" style="margin-top:120px;">TradersEra ECN</span>
                 <h4 class="mb-4 mb-lg-5">TradersEra provides two different account options, each designed to meet
                     specific trading needs.</h4>
                 <p class="mx-ch">We offer competitive spreads starting from 0.0 pips on forex and other popular
                     instruments. You'll be pleased to know that our commission starts from just $35 per $1M traded. For
                     more information on commission details, please refer to the account types table below.</p>
                 <div class="d-flex gap-3 align-items-center"> 
-                    <ul class=" d-flex flex-wrap gap-5  mt-5 mb-5">
+                    <ul class=" d-flex flex-wrap gap-5  mt-5"  style="margin-bottom:120px;">
                         <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Ideal for scalpers and day traders, tighter spreads are available.</li>
                         <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i> Gain access to direct market with transparent pricing and quicker execution.</li>
                         <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Enjoy easy entry and exit in volatile markets with high liquidity.</li>
