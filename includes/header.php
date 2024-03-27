@@ -40,6 +40,17 @@
  
     <!-- header-section start -->
     <header class="header-section a2-bg header-menu w-100">
+        <div class="container-fluid bg-upper-header upper-header">
+            <div class="container">
+                <div class="upper-header-content">
+                <div class="right-area position-relative  ms-0 d-end gap-1 gap-xl-4 d-none d-lg-flex">
+                        <div class="single-item">
+                            <a href="signin.html" class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button"> Login</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
         <div class="container  d-center ">
            <nav class="navbar py-2 py-xl-4 rounded-3 navbar-expand-lg w-100 justify-content-between ">
                 <div class="d-flex align-items-center py-3">
@@ -54,11 +65,11 @@
                 </div>
                 <div class="nav_alt">
                     <div class="right-area position-relative ms-0 d-center gap-1 gap-xl-4 d-lg-none">
-                        <div class="single-item">
+                        <!-- <div class="single-item">
                             <a href="signin.html" class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-center gap-1 fw-bold nw1-color"> Login <i class="ti ti-arrow-right fs-six-up"></i></a>
-                        </div>
+                        </div> -->
                         <div class="single-item">
-                            <a href="signup.html" class="cmn-btn fw-bold py-2 px-2 px-sm-3 px-lg-4 align-items-center gap-1"> Sign Up <i class="ti ti-arrow-right fw-semibold fs-six-up"></i></a>
+                            <a href="contact-us.php" class="cmn-btn fw-bold py-2 px-2 px-sm-3 px-lg-4 align-items-center gap-1"> Contact Us <i class="ti ti-arrow-right fw-semibold fs-six-up"></i></a>
                         </div>
                     </div>
                 </div>
@@ -131,11 +142,11 @@
                     </ul>
                 </div>
                 <div class="right-area position-relative  ms-0 d-center gap-1 gap-xl-4 d-none d-lg-flex">
-                    <div class="single-item">
+                    <!-- <div class="single-item">
                         <a href="signin.html" class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-center gap-1 fw-bold nw1-color"> Login <i class="ti ti-arrow-right fs-six-up"></i></a>
-                    </div>
+                    </div> -->
                     <div class="single-item">
-                        <a href="signup.html" class="cmn-btn fw-bold py-2 px-2 px-sm-3 px-lg-4 align-items-center gap-1"> Sign Up <i class="ti ti-arrow-right fw-semibold fs-six-up"></i></a>
+                        <a href="contact-us.php" class="cmn-btn fw-bold py-2 px-2 px-sm-3 px-lg-4 align-items-center gap-1">Contact Us<i class="ti ti-arrow-right fw-semibold fs-six-up"></i></a>
                     </div>
                 </div>
             </nav>

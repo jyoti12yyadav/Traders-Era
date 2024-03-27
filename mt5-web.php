@@ -86,7 +86,8 @@
         <div class="trade_on__content">
             <span class="heading s1-color fs-five mb-5 text-center">Trade On Our</span>
             <h3 class="mb-4 mb-lg-5 d-flex justify-content-center">World Class Platform</h3>
-            <p class="fs-six mx-ch d-flex justify-content-center">Trading in financial markets involves a wide range of strategies that traders employ
+            <p class="fs-six mx-ch d-flex justify-content-center">Trading in financial markets involves a wide range of
+                strategies that traders employ
                 to make informed decisions. From trading to swing trading and long-term investing, each strategy has its
                 own set of principles and risk factors.</p>
             <ul class="d-flex gap-4 flex-column mt-6">
@@ -105,4 +106,20 @@
         </div>
     </div>
 </div>
-<?php include("includes/footer.php"); ?>
+<div class="row">
+    <div class="col-3 mt-10 mt-lg-15  d-flex justify-content-center">
+    
+    </div>
+    <div class="col-3 mt-10 mt-lg-15  d-flex justify-content-center" style="width:200px;">
+        <a href="#" class="cmn-btn fs-five nb4-xxl-bg align-items-center py-3 px-6 py-lg-3 px-lg-8"
+            style="--top: 43px; --left: 101.203125px;">Load More</a>
+    </div>
+    <div class="col-3 mt-10 mt-lg-15  d-flex justify-content-center">
+        <a href="#" class="cmn-btn fs-five nb4-xxl-bg align-items-center py-3 px-6 py-lg-3 px-lg-8"
+            style="--top: 43px; --left: 101.203125px;">Load More</a>
+    </div>
+    <div class="col-3 mt-10 mt-lg-15  d-flex justify-content-center">
+        
+    </div>
+    <div>
+        <?php include("includes/footer.php"); ?>
