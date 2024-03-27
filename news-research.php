@@ -84,7 +84,7 @@
     </div>
 </section>
 <div class="container">
-    <div class="col-lg-12 col-xxl-12 ">
+    <div class="col-lg-12 col-xxl-12 pb-120">
         <div class="trade_on__content">
             <span class="heading s1-color fs-five mb-5 text-center">Trade On Our</span>
             <h3 class="mb-4 mb-lg-5 d-flex justify-content-center">World Class Platform</h3>

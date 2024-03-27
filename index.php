@@ -130,8 +130,8 @@ a.slide_btn {
                               
                             </div>
                             <span class="heading p1-max-xxl nb4-xxl-color fs-five mb-3">Master the Markets</span>
-                            <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Trade Smart with TradingEra</h1>
-                            <p class="fs-six-up fw_500 nb4-xxl-color">TradingEra helps you trade smarter with tools and insights, making navigating financial markets easier.</p>
+                            <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Trade Smart with TradersEra</h1>
+                            <p class="fs-six-up fw_500 nb4-xxl-color">TradersEra helps you trade smarter with tools and insights, making navigating financial markets easier.</p>
                             <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8 mt-lg-10">
                                 <a href="signup.html" class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6">Start Trading <i class="ti ti-trending-up"></i></a>
                                 <a href="signin.html" class="cmn-btn link link-xxl-color fs-five  gap-2 gap-lg-3 align-items-center "><i class="ti ti-arrow-narrow-right fs-four"></i> Try demo account</a>
@@ -178,8 +178,8 @@ a.slide_btn {
                                  
                                 </div>
                                 <span class="heading p1-max-xxl nb4-xxl-color fs-five mb-3">Empower Your Trades</span>
-                                <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Maximize Your Potential with TradingEra</h1>
-                                <p class="fs-six-up fw_500 nb4-xxl-color">Trade smarter with TradingEra's insights, maximizing your financial potential.</p>
+                                <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Maximize Your Potential with TradersEra</h1>
+                                <p class="fs-six-up fw_500 nb4-xxl-color">Trade smarter with TradersEra's insights, maximizing your financial potential.</p>
                                 <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8 mt-lg-10">
                                     <a href="signup.html" class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6">Start Trading <i class="ti ti-trending-up"></i></a>
                                     <a href="signin.html" class="cmn-btn link link-xxl-color fs-five  gap-2 gap-lg-3 align-items-center "><i class="ti ti-arrow-narrow-right fs-four"></i> Try demo account</a>
@@ -415,7 +415,7 @@ a.slide_btn {
                 <div class="col-lg-6 col-xxl-5 pb-0 pt-120 pb-lg-120">
                     <div class="customers__content me-xxl-18">
                         <h3 class="mb-4">Your Go-To for Crypto Trading</h3>
-                        <p class="mx-ch">At TradingEra, we specialize in what we do best – Crypto trading. Our platform is designed to provide you with a simple, secure, and seamless experience, ensuring you can trade cryptocurrencies with confidence.</p>   
+                        <p class="mx-ch">At TradersEra, we specialize in what we do best – Crypto trading. Our platform is designed to provide you with a simple, secure, and seamless experience, ensuring you can trade cryptocurrencies with confidence.</p>   
                         <ul class="list_divided d-flex flex-wrap gap-5 mt-5 mt-xxl-6">
                             <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Expertise</li>
                             <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Security</li>
