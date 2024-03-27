@@ -28,8 +28,8 @@
                     <h2 class="text-center mb-10 mb-lg-15">Terms & conditions</h2>
                     <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
                         <div class="privacy-policy__part">
-                            <h5 class="mb-4">EndureFX Terms and Conditions</h5>
-                            <p class="mt-3">Welcome to EndureFX! These Terms and Conditions govern your use of our
+                            <h5 class="mb-4">TradersEra Terms and Conditions</h5>
+                            <p class="mt-3">Welcome to TradersEra! These Terms and Conditions govern your use of our
                                 website and services. By accessing or using our website or services, you agree to be
                                 bound by these Terms and Conditions. Please read them carefully.</p>
                         </div>
@@ -61,7 +61,7 @@
 
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">4. Intellectual Property:</h5>
-                            <p>To the fullest extent permitted by applicable law, EndureFX shall not be liable for any
+                            <p>To the fullest extent permitted by applicable law, TradersEra shall not be liable for any
                                 indirect, incidental, special, consequential, or punitive damages, or any loss of
                                 profits or revenues, whether incurred directly or indirectly, arising out of your use of
                                 our website or services.
@@ -73,7 +73,7 @@
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">5. Limitation of Liability: </h5>
                             <p>All content on our website, including but not limited to text, graphics, logos, images,
-                                and software, is the property of EndureFX or its licensors and is protected by
+                                and software, is the property of TradersEra or its licensors and is protected by
                                 copyright, trademark, and other intellectual property laws. You may not reproduce,
                                 distribute, modify, or create derivative works of such content without our prior written
                                 consent.

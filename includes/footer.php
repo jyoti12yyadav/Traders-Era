@@ -203,7 +203,7 @@
                 
                 <div class="col-6 col-lg-3">
                     <div class="footer__part">
-                        <h4 class="mb-6 mb-lg-8">About Endurefx</h4>
+                        <h4 class="mb-6 mb-lg-8">About TradersEra</h4>
                  
                         <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
                             <li>
