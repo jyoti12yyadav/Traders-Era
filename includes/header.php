@@ -127,7 +127,7 @@
                             <button type="button" aria-label="Navbar Dropdown Button"
                                 class="dropdown-toggle dropdown-nav">Partners</button>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="become-an-iB.php">Become an IB</a></li>
+                                <li><a class="dropdown-item" href="become-an-iB.php">Become An IB</a></li>
                                 <li><a class="dropdown-item" href="faq.php">FAQ</a></li>
                             </ul>
                         </li>
@@ -144,7 +144,7 @@
                         </li>
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
-                                class="dropdown-toggle dropdown-nav"><a class="dropdown-item" href="blog.php">Blog</a></button>
+                                class=" dropdown-nav"><a class="dropdown-item" href="#">Blog</a></button>
                         </li>
 
                     </ul>
