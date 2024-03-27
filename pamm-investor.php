@@ -1,3 +1,8 @@
 <?php include("includes/header.php"); ?>
-<h1>Comming Soon</h1>
-<?php include("includes/footer.php"); ?>
+
+
+<di class="row">
+    <h1>Comming Soon</h1>
+    </div>
+
+    <?php include("includes/footer.php"); ?>

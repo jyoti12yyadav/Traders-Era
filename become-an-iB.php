@@ -108,18 +108,22 @@
 </div>
 <div class="row">
     <div class="col-3 mt-10 mt-lg-15  d-flex justify-content-center">
-    
-    </div>
-    <div class="col-3 mt-10 mt-lg-15  d-flex justify-content-center" style="width:200px;">
-        <a href="#" class="cmn-btn fs-five nb4-xxl-bg align-items-center py-3 px-6 py-lg-3 px-lg-8"
-            style="--top: 43px; --left: 101.203125px;">Load More</a>
+
     </div>
     <div class="col-3 mt-10 mt-lg-15  d-flex justify-content-center">
         <a href="#" class="cmn-btn fs-five nb4-xxl-bg align-items-center py-3 px-6 py-lg-3 px-lg-8"
-            style="--top: 43px; --left: 101.203125px;">Load More</a>
+            style="--top: 43px; --left: 101.203125px;">Download MT5 For ios</a>
     </div>
     <div class="col-3 mt-10 mt-lg-15  d-flex justify-content-center">
-        
+        <a href="#" class="cmn-btn fs-five nb4-xxl-bg align-items-center py-3 px-6 py-lg-3 px-lg-8"
+            style="--top: 43px; --left: 101.203125px;">Download MT5 For ios</a>
     </div>
-    <div>
+    <div class="col-3 mt-10 mt-lg-15  d-flex justify-content-center">
+
+    </div>
+
+ </div>
+
+ <br>
+
         <?php include("includes/footer.php"); ?>
