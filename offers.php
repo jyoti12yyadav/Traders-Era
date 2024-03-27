@@ -25,11 +25,10 @@
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
             <div class="col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
-                    <span class="heading p1-color fs-six mb-5" style="margin-top:120px;">Get a 40% Bonus and trade
-                        wisely </span>
+                    <span class="heading p1-color fs-six mb-5" style="margin-top:120px;"> </span>
                     <!-- <span class="heading s1-color fs-five mb-5">Trade On Our</span> -->
                     <h3 class="mb-4 mb-lg-5"> Unlock Confidence and Success in Financial Markets with Us</h3>
-                    <p class="fs-six mx-ch">Boost your trading margin with our incredible 40% deposit bonus, allowing
+                    <p class="fs-six mx-ch">Boost your trading margin with our incredible deposit bonus, allowing
                         you to expand your positions and enhance your trading strategy.</p>
                     <br>
                     <p class="fs-six mx-ch">Think of this bonus as your shield during tough times! Even if you
@@ -42,8 +41,7 @@
                     <p class="fs-six mx-ch">Factors that can affect the price of cryptocurrencies are their supply and
                         market demands, regulation, news and media, and price speculation.</p>
                     <br>
-                    <p class="fs-six mx-ch">Get a Boost with Our 40% Bonus – Trade with Confidence Even During Market
-                        Ups and Downs!</p>
+                    <p class="fs-six mx-ch"></p>
                 </div>
             </div>
             <div class="col-md-8 col-lg-6">
@@ -63,7 +61,7 @@
                 <div class="market-details__card">
                     <div class="market-details__content d-flex flex-column gap-5 gap-lg-6 mt-5 mt-lg-6">
                         <p>Trading Bonus Exclusive: Trade freely and Withdraw Profits Hassle-free.
-                            Enjoy a 40% Bonus on Your First Deposit, and an Additional 25% Bonus on Subsequent Deposits.
+                            Enjoy as Bonus on Your First Deposit, and an Additional Bonus on Subsequent Deposits.
                         </p>
                     </div>
                 </div>

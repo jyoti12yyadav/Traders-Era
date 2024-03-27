@@ -132,8 +132,8 @@ a.slide_btn {
                               
                             </div>
                             <span class="heading p1-max-xxl nb4-xxl-color fs-five mb-3">Master the Markets</span>
-                            <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Trade Smart with TradingEra</h1>
-                            <p class="fs-six-up fw_500 nb4-xxl-color">TradingEra helps you trade smarter with tools and insights, making navigating financial markets easier.</p>
+                            <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Trade Smart with TradersEra</h1>
+                            <p class="fs-six-up fw_500 nb4-xxl-color">TradersEra helps you trade smarter with tools and insights, making navigating financial markets easier.</p>
                             <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8 mt-lg-10">
                                 <a href="signup.html" class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6">Start Trading <i class="ti ti-trending-up"></i></a>
                                 <a href="signin.html" class="cmn-btn link link-xxl-color fs-five  gap-2 gap-lg-3 align-items-center "><i class="ti ti-arrow-narrow-right fs-four"></i> Try demo account</a>
@@ -143,27 +143,9 @@ a.slide_btn {
                 </div>
                 <div class="col-sm-10 col-lg-6 col-xxl-5">
                     <div class="hero-section__thumbs pb-xxl-10">
-                        <img src="assets/images/hero_thumb.png" class="max-auto max-xxl-un" alt="img">
+                        <img src="assets/images/banner one.png" class="max-auto max-xxl-un" alt="img">
                     </div>
                 </div>
-                <ul class="list_items col-12 d-flex row-gap-6 gap-lg-15 justify-content-between flex-wrap pt-2 pt-lg-15 pt-xl-2 pt-xxl-15 pb-15">
-                    <li class="d-flex gap-3 align-items-center">
-                        <span class="d-center s1-bg p-3 p-lg-4 rounded-circle"><i class="ti ti-tools fs-three nb4-color"></i></span>
-                        <h4 class="nw1-color">Enhanced Tools</h4>
-                    </li>
-                    <li class="d-flex gap-3 align-items-center">
-                        <span class="d-center s1-bg p-3 p-lg-4 rounded-circle"><i class="ti ti-trending-up fs-three nb4-color"></i></span>
-                        <h4 class="nw1-color">Trading Guides</h4>
-                    </li>
-                    <li class="d-flex gap-3 align-items-center">
-                        <span class="d-center s1-bg p-3 p-lg-4 rounded-circle"><i class="ti ti-broadcast fs-three nb4-color"></i></span>
-                        <h4 class="nw1-color">Fast Execution</h4>
-                    </li>
-                    <li class="d-flex gap-3 align-items-center">
-                        <span class="d-center s1-bg p-3 p-lg-4 rounded-circle"><i class="ti ti-percentage fs-three nb4-color"></i></span>
-                        <h4 class="nw1-color">0% Commission</h4>
-                    </li>
-                </ul>
             </div>
         </div>
         </div>
@@ -180,8 +162,8 @@ a.slide_btn {
                                  
                                 </div>
                                 <span class="heading p1-max-xxl nb4-xxl-color fs-five mb-3">Empower Your Trades</span>
-                                <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Maximize Your Potential with TradingEra</h1>
-                                <p class="fs-six-up fw_500 nb4-xxl-color">Trade smarter with TradingEra's insights, maximizing your financial potential.</p>
+                                <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Maximize Your Potential with TradersEra</h1>
+                                <p class="fs-six-up fw_500 nb4-xxl-color">Trade smarter with TradersEra's insights, maximizing your financial potential.</p>
                                 <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8 mt-lg-10">
                                     <a href="signup.html" class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6">Start Trading <i class="ti ti-trending-up"></i></a>
                                     <a href="signin.html" class="cmn-btn link link-xxl-color fs-five  gap-2 gap-lg-3 align-items-center "><i class="ti ti-arrow-narrow-right fs-four"></i> Try demo account</a>
@@ -191,27 +173,10 @@ a.slide_btn {
                     </div>
                     <div class="col-sm-10 col-lg-6 col-xxl-5">
                         <div class="hero-section__thumbs pb-xxl-10">
-                            <img src="assets/images/hero_thumb.png" class="max-auto max-xxl-un" alt="img">
+                            <img src="assets/images/banner two.png" class="max-auto max-xxl-un" alt="img">
                         </div>
                     </div>
-                    <ul class="list_items col-12 d-flex row-gap-6 gap-lg-15 justify-content-between flex-wrap pt-2 pt-lg-15 pt-xl-2 pt-xxl-15 pb-15">
-                        <li class="d-flex gap-3 align-items-center">
-                            <span class="d-center s1-bg p-3 p-lg-4 rounded-circle"><i class="ti ti-tools fs-three nb4-color"></i></span>
-                            <h4 class="nw1-color">Enhanced Tools</h4>
-                        </li>
-                        <li class="d-flex gap-3 align-items-center">
-                            <span class="d-center s1-bg p-3 p-lg-4 rounded-circle"><i class="ti ti-trending-up fs-three nb4-color"></i></span>
-                            <h4 class="nw1-color">Trading Guides</h4>
-                        </li>
-                        <li class="d-flex gap-3 align-items-center">
-                            <span class="d-center s1-bg p-3 p-lg-4 rounded-circle"><i class="ti ti-broadcast fs-three nb4-color"></i></span>
-                            <h4 class="nw1-color">Fast Execution</h4>
-                        </li>
-                        <li class="d-flex gap-3 align-items-center">
-                            <span class="d-center s1-bg p-3 p-lg-4 rounded-circle"><i class="ti ti-percentage fs-three nb4-color"></i></span>
-                            <h4 class="nw1-color">0% Commission</h4>
-                        </li>
-                    </ul>
+                  
                 </div>
             </div>
         </div>
@@ -416,8 +381,8 @@ a.slide_btn {
             <div class="row gy-10 gy-xl-0 justify-content-center justify-content-lg-between align-items-center align-items-xxl-end">
                 <div class="col-lg-6 col-xxl-5 pb-0 pt-120 pb-lg-120">
                     <div class="customers__content me-xxl-18">
-                        <h3 class="mb-4">Your Go-To for Crypto Trading</h3>
-                        <p class="mx-ch">At TradingEra, we specialize in what we do best – Crypto trading. Our platform is designed to provide you with a simple, secure, and seamless experience, ensuring you can trade cryptocurrencies with confidence.</p>   
+                        <h2 class="mb-4">Your Go-To for Crypto Trading</h2>
+                        <p class="mx-ch">At TradersEra, we specialize in what we do best – Crypto trading. Our platform is designed to provide you with a simple, secure, and seamless experience, ensuring you can trade cryptocurrencies with confidence.</p>   
                         <ul class="list_divided d-flex flex-wrap gap-5 mt-5 mt-xxl-6">
                             <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Expertise</li>
                             <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Security</li>
@@ -428,7 +393,7 @@ a.slide_btn {
                 </div>
                 <div class="col-10 col-sm-8 col-lg-6 col-xxl-6 ">
                     <div class="customers__thumb">
-                        <img src="assets/images/customers.png" class="w-100 max-xxl-un cus-rounded-2" alt="video">
+                        <img src="assets/images/HOME three.png" class="w-100 max-xxl-un cus-rounded-2" alt="video">
                     </div>
                 </div>
             </div>
