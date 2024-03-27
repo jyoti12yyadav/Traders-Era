@@ -26,7 +26,7 @@
                     <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
                         <div class="privacy-policy__part">
                             <h4 class="mb-4">Risk Acknowledgement And Disclosure</h4>
-                            <h5>1. Risk Warning</h5>
+                            <h5  class="mb-4">1. Risk Warning</h5>
                             <p class="mt-3">Prospective clients should study the below-mentioned risk warnings very
                                 carefully. Please note that we do not explore or explain all the risks involved when
                                 dealing in Financial Instruments (including Contracts for Difference “the CFDs” and
