@@ -115,7 +115,7 @@
                             <button type="button" aria-label="Navbar Dropdown Button"
                                 class="dropdown-toggle dropdown-nav">Tools</button>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="economic-calender.php">Economic Calender</a></li>
+                                <li><a class="dropdown-item" href="economic-calendar.php">Economic Calender</a></li>
                                 <li><a class="dropdown-item" href="news-research.php">News & Research</a></li>
                                 <li><a class="dropdown-item" href="academy.php">Academy</a></li>
                             </ul>
