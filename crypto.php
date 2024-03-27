@@ -4,11 +4,11 @@
         <div class="container mt-lg-0 pt-18 pt-xl-20">
             <div class="row">
                 <div class="col-12 breadcrumb-area ">
-                    <h2 class="mb-4">Commodities</h2>
+                    <h2 class="mb-4">Crypto</h2>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb mb-0">
                             <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                            <li class="breadcrumb-item ms-2 ps-7 active" aria-current="page"><span>Commodities</span></li>
+                            <li class="breadcrumb-item ms-2 ps-7 active" aria-current="page"><span>Crypto</span></li>
                         </ol>
                     </nav>
                 </div>
@@ -20,21 +20,24 @@
         <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
             <img src="assets/images/coin.png" alt="vector" class="position-absolute d-none d-md-flex previewShapeRevX">
             <img src="assets/images/star2.png" alt="vector" class="position-absolute d-none d-xl-flex push_animat">
-            <img src="assets/images/coin_vector.png" alt="vector" class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX opacity-50">
+            <img src="assets/images/coin_vector.png" alt="vector"
+                class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX opacity-50">
         </div>
         <div class="container">
             <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
                 <div class="col-lg-6 col-xxl-5">
                     <div class="trade_on__content">
-                        <span class="heading s1-color fs-five mb-5">Trade On Our</span>
-                        <h3 class="mb-4 mb-lg-5">World Class Platform</h3>
-                        <p class="fs-six mx-ch">Trading in financial markets involves a wide range of strategies that traders employ to make informed decisions. From trading to swing trading and long-term investing, each strategy has its own set of principles and risk factors.</p>   
-                        <ul class="d-flex gap-4 flex-column mt-6">
-                            <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Charts trading</li>
-                            <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Understanding Trading Strategies </li>
-                            <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Risk Management in Trading </li>
-                            <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Technical vs. Fundamental Analysis </li>
-                        </ul>
+                        <!-- <span class="heading s1-color fs-five mb-5">Trade On Our</span> -->
+                        <h3 class="mb-4 mb-lg-5">What are Cryptocurrencies and Crypto Trading?</h3>
+                        <p class="fs-six mx-ch">Cryptocurrencies, also known as Cryptos, are unique and popular digital currencies that have been booming ever since and are changing the financial industry sharply. </p>
+                        <br>
+                        <p class="fs-six mx-ch">What makes them perfect for trading is their lack of physical form and decentralized nature. Cryptos often record the highest trading volume in almost all the exchanges it’s listed on. </p>
+                        <br>
+                        <p class="fs-six mx-ch">When you choose to trade derivatives on cryptos, like Bitcoin, the price is usually quoted against the US dollar. So, you’re selling dollars to buy bitcoins. </p>
+                        <br>
+                        <p class="fs-six mx-ch">Factors that can affect the price of cryptocurrencies are their supply and market demands, regulation, news and media, and price speculation.</p>
+                        <br>
+                        <p class="fs-six mx-ch">We at TradersEra offer you the opportunity to trade derivatives on popular cryptos with 24-hour trading along with the ability to trade on rising as well as falling prices.</p>
                     </div>
                 </div>
                 <div class="col-md-8 col-lg-6">
@@ -50,45 +53,44 @@
         <div class="container">
             <div class="row justify-content-center text-center mb-10 mb-lg-15">
                 <div class="col-md-8 col-xl-5">
-                    <h3>Apply Today</h3>
-                    <p class="mt-5">We're constantly improving our trading platform, trying to make it the best on the market.</p>
+                    <h3>How is TradersEra reliable?</h3>
                 </div>
             </div>
             <div class="row gy-6">
                 <div class="col-lg-6 col-xxl-6">
                     <div class="apply-card nb3-bg cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                       <h3 class="mb-4">Software Developer</h3>
-                       <p>Trading doesn't have to be a solitary adventure. Join online trading communities, forums, and social media groups to connect with experienced traders, share insights, and learn from others.</p>
+                       <h3 class="mb-4">Tight Spreads</h3>
+                       <p>With an aim to provide the lowest spreads possible during all market conditions, we regularly add and tweak our technology only for you.</p>
                     </div>
                 </div>
                 <div class="col-lg-6 col-xxl-6">
                     <div class="apply-card nb3-bg cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                       <h3 class="mb-4">Flutter Developer</h3>
-                       <p>Trading doesn't have to be a solitary adventure. Join online trading communities, forums, and social media groups to connect with experienced traders, share insights, and learn from others.</p>
+                       <h3 class="mb-4">Quick Execution</h3>
+                       <p>TradersEra utilises enterprise-level hardware on its trade servers to ensure the lowest latency and fastest trade execution only for you.</p>
                     </div>
                 </div>
                 <div class="col-lg-6 col-xxl-6">
                     <div class="apply-card nb3-bg cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                       <h3 class="mb-4">Crypto marketer</h3>
-                       <p>Trading doesn't have to be a solitary adventure. Join online trading communities, forums, and social media groups to connect with experienced traders, share insights, and learn from others.</p>
+                       <h3 class="mb-4">Trust and Transparency</h3>
+                       <p>TradersEra is a regulated broker that applies raw spreads on most of its account types. With no requotes, price manipulation, and restrictions, TradersEra stands strong in the market.</p>
                     </div>
                 </div>
                 <div class="col-lg-6 col-xxl-6">
                     <div class="apply-card nb3-bg cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                       <h3 class="mb-4">Data Analysist</h3>
-                       <p>Trading doesn't have to be a solitary adventure. Join online trading communities, forums, and social media groups to connect with experienced traders, share insights, and learn from others.</p>
+                       <h3 class="mb-4">Separate Accounts</h3>
+                       <p>TradersEra ensures that its client’s funds are kept in separate accounts with pre-eminent banks and completely segregated from the assets of the firm.</p>
                     </div>
                 </div>
                 <div class="col-lg-6 col-xxl-6">
                     <div class="apply-card nb3-bg cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                       <h3 class="mb-4">Data Analysist</h3>
-                       <p>Trading doesn't have to be a solitary adventure. Join online trading communities, forums, and social media groups to connect with experienced traders, share insights, and learn from others.</p>
+                       <h3 class="mb-4">Powerful Trading Platform</h3>
+                       <p>TradersEra believes in transfiguring Forex trading by allowing you direct access to the financial market using the most preferred MT5 whitelabel trading platform.</p>
                     </div>
                 </div>
                 <div class="col-lg-6 col-xxl-6">
                     <div class="apply-card nb3-bg cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                       <h3 class="mb-4">Data Analysist</h3>
-                       <p>Trading doesn't have to be a solitary adventure. Join online trading communities, forums, and social media groups to connect with experienced traders, share insights, and learn from others.</p>
+                       <h3 class="mb-4">Regulation</h3>
+                       <p>TradersEra is regulated in several jurisdictions and meets all strict financial standards as per FCA ordinances, including capital adequacy requirements.</p>
                     </div>
                 </div>
             </div>
@@ -100,48 +102,47 @@
             <div class="row justify-content-center">
                 <div class="col-lg-8 col-xxl-6">
                     <div class="heading__content mb-10 mb-lg-15 text-center">
-                        <h3 class="mb-5 mb-lg-6">Powered by a Fusion of Experts and Learners</h3>
-                        <p class="fs-six mx-ch mx-auto">We've already helped hundreds of innovative companies succeed at becoming of sensitive data. And we're just getting started.</p>
+                        <h3 class="mb-5 mb-lg-6">Why traders choose us</h3>
                     </div>
                 </div>
             </div>
             <div class="row gy-6 gy-xxl-0">
-                <div class="col-md-6 col-xxl-6">
+                <div class="col-md-6 col-xxl-3">
                     <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                             <i class="ti ti-brand-apple-arcade fs-three p1-color"></i>
                         </span>
-                       <h4 class="mt-5 mb-5">Apply</h4>
-                       <p>Trading is not without its challenges, as markets can be highly volatile and unpredictable. It requires discipline</p>
+                       <h4 class="mt-5 mb-5">Quick Deposits & Withdrawals</h4>
+                       <p>Become an TradersEra client within minutes! Register yourself, fund your chosen account, and start stock trading trouble-free.</p>
                     </div>
                 </div>
-                <div class="col-md-6 col-xxl-6">
+                <div class="col-md-6 col-xxl-3">
                     <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                             <i class="ti ti-users fs-three p1-color"></i>
                         </span>
-                       <h4 class="mt-5 mb-5">Interview</h4>
-                       <p>Trading is not without its challenges, as markets can be highly volatile and unpredictable. It requires discipline</p>
+                       <h4 class="mt-5 mb-5">No Crypto-Wallet Fuss</h4>
+                       <p>Bet only on the underlying crypto’s price and quit worrying about the safe-keeping of actual cryptocurrency with TradersEra.</p>
+                       <br>
                     </div>
-                </div>
-            </div>
-            <div class="row gy-6 gy-xxl-0 mt-5">    
-                <div class="col-md-6 col-xxl-6">
+                </div>    
+                <div class="col-md-6 col-xxl-3">
                     <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                             <i class="ti ti-wash-dry-hang fs-three p1-color"></i>
                         </span>
-                       <h4 class="mt-5 mb-5">Assessment</h4>
-                       <p>Trading is not without its challenges, as markets can be highly volatile and unpredictable. It requires discipline</p>
+                       <h4 class="mt-5 mb-5">Low Transaction Costs</h4>
+                       <p>Trade major cryptocurrencies commission free and without any exchange fees with TradersEra.</p>
+                       <br><br>
                     </div>
                 </div>
-                <div class="col-md-6 col-xxl-6">
+                <div class="col-md-6 col-xxl-3">
                     <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                             <i class="ti ti-wash-dry-hang fs-three p1-color"></i>
                         </span>
-                       <h4 class="mt-5 mb-5">Assessment</h4>
-                       <p>Trading is not without its challenges, as markets can be highly volatile and unpredictable. It requires discipline</p>
+                       <h4 class="mt-5 mb-5">Unrivalled Customer Support</h4>
+                       <p>With an experienced team backing you up during every trouble, TradersEra aims to provide you the best possible customer support 24×5.</p>
                     </div>
                 </div>
             </div>

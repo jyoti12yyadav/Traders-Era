@@ -247,6 +247,25 @@
                 <div class="col-12 border-top border-color opac-20 py-7 py-xxl-8">
                     <div class="footer__copyright d-center gap-15 flex-wrap justify-content-md-between">
                         <p class="fs-six order-2 order-md-0 text-center text-md-start">Copyright ©<span class="currentYear"></span> Tradez <span>|</span> Designed By <a href="https://themeforest.net/user/uiaxis" class="p1-color"> UIAXIS</a> </p>
+                      
+                        <ul class=" d-center gap-2 gap-md-3">
+                        <li>
+                                <a class="n2-color" href="terms-condition.php">Terms & Conditions</a>
+                            </li>
+                            <li>
+                                <a class="n2-color" href="risk-disclaimer.php">Risk Disclaimer</a>
+                            </li>
+                            
+                            <li>
+                                <a class="n2-color" href="privacy-policy.php">Privacy Policy</a>
+                            </li>
+                            <li>
+                                <a class="n2-color" href="aml-kyc.php">AML & KYC Policy</a>
+                            </li>
+                         
+                        </ul>
+                      
+                      
                         <ul class="social-area d-center gap-2 gap-md-3">
                             <li>
                                 <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-facebook"></i></a>
