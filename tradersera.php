@@ -32,11 +32,8 @@
                 </div>
                 <div class="col-lg-6 col-xxl-5">
                     <div class="trade_on__content">
-                        <!-- <span class="heading p1-color fs-five mb-5">Trade On Our</span> -->
                         <h3 class="mb-4 mb-lg-5">TradersEra</h3>
-                        <p class="fs-six mx-ch">Welcome to TradersEra , your premier forex and commodities broker. We provide transparent access to global markets, offer the dominant MT5 trading platform, ensure lightning-fast execution, and deliver dedicated technical support. Trade under optimal conditions with us, featuring competitive spreads, deep liquidity, and tailored trading options. Join TradersEra today and pursue your financial goals with confidence.</p>   
-<!--                        
-                        <a href="signup.html" class="cmn-btn fs-six-up nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-3 py-lg-3 px-lg-4 mt-7 mt-xxl-8">Sign up Now <i class="ti ti-arrow-right fs-four"></i></a> -->
+                        <p class="fs-six mx-ch">Welcome to TradersEra , your premier forex and commodities broker. We provide transparent access to global markets, offer the dominant MT5 trading platform, ensure lightning-fast execution, and deliver dedicated technical support. Trade under optimal conditions with us, featuring competitive spreads, deep liquidity, and tailored trading options. Join TradersEra today and pursue your financial goals with confidence.</p>
                     </div>
                 </div>
             </div>
@@ -60,7 +57,7 @@
                 <div class="col-md-6 col-xxl-4">
                     <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                            <i class="ti ti-users-group fs-three p1-color"></i>
+                            <img src="assets/images/icon/regulation.png" alt="Strong">
                         </span>
                        <h4 class="mt-5 mb-5"> Regulatory Compliance</h4>
                        <p> TradersEra guarantees compliance with established financial authorities by closely adhering to regulatory norms. Our dedication to operating with integrity and openness, giving clients peace of mind and the assurance of fair business practices, is exemplified by our commitment to regulatory compliance</p>
@@ -70,18 +67,17 @@
                 <div class="col-md-6 col-xxl-4">
                     <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                            <i class="ti ti-tool fs-three p1-color"></i>
+                            <img src="assets/images/icon/quality.png" alt="Strong">
                         </span>
                        <h4 class="mt-5 mb-5">Expert Group</h4>
-                       <p>TradersEra provides expertise you can rely on, with a team of seasoned individuals boasting years of experience in the financial business. Our team, which consists of qualified support employees and talented traders, is prepared to offer professional advice and assistance, building our clients' trust and confidence.
-</p>
+                       <p>TradersEra provides expertise you can rely on, with a team of seasoned individuals boasting years of experience in the financial business. Our team, which consists of qualified support employees and talented traders, is prepared to offer professional advice and assistance, building our clients' trust and confidence.</p>
                    <br>
                     </div>
                 </div>
                 <div class="col-md-6 col-xxl-4">
                     <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                            <i class="ti ti-brand-stackshare fs-three p1-color"></i>
+                            <img src="assets/images/icon/strong-box.png" alt="Strong">
                         </span>
                        <h4 class="mt-5 mb-5">Strong Security Procedures</h4>
                        <p>At TradersEra , the protection of our clients' money and private data is of highest priority. We use advanced safety methods, such as secure payment gateways and encryption protocols, to guard against unwanted access and preserve the assets of our clients. You may trade with confidence knowing that your investments are safeguarded when you use TradersEra .</p>
