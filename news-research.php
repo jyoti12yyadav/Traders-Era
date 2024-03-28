@@ -68,7 +68,7 @@
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <i class="ti ti-currency-dollar-brunei  fs-three p1-color"></i>
+                    <img src="assets/images/icon/market-research.png" alt="Imgae">
                     </span>
                     <h4 class="mt-5 mb-5">Market Insights</h4>
                     <p>Explore our comprehensive market insights section, where you'll find up-to-the-minute analysis on
@@ -81,7 +81,7 @@
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <i class="ti ti-brand-cakephp fs-three p1-color"></i>
+                    <img src="assets/images/icon/world-news.png" alt="Imgae">
                     </span>
                     <h4 class="mt-5 mb-5">Breaking News</h4>
                     <p>Stay informed with real-time updates on significant events, economic indicators, central bank
@@ -93,7 +93,7 @@
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <i class="ti ti-broadcast fs-three p1-color"></i>
+                    <img src="assets/images/icon/education.png" alt="Imgae">
                     </span>
                     <h4 class="mt-5 mb-5">Educational Resources</h4>
                     <p>Knowledge is power. Enhance your trading skills and deepen your understanding of forex markets
@@ -120,7 +120,7 @@
                 <div class="col-md-6 col-xxl-4">
                     <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                            <i class="ti ti-currency-dollar-brunei  fs-three p1-color"></i>
+                        <img src="assets/images/icon/technical.png" alt="Imgae">
                         </span>
                         <h4 class="mt-5 mb-5">Technical Analysis</h4>
                         <p>Unlock the power of technical analysis with our comprehensive charts, indicators, and technical insights. Whether you're interested in chart patterns, Fibonacci retracements, or oscillators, our technical analysis tools empower you to identify potential trade opportunities and optimize your entry and exit points.
@@ -130,7 +130,7 @@
                 <div class="col-md-6 col-xxl-4">
                     <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                            <i class="ti ti-brand-cakephp fs-three p1-color"></i>
+                        <img src="assets/images/icon/fundamental.png" alt="Imgae">
                         </span>
                         <h4 class="mt-5 mb-5">Fundamental Analysis</h4>
                         <p>Understand the fundamental drivers behind currency movements with our in-depth analysis of economic data releases, central bank policies, and macroeconomic trends. Our fundamental analysis equips you with the knowledge to interpret market fundamentals and anticipate future market trends.</p>
@@ -140,7 +140,7 @@
                 <div class="col-md-6 col-xxl-4">
                     <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                            <i class="ti ti-broadcast fs-three p1-color"></i>
+                        <img src="assets/images/icon/research.png" alt="Imgae">
                         </span>
                         <h4 class="mt-5 mb-5">Research Reports</h4>
                         <p>Dive deep into the forex market with our research reports, which provide detailed analysis and forecasts on key currency pairs and market trends. Whether you're interested in short-term trading opportunities or long-term investment strategies, our research reports offer valuable insights to guide your decision-making proces</p>
