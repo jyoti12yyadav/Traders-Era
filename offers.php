@@ -46,7 +46,7 @@
             </div>
             <div class="col-md-8 col-lg-6">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/trade_on.png" alt="Imgae">
+                    <img src="assets/images/unlock_offers.png" alt="Imgae">
                 </div>
             </div>
         </div>
@@ -74,10 +74,10 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10">
-                <h3 class="mb-7 mb-lg-8"> Seize this opportunity before it's gone!</h3>
+                <h3 class="mb-7 mb-lg-8 text-center"> Seize this opportunity before it's gone!</h3>
                 <div class="market-details__card">
                     <div class="market-details__thumbs position-relative">
-                        <img src="assets/images/market_details.png" alt="Image" class="cus-rounded-2 w-100">
+                        <img src="assets/images/offers.png" alt="Image" class="cus-rounded-2 w-100">
                     </div>
                     <div class="market-details__content d-flex flex-column gap-5 gap-lg-6 mt-5 mt-lg-6">
                         <p>Join our newsletter and follow us on social media By joining our network, you'll get unique early access to bonus bulletins, so you're  continuously being aware and by no means leave out opportunities to make your buying and selling experience even better
