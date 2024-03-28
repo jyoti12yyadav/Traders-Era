@@ -180,67 +180,6 @@
         </div>
     </div>
 </section>
-<<<<<<< HEAD
-<!-- Customers end -->   
-
 
 <?php include("includes/footer.php"); ?>
 
-
-
-
-
-=======
-<div class="container">
-    <div class="col-lg-12 col-xxl-12 pb-120">
-        <div class="trade_on__content">
-            <span class="heading s1-color fs-five mb-5 text-center">Trade On Our</span>
-            <h3 class="mb-4 mb-lg-5 d-flex justify-content-center">World Class Platform</h3>
-            <p class="fs-six mx-ch d-flex justify-content-center">Trading in financial markets involves a wide range of
-                strategies that traders employ
-                to make informed decisions. From trading to swing trading and long-term investing, each strategy has its
-                own set of principles and risk factors.</p>
-            <ul class="d-flex gap-4 flex-column mt-6">
-                <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                        class="ti ti-circle-check s1-color fs-four"></i>Charts trading</li>
-                <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                        class="ti ti-circle-check s1-color fs-four"></i>Understanding Trading Strategies </li>
-                <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                        class="ti ti-circle-check s1-color fs-four"></i>Risk Management in Trading </li>
-                <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                        class="ti ti-circle-check s1-color fs-four"></i>Technical vs. Fundamental Analysis </li>
-            </ul>
-            <a href="signup.html"
-                class="cmn-btn secondary-alt fs-six-up nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6 mt-7 mt-xxl-8">Sign
-                up Now <i class="ti ti-arrow-right fs-four"></i></a>
-        </div>
-    </div>
-</div>
-
-<div class="col-md-6 col-xxl-4">
-    <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-        <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-            <i class="ti ti-broadcast fs-three p1-color"></i>
-        </span>
-        <h4 class="mt-5 mb-5">Fundamental Analysis</h4>
-        <p>Understand the fundamental drivers behind currency movements with our in-depth analysis of economic data
-            releases, central bank policies, and macroeconomic trends. Our fundamental analysis equips you with the
-            knowledge to interpret market fundamentals and anticipate future market trends.</p>
-    </div>
-</div>
-
-
-<div class="col-md-6 col-xxl-4">
-    <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-        <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-            <i class="ti ti-broadcast fs-three p1-color"></i>
-        </span>
-        <h4 class="mt-5 mb-5">Research Reports</h4>
-        <p>Dive deep into the forex market with our research reports, which provide detailed analysis and forecasts on
-            key currency pairs and market trends. Whether you're interested in short-term trading opportunities or
-            long-term investment strategies, our research reports offer valuable insights to guide your decision-making
-            process./p>
-    </div>
-</div>
-<?php include("includes/footer.php"); ?>
->>>>>>> 9a0d25486772a1d7e7c07e011f0f6375fc541230
