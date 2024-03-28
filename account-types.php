@@ -103,9 +103,9 @@
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <i class="ti ti-file fs-three p1-color"></i>
+                       <img src="assets/images/icon/trading_exp.png">
                     </span>
-                    <h4 class="mt-5 mb-5">Straightforward Trading Experience:</h4>
+                    <h4 class="mt-5 mb-5">Straightforward Trading Experience</h4>
                     <p> Ideal for traders who maintain long-term positions or trade infrequently, the Combined Plus
                         Account offers a simple and hassle-free trading experience.
                     </p>
@@ -114,10 +114,10 @@
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <i class="ti ti-world fs-three p1-color"></i>
+                        <img src="assets/images/icon/no-fee.png">
                     </span>
                     <h4 class="mt-5 mb-5">
-                        No Commission Fees:
+                        No Commission Fees
                     </h4>
                     <p>Enjoy trading without commission fees, reducing your trading costs and maximizing your potential
                         returns.</p>
@@ -129,10 +129,10 @@
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <i class="ti ti-shield-lock-filled fs-three p1-color"></i>
+                        <img src="assets/images/icon/flexible_trade.png">
                     </span>
                     <h4 class="mt-5 mb-5">
-                        Flexible Trading Options:
+                        Flexible Trading Options
                     </h4>
                     <p>Whether you're a long-term investor or a sporadic trader, the Combined Plus Account caters to
                         your needs with its versatility and accessibility.
