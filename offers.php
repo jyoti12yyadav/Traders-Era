@@ -80,15 +80,9 @@
                         <img src="assets/images/offers.png" alt="Image" class="cus-rounded-2 w-100">
                     </div>
                     <div class="market-details__content d-flex flex-column gap-5 gap-lg-6 mt-5 mt-lg-6">
-                        <p>Looking to stay updated on all the fantastic bonuses coming your way? Be sure to subscribe to
-                            our newsletter and follow us on social media. By becoming a part of our community, you'll
-                            receive exclusive early access to bonus announcements, ensuring you're always in the loop
-                            and never miss out on exciting opportunities to enhance your trading experience.</p>
-                        <p>We understand trading is more than just making money. It's a passion, a journey full of highs
-                            and lows that demands commitment and assistance. That's why we're excited to introduce
-                            upcoming bonuses that will not only enhance your potential but also bring excitement to
-                            every trade. Prepare yourself for a trading atmosphere brimming with enthusiasm and
-                            anticipation.</p>
+                        <p>Join our newsletter and follow us on social media By joining our network, you'll get unique early access to bonus bulletins, so you're  continuously being aware and by no means leave out opportunities to make your buying and selling experience even better
+.</p>
+                        <p>Trading goes beyond just making money. It's a thrilling journey of highs and lows that demands commitment and encouragement. We are excited to share news about upcoming bonuses that will not only enhance your trading capabilities but also inject vitality into each trade. Brace yourself for a trading atmosphere brimming with enthusiasm and thrill.</p>
 
                     </div>
                 </div>
