@@ -24,7 +24,7 @@
             <div class="col-lg-10">
                 <div class="market-details__card">
                     <div class="market-details__thumbs position-relative">
-                        <img src="assets/images/market_details.png" alt="Image" class="cus-rounded-2 w-100">
+                        <img src="assets/images/become an ib section 1.png" alt="Image" class="cus-rounded-2 w-100">
                     </div>
                     <div class="market-details__content d-flex flex-column gap-5 gap-lg-6 mt-5 mt-lg-6">
                         <p>The TradersEra IB program is designed to give both corporate and individual clients the chance

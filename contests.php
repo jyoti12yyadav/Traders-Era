@@ -35,11 +35,10 @@
                     <div class="col-xxl-12 mt-8 mt-md-10 mt-xxl-13">
                         <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
                             <div class="content">
-                            <h3 class="mb-3 mt-5">A little bit of fun to your Journey</h3>
-                            <p class="mb-4">
-Ready to showcase your trading prowess? Join in on the excitement of our forex contests.</p>
+                            <h3 class="mb-3 mt-5">Contests – a little bit of fun to your Journey</h3>
+                            <p class="mb-4">Ready to showcase your trading prowess? Join in on the excitement of our forex contests</p>
                             <p class="mb-4">Join our upcoming event and compete with traders worldwide for awesome prizes, impressive titles, and the opportunity to explore exciting new market opportunities.</p>
-                            <p class="mb-4">Just don't forget, each contest has its very own terms and situations, so make certain to provide them a study and take delivery of them earlier than diving in.</p>
+                            <p class="mb-4">Just remember, each contest has its own terms and conditions, so be sure to give them a read and accept them before diving in</p>
                             </div>
                         </div>
                     </div>
@@ -71,9 +70,7 @@ Ready to showcase your trading prowess? Join in on the excitement of our forex c
             </div>
             <div class="col-lg-6 col-xxl-5">
             <div class="company-story__thumbs d-center">
-                    <img src="assets/images/company_story.png" class="cus-rounded-1 w-100" alt="Imgae">
-                    <a href="https://www.youtube.com/watch?v=BHACKCNDMW8"
-                        class="popup-video btn-popup-animation position-absolute d-center rounded-circle">
+                    <img src="assets/images/promotion contest.png" class="cus-rounded-1 w-100" alt="Imgae">
                         <i class="fa-solid fa-play fs-four"></i>
                     </a>
                 </div>

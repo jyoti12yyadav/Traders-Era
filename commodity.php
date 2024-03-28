@@ -48,7 +48,7 @@
             </div>
             <div class="col-md-8 col-lg-6">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/trade_on.png" alt="Imgae">
+                    <img src="assets/images/what is comadity trading.png" alt="Imgae">
                 </div>
             </div>
         </div>

@@ -42,7 +42,7 @@
                 </div>
                 <div class="col-md-8 col-lg-6">
                     <div class="trade_on__thumbs d-flex justify-content-end">
-                        <img src="assets/images/trade_on.png" alt="Imgae">
+                        <img src="assets/images/crypto section 1.png" alt="Imgae">
                     </div>
                 </div>
             </div>
@@ -112,7 +112,7 @@
                 <div class="col-md-6 col-xxl-3">
                     <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                            <i class="ti ti-brand-apple-arcade fs-three p1-color"></i>
+                            <img src="assets/images/icon/time.png" alt="time">
                         </span>
                        <h4 class="mt-5 mb-5">Quick Deposits & Withdrawals</h4>
                        <p>Become an TradersEra client within minutes! Register yourself, fund your chosen account, and start stock trading trouble-free.</p>
@@ -121,7 +121,7 @@
                 <div class="col-md-6 col-xxl-3">
                     <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                            <i class="ti ti-users fs-three p1-color"></i>
+                            <img src="assets/images/icon/wallet.png" alt="wallet">
                         </span>
                        <h4 class="mt-5 mb-5">No Crypto-Wallet Fuss</h4>
                        <p>Bet only on the underlying crypto’s price and quit worrying about the safe-keeping of actual cryptocurrency with TradersEra.</p>
@@ -131,7 +131,7 @@
                 <div class="col-md-6 col-xxl-3">
                     <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                            <i class="ti ti-wash-dry-hang fs-three p1-color"></i>
+                            <img src="assets/images/icon/low-price.png" alt="low-price">
                         </span>
                        <h4 class="mt-5 mb-5">Low Transaction Costs</h4>
                        <p>Trade major cryptocurrencies commission free and without any exchange fees with TradersEra.</p>
@@ -141,7 +141,7 @@
                 <div class="col-md-6 col-xxl-3">
                     <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                            <i class="ti ti-wash-dry-hang fs-three p1-color"></i>
+                            <img src="assets/images/icon/customer-service.png" alt="customer">
                         </span>
                        <h4 class="mt-5 mb-5">Unrivalled Customer Support</h4>
                        <p>With an experienced team backing you up during every trouble, TradersEra aims to provide you the best possible customer support 24×5.</p>

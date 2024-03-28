@@ -20,7 +20,7 @@
     <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
         <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
             <div class="trade_on__thumbs d-flex justify-content-end">
-                <img src="assets/images/education.png" alt="Imgae">
+                <img src="assets/images/account sec1.png" alt="Imgae">
             </div>
         </div>
         <div class="col-md-10 col-lg-6 col-xxl-5">

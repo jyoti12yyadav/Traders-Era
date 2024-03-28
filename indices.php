@@ -41,7 +41,7 @@
             </div>
             <div class="col-md-8 col-lg-6">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/trade_on.png" alt="Imgae">
+                    <img src="assets/images/indices and indices trading sections 1.png" alt="Imgae">
                 </div>
             </div>
         </div>
@@ -101,7 +101,7 @@
                 <div class="col-md-6 col-xxl-4">
                     <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                            <i class="ti ti-brand-apple-arcade fs-three p1-color"></i>
+                            <img src="assets/images/icon/application.png" alt="application">
                         </span>
                        <p>Register yourself and open a Live account by submitting the online application.</p>
                     </div>
@@ -109,7 +109,7 @@
                 <div class="col-md-6 col-xxl-4">
                     <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                            <i class="ti ti-users fs-three p1-color"></i>
+                            <img src="assets/images/icon/money-bag.png" alt="money-bag">
                         </span>
                        <p>Fund your chosen account type and place your first trade.</p>
                     </div>
@@ -117,7 +117,7 @@
                 <div class="col-md-6 col-xxl-4">
                     <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                            <i class="ti ti-wash-dry-hang fs-three p1-color"></i>
+                            <img src="assets/images/icon/stock-market.png" alt="stock-market">
                         </span>
                        <p>Explore our indices offering in the most preferred MT5 trading platform.</p>
                     </div>
