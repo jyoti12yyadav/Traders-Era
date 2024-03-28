@@ -1,8 +1,16 @@
 <!-- Footer Section Starts -->
+
+
 <style>
+
+.col-xxl-8 {
+    flex: 0 0 auto;
+    width: 100.666667%;
+}
+
     .social-area {
         margin-left: -65px;
-        margin-top: 25px;
+        /* margin-top: 25px; */
     }
 </style>
 <footer class="footer a2-bg position-relative pt-15 pt-lg-0 z-0 ">
@@ -105,65 +113,65 @@
                 </div>
             </div>
 
-            
 
 
 
-<div class="col-6 col-lg-2">
-    <div class="footer__part">
-        <h4 class="mb-6 mb-lg-8">Tools</h4>
 
-        <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
-            <li>
-                <a class="n2-color" href="economic-calendar.php">Economic Calendar</a>
-            </li>
-            <li>
-                <a class="n2-color" href="news-research.php">News & Research</a>
-            </li>
+            <div class="col-6 col-lg-2">
+                <div class="footer__part">
+                    <h4 class="mb-6 mb-lg-8">Tools</h4>
 
-
-            <li>
-                <a class="n2-color" href="academy.php">Academy</a>
-            </li>
-
-        </ul>
-        <h4 class="mb-6 mb-lg-8 mt-4">Partners</h4>
-
-        <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4 mb-4">
-            <li>
-                <a class="n2-color" href="become-an-ib.php">Become An IB</a>
-            </li>
-            <li>
-                <a class="n2-color" href="faq.php">FAQ</a>
-            </li>
+                    <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
+                        <li>
+                            <a class="n2-color" href="economic-calendar.php">Economic Calendar</a>
+                        </li>
+                        <li>
+                            <a class="n2-color" href="news-research.php">News & Research</a>
+                        </li>
 
 
-        </ul>
-    </div>
-</div>
+                        <li>
+                            <a class="n2-color" href="academy.php">Academy</a>
+                        </li>
 
-<div class="col-6 col-lg-2">
-    <div class="footer__part">
+                    </ul>
+                    <h4 class="mb-6 mb-lg-8 mt-4">Partners</h4>
 
-        <h4 class="mb-6 mb-lg-8">About Us</h4>
-        <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
-            <li>
-                <a class="n2-color" href="tradersera.php">Tradersera</a>
-            </li>
-            <li>
-                <a class="n2-color" href="safety-of-funds.php">Safety of Funds</a>
-            </li>
+                    <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4 mb-4">
+                        <li>
+                            <a class="n2-color" href="become-an-ib.php">Become An IB</a>
+                        </li>
+                        <li>
+                            <a class="n2-color" href="faq.php">FAQ</a>
+                        </li>
 
-            <li>
-                <a class="n2-color" href="regulatory.php">Regulatory</a>
-            </li>
-            <li>
-                <a class="n2-color" href="help-center.php">Help Center</a>
-            </li>
 
-        </ul>
-    </div>
-</div>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="col-6 col-lg-2">
+                <div class="footer__part">
+
+                    <h4 class="mb-6 mb-lg-8">About Us</h4>
+                    <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
+                        <li>
+                            <a class="n2-color" href="tradersera.php">Tradersera</a>
+                        </li>
+                        <li>
+                            <a class="n2-color" href="safety-of-funds.php">Safety of Funds</a>
+                        </li>
+
+                        <li>
+                            <a class="n2-color" href="regulatory.php">Regulatory</a>
+                        </li>
+                        <li>
+                            <a class="n2-color" href="help-center.php">Help Center</a>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
 
 
             <!-- <div class="col-6 col-lg-3">
@@ -178,14 +186,52 @@
             </div> -->
 
 
+<!--Privacy & Policy start-->
+<section class="privacy-policy ">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-10 col-xxl-8">
+                <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
+                    <h2 class="text-center ">Disclaimer</h2>
+                    <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Risk Warning :</h5>
+                            <p>Please note that foreign exchange, cryptocurrency and other leveraged trading &
+                                investments involve significant risk of loss. It is not suitable for all investors and
+                                you should make sure you understand the risks involved, seeking independent advice if
+                                necessary.
+                            </p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Regional Restrictions:</h5>
+                            <p class="mt-4 mb-5"> It is the responsibility of the Client to ascertain whether he/she is
+                                permitted to use the services of TradersEra based on the legal requirements in his/her
+                                country of residence.
+                                </p>
+                            <p class="mt-4 mb-5">TradersEra does not provide services to residents of the USA, Japan,
+                                Canada, Australia, the Democratic Republic of Korea, European Union, United Kingdom.
+                            </p>
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--Privacy & Policy end -->
 
 
 
 
             <div class="row">
-                <div class="col-12 border-top border-color opac-20 py-7 py-xxl-8">
-                    <div class="footer__copyright d-center gap-15 flex-wrap justify-content-md-between">
-                        <p class="fs-six order-2 order-md-0 text-center text-md-start">Copyright ©<span
+               
+                <div class="col-12 border-top border-color opac-20 py-7 py-xxl-8 ">
+                    
+                    <div class="footer__copyright d-center gap-15 flex-wrap justify-content-md-between ">
+                    
+                        <p class="fs-six order-2 order-md-0 text-center text-md-start ">Copyright ©<span
                                 class="currentYear"></span> Tradez <span>|</span> Designed By <a
                                 href="https://themeforest.net/user/uiaxis" class="p1-color"> UIAXIS</a> </p>
 
@@ -246,19 +292,3 @@
 <!-- Mirrored from pixner.net/tradez/main/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 16 Jan 2024 07:19:07 GMT -->
 
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
