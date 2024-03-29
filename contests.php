@@ -35,7 +35,7 @@
                     <div class="col-xxl-12 mt-8 mt-md-10 mt-xxl-13">
                         <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
                             <div class="content">
-                            <h3 class="mb-3 mt-5">Contests – a little bit of fun to your Journey</h3>
+                            <h3 class="mb-3 mt-5">A little bit of fun to your Journey</h3>
                             <p class="mb-4">Ready to showcase your trading prowess? Join in on the excitement of our forex contests</p>
                             <p class="mb-4">Join our upcoming event and compete with traders worldwide for awesome prizes, impressive titles, and the opportunity to explore exciting new market opportunities.</p>
                             <p class="mb-4">Just remember, each contest has its own terms and conditions, so be sure to give them a read and accept them before diving in</p>

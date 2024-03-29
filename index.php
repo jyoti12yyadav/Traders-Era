@@ -142,9 +142,7 @@
                                     </div>
                                     <span class="heading p1-max-xxl nb4-xxl-color fs-five mb-3">Master the
                                         Markets</span>
-                                    <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Trade Smart with TradingEra</h1>
-                                    <p class="fs-six-up fw_500 nb4-xxl-color">TradingEra helps you trade smarter with
-                                        tools and insights, making navigating financial markets easier.</p>
+                                    <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Trade Smart With AI Trading And Make Profit</p>
                                     <div
                                         class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8 mt-lg-10">
                                         <a href="signup.html"
@@ -205,10 +203,10 @@
                                     </div>
                                     <span class="heading p1-max-xxl nb4-xxl-color fs-five mb-3">Empower Your
                                         Trades</span>
-                                    <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Maximize Your Potential with
-                                        TradingEra</h1>
-                                    <p class="fs-six-up fw_500 nb4-xxl-color">Trade smarter with TradingEra's insights,
-                                        maximizing your financial potential.</p>
+                                    <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Binary Trading Is Now Possible with TradersEra
+</h1>
+                                    <!-- <p class="fs-six-up fw_500 nb4-xxl-color">Trade smarter with TradingEra's insights,
+                                        maximizing your financial potential.</p> -->
                                     <div
                                         class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8 mt-lg-10">
                                         <a href="signup.html"
@@ -276,8 +274,9 @@
         <div class="row justify-content-center">
             <div class="col-lg-8 col-xxl-7">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <span class="heading p1-color fs-five mb-5">Global Trust, Unbeatable Rates</span>
-                    <h2 class="mb-5 mb-lg-6">Why Traders Choose TradersEra</h2>
+                    <!-- <span class="heading p1-color fs-five mb-5">Global Trust, Unbeatable Rates</span> -->
+                    <h2 class="mb-5 mb-lg-6">What Makes TradersEra Different 
+</h2>
                 </div>
             </div>
         </div>
@@ -293,7 +292,7 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">CRYPTO AND FX LEVERAGE</h3>
+                                        <h3 class="">Binary Trading Available</h3>
 
                                         <span>1:500</span>
                                     </div>
@@ -310,7 +309,7 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">NO DOWNLOADS REQUIRED</h3>
+                                        <h3 class="">No Downloads Required</h3>
 
                                         <span>Our web-based platform supports all operating systems.</span>
                                     </div>
@@ -327,7 +326,8 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">LOWEST TRADING FEES</h3>
+                                        <h3 class="">AI Trading Available
+</h3>
 
                                         <span>Guaranteed</span>
                                     </div>
@@ -349,7 +349,8 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">INSTANT ACCOUNT OPENING</h3>
+                                        <h3 class="">Advantage Of Forex And Crypto
+</h3>
 
                                         <span>No KYC</span>
                                     </div>
@@ -366,7 +367,7 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">SECURE FUNDING</h3>
+                                        <h3 class="">Secure Funding</h3>
 
                                         <span>Direct from your crypto wallet</span>
                                     </div>
@@ -383,9 +384,10 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">FAST WITHDRAWALS</h3>
+                                        <h3 class="">Customer Centric Approach
+</h3>
 
-                                        <span>Twenty-four hours a day, seven days a week</span>
+                                        <span> Raise a Ticket and resolve problem real quick.</span>
                                     </div>
 
                                 </div>
@@ -504,6 +506,7 @@
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <i class="ti ti-users fs-three p1-color"></i>
+                       
                     </span>
                     <h4 class="mt-5 mb-5">Sign Up</h4>
                     <p>Create your account quickly and securely.</p>
@@ -546,10 +549,8 @@
             class="row gy-10 gy-xl-0 justify-content-center justify-content-lg-between align-items-center align-items-xxl-end">
             <div class="col-lg-6 col-xxl-5 pb-0 pt-120 pb-lg-120">
                 <div class="customers__content me-xxl-18">
-                    <h3 class="mb-4">Your Go-To for Crypto Trading</h3>
-                    <p class="mx-ch">At TradingEra, we specialize in what we do best – Crypto trading. Our platform is
-                        designed to provide you with a simple, secure, and seamless experience, ensuring you can trade
-                        cryptocurrencies with confidence.</p>
+                    <h2 class="mb-4">Friendly Funding Options</h2>
+                    <p class="mx-ch">At TradersEra we've got all your account funding needs sorted. Whether you fancy the ease of Visa or Mastercard, the trustworthiness of a wire transfer or the modern touch of cryptocurrency we offer a range of options to kick off smoothly. Pick the approach that suits you and dive into trading</p>
                     <ul class="list_divided d-flex flex-wrap gap-5 mt-5 mt-xxl-6">
                         <li class="d-flex align-items-center gap-3 fs-six-up"><i
                                 class="ti ti-circle-check s1-color fs-four"></i>Expertise</li>
@@ -820,73 +821,7 @@
     </section> -->
 <!-- Testimonial end -->
 
-<!--blog_news start-->
-<!-- <section class="blog_news pt-120 pb-120 position-relative z-0">
-        <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-            <img src="assets/images/star.png" alt="vector" class="position-absolute">
-            <img src="assets/images/vector2.png" alt="vector" class="position-absolute bottom-0 start-0">
-            <img src="assets/images/sun.png" alt="vector" class="position-absolute">
-        </div>
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="heading__content d-flex row-gap-7 gap-20 flex-wrap justify-content-between align-items-center mb-10 mb-lg-15 ">
-                    <div class="heading__part">
-                        <span class="heading s1-color fs-five mb-5">Blog</span>
-                        <h3>News & Analysis</h3>
-                    </div>
-                    <a href="blog.html" class="cmn-btn link fs-six-up  gap-2 gap-lg-3 align-items-center"> See All <i class="ti ti-arrow-right fs-four"></i></a>
-                </div>
-            </div>
-            <div class="row gy-6">
-                <div class="col-md-6 col-xxl-4">
-                    <div class="blog_news__card nb3-bg cus-rounded-1 overflow-hidden">
-                        <div class="blog_news__thumbs position-relative">
-                            <img src="assets/images/blog_news.png" alt="Image" class="w-100">
-                            <a href="#" class="border border-color second nw1-color fs-seven rounded-3 position-absolute top-0 end-0 py-1 px-3 mt-5 me-5">News</a>
-                        </div>
-                        <div class="blog_news__content py-6 py-lg-7 py-xxl-8 px-4 px-lg-5 px-xxl-6">
-                           <a href="blog-details.html"><h5 class="mb-4 mb-lg-5">Trading Psychology: Mastering Your Mind for Profit</h5></a>
-                           <div class="fs-seven fw_500 d-flex row-gap-0 flex-wrap gap-3 mb-4 mb-lg-5">August 17,2023 <span>|</span> Written by jason Turner</div>
-                           <p>Trading in financial markets involves a wide 
-                            employ to make informed decisions.</p>
-                            <a href="blog-details.html" class="link fs-five fw-semibold d-flex gap-2 gap-lg-3 align-items-center mt-6  mt-lg-8"> Continue Reading <i class="ti ti-arrow-right"></i></a>
-                       </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-xxl-4">
-                    <div class="blog_news__card nb3-bg cus-rounded-1 overflow-hidden">
-                        <div class="blog_news__thumbs position-relative">
-                            <img src="assets/images/blog_news2.png" alt="Image" class="w-100">
-                            <a href="#" class="border border-color second nw1-color fs-seven rounded-3 position-absolute top-0 end-0 py-1 px-3 mt-5 me-5">Features</a>
-                        </div>
-                        <div class="blog_news__content py-6 py-lg-7 py-xxl-8 px-4 px-lg-5 px-xxl-6">
-                           <a href="blog-details.html"><h5 class="mb-4 mb-lg-5">Trading Pitfalls Common Mistakes and How to Avoid Them...</h5></a>
-                           <div class="fs-seven fw_500 d-flex flex-wrap row-gap-0 gap-3 mb-4 mb-lg-5">August 17,2023 <span>|</span> Written by jason Turner</div>
-                           <p>Trading in financial markets involves a wide 
-                            employ to make informed decisions.</p>
-                            <a href="blog-details.html" class="link fs-five fw-semibold d-flex gap-2 gap-lg-3 align-items-center mt-6  mt-lg-8"> Continue Reading <i class="ti ti-arrow-right"></i></a>
-                       </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-xxl-4">
-                    <div class="blog_news__card nb3-bg cus-rounded-1 overflow-hidden">
-                        <div class="blog_news__thumbs position-relative">
-                            <img src="assets/images/blog_news3.png" alt="Image" class="w-100">
-                            <a href="#" class="border border-color second nw1-color fs-seven rounded-3 position-absolute top-0 end-0 py-1 px-3 mt-5 me-5">News</a>
-                        </div>
-                        <div class="blog_news__content py-6 py-lg-7 py-xxl-8 px-4 px-lg-5 px-xxl-6">
-                           <a href="blog-details.html"><h5 class="mb-4 mb-lg-5">Trading Platforms: Tools for Success in Financial Markets</h5></a>
-                           <div class="fs-seven fw_500 d-flex flex-wrap row-gap-0 gap-3 mb-4 mb-lg-5">August 17,2023 <span>|</span> Written by jason Turner</div>
-                           <p>Trading in financial markets involves a wide 
-                            employ to make informed decisions.</p>
-                            <a href="blog-details.html" class="link fs-five fw-semibold d-flex gap-2 gap-lg-3 align-items-center mt-6  mt-lg-8"> Continue Reading <i class="ti ti-arrow-right"></i></a>
-                       </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
-<!-- blog_news end -->
+
 <script>
 
     $('.slider').each(function () {
