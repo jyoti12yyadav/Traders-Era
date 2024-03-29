@@ -325,8 +325,9 @@
                                     </div>
                                     <span class="heading p1-max-xxl nb4-xxl-color fs-five mb-3">Master the
                                         Markets</span>
-                                    <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Trade Smart With AI Trading And Make Profit
-</h1>
+                                    <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Trade Smart With AI Trading And
+                                        Make Profit
+                                    </h1>
                                     <p class="fs-six-up fw_500 nb4-xxl-color">TradingEra helps you trade smarter with
                                         tools and insights, making navigating financial markets easier.</p>
                                     <div
@@ -389,9 +390,10 @@
                                     </div>
                                     <span class="heading p1-max-xxl nb4-xxl-color fs-five mb-3">Empower Your
                                         Trades</span>
-                                    <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Binary Trading Is Now Possible with TradersEra
+                                    <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Binary Trading Is Now Possible
+                                        with TradersEra
 
-</h1>
+                                    </h1>
                                     <p class="fs-six-up fw_500 nb4-xxl-color">Trade smarter with TradingEra's insights,
                                         maximizing your financial potential.</p>
                                     <div
@@ -461,8 +463,9 @@
         <div class="row justify-content-center">
             <div class="col-lg-8 col-xxl-7">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <span class="heading p1-color fs-five mb-5">Global Trust, Unbeatable Rates</span>
-                    <h2 class="mb-5 mb-lg-6">Why Traders Choose TradersEra</h2>
+                    <!-- <span class="heading p1-color fs-five mb-5">Global Trust, Unbeatable Rates</span> -->
+                    <h2 class="mb-5 mb-lg-6">What Makes TradersEra Different
+                    </h2>
                 </div>
             </div>
         </div>
@@ -480,7 +483,8 @@
                                     <div class="row">
                                         <h3 class="">Binary Trading Available</h3>
 
-                                        <span>1:500</span>
+                                        <span>Available Predict asset price changes for fixed gains or losses.
+                                        </span>
                                     </div>
 
                                 </div>
@@ -497,7 +501,8 @@
                                     <div class="row">
                                         <h3 class="">No Downloads Required</h3>
 
-                                        <span>Our web-based platform supports all operating systems.</span>
+                                        <span>Our web-based platform supports all operating systems.
+                                        </span>
                                     </div>
 
                                 </div>
@@ -513,9 +518,9 @@
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
                                         <h3 class="">AI Trading Available
-</h3>
+                                        </h3>
 
-                                        <span>Guaranteed</span>
+                                        <span>AI for trades based on algorithms and market conditions.</span>
                                     </div>
 
                                 </div>
@@ -537,7 +542,9 @@
                                     <div class="row">
                                         <h3 class="">Advantage Of Forex And Crypto</h3>
 
-                                        <span>No KYC</span>
+                                        <span> Investment opportunities across traditional and digital financial
+                                            markets.
+                                        </span>
                                     </div>
 
                                 </div>
@@ -554,7 +561,8 @@
                                     <div class="row">
                                         <h3 class="">Secure Funding</h3>
 
-                                        <span>Direct from your crypto wallet</span>
+                                        <span>Direct from your crypto wallet
+                                        </span>
                                     </div>
 
                                 </div>
@@ -691,11 +699,9 @@
 
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
-                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;">Trading Platform Web Based</h2>
-                    <p class="mx-ch">If a computer or laptop doesn't meet the requirements of a desktop trading app,
-                        it's more likely to crash during a trading session. Web trading platforms are safer since they
-                        use a remote server or cloud for calculations. Users only need to focus on their internet
-                        connection and routing speed to receive pricing data quickly and execute orders smoothly.</p>
+                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;">A Web Based Trading Platform 
+                    </h2>
+                    <p class="mx-ch">Web trading platforms are safer since they use a remote server or cloud for calculations. Users only need to focus on their internet connection and routing speed to receive pricing data quickly and execute orders smoothly. No need to download or install anything.</p>
 
                 </div>
 
@@ -705,18 +711,25 @@
                 </h5>
                 <ul class="d-flex gap-4 flex-column mt-6">
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Trading with a global broker-dealer that
-                        operates under regulatory control in multiple jurisdictions. </li>
-                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>More than 1250 instruments to choose
-                        from, Forex, cryptocurrencies, stocks, commodities, and indices.</li>
-                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Enjoy perks such as automated risk
-                        management solutions and get helpful in platform trading signals.
+                            class="ti ti-circle-check s1-color fs-four"></i>Accessible anytime and anywhere, without the need for installation.
+
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Start trading with zero risk by signing
-                        up for a Free Demo Account to practice.</li>
+                            class="ti ti-circle-check s1-color fs-four"></i>Cross-Device Compatibility, Works seamlessly across multiple devices.
+                        </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>Platform updates are hassle-free, ensuring easy access to the latest features.
+
+                    </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>Doesn't need high-end hardware, suitable for various devices.</li>
+                            <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                                class="ti ti-circle-check s1-color fs-four"></i>Compatible across various operating systems without requiring specific versions.
+                            </li>
+                            <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                                class="ti ti-circle-check s1-color fs-four"></i>Requires minimal disk space as data is stored in the cloud or on servers.
+
+                            </li>
                 </ul>
                 <!-- <a href="signup.html" class="cmn-btn secondary-alt fs-six-up nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6 mt-7 mt-xxl-8">Sign up Now <i class="ti ti-arrow-right fs-four"></i></a> -->
 
@@ -788,9 +801,39 @@
                 </div>
             </div>
         </div>
-       
+
     </div>
 </section>
+
+
+
+<div class="client_company_section py-10 p1-bg align-items-center justify-content-center">
+    <!-- Swiper -->
+    <div class="swiper client_company swiper-initialized swiper-horizontal swiper-pointer-events">
+        <div class="swiper-wrapper align-items-center" id="swiper-wrapper-f197f9099bea345e" aria-live="off"
+            style="transition-duration: 6000ms; transform: translate3d(-3086.29px, 0px, 0px);">
+            <div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="0" role="group"
+                aria-label="1 / 7" style="width: 230.571px; margin-right: 50px;">
+                <img src="/assets/images/icon/a .crypto logo.png" alt="Client Logo">
+            </div>
+            <div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="1" role="group"
+                aria-label="2 / 7" style="width: 230.571px; margin-right: 50px;">
+                <img src="/assets/images/icon/a. mastercard.png" alt="Client Logo">
+            </div>
+            <div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="2" role="group"
+                aria-label="3 / 7" style="width: 230.571px; margin-right: 50px;">
+                <img src="assets/images/icon/a. visa_logo.png" alt="Client Logo">
+            </div>
+            <div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="3" role="group"
+                aria-label="4 / 7" style="width: 230.571px; margin-right: 50px;">
+                <img src="assets/images/icon/a. Wire Transfer.png" alt="Client Logo">
+            </div>
+            
+        </div>
+        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+    </div>
+</div>
+
 <!-- People Trust end -->
 
 <!--Testimonial start-->
