@@ -139,7 +139,7 @@
 
                     <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4 mb-4">
                         <li>
-                            <a class="n2-color" href="become-an-ib.php">Become An IB</a>
+                            <a class="n2-color" href="become-an-iB.php">Become An IB</a>
                         </li>
                         <li>
                             <a class="n2-color" href="faq.php">FAQ</a>
