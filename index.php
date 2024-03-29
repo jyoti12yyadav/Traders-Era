@@ -812,19 +812,20 @@
                 <div class="row ms-xl-3 ms-xxl-10">
                     <div class="col-xxl-12">
                         <div class="">
-                            <h3 class="mb-3 mt-5">Easy Deposits and Friendly Support</h3>
+                            <h3 class="mb-3 mt-5">Friendly Funding Options</h3>
                             <p>
-                                At TradersEra, we have made depositing funds a breeze! With our consumer friendly
-                                platform, It is easy to deposit price range in just a few clicks. Plus, maximum
-                                transactions are processed immediately, so you can start trading right away without any
-                                waiting times.
+                                At TradersEra we've got all your account funding needs sorted. Whether you fancy the
+                                ease of Visa or Mastercard, the trustworthiness of a wire transfer or the modern touch
+                                of cryptocurrency we offer a range of options to kick off smoothly. Pick the approach
+                                that suits you and dive into trading
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="client_company_section py-10 p1-bg align-items-center justify-content-center" style="border-radius: 10px;">
+        <div class="client_company_section py-10 p1-bg align-items-center justify-content-center"
+            style="border-radius: 10px;">
             <!-- Swiper -->
             <div class="swiper client_company swiper-initialized swiper-horizontal swiper-pointer-events">
                 <div class="swiper-wrapper align-items-center" id="swiper-wrapper-38fe1326c9563c95" aria-live="off"
