@@ -1,3 +1,4 @@
+
 <?php include("includes/header.php") ?>
     <!-- header-section start -->
 <style>
@@ -92,142 +93,25 @@ a.slide_btn {
   opacity: 1;
 }
 
-    @media only screen and (max-width: 767px) {
-        .previous_btn {
-            left: 50px;
-        }
-
-        .next_btn {
-            right: 50px;
-        }
-    }
-
-    .fs-three,
-    h3,
-    h3>a {
-        font-size: 22px;
-    }
-
-    .company-story__part {
-        border: solid 1px white;
-        padding: 30px;
-        border-radius: 19px;
-    }
-
-    .p1-xxl-bg2 {
-        background-color: #f5c06d;
-    }
-
-
-    * {
-  box-sizing: border-box;
+@media only screen and (max-width: 767px) {
+  .previous_btn {
+    left: 50px;
+  }
+  .next_btn {
+    right: 50px;
+  }
 }
-
-body {
-  font-size: 16px;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
-    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-  height: 100vh;
-  margin: 0;
-
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  overflow: hidden;
-  background-color: #ccc;
+.fs-three, h3, h3>a{
+    font-size: 22px;
 }
-
-h1 {
-  margin-bottom: 50px;
+.company-story__part{
+    border: solid 1px white;
+    padding: 30px;
+    border-radius: 19px;
 }
-
-.container {
-  text-align: center;
+.p1-xxl-bg2{
+    background-color: #f5c06d;
 }
-
-.progress-wrap {
-  max-width: 100%;
-  width: 500px;
-  margin-bottom: 40px;
-  position: relative;
-
-  display: flex;
-  justify-content: space-between;
-}
-
-.progress-wrap::before {
-  content: "";
-  width: 100%;
-  height: 4px;
-
-  position: absolute;
-  top: 50%;
-  left: 0;
-  transform: translateY(-50%);
-  z-index: -1;
-  transition: 0.3s ease-in-out;
-  background-color: #e6e6e6;
-}
-
-.progress {
-  width: 0;
-  height: 4px;
-
-  position: absolute;
-  top: 50%;
-  left: 0;
-  transform: translateY(-50%);
-  z-index: -1;
-  transition: 0.3s ease-in-out;
-  background-color: #4717a7;
-}
-
-.step {
-  width: 40px;
-  height: 40px;
-  font-weight: bold;
-
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: #333;
-  background-color: #fff;
-  border: 3px solid #e6e6e6;
-  border-radius: 50%;
-  transition: 0.3s ease-in-out;
-}
-
-.step.active {
-  border-color: #4717a7;
-}
-
-.btn {
-  margin: 10px;
-  padding: 8px 30px;
-
-  font-size: 14px;
-  color: #fff;
-  background-color: #4717a7;
-  border-radius: 10px;
-  border: 0;
-  cursor: pointer;
-  transition: transform 0.2s ease-in-out;
-  outline: none;
-}
-
-.btn:active {
-  transform: scale(0.96);
-}
-
-.btn:disabled {
-  color: #666;
-  background-color: #e6e6e6;
-  cursor: not-allowed;
-}
-
-
-
-
 </style>
 <div class="slider">
     <div class="slide_viewer">
@@ -518,54 +402,7 @@ h1 {
                 </div>
             </div>
         </div>
-    </div>
-</section> -->
-<!-- provide-world end -->
- <section class="provide-world bg nb4-bg pt-120 pb-120  position-relative z-0">
-    <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1 d-none d-md-flex">
-        <img src="assets/images/button.png" alt="vector" class="position-absolute pt-6 pt-xl-15 previewShapeRevX">
-    </div>
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-8 col-xxl-7">
-                <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <span class="heading p1-color fs-five mb-5">Quick and Seamless Trading Setup</span>
-                    <h2 class="mb-5 mb-lg-6">Start Trading in 3 Easy Steps</h2>
-                </div>
-            </div>
-        </div>
-        <div class="row gy-6 gy-xxl-0">
-            <div class="col-md-6 col-xxl-4">
-                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <i class="ti ti-users fs-three p1-color"></i>
-                    </span>
-                    <h4 class="mt-5 mb-5">Sign Up</h4>
-                    <p>Create your account quickly and securely.</p>
-                    <br>
-                </div>
-            </div>
-            <div class="col-md-6 col-xxl-4">
-                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <i class="ti ti-tools fs-three p1-color"></i>
-                    </span>
-                    <h4 class="mt-5 mb-5">Fund Your Account</h4>
-                    <p>Deposit funds using our secure payment methods.</p>
-                </div>
-            </div>
-            <div class="col-md-6 col-xxl-4">
-                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <i class="ti ti-trending-up fs-three p1-color"></i>
-                    </span>
-                    <h4 class="mt-5 mb-5">Trade</h4>
-                    <p>Explore markets, place trades, and watch your investments grow.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section> 
+    </section>
 
     <section class="customers position-relative z-0">
         <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
@@ -946,57 +783,63 @@ $('.slider').each(function() {
       display: 'block',
       left: slideLeft
     });
+    $group.animate({
+      left: animateLeft
+    }, function() {
+      $slides.eq(currentIndex).css({
+        display: 'none'
+      });
+      $slides.eq(newIndex).css({
+        left: 0
+      });
+      $group.css({
+        left: 0
+      });
+      currentIndex = newIndex;
+    });
+  }
+  
+  function advance() {
+    clearTimeout(timeout);
+    timeout = setTimeout(function() {
+      if (currentIndex < ($slides.length - 1)) {
+        move(currentIndex + 1);
+      } else {
+        move(0);
+      }
+    }, 4000);
+  }
+  
+  $('.next_btn').on('click', function() {
+    if (currentIndex < ($slides.length - 1)) {
+      move(currentIndex + 1);
+    } else {
+      move(0);
+    }
+  });
+  
+  $('.previous_btn').on('click', function() {
+    if (currentIndex !== 0) {
+      move(currentIndex - 1);
+    } else {
+      move(3);
+    }
+  });
+  
+  $.each($slides, function(index) {
+    var $button = $('<a class="slide_btn">&bull;</a>');
+    
+    if (index === currentIndex) {
+      $button.addClass('active');
+    }
+    $button.on('click', function() {
+      move(index);
+    }).appendTo('.slide_buttons');
+    bulletArray.push($button);
+  });
+  
+  advance();
+});
 
 </script>
 <?php include("includes/footer.php") ?>
-
-
-
-<section _ngcontent-c4="" class="start-steps">
-    <div _ngcontent-c4="" class="container">
-        <h2 _ngcontent-c4="" class="steps-title bold col-md-9 text-center mx-auto"> Ready to get started </h2>
-        <p _ngcontent-c4="" class="steps-description text-center">Start trading in 3 easy steps</p>
-        <div _ngcontent-c4=""
-            class="steps d-flex flex-column flex-md-row justify-content-center justify-content-md-between">
-            <div _ngcontent-c4=""
-                class="step col-12 col-md-4 d-flex mx-md-auto align-items-center flex-md-column ng-star-inserted">
-                <div _ngcontent-c4="" class="img-wrapper"><img _ngcontent-c4="" class="ng-tns-c4-1" loading="lazy"
-                        src="/assets/img/svg/step-register.svg" alt="Register">
-                    <div _ngcontent-c4="" class="counter"> 1 </div>
-                </div>
-                <div _ngcontent-c4="" class="ml-32">
-                    <p _ngcontent-c4="" class="step-title text-left text-md-center"> Register </p>
-                    <p _ngcontent-c4="" class="step-description text-left text-md-center">Create a profile<br>in less
-                        than 2 minutes.</p>
-                </div>
-            </div>
-            <div _ngcontent-c4=""
-                class="step col-12 col-md-4 d-flex mx-md-auto align-items-center flex-md-column ng-star-inserted">
-                <div _ngcontent-c4="" class="img-wrapper"><img _ngcontent-c4="" class="ng-tns-c4-1" loading="lazy"
-                        src="/assets/img/svg/step-deposit.svg" alt="Deposit funds">
-                    <div _ngcontent-c4="" class="counter"> 2 </div>
-                </div>
-                <div _ngcontent-c4="" class="ml-32">
-                    <p _ngcontent-c4="" class="step-title text-left text-md-center"> Deposit funds </p>
-                    <p _ngcontent-c4="" class="step-description text-left text-md-center">Fund your account<br>via your
-                        chosen method</p>
-                </div>
-            </div>
-            <div _ngcontent-c4=""
-                class="step col-12 col-md-4 d-flex mx-md-auto align-items-center flex-md-column ng-star-inserted">
-                <div _ngcontent-c4="" class="img-wrapper"><img _ngcontent-c4="" class="ng-tns-c4-1" loading="lazy"
-                        src="/assets/img/svg/step-trade.svg" alt="Trade">
-                    <div _ngcontent-c4="" class="counter"> 3 </div>
-                </div>
-                <div _ngcontent-c4="" class="ml-32">
-                    <p _ngcontent-c4="" class="step-title text-left text-md-center"> Trade </p>
-                    <p _ngcontent-c4="" class="step-description text-left text-md-center">Start trading with<br>a
-                        reliable broker</p>
-                </div>
-            </div>
-        </div><a _ngcontent-c4="" class="btn button red mx-auto mt-40" href="https://my.hycm.com/en/register"> Get
-            started </a>
-    </div>
-</section>
-
-
