@@ -325,7 +325,8 @@
                                     </div>
                                     <span class="heading p1-max-xxl nb4-xxl-color fs-five mb-3">Master the
                                         Markets</span>
-                                    <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Trade Smart with TradingEra</h1>
+                                    <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Trade Smart With AI Trading And Make Profit
+</h1>
                                     <p class="fs-six-up fw_500 nb4-xxl-color">TradingEra helps you trade smarter with
                                         tools and insights, making navigating financial markets easier.</p>
                                     <div
@@ -388,8 +389,9 @@
                                     </div>
                                     <span class="heading p1-max-xxl nb4-xxl-color fs-five mb-3">Empower Your
                                         Trades</span>
-                                    <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Maximize Your Potential with
-                                        TradingEra</h1>
+                                    <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Binary Trading Is Now Possible with TradersEra
+
+</h1>
                                     <p class="fs-six-up fw_500 nb4-xxl-color">Trade smarter with TradingEra's insights,
                                         maximizing your financial potential.</p>
                                     <div
@@ -532,7 +534,7 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">INSTANT ACCOUNT OPENING</h3>
+                                        <h3 class="">Advantage Of Forex And Crypto</h3>
 
                                         <span>No KYC</span>
                                     </div>
@@ -566,9 +568,9 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">FAST WITHDRAWALS</h3>
+                                        <h3 class="">Customer Centric Approach </h3>
 
-                                        <span>Twenty-four hours a day, seven days a week</span>
+                                        <span>Raise a Ticket and resolve problem real quick.</span>
                                     </div>
 
                                 </div>
