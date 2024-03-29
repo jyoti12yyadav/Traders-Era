@@ -120,6 +120,189 @@
     .p1-xxl-bg2 {
         background-color: #f5c06d;
     }
+
+
+    /* > Process Styles */
+    .process-wrap {
+        width: 55%;
+        margin: 100px auto;
+        margin-left: -50px
+    }
+
+    .process-main {
+        width: 100%;
+        min-width: 320px;
+        display: flex;
+    }
+
+    .col-3 {
+        width: 50%;
+        position: relative;
+    }
+
+    .col-3:first-child .process-step:before {
+        content: '1';
+    }
+
+    .col-3:nth-child(2) .process-step:before {
+        content: '2';
+    }
+
+    .col-3:nth-child(3) .process-step:before {
+        content: '3';
+    }
+
+    .col-3:last-child .process-step:before {
+        content: '4';
+    }
+
+    .process-main .col-3:not(:first-child):before {
+        content: "";
+        display: block;
+        position: absolute;
+        width: 100%;
+        height: 4px;
+        top: 17.5px;
+        left: calc(-50% + 17px);
+        right: 0;
+        background: #ebebeb;
+        border: 2px #ebebeb solid;
+        -o-transition: .4s;
+        -ms-transition: .4s;
+        -moz-transition: .4s;
+        -webkit-transition: .4s;
+        transition: .4s;
+    }
+
+    .process-step-cont {
+        font-family: sans-serif;
+        font-size: 16px;
+        text-transform: uppercase;
+        text-decoration: none;
+        white-space: nowrap;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        align-content: space-between;
+    }
+
+    .process-step {
+        border: 5px #ebebeb solid;
+        border-radius: 100%;
+        line-height: 0;
+        background: #959595;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        align-self: center;
+        display: flex;
+        color: #fff;
+        width: 35px;
+        height: 35px;
+        font-weight: 700;
+        margin-bottom: 7px;
+        z-index: 4;
+        cursor: pointer;
+    }
+
+    .process-label {
+        color: #959595;
+        font-weight: 600;
+        width: 100%;
+        text-align: center;
+    }
+
+    .process-dots {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        background-color: #ebebeb;
+        cursor: pointer;
+    }
+
+    .process-dot-cont {
+        display: flex;
+        justify-content: space-around;
+        align-items: stretch;
+        width: 60%;
+        padding-top: 5px;
+    }
+
+    .active-step1 .col-3:first-child .process-step,
+    .active-step1 .col-3:first-child .process-dots:first-child,
+    .active-step1-mini2 .col-3:first-child .process-step,
+    .active-step1-mini2 .col-3:first-child .process-dots:nth-child(-n+2),
+    .active-step1-mini3 .col-3:first-child .process-step,
+    .active-step1-mini3 .col-3:first-child .process-dots:nth-child(-n+3),
+    .active-step1-mini4 .col-3:first-child .process-step,
+    .active-step1-mini4 .col-3:first-child .process-dots:nth-child(-n+4) {
+        background-color: #f89828;
+    }
+
+    .active-step1-mini2 .col-3:first-child .process-dots:first-child,
+    .active-step1-mini3 .col-3:first-child .process-dots:nth-child(-n+2),
+    .active-step1-mini4 .col-3:first-child .process-dots:nth-child(-n+3) {
+        background-color: #fbcb93;
+    }
+
+    .active-step1 .col-3:first-child .process-label,
+    .active-step1-mini3 .col-3:first-child .process-label,
+    .active-step1-mini2 .col-3:first-child .process-label,
+    .active-step1-mini4 .col-3:first-child .process-label {
+        color: #f89828;
+    }
+
+    .active-step2 .col-3:first-child,
+    .active-step3 .col-3:nth-child(-n+2),
+    .active-step4 .col-3:nth-child(-n+3) {
+        opacity: 0.5;
+        /*pointer-events: none;*/
+    }
+
+    .active-step2 .col-3:first-child .process-step:before,
+    .active-step3 .col-3:nth-child(-n+2) .process-step:before,
+    .active-step4 .col-3:nth-child(-n+3) .process-step:before {
+        content: '\2713';
+        padding: 7px;
+    }
+
+    .active-step2 .col-3:nth-child(-n+2) .process-step,
+    .active-step2 .col-3:nth-child(-n+2) .process-dots,
+    .active-step3 .col-3:nth-child(-n+3) .process-step,
+    .active-step3 .col-3:nth-child(-n+3) .process-dots,
+    .active-step4 .col-3:nth-child(-n+4) .process-step,
+    .active-step4 .col-3:nth-child(-n+4) .process-dots {
+        background-color: #f89828;
+    }
+
+    .active-step2 .col-3:nth-child(-n+2) .process-label,
+    .active-step3 .col-3:nth-child(-n+3) .process-label,
+    .active-step4 .col-3:nth-child(-n+4) .process-label {
+        color: #f89828;
+    }
+
+    .active-step2 .col-3:nth-child(-n+2):before,
+    .active-step3 .col-3:nth-child(-n+3):before,
+    .active-step4 .col-3:nth-child(-n+4):before {
+        background: #f89828 !important;
+    }
+
+    @media screen and (max-width: 640px) {
+        .process-main {
+            flex-wrap: wrap;
+        }
+
+        .col-3 {
+            width: 50%;
+        }
+
+        .process-main .col-3:nth-of-type(3):not(:first-child):before {
+            top: -19.5px;
+            left: calc(-50% + 145px);
+            transform: rotate(150deg);
+        }
+    }
 </style>
 <div class="slider">
     <div class="slide_viewer">
@@ -142,7 +325,9 @@
                                     </div>
                                     <span class="heading p1-max-xxl nb4-xxl-color fs-five mb-3">Master the
                                         Markets</span>
-                                    <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Trade Smart With AI Trading And Make Profit</p>
+                                    <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Trade Smart with TradingEra</h1>
+                                    <p class="fs-six-up fw_500 nb4-xxl-color">TradingEra helps you trade smarter with
+                                        tools and insights, making navigating financial markets easier.</p>
                                     <div
                                         class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8 mt-lg-10">
                                         <a href="signup.html"
@@ -203,10 +388,10 @@
                                     </div>
                                     <span class="heading p1-max-xxl nb4-xxl-color fs-five mb-3">Empower Your
                                         Trades</span>
-                                    <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Binary Trading Is Now Possible with TradersEra
-</h1>
-                                    <!-- <p class="fs-six-up fw_500 nb4-xxl-color">Trade smarter with TradingEra's insights,
-                                        maximizing your financial potential.</p> -->
+                                    <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Maximize Your Potential with
+                                        TradingEra</h1>
+                                    <p class="fs-six-up fw_500 nb4-xxl-color">Trade smarter with TradingEra's insights,
+                                        maximizing your financial potential.</p>
                                     <div
                                         class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8 mt-lg-10">
                                         <a href="signup.html"
@@ -274,9 +459,8 @@
         <div class="row justify-content-center">
             <div class="col-lg-8 col-xxl-7">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <!-- <span class="heading p1-color fs-five mb-5">Global Trust, Unbeatable Rates</span> -->
-                    <h2 class="mb-5 mb-lg-6">What Makes TradersEra Different 
-</h2>
+                    <span class="heading p1-color fs-five mb-5">Global Trust, Unbeatable Rates</span>
+                    <h2 class="mb-5 mb-lg-6">Why Traders Choose TradersEra</h2>
                 </div>
             </div>
         </div>
@@ -292,7 +476,7 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">Binary Trading Available</h3>
+                                        <h3 class="">CRYPTO AND FX LEVERAGE</h3>
 
                                         <span>1:500</span>
                                     </div>
@@ -309,7 +493,7 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">No Downloads Required</h3>
+                                        <h3 class="">NO DOWNLOADS REQUIRED</h3>
 
                                         <span>Our web-based platform supports all operating systems.</span>
                                     </div>
@@ -326,8 +510,7 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">AI Trading Available
-</h3>
+                                        <h3 class="">LOWEST TRADING FEES</h3>
 
                                         <span>Guaranteed</span>
                                     </div>
@@ -349,8 +532,7 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">Advantage Of Forex And Crypto
-</h3>
+                                        <h3 class="">INSTANT ACCOUNT OPENING</h3>
 
                                         <span>No KYC</span>
                                     </div>
@@ -367,7 +549,7 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">Secure Funding</h3>
+                                        <h3 class="">SECURE FUNDING</h3>
 
                                         <span>Direct from your crypto wallet</span>
                                     </div>
@@ -384,10 +566,9 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">Customer Centric Approach
-</h3>
+                                        <h3 class="">FAST WITHDRAWALS</h3>
 
-                                        <span> Raise a Ticket and resolve problem real quick.</span>
+                                        <span>Twenty-four hours a day, seven days a week</span>
                                     </div>
 
                                 </div>
@@ -439,6 +620,57 @@
     </div>
 </section>
 
+<section class="provide-world bg nb4-bg pt-120 pb-120  position-relative z-0">
+    <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1 d-none d-md-flex">
+        <img src="assets/images/button.png" alt="vector" class="position-absolute pt-6 pt-xl-15 previewShapeRevX">
+    </div>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8 col-xxl-7">
+                <div class="heading__content mb-10 mb-lg-15 text-center">
+                    <span class="heading p1-color fs-five mb-5">How to Start Trading</span>
+                    <h2 class="mb-5 mb-lg-6">Take a few simple steps</h2>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-8 col-xxl-12" style="margin-top: -30px;">
+            <div class="process-wrap active-step1">
+                <div class="process-main">
+                    <div class="col-3 ">
+                        <div class="process-step-cont">
+                            <div class="process-step step-1"></div>
+                            <h4 class="process-label">Get Started </h4>
+                            <!-- <p class="process-label-P">Simply click on the "Register Now" button</p> -->
+                        </div>
+                    </div>
+                    <div class="col-3 ">
+                        <div class="process-step-cont">
+                            <div class="process-step step-2"></div>
+                            <h4 class="process-label">Add Credentials</h4>
+                            <!-- <p class="process-label-P text-center">Enter your email address and choose a password</p> -->
+                        </div>
+                    </div>
+                    <div class="col-3">
+                        <div class="process-step-cont">
+                            <div class="process-step step-3"></div>
+                            <h4 class="process-label">Trading Experience</h4>
+                            <!-- <p class="process-label-P text-center">Take a moment to answer a few important questions to enhance your trading experience</p> -->
+                        </div>
+                    </div>
+                    <div class="col-3">
+                        <div class="process-step-cont">
+                            <div class="process-step step-4"></div>
+                            <h4 class="process-label">Fund Your Account</h4>
+                            <!-- <span class="process-label-P text-center">Once completed, the next step is to fund your account</span> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="vector"
@@ -488,84 +720,38 @@
             </div>
         </div>
 </section>
-<section class="provide-world bg nb4-bg pt-120 pb-120  position-relative z-0">
-    <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1 d-none d-md-flex">
-        <img src="assets/images/button.png" alt="vector" class="position-absolute pt-6 pt-xl-15 previewShapeRevX">
-    </div>
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-8 col-xxl-7">
-                <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <span class="heading p1-color fs-five mb-5">Quick and Seamless Trading Setup</span>
-                    <h2 class="mb-5 mb-lg-6">Start Trading in 3 Easy Steps</h2>
-                </div>
-            </div>
-        </div>
-        <div class="row gy-6 gy-xxl-0">
-            <div class="col-md-6 col-xxl-4">
-                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <i class="ti ti-users fs-three p1-color"></i>
-                       
-                    </span>
-                    <h4 class="mt-5 mb-5">Sign Up</h4>
-                    <p>Create your account quickly and securely.</p>
-                    <br>
-                </div>
-            </div>
-            <div class="col-md-6 col-xxl-4">
-                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <i class="ti ti-tools fs-three p1-color"></i>
-                    </span>
-                    <h4 class="mt-5 mb-5">Fund Your Account</h4>
-                    <p>Deposit funds using our secure payment methods.</p>
-                </div>
-            </div>
-            <div class="col-md-6 col-xxl-4">
-                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <i class="ti ti-trending-up fs-three p1-color"></i>
-                    </span>
-                    <h4 class="mt-5 mb-5">Trade</h4>
-                    <p>Explore markets, place trades, and watch your investments grow.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
 
-<section class="customers position-relative z-0">
+<section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-        <img src="assets/images/vector6.png" alt="vector"
-            class="position-absolute rotate d-none d-xxxl-flex start-0 top-0 pt-20 mt-5 ps-20 ms-5">
-        <img src="assets/images/vector8.png" alt="vector"
-            class="position-absolute bottom-0 pb-20 mb-4 d-none d-xxl-flex">
-        <img src="assets/images/earth.png" alt="vector"
-            class="position-absolute d-none d-xl-flex bottom-0 end-0 rotate">
+        <img src="assets/images/star3.png" alt="vector"
+            class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
+        <img src="assets/images/sun2.png" alt="vector"
+            class="sun2 position-absolute push_animat d-none d-xxl-flex bottom-0 pb-120">
     </div>
     <div class="container">
-        <div
-            class="row gy-10 gy-xl-0 justify-content-center justify-content-lg-between align-items-center align-items-xxl-end">
-            <div class="col-lg-6 col-xxl-5 pb-0 pt-120 pb-lg-120">
-                <div class="customers__content me-xxl-18">
-                    <h2 class="mb-4">Friendly Funding Options</h2>
-                    <p class="mx-ch">At TradersEra we've got all your account funding needs sorted. Whether you fancy the ease of Visa or Mastercard, the trustworthiness of a wire transfer or the modern touch of cryptocurrency we offer a range of options to kick off smoothly. Pick the approach that suits you and dive into trading</p>
-                    <ul class="list_divided d-flex flex-wrap gap-5 mt-5 mt-xxl-6">
-                        <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                                class="ti ti-circle-check s1-color fs-four"></i>Expertise</li>
-                        <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                                class="ti ti-circle-check s1-color fs-four"></i>Security</li>
-                        <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                                class="ti ti-circle-check s1-color fs-four"></i>User-Friendly Interface</li>
-                        <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                                class="ti ti-circle-check s1-color fs-four"></i>24/7 Support</li>
-                    </ul>
+        <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
+            <div class="col-md-10 col-lg-6 col-xxl-5">
+                <div class="trade_on__content">
+                    <span class="heading p1-color fs-six mb-5"></span>
+                    <h4 class="mb-4 mb-lg-5">Trade Anywhere, Anytime with TradersEra App</h4>
+                    <p class="mx-ch">Don't let trading opportunities slip away.</p>
+                    <br>
+                    <p class="mx-ch">Download the TradersEra Trader app for commission-free trading and ultra-low
+                        spreads on major FX pairs and gold.</p>
+                    <br>
+                    <p class="mx-ch">All you require in a single app.</p>
+
+                    <div class="col-10" style="display: flex; justify-content: space-evenly;">
+                        <a href="signup.html"
+                            class="cmn-btn fs-six-up nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-4 py-lg-3 px-lg-5 mt-7 mt-xxl-8">Android</a>
+                        <a href="signup.html"
+                            class="cmn-btn fs-six-up nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-4 py-lg-3 px-lg-5 mt-7 mt-xxl-8">Apple</a>
+                    </div>
                 </div>
             </div>
-            <div class="col-10 col-sm-8 col-lg-6 col-xxl-6 ">
-                <div class="customers__thumb">
-                    <img src="assets/images/customers.png" class="w-100 max-xxl-un cus-rounded-2" alt="video">
+            <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
+                <div class="trade_on__thumbs d-flex justify-content-end">
+                    <img src="assets/images/education.png" alt="Imgae">
                 </div>
             </div>
         </div>
@@ -575,169 +761,89 @@
 <!-- Trade On end -->
 
 <!--People Trust start-->
-<!-- <section class="people_trust pt-120 pb-120 position-relative z-0">
-        <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-            <img src="assets/images/vector.png" alt="vector" class="position-absolute jello d-none d-xl-flex">
-            <img src="assets/images/star3.png" alt="vector" class="position-absolute push_animat d-none d-xxxl-flex">
-            <img src="assets/images/vector3.png" alt="vector" class="position-absolute bottom-0 end-0 d-none d-xxxl-flex">
-        </div>
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-xl-8 col-xxl-7">
-                    <div class="heading__content mb-8 mb-lg-10 text-center">
-                        <span class="heading p1-color fs-five mb-5">People Trust Us</span>
-                        <h3 class="mb-4 mb-lg-6">Millions of Users Worldwide</h3>
-                        <p class="fs-six-up mx-ch mx-auto">The rise of cryptocurrencies has opened up new trading this beginner's guide to cryptocurrency trading,</p>
-                    </div>
+<section>
+    <div class="container">
+        <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
+            <div class="col-sm-10 col-lg-6 col-xxl-5 order-2 order-lg-0">
+                <div class="company-story__thumbs d-center">
+                    <img src="assets/images/deposite.png" class="cus-rounded-1 w-100" alt="Imgae">
                 </div>
             </div>
-            <div class="row">
-                <div class="col-12">
-                    <div class="singletab">
-                        <ul class="tablinks d-center flex-wrap gap-3 gap-lg-4  mb-10 mb-xxl-15">
-                            <li class="nav-links active">
-                                <button class="tablink cmn-btn outline_btn align-items-center fs-six-up py-2 py-lg-3 px-6  px-md-3 px-xxl-10 d-flex gap-3 align-items-center"><i class="ti ti-video fs-four s1-color"></i>Test Your Knowledge</button>
-                            </li>
-                            <li class="nav-links">
-                                <button class="tablink cmn-btn outline_btn align-items-center fs-six-up py-2 py-lg-3 px-6  px-md-3 px-xxl-10 d-flex gap-3 align-items-center"><i class="ti ti-video fs-four s1-color"></i>Tutorial Videos</button>
-                            </li>
-                            <li class="nav-links">
-                                <button class="tablink cmn-btn outline_btn align-items-center fs-six-up py-2 py-lg-3 px-6  px-md-3 px-xxl-10 d-flex gap-3 align-items-center"><i class="ti ti-video fs-four s1-color"></i>Live Commentary</button>
-                            </li>
-                        </ul>
-                        <div class="tabcontents">
-                            <div class="tabitem active">
-                                <div class="row gy-10 gy-xl-0 justify-content-center justify-content-lg-between align-items-center">
-                                    <div class="col-xl-6 col-xxl-7 ">
-                                        <div class="people_trust_thumb d-center p-2 p-lg-5 pseudo_element_after overflow-hidden">
-                                            <img src="assets/images/people_trust_video.png" class="w-100 max-xxl-un cus-rounded-2" alt="video">
-                                            <a href="https://www.youtube.com/watch?v=BHACKCNDMW8" class="popup-video box_10 btn-popup-animation position-absolute d-center rounded-circle">
-                                                <i class="fa-solid fa-play fs-four"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-6 col-xxl-5">
-                                        <div class="trade_on__content">
-                                            <h4 class="mb-4">What you will learn</h4>
-                                            <p class="mx-ch">The rise of cryptocurrencies has opened up new trading In this beginner's guide to cryptocurrency trading we demystify the world of digital currencies</p>   
-                                            <ul class="list_divided d-flex flex-wrap gap-5 mt-5 mt-xxl-6">
-                                                <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Charts trading</li>
-                                                <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Supreme Authority</li>
-                                                <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Worldly Power</li>
-                                                <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Global Dominance</li>
-                                            </ul>
-                                            <div class="mt-8 mt-xxl-10">
-                                                <div class="counter-area d-flex gap-8 gap-xxl-10 ">
-                                                    <div class="counter-part">
-                                                        <div class="counters d-flex">
-                                                            <span class="odometer display-four s1-color" data-odometer-final="12">0</span>
-                                                            <span class="display-four symbol s1-color">K</span>
-                                                        </div>
-                                                        <span class="mt-4">Users Joined</span>
-                                                    </div>
-                                                    <div class="counter-part">
-                                                        <div class="counters d-flex">
-                                                            <span class="odometer display-four s1-color" data-odometer-final="5.5">0</span>
-                                                            <span class="display-four symbol s1-color">M</span>
-                                                        </div>
-                                                        <span class="mt-4">Monthly Voulme (In USD)</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="tabitem">
-                                <div class="row gy-10 gy-xl-0 justify-content-center justify-content-lg-between align-items-center">
-                                    <div class="col-xl-6 col-xxl-5">
-                                        <div class="trade_on__content">
-                                            <h4 class="mb-4">What you will learn</h4>
-                                            <p class="mx-ch">The rise of cryptocurrencies has opened up new trading In this beginner's guide to cryptocurrency trading we demystify the world of digital currencies</p>   
-                                            <ul class="list_divided d-flex flex-wrap gap-5 mt-5 mt-xxl-6">
-                                                <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color"></i>Charts trading</li>
-                                                <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color"></i>Supreme Authority</li>
-                                                <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color"></i>Worldly Power</li>
-                                                <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color"></i>Global Dominance</li>
-                                            </ul>
-                                            <div class="mt-8 mt-xxl-10">
-                                                <div class="counter-area d-flex gap-8 gap-xxl-10 ">
-                                                    <div class="counter-part">
-                                                        <div class="counters d-flex">
-                                                            <span class="odometer display-four s1-color" data-odometer-final="12">0</span>
-                                                            <span class="display-four symbol s1-color">K</span>
-                                                        </div>
-                                                        <span class="mt-4">Users Joined</span>
-                                                    </div>
-                                                    <div class="counter-part">
-                                                        <div class="counters d-flex">
-                                                            <span class="odometer display-four s1-color" data-odometer-final="5.5">0</span>
-                                                            <span class="display-four symbol s1-color">M</span>
-                                                        </div>
-                                                        <span class="mt-4">Monthly Voulme (In USD)</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-6 col-xxl-7 ">
-                                        <div class="people_trust_thumb d-center p-2 p-lg-5 pseudo_element_after overflow-hidden">
-                                            <img src="assets/images/people_trust_video.png" class="w-100 max-xxl-un cus-rounded-2" alt="video">
-                                            <a href="https://www.youtube.com/watch?v=BHACKCNDMW8" class="popup-video box_10 btn-popup-animation position-absolute d-center rounded-circle">
-                                                <i class="fa-solid fa-play fs-four"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="tabitem">
-                                <div class="row gy-10 gy-xl-0 justify-content-center justify-content-lg-between align-items-center">
-                                    <div class="col-xl-6 col-xxl-7 ">
-                                        <div class="people_trust_thumb d-center p-2 p-lg-5 pseudo_element_after overflow-hidden">
-                                            <img src="assets/images/people_trust_video.png" class="w-100 max-xxl-un cus-rounded-2" alt="video">
-                                            <a href="https://www.youtube.com/watch?v=BHACKCNDMW8" class="popup-video box_10 btn-popup-animation position-absolute d-center rounded-circle">
-                                                <i class="fa-solid fa-play fs-four"></i>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-6 col-xxl-5">
-                                        <div class="trade_on__content">
-                                            <h4 class="mb-4">What you will learn</h4>
-                                            <p class="mx-ch">The rise of cryptocurrencies has opened up new trading In this beginner's guide to cryptocurrency trading we demystify the world of digital currencies</p>   
-                                            <ul class="list_divided d-flex flex-wrap gap-5 mt-5 mt-xxl-6">
-                                                <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Charts trading</li>
-                                                <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Supreme Authority</li>
-                                                <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Worldly Power</li>
-                                                <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Global Dominance</li>
-                                            </ul>
-                                            <div class="mt-8 mt-xxl-10">
-                                                <div class="counter-area d-flex gap-8 gap-xxl-10 ">
-                                                    <div class="counter-part">
-                                                        <div class="counters d-flex">
-                                                            <span class="odometer display-four s1-color" data-odometer-final="12">0</span>
-                                                            <span class="display-four symbol s1-color">K</span>
-                                                        </div>
-                                                        <span class="mt-4">Users Joined</span>
-                                                    </div>
-                                                    <div class="counter-part">
-                                                        <div class="counters d-flex">
-                                                            <span class="odometer display-four s1-color" data-odometer-final="5.5">0</span>
-                                                            <span class="display-four symbol s1-color">M</span>
-                                                        </div>
-                                                        <span class="mt-4">Monthly Voulme (In USD)</span>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+            <div class="col-lg-6 col-xxl-7">
+                <div class="row ms-xl-3 ms-xxl-10">
+                    <div class="col-xxl-12">
+                        <div class="">
+                            <h3 class="mb-3 mt-5">Friendly Funding Options</h3>
+                            <p>
+                                At TradersEra we've got all your account funding needs sorted. Whether you fancy the
+                                ease of Visa or Mastercard, the trustworthiness of a wire transfer or the modern touch
+                                of cryptocurrency we offer a range of options to kick off smoothly. Pick the approach
+                                that suits you and dive into trading
+                            </p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </section> -->
+        <div class="client_company_section py-10 p1-bg align-items-center justify-content-center"
+            style="border-radius: 10px;">
+            <!-- Swiper -->
+            <div class="swiper client_company swiper-initialized swiper-horizontal swiper-pointer-events">
+                <div class="swiper-wrapper align-items-center" id="swiper-wrapper-38fe1326c9563c95" aria-live="off"
+                    style="transition-duration: 0ms; transform: translate3d(-561.143px, 0px, 0px);">
+                    <div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="0"
+                        role="group" aria-label="1 / 7" style="width: 230.571px; margin-right: 50px;">
+                        <img src="assets/images/company_logo.png" alt="Client Logo">
+                    </div>
+                    <div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="1"
+                        role="group" aria-label="2 / 7" style="width: 230.571px; margin-right: 50px;">
+                        <img src="assets/images/company_logo2.png" alt="Client Logo">
+                    </div>
+                    <div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="2"
+                        role="group" aria-label="3 / 7" style="width: 230.571px; margin-right: 50px;">
+                        <img src="assets/images/company_logo3.png" alt="Client Logo">
+                    </div>
+                    <div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="3"
+                        role="group" aria-label="4 / 7" style="width: 230.571px; margin-right: 50px;">
+                        <img src="assets/images/company_logo4.png" alt="Client Logo">
+                    </div>
+                    <div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-prev"
+                        data-swiper-slide-index="4" role="group" aria-label="5 / 7"
+                        style="width: 230.571px; margin-right: 50px;">
+                        <img src="assets/images/company_logo5.png" alt="Client Logo">
+                    </div>
+                    <div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-active"
+                        data-swiper-slide-index="5" role="group" aria-label="6 / 7"
+                        style="width: 230.571px; margin-right: 50px;">
+                        <img src="assets/images/company_logo6.png" alt="Client Logo">
+                    </div>
+                    <div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-next"
+                        data-swiper-slide-index="6" role="group" aria-label="7 / 7"
+                        style="width: 230.571px; margin-right: 50px;">
+                        <img src="assets/images/company_logo7.png" alt="Client Logo">
+                    </div>
+                    <div class="swiper-slide text-center" data-swiper-slide-index="0" role="group" aria-label="1 / 7"
+                        style="width: 230.571px; margin-right: 50px;">
+                        <img src="assets/images/company_logo.png" alt="Client Logo">
+                    </div>
+                    <div class="swiper-slide text-center" data-swiper-slide-index="1" role="group" aria-label="2 / 7"
+                        style="width: 230.571px; margin-right: 50px;">
+                        <img src="assets/images/company_logo2.png" alt="Client Logo">
+                    </div>
+                    <div class="swiper-slide text-center" data-swiper-slide-index="2" role="group" aria-label="3 / 7"
+                        style="width: 230.571px; margin-right: 50px;">
+                        <img src="assets/images/company_logo3.png" alt="Client Logo">
+                    </div>
+                    <div class="swiper-slide text-center" data-swiper-slide-index="3" role="group" aria-label="4 / 7"
+                        style="width: 230.571px; margin-right: 50px;">
+                        <img src="assets/images/company_logo4.png" alt="Client Logo">
+                    </div>
+                </div>
+                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+            </div>
+        </div>
+    </div>
+</section>
 <!-- People Trust end -->
 
 <!--Testimonial start-->
@@ -821,7 +927,73 @@
     </section> -->
 <!-- Testimonial end -->
 
-
+<!--blog_news start-->
+<!-- <section class="blog_news pt-120 pb-120 position-relative z-0">
+        <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
+            <img src="assets/images/star.png" alt="vector" class="position-absolute">
+            <img src="assets/images/vector2.png" alt="vector" class="position-absolute bottom-0 start-0">
+            <img src="assets/images/sun.png" alt="vector" class="position-absolute">
+        </div>
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="heading__content d-flex row-gap-7 gap-20 flex-wrap justify-content-between align-items-center mb-10 mb-lg-15 ">
+                    <div class="heading__part">
+                        <span class="heading s1-color fs-five mb-5">Blog</span>
+                        <h3>News & Analysis</h3>
+                    </div>
+                    <a href="blog.html" class="cmn-btn link fs-six-up  gap-2 gap-lg-3 align-items-center"> See All <i class="ti ti-arrow-right fs-four"></i></a>
+                </div>
+            </div>
+            <div class="row gy-6">
+                <div class="col-md-6 col-xxl-4">
+                    <div class="blog_news__card nb3-bg cus-rounded-1 overflow-hidden">
+                        <div class="blog_news__thumbs position-relative">
+                            <img src="assets/images/blog_news.png" alt="Image" class="w-100">
+                            <a href="#" class="border border-color second nw1-color fs-seven rounded-3 position-absolute top-0 end-0 py-1 px-3 mt-5 me-5">News</a>
+                        </div>
+                        <div class="blog_news__content py-6 py-lg-7 py-xxl-8 px-4 px-lg-5 px-xxl-6">
+                           <a href="blog-details.html"><h5 class="mb-4 mb-lg-5">Trading Psychology: Mastering Your Mind for Profit</h5></a>
+                           <div class="fs-seven fw_500 d-flex row-gap-0 flex-wrap gap-3 mb-4 mb-lg-5">August 17,2023 <span>|</span> Written by jason Turner</div>
+                           <p>Trading in financial markets involves a wide 
+                            employ to make informed decisions.</p>
+                            <a href="blog-details.html" class="link fs-five fw-semibold d-flex gap-2 gap-lg-3 align-items-center mt-6  mt-lg-8"> Continue Reading <i class="ti ti-arrow-right"></i></a>
+                       </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-xxl-4">
+                    <div class="blog_news__card nb3-bg cus-rounded-1 overflow-hidden">
+                        <div class="blog_news__thumbs position-relative">
+                            <img src="assets/images/blog_news2.png" alt="Image" class="w-100">
+                            <a href="#" class="border border-color second nw1-color fs-seven rounded-3 position-absolute top-0 end-0 py-1 px-3 mt-5 me-5">Features</a>
+                        </div>
+                        <div class="blog_news__content py-6 py-lg-7 py-xxl-8 px-4 px-lg-5 px-xxl-6">
+                           <a href="blog-details.html"><h5 class="mb-4 mb-lg-5">Trading Pitfalls Common Mistakes and How to Avoid Them...</h5></a>
+                           <div class="fs-seven fw_500 d-flex flex-wrap row-gap-0 gap-3 mb-4 mb-lg-5">August 17,2023 <span>|</span> Written by jason Turner</div>
+                           <p>Trading in financial markets involves a wide 
+                            employ to make informed decisions.</p>
+                            <a href="blog-details.html" class="link fs-five fw-semibold d-flex gap-2 gap-lg-3 align-items-center mt-6  mt-lg-8"> Continue Reading <i class="ti ti-arrow-right"></i></a>
+                       </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-xxl-4">
+                    <div class="blog_news__card nb3-bg cus-rounded-1 overflow-hidden">
+                        <div class="blog_news__thumbs position-relative">
+                            <img src="assets/images/blog_news3.png" alt="Image" class="w-100">
+                            <a href="#" class="border border-color second nw1-color fs-seven rounded-3 position-absolute top-0 end-0 py-1 px-3 mt-5 me-5">News</a>
+                        </div>
+                        <div class="blog_news__content py-6 py-lg-7 py-xxl-8 px-4 px-lg-5 px-xxl-6">
+                           <a href="blog-details.html"><h5 class="mb-4 mb-lg-5">Trading Platforms: Tools for Success in Financial Markets</h5></a>
+                           <div class="fs-seven fw_500 d-flex flex-wrap row-gap-0 gap-3 mb-4 mb-lg-5">August 17,2023 <span>|</span> Written by jason Turner</div>
+                           <p>Trading in financial markets involves a wide 
+                            employ to make informed decisions.</p>
+                            <a href="blog-details.html" class="link fs-five fw-semibold d-flex gap-2 gap-lg-3 align-items-center mt-6  mt-lg-8"> Continue Reading <i class="ti ti-arrow-right"></i></a>
+                       </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section> -->
+<!-- blog_news end -->
 <script>
 
     $('.slider').each(function () {
@@ -913,6 +1085,58 @@
 
         advance();
     });
+
+
+    /**This is just a demo to add the process classes**/
+    $(document).ready(function ($) {
+        $(".process-step").click(function () {
+            var theClass = $(this).attr("class").match(/(^|\s)step-\S+/g);
+            var bute = $.trim(theClass);
+            switch (bute) {
+                case "step-1":
+                    $(".process-wrap").addClass("active-step1")
+                    break;
+                case 'step-2':
+                    $(".process-wrap").attr('class', 'process-wrap');
+                    $(this).parents(".process-wrap").addClass("active-step2")
+                    break;
+                case 'step-3':
+                    $(".process-wrap").attr('class', 'process-wrap');
+                    $(this).parents(".process-wrap").addClass("active-step3")
+                    break;
+                case 'step-4':
+                    $(".process-wrap").attr('class', 'process-wrap');
+                    $(this).parents(".process-wrap").addClass("active-step4 ")
+                    break;
+                default:
+                    $(".process-wrap").attr('class', 'process-wrap');
+            }
+        })
+
+        $(".process-dots").click(function () {
+            if ($(this).hasClass("ship-process-dot-1")) {
+                $(".process-wrap").attr('class', 'process-wrap active-step1')
+                $(this).parents().find(".process-wrap").addClass("active-step1")
+
+            }
+            if ($(this).hasClass("ship-process-dot-2")) {
+                $(".process-wrap").attr('class', 'process-wrap active-step1')
+                $(this).parents().find(".process-wrap").addClass("active-step1-mini2")
+
+            }
+            if ($(this).hasClass("ship-process-dot-3")) {
+                $(".process-wrap").attr('class', 'process-wrap active-step1')
+                $(this).parents().find(".process-wrap").addClass("active-step1-mini3")
+
+            }
+            if ($(this).hasClass("ship-process-dot-4")) {
+                $(".process-wrap").attr('class', 'process-wrap active-step1')
+                $(this).parents().find(".process-wrap").addClass("active-step1-mini4")
+            }
+        });
+
+    });
+
 
 </script>
 <?php include("includes/footer.php") ?>
