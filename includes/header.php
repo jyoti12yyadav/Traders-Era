@@ -24,9 +24,9 @@
 
 <body>
     <!--  Preloader  -->
-    <div class="preloader">
+    <!-- <div class="preloader">
         <span class="loader"></span>
-    </div>
+    </div> -->
     <!-- end preloader -->
 
     <!-- Scroll To Top Start-->
@@ -48,7 +48,7 @@
                 <div class="upper-header-content">
                     <div class="right-area position-relative  ms-0 d-end gap-1 gap-xl-4 d-none d-lg-flex">
                         <div class="single-item">
-                            <a href="traders.traderera.com"
+                            <a href="signin.html"
                                 class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button">
                                 Login</a>
                         </div>
@@ -127,7 +127,7 @@
                             <button type="button" aria-label="Navbar Dropdown Button"
                                 class="dropdown-toggle dropdown-nav">Partners</button>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="become-an-iB.php">Become An IB</a></li>
+                                <li><a class="dropdown-item" href="become-an-iB.php">Become an IB</a></li>
                                 <li><a class="dropdown-item" href="faq.php">FAQ</a></li>
                             </ul>
                         </li>
@@ -144,7 +144,11 @@
                         </li>
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
-                                class=" dropdown-nav"><a class="dropdown-item" href="#">Blog</a></button>
+                                class="dropdown-toggle dropdown-nav"><a class="dropdown-item" href="contact.php">Contact</a></button>
+                        </li>
+                        <li class="dropdown show-dropdown">
+                            <button type="button" aria-label="Navbar Dropdown Button"
+                                class="dropdown-toggle dropdown-nav"><a class="dropdown-item" href="blog.php">Blog</a></button>
                         </li>
 
                     </ul>
