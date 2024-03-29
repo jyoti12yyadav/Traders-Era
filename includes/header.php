@@ -24,9 +24,9 @@
 
 <body>
     <!--  Preloader  -->
-    <!-- <div class="preloader">
+    <div class="preloader">
         <span class="loader"></span>
-    </div> -->
+    </div>
     <!-- end preloader -->
 
     <!-- Scroll To Top Start-->

@@ -1,8 +1,4 @@
-
 <?php include("includes/header.php") ?>
-
-
-
 <!-- header-section start -->
 <style>
     .slider {
@@ -99,30 +95,32 @@
         opacity: 1;
     }
 
-@media only screen and (max-width: 767px) {
-  .previous_btn {
-    left: 50px;
-  }
-  .next_btn {
-    right: 50px;
-  }
-}
-.fs-three, h3, h3>a{
-    font-size: 22px;
-}
-.company-story__part{
-    border: solid 1px white;
-    padding: 30px;
-    border-radius: 19px;
-}
-.p1-xxl-bg2{
-    background-color: #f5c06d;
-}
+    @media only screen and (max-width: 767px) {
+        .previous_btn {
+            left: 50px;
+        }
+
+        .next_btn {
+            right: 50px;
+        }
+    }
+
+    .fs-three,
+    h3,
+    h3>a {
+        font-size: 22px;
+    }
+
+    .company-story__part {
+        border: solid 1px white;
+        padding: 30px;
+        border-radius: 19px;
+    }
+
+    .p1-xxl-bg2 {
+        background-color: #f5c06d;
+    }
 </style>
-
-
-
-
 <div class="slider">
     <div class="slide_viewer">
         <div class="slide_group">
@@ -144,8 +142,8 @@
                                     </div>
                                     <span class="heading p1-max-xxl nb4-xxl-color fs-five mb-3">Master the
                                         Markets</span>
-                                    <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Trade Smart with TradersEra</h1>
-                                    <p class="fs-six-up fw_500 nb4-xxl-color">TradersEra helps you trade smarter with
+                                    <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Trade Smart with TradingEra</h1>
+                                    <p class="fs-six-up fw_500 nb4-xxl-color">TradingEra helps you trade smarter with
                                         tools and insights, making navigating financial markets easier.</p>
                                     <div
                                         class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8 mt-lg-10">
@@ -161,9 +159,32 @@
                         </div>
                         <div class="col-sm-10 col-lg-6 col-xxl-5">
                             <div class="hero-section__thumbs pb-xxl-10">
-                                <img src="assets/images/banner one.png" class="max-auto max-xxl-un" alt="img">
+                                <img src="assets/images/hero_thumb.png" class="max-auto max-xxl-un" alt="img">
                             </div>
                         </div>
+                        <ul
+                            class="list_items col-12 d-flex row-gap-6 gap-lg-15 justify-content-between flex-wrap pt-2 pt-lg-15 pt-xl-2 pt-xxl-15 pb-15">
+                            <li class="d-flex gap-3 align-items-center">
+                                <span class="d-center s1-bg p-3 p-lg-4 rounded-circle"><i
+                                        class="ti ti-tools fs-three nb4-color"></i></span>
+                                <h4 class="nw1-color">Enhanced Tools</h4>
+                            </li>
+                            <li class="d-flex gap-3 align-items-center">
+                                <span class="d-center s1-bg p-3 p-lg-4 rounded-circle"><i
+                                        class="ti ti-trending-up fs-three nb4-color"></i></span>
+                                <h4 class="nw1-color">Trading Guides</h4>
+                            </li>
+                            <li class="d-flex gap-3 align-items-center">
+                                <span class="d-center s1-bg p-3 p-lg-4 rounded-circle"><i
+                                        class="ti ti-broadcast fs-three nb4-color"></i></span>
+                                <h4 class="nw1-color">Fast Execution</h4>
+                            </li>
+                            <li class="d-flex gap-3 align-items-center">
+                                <span class="d-center s1-bg p-3 p-lg-4 rounded-circle"><i
+                                        class="ti ti-percentage fs-three nb4-color"></i></span>
+                                <h4 class="nw1-color">0% Commission</h4>
+                            </li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -185,8 +206,8 @@
                                     <span class="heading p1-max-xxl nb4-xxl-color fs-five mb-3">Empower Your
                                         Trades</span>
                                     <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Maximize Your Potential with
-                                        TradersEra</h1>
-                                    <p class="fs-six-up fw_500 nb4-xxl-color">Trade smarter with TradersEra's insights,
+                                        TradingEra</h1>
+                                    <p class="fs-six-up fw_500 nb4-xxl-color">Trade smarter with TradingEra's insights,
                                         maximizing your financial potential.</p>
                                     <div
                                         class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8 mt-lg-10">
@@ -202,10 +223,32 @@
                         </div>
                         <div class="col-sm-10 col-lg-6 col-xxl-5">
                             <div class="hero-section__thumbs pb-xxl-10">
-                                <img src="assets/images/banner two.png" class="max-auto max-xxl-un" alt="img">
+                                <img src="assets/images/hero_thumb.png" class="max-auto max-xxl-un" alt="img">
                             </div>
                         </div>
-
+                        <ul
+                            class="list_items col-12 d-flex row-gap-6 gap-lg-15 justify-content-between flex-wrap pt-2 pt-lg-15 pt-xl-2 pt-xxl-15 pb-15">
+                            <li class="d-flex gap-3 align-items-center">
+                                <span class="d-center s1-bg p-3 p-lg-4 rounded-circle"><i
+                                        class="ti ti-tools fs-three nb4-color"></i></span>
+                                <h4 class="nw1-color">Enhanced Tools</h4>
+                            </li>
+                            <li class="d-flex gap-3 align-items-center">
+                                <span class="d-center s1-bg p-3 p-lg-4 rounded-circle"><i
+                                        class="ti ti-trending-up fs-three nb4-color"></i></span>
+                                <h4 class="nw1-color">Trading Guides</h4>
+                            </li>
+                            <li class="d-flex gap-3 align-items-center">
+                                <span class="d-center s1-bg p-3 p-lg-4 rounded-circle"><i
+                                        class="ti ti-broadcast fs-three nb4-color"></i></span>
+                                <h4 class="nw1-color">Fast Execution</h4>
+                            </li>
+                            <li class="d-flex gap-3 align-items-center">
+                                <span class="d-center s1-bg p-3 p-lg-4 rounded-circle"><i
+                                        class="ti ti-percentage fs-three nb4-color"></i></span>
+                                <h4 class="nw1-color">0% Commission</h4>
+                            </li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -354,7 +397,6 @@
         </div>
     </div>
 </section>
-
 <section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/coin.png" alt="vector" class="position-absolute d-none d-md-flex previewShapeRevX">
@@ -366,115 +408,128 @@
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
             <div class="col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
-                    <!-- <span class="heading s1-color fs-five mb-5">Trade On Our</span> -->
+
                     <h2 class="mb-4 mb-lg-5">Why Choose us</h2>
-                    <!-- <p class="fs-six mx-ch">Trading in financial markets involves a wide range of strategies that traders employ to make informed decisions. From trading to swing trading and long-term investing, each strategy has its own set of principles and risk factors.</p>    -->
                     <ul class="d-flex gap-4 flex-column mt-6">
                         <li class="d-flex align-items-center gap-3 fs-six-up"><i
                                 class="ti ti-circle-check s1-color fs-four"></i>Trading with a global broker-dealer that
-                            operates under regulatory control in multiple jurisdictions.
-                        </li>
+                            operates under regulatory control in multiple jurisdictions. </li>
                         <li class="d-flex align-items-center gap-3 fs-six-up"><i
                                 class="ti ti-circle-check s1-color fs-four"></i>More than 1250 instruments to choose
-                            from, Forex, cryptocurrencies, stocks, commodities, and indices.
-                        </li>
+                            from, Forex, cryptocurrencies, stocks, commodities, and indices.</li>
                         <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                                class="ti ti-circle-check s1-color fs-four"></i>Web-based trading Forex trading
-                            platforms for Desktop, tablet, mobile.
-                        </li>
-                        <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                                class="ti ti-circle-check s1-color fs-four"></i>
-                            Enjoy perks such as automated risk management solutions and get helpful in platform trading
-                            signals
-
+                                class="ti ti-circle-check s1-color fs-four"></i>Enjoy perks such as automated risk
+                            management solutions and get helpful in platform trading signals.
                         </li>
                         <li class="d-flex align-items-center gap-3 fs-six-up"><i
                                 class="ti ti-circle-check s1-color fs-four"></i>Start trading with zero risk by signing
-                            up for a Free Demo Account to practice.
-
-                        </li>
+                            up for a Free Demo Account to practice.</li>
                     </ul>
                     <!-- <a href="signup.html" class="cmn-btn secondary-alt fs-six-up nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6 mt-7 mt-xxl-8">Sign up Now <i class="ti ti-arrow-right fs-four"></i></a> -->
                 </div>
             </div>
             <div class="col-md-8 col-lg-6">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/trade_on.png" alt="Imgae">
+                    <img src="assets/images/why choose.png" alt="Imgae">
                 </div>
             </div>
         </div>
     </div>
 </section>
 
+<section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
+    <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
+        <img src="assets/images/star3.png" alt="vector"
+            class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
+        <img src="assets/images/sun2.png" alt="vector"
+            class="sun2 position-absolute push_animat d-none d-xxl-flex bottom-0 pb-120">
+    </div>
+    <div class="container">
+        <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
+            <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
+                <div class="trade_on__thumbs d-flex justify-content-end">
+                    <img src="assets/images/education.png" alt="Imgae">
+                </div>
+            </div>
+            <div class="col-md-10 col-lg-6 col-xxl-5">
+                <div class="trade_on__content">
+                    <h3 class="mb-4 mb-lg-5">Trading Platform Web Based</h3>
+                    <p class="mx-ch">If a computer or laptop doesn't meet the requirements of a desktop trading app,
+                        it's more likely to crash during a trading session. Web trading platforms are safer since they
+                        use a remote server or cloud for calculations. Users only need to focus on their internet
+                        connection and routing speed to receive pricing data quickly and execute orders smoothly.</p>
+
+                </div>
 
 
-<!--provide-world start-->
-<!-- <section class="provide-world pt-120 position-relative z-0">
+                <h6 class="mt-4 mb-lg-5">
+                    Advantages of Web-Based Trading Platforms:
+                </h6>
+                <ul class="d-flex gap-4 flex-column mt-6">
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>Trading with a global broker-dealer that
+                        operates under regulatory control in multiple jurisdictions. </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>More than 1250 instruments to choose
+                        from, Forex, cryptocurrencies, stocks, commodities, and indices.</li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>Enjoy perks such as automated risk
+                        management solutions and get helpful in platform trading signals.
+                    </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>Start trading with zero risk by signing
+                        up for a Free Demo Account to practice.</li>
+                </ul>
+                <!-- <a href="signup.html" class="cmn-btn secondary-alt fs-six-up nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6 mt-7 mt-xxl-8">Sign up Now <i class="ti ti-arrow-right fs-four"></i></a> -->
+
+            </div>
+        </div>
+</section>
+<section class="provide-world bg nb4-bg pt-120 pb-120  position-relative z-0">
+    <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1 d-none d-md-flex">
+        <img src="assets/images/button.png" alt="vector" class="position-absolute pt-6 pt-xl-15 previewShapeRevX">
+    </div>
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-lg-7 col-xxl-6">
+            <div class="col-lg-8 col-xxl-7">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h2 class="mb-5 mb-lg-6">How to Start Trading</h2>
-                    <span class="heading p1-color fs-five mb-5">Take a few simple steps</span>
-
+                    <span class="heading p1-color fs-five mb-5">Quick and Seamless Trading Setup</span>
+                    <h2 class="mb-5 mb-lg-6">Start Trading in 3 Easy Steps</h2>
                 </div>
             </div>
         </div>
         <div class="row gy-6 gy-xxl-0">
             <div class="col-md-6 col-xxl-4">
-                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <i class="ti ti-file fs-three p1-color"></i>
+                        <i class="ti ti-users fs-three p1-color"></i>
                     </span>
-                    <h4 class="mt-5 mb-5">Terms of Service</h4>
-                    <p>Trading is not without its challenges, as markets can be highly volatile and unpredictable. It
-                        requires discipline</p>
-                    <a href="terms-conditions.html"
-                        class="cmn-btn link third-link fs-five  gap-2 gap-lg-3 align-items-center mt-5">Learn More<i
-                            class="ti ti-arrow-narrow-right"></i></a>
+                    <h4 class="mt-5 mb-5">Sign Up</h4>
+                    <p>Create your account quickly and securely.</p>
+                    <br>
                 </div>
             </div>
             <div class="col-md-6 col-xxl-4">
-                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <i class="ti ti-file fs-three p1-color"></i>
+                        <i class="ti ti-tools fs-three p1-color"></i>
                     </span>
-                    <h4 class="mt-5 mb-5">Terms of Service</h4>
-                    <p>Trading is not without its challenges, as markets can be highly volatile and unpredictable. It
-                        requires discipline</p>
-                    <a href="terms-conditions.html"
-                        class="cmn-btn link third-link fs-five  gap-2 gap-lg-3 align-items-center mt-5">Learn More<i
-                            class="ti ti-arrow-narrow-right"></i></a>
+                    <h4 class="mt-5 mb-5">Fund Your Account</h4>
+                    <p>Deposit funds using our secure payment methods.</p>
                 </div>
             </div>
             <div class="col-md-6 col-xxl-4">
-                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <i class="ti ti-world fs-three p1-color"></i>
+                        <i class="ti ti-trending-up fs-three p1-color"></i>
                     </span>
-                    <h4 class="mt-5 mb-5">Policies</h4>
-                    <p>Trading is not without its challenges, as markets can be highly volatile and unpredictable. It
-                        requires discipline</p>
-                    <a href="privacy-policy.html"
-                        class="cmn-btn link third-link fs-five  gap-2 gap-lg-3 align-items-center mt-5">Learn More<i
-                            class="ti ti-arrow-narrow-right"></i></a>
-                </div>
-            </div>
-            <div class="col-md-6 col-xxl-4">
-                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <i class="ti ti-shield-lock-filled fs-three p1-color"></i>
-                    </span>
-                    <h4 class="mt-5 mb-5">Security</h4>
-                    <p>Trading is not without its challenges, as markets can be highly volatile and unpredictable. It
-                        requires discipline</p>
-                    <a href="terms-conditions.html"
-                        class="cmn-btn link third-link fs-five  gap-2 gap-lg-3 align-items-center mt-5">Learn More<i
-                            class="ti ti-arrow-narrow-right"></i></a>
+                    <h4 class="mt-5 mb-5">Trade</h4>
+                    <p>Explore markets, place trades, and watch your investments grow.</p>
                 </div>
             </div>
         </div>
-    </section>
+    </div>
+</section>
 
 <section class="customers position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
@@ -490,8 +545,8 @@
             class="row gy-10 gy-xl-0 justify-content-center justify-content-lg-between align-items-center align-items-xxl-end">
             <div class="col-lg-6 col-xxl-5 pb-0 pt-120 pb-lg-120">
                 <div class="customers__content me-xxl-18">
-                    <h2 class="mb-4">Your Go-To for Crypto Trading</h2>
-                    <p class="mx-ch">At TradersEra, we specialize in what we do best – Crypto trading. Our platform is
+                    <h3 class="mb-4">Your Go-To for Crypto Trading</h3>
+                    <p class="mx-ch">At TradingEra, we specialize in what we do best – Crypto trading. Our platform is
                         designed to provide you with a simple, secure, and seamless experience, ensuring you can trade
                         cryptocurrencies with confidence.</p>
                     <ul class="list_divided d-flex flex-wrap gap-5 mt-5 mt-xxl-6">
@@ -508,7 +563,7 @@
             </div>
             <div class="col-10 col-sm-8 col-lg-6 col-xxl-6 ">
                 <div class="customers__thumb">
-                    <img src="assets/images/HOME three.png" class="w-100 max-xxl-un cus-rounded-2" alt="video">
+                    <img src="assets/images/customers.png" class="w-100 max-xxl-un cus-rounded-2" alt="video">
                 </div>
             </div>
         </div>
@@ -922,111 +977,6 @@
 
         advance();
     });
-    $group.animate({
-      left: animateLeft
-    }, function() {
-      $slides.eq(currentIndex).css({
-        display: 'none'
-      });
-      $slides.eq(newIndex).css({
-        left: 0
-      });
-      $group.css({
-        left: 0
-      });
-      currentIndex = newIndex;
-    });
-  }
-  
-  function advance() {
-    clearTimeout(timeout);
-    timeout = setTimeout(function() {
-      if (currentIndex < ($slides.length - 1)) {
-        move(currentIndex + 1);
-      } else {
-        move(0);
-      }
-    }, 4000);
-  }
-  
-  $('.next_btn').on('click', function() {
-    if (currentIndex < ($slides.length - 1)) {
-      move(currentIndex + 1);
-    } else {
-      move(0);
-    }
-  });
-  
-  $('.previous_btn').on('click', function() {
-    if (currentIndex !== 0) {
-      move(currentIndex - 1);
-    } else {
-      move(3);
-    }
-  });
-  
-  $.each($slides, function(index) {
-    var $button = $('<a class="slide_btn">&bull;</a>');
-    
-    if (index === currentIndex) {
-      $button.addClass('active');
-    }
-    $button.on('click', function() {
-      move(index);
-    }).appendTo('.slide_buttons');
-    bulletArray.push($button);
-  });
-  
-  advance();
-});
-
-
-    // <section _ngcontent-c4="" class="start-steps">
-    //     <div _ngcontent-c4="" class="container">
-    //         <h2 _ngcontent-c4="" class="steps-title bold col-md-9 text-center mx-auto"> Ready to get started </h2>
-    //         <p _ngcontent-c4="" class="steps-description text-center">Start trading in 3 easy steps</p>
-    //         <div _ngcontent-c4=""
-    //             class="steps d-flex flex-column flex-md-row justify-content-center justify-content-md-between">
-    //             <div _ngcontent-c4=""
-    //                 class="step col-12 col-md-4 d-flex mx-md-auto align-items-center flex-md-column ng-star-inserted">
-    //                 <div _ngcontent-c4="" class="img-wrapper"><img _ngcontent-c4="" class="ng-tns-c4-1" loading="lazy"
-    //                     src="/assets/img/svg/step-register.svg" alt="Register">
-    //                     <div _ngcontent-c4="" class="counter"> 1 </div>
-    //                 </div>
-    //                 <div _ngcontent-c4="" class="ml-32">
-    //                     <p _ngcontent-c4="" class="step-title text-left text-md-center"> Register </p>
-    //                     <p _ngcontent-c4="" class="step-description text-left text-md-center">Create a profile<br>in less
-    //                         than 2 minutes.</p>
-    //                 </div>
-    //             </div>
-    //             <div _ngcontent-c4=""
-    //                 class="step col-12 col-md-4 d-flex mx-md-auto align-items-center flex-md-column ng-star-inserted">
-    //                 <div _ngcontent-c4="" class="img-wrapper"><img _ngcontent-c4="" class="ng-tns-c4-1" loading="lazy"
-    //                     src="/assets/img/svg/step-deposit.svg" alt="Deposit funds">
-    //                     <div _ngcontent-c4="" class="counter"> 2 </div>
-    //                 </div>
-    //                 <div _ngcontent-c4="" class="ml-32">
-    //                     <p _ngcontent-c4="" class="step-title text-left text-md-center"> Deposit funds </p>
-    //                     <p _ngcontent-c4="" class="step-description text-left text-md-center">Fund your account<br>via your
-    //                         chosen method</p>
-    //                 </div>
-    //             </div>
-    //             <div _ngcontent-c4=""
-    //                 class="step col-12 col-md-4 d-flex mx-md-auto align-items-center flex-md-column ng-star-inserted">
-    //                 <div _ngcontent-c4="" class="img-wrapper"><img _ngcontent-c4="" class="ng-tns-c4-1" loading="lazy"
-    //                     src="/assets/img/svg/step-trade.svg" alt="Trade">
-    //                     <div _ngcontent-c4="" class="counter"> 3 </div>
-    //                 </div>
-    //                 <div _ngcontent-c4="" class="ml-32">
-    //                     <p _ngcontent-c4="" class="step-title text-left text-md-center"> Trade </p>
-    //                     <p _ngcontent-c4="" class="step-description text-left text-md-center">Start trading with<br>a
-    //                         reliable broker</p>
-    //                 </div>
-    //             </div>
-    //         </div><a _ngcontent-c4="" class="btn button red mx-auto mt-40" href="https://my.hycm.com/en/register"> Get
-    //             started </a>
-    //     </div>
-    // </section>
 
 </script>
 <?php include("includes/footer.php") ?>
