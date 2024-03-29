@@ -125,114 +125,110 @@
 
 
     * {
-  box-sizing: border-box;
-}
+        box-sizing: border-box;
+    }
 
-body {
-  font-size: 16px;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
-    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-  height: 100vh;
-  margin: 0;
+    body {
+        font-size: 16px;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+            Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+        height: 100vh;
+        margin: 0;
 
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  overflow: hidden;
-  background-color: #ccc;
-}
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
+        background-color: #ccc;
+    }
 
-h1 {
-  margin-bottom: 50px;
-}
+    h1 {
+        margin-bottom: 50px;
+    }
 
-.container {
-  text-align: center;
-}
+    .container {
+        text-align: center;
+    }
 
-.progress-wrap {
-  max-width: 100%;
-  width: 500px;
-  margin-bottom: 40px;
-  position: relative;
+    .progress-wrap {
+        max-width: 100%;
+        width: 500px;
+        margin-bottom: 40px;
+        position: relative;
 
-  display: flex;
-  justify-content: space-between;
-}
+        display: flex;
+        justify-content: space-between;
+    }
 
-.progress-wrap::before {
-  content: "";
-  width: 100%;
-  height: 4px;
+    .progress-wrap::before {
+        content: "";
+        width: 100%;
+        height: 4px;
 
-  position: absolute;
-  top: 50%;
-  left: 0;
-  transform: translateY(-50%);
-  z-index: -1;
-  transition: 0.3s ease-in-out;
-  background-color: #e6e6e6;
-}
+        position: absolute;
+        top: 50%;
+        left: 0;
+        transform: translateY(-50%);
+        z-index: -1;
+        transition: 0.3s ease-in-out;
+        background-color: #e6e6e6;
+    }
 
-.progress {
-  width: 0;
-  height: 4px;
+    .progress {
+        width: 0;
+        height: 4px;
 
-  position: absolute;
-  top: 50%;
-  left: 0;
-  transform: translateY(-50%);
-  z-index: -1;
-  transition: 0.3s ease-in-out;
-  background-color: #4717a7;
-}
+        position: absolute;
+        top: 50%;
+        left: 0;
+        transform: translateY(-50%);
+        z-index: -1;
+        transition: 0.3s ease-in-out;
+        background-color: #4717a7;
+    }
 
-.step {
-  width: 40px;
-  height: 40px;
-  font-weight: bold;
+    .step {
+        width: 40px;
+        height: 40px;
+        font-weight: bold;
 
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: #333;
-  background-color: #fff;
-  border: 3px solid #e6e6e6;
-  border-radius: 50%;
-  transition: 0.3s ease-in-out;
-}
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #333;
+        background-color: #fff;
+        border: 3px solid #e6e6e6;
+        border-radius: 50%;
+        transition: 0.3s ease-in-out;
+    }
 
-.step.active {
-  border-color: #4717a7;
-}
+    .step.active {
+        border-color: #4717a7;
+    }
 
-.btn {
-  margin: 10px;
-  padding: 8px 30px;
+    .btn {
+        margin: 10px;
+        padding: 8px 30px;
 
-  font-size: 14px;
-  color: #fff;
-  background-color: #4717a7;
-  border-radius: 10px;
-  border: 0;
-  cursor: pointer;
-  transition: transform 0.2s ease-in-out;
-  outline: none;
-}
+        font-size: 14px;
+        color: #fff;
+        background-color: #4717a7;
+        border-radius: 10px;
+        border: 0;
+        cursor: pointer;
+        transition: transform 0.2s ease-in-out;
+        outline: none;
+    }
 
-.btn:active {
-  transform: scale(0.96);
-}
+    .btn:active {
+        transform: scale(0.96);
+    }
 
-.btn:disabled {
-  color: #666;
-  background-color: #e6e6e6;
-  cursor: not-allowed;
-}
-
-
-
-
+    .btn:disabled {
+        color: #666;
+        background-color: #e6e6e6;
+        cursor: not-allowed;
+    }
 </style>
 
 
@@ -592,7 +588,7 @@ h1 {
     </div>
 </section> -->
 <!-- provide-world end -->
- <section class="provide-world bg nb4-bg pt-120 pb-120  position-relative z-0">
+<section class="provide-world bg nb4-bg pt-120 pb-120  position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1 d-none d-md-flex">
         <img src="assets/images/button.png" alt="vector" class="position-absolute pt-6 pt-xl-15 previewShapeRevX">
     </div>
@@ -636,7 +632,7 @@ h1 {
             </div>
         </div>
     </div>
-</section> 
+</section>
 
 <section class="customers position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
@@ -1085,56 +1081,53 @@ h1 {
         advance();
     });
 
+
+    // <section _ngcontent-c4="" class="start-steps">
+    //     <div _ngcontent-c4="" class="container">
+    //         <h2 _ngcontent-c4="" class="steps-title bold col-md-9 text-center mx-auto"> Ready to get started </h2>
+    //         <p _ngcontent-c4="" class="steps-description text-center">Start trading in 3 easy steps</p>
+    //         <div _ngcontent-c4=""
+    //             class="steps d-flex flex-column flex-md-row justify-content-center justify-content-md-between">
+    //             <div _ngcontent-c4=""
+    //                 class="step col-12 col-md-4 d-flex mx-md-auto align-items-center flex-md-column ng-star-inserted">
+    //                 <div _ngcontent-c4="" class="img-wrapper"><img _ngcontent-c4="" class="ng-tns-c4-1" loading="lazy"
+    //                     src="/assets/img/svg/step-register.svg" alt="Register">
+    //                     <div _ngcontent-c4="" class="counter"> 1 </div>
+    //                 </div>
+    //                 <div _ngcontent-c4="" class="ml-32">
+    //                     <p _ngcontent-c4="" class="step-title text-left text-md-center"> Register </p>
+    //                     <p _ngcontent-c4="" class="step-description text-left text-md-center">Create a profile<br>in less
+    //                         than 2 minutes.</p>
+    //                 </div>
+    //             </div>
+    //             <div _ngcontent-c4=""
+    //                 class="step col-12 col-md-4 d-flex mx-md-auto align-items-center flex-md-column ng-star-inserted">
+    //                 <div _ngcontent-c4="" class="img-wrapper"><img _ngcontent-c4="" class="ng-tns-c4-1" loading="lazy"
+    //                     src="/assets/img/svg/step-deposit.svg" alt="Deposit funds">
+    //                     <div _ngcontent-c4="" class="counter"> 2 </div>
+    //                 </div>
+    //                 <div _ngcontent-c4="" class="ml-32">
+    //                     <p _ngcontent-c4="" class="step-title text-left text-md-center"> Deposit funds </p>
+    //                     <p _ngcontent-c4="" class="step-description text-left text-md-center">Fund your account<br>via your
+    //                         chosen method</p>
+    //                 </div>
+    //             </div>
+    //             <div _ngcontent-c4=""
+    //                 class="step col-12 col-md-4 d-flex mx-md-auto align-items-center flex-md-column ng-star-inserted">
+    //                 <div _ngcontent-c4="" class="img-wrapper"><img _ngcontent-c4="" class="ng-tns-c4-1" loading="lazy"
+    //                     src="/assets/img/svg/step-trade.svg" alt="Trade">
+    //                     <div _ngcontent-c4="" class="counter"> 3 </div>
+    //                 </div>
+    //                 <div _ngcontent-c4="" class="ml-32">
+    //                     <p _ngcontent-c4="" class="step-title text-left text-md-center"> Trade </p>
+    //                     <p _ngcontent-c4="" class="step-description text-left text-md-center">Start trading with<br>a
+    //                         reliable broker</p>
+    //                 </div>
+    //             </div>
+    //         </div><a _ngcontent-c4="" class="btn button red mx-auto mt-40" href="https://my.hycm.com/en/register"> Get
+    //             started </a>
+    //     </div>
+    // </section>
+
 </script>
 <?php include("includes/footer.php") ?>
-
-
-
-<section _ngcontent-c4="" class="start-steps">
-    <div _ngcontent-c4="" class="container">
-        <h2 _ngcontent-c4="" class="steps-title bold col-md-9 text-center mx-auto"> Ready to get started </h2>
-        <p _ngcontent-c4="" class="steps-description text-center">Start trading in 3 easy steps</p>
-        <div _ngcontent-c4=""
-            class="steps d-flex flex-column flex-md-row justify-content-center justify-content-md-between"><!---->
-            <div _ngcontent-c4=""
-                class="step col-12 col-md-4 d-flex mx-md-auto align-items-center flex-md-column ng-star-inserted">
-                <div _ngcontent-c4="" class="img-wrapper"><img _ngcontent-c4="" class="ng-tns-c4-1" loading="lazy"
-                        src="/assets/img/svg/step-register.svg" alt="Register">
-                    <div _ngcontent-c4="" class="counter"> 1 </div>
-                </div>
-                <div _ngcontent-c4="" class="ml-32">
-                    <p _ngcontent-c4="" class="step-title text-left text-md-center"> Register </p>
-                    <p _ngcontent-c4="" class="step-description text-left text-md-center">Create a profile<br>in less
-                        than 2 minutes.</p>
-                </div>
-            </div>
-            <div _ngcontent-c4=""
-                class="step col-12 col-md-4 d-flex mx-md-auto align-items-center flex-md-column ng-star-inserted">
-                <div _ngcontent-c4="" class="img-wrapper"><img _ngcontent-c4="" class="ng-tns-c4-1" loading="lazy"
-                        src="/assets/img/svg/step-deposit.svg" alt="Deposit funds">
-                    <div _ngcontent-c4="" class="counter"> 2 </div>
-                </div>
-                <div _ngcontent-c4="" class="ml-32">
-                    <p _ngcontent-c4="" class="step-title text-left text-md-center"> Deposit funds </p>
-                    <p _ngcontent-c4="" class="step-description text-left text-md-center">Fund your account<br>via your
-                        chosen method</p>
-                </div>
-            </div>
-            <div _ngcontent-c4=""
-                class="step col-12 col-md-4 d-flex mx-md-auto align-items-center flex-md-column ng-star-inserted">
-                <div _ngcontent-c4="" class="img-wrapper"><img _ngcontent-c4="" class="ng-tns-c4-1" loading="lazy"
-                        src="/assets/img/svg/step-trade.svg" alt="Trade">
-                    <div _ngcontent-c4="" class="counter"> 3 </div>
-                </div>
-                <div _ngcontent-c4="" class="ml-32">
-                    <p _ngcontent-c4="" class="step-title text-left text-md-center"> Trade </p>
-                    <p _ngcontent-c4="" class="step-description text-left text-md-center">Start trading with<br>a
-                        reliable broker</p>
-                </div>
-            </div>
-        </div><a _ngcontent-c4="" class="btn button red mx-auto mt-40" href="https://my.hycm.com/en/register"> Get
-            started </a><!---->
-    </div>
-</section>
-
-
