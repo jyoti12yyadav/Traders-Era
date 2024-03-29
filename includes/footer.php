@@ -224,8 +224,8 @@
 <div class="row">
                 <div class="col-12 border-top border-color opac-20 py-7 py-xxl-8">
                     <div class="footer__copyright d-center gap-15 flex-wrap justify-content-md-between">
-                        <p class="fs-six order-2 order-md-0 text-center text-md-start">Copyright ©<span class="currentYear"></span> Tradez <span>|</span> Designed By <a href="https://themeforest.net/user/uiaxis" class="p1-color"> UIAXIS</a> </p>
-                      
+                        <!-- <p class="fs-six order-2 order-md-0 text-center text-md-start">Copyright ©<span class="currentYear"></span> Tradez <span>|</span> Designed By <a href="https://themeforest.net/user/uiaxis" class="p1-color"> UIAXIS</a> </p>
+                       -->
                         <ul class=" d-center gap-2 gap-md-3">
                         <li>
                                 <a class="n2-color" href="terms-condition.php">Terms & Conditions</a>

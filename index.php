@@ -448,12 +448,13 @@
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/education.png" alt="Imgae">
+                    <img src="assets/images/tradersera.png" alt="Imgae">
                 </div>
             </div>
+
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
-                    <h3 class="mb-4 mb-lg-5">Trading Platform Web Based</h3>
+                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;">Trading Platform Web Based</h2>
                     <p class="mx-ch">If a computer or laptop doesn't meet the requirements of a desktop trading app,
                         it's more likely to crash during a trading session. Web trading platforms are safer since they
                         use a remote server or cloud for calculations. Users only need to focus on their internet
@@ -462,9 +463,9 @@
                 </div>
 
 
-                <h6 class="mt-4 mb-lg-5">
-                    Advantages of Web-Based Trading Platforms:
-                </h6>
+                <h5 class="mt-4 mb-lg-5">
+                    Advantages of Web-Based Trading Platforms
+                </h5>
                 <ul class="d-flex gap-4 flex-column mt-6">
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>Trading with a global broker-dealer that
