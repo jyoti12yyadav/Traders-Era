@@ -236,59 +236,6 @@ h1 {
 </style>
 
 
-<script>
-    const progress = document.getElementById("progress");
-const prev = document.getElementById("prev");
-const next = document.getElementById("next");
-const steps = document.querySelectorAll(".step");
-
-let currentStep = 1;
-
-next.addEventListener("click", () => {
-  currentStep++;
-
-  if (currentStep > steps.length) {
-    currentStep = steps.length;
-  }
-
-  update();
-});
-
-prev.addEventListener("click", () => {
-  currentStep--;
-
-  if (currentStep < 1) {
-    currentStep = 1;
-  }
-
-  update();
-});
-
-function update() {
-  steps.forEach((step, i) => {
-    if (i < currentStep) {
-      step.classList.add("active");
-    } else {
-      step.classList.remove("active");
-    }
-  });
-
-  const activeSteps = document.querySelectorAll(".active");
-
-  progress.style.width =
-    ((activeSteps.length - 1) / (steps.length - 1)) * 100 + "%";
-
-  if (currentStep === 1) {
-    prev.disabled = true;
-  } else if (currentStep === steps.length) {
-    next.disabled = true;
-  } else {
-    next.disabled = false;
-    prev.disabled = false;
-  }
-}
-
-</script>
 
 
 <div class="slider">
@@ -1191,16 +1138,3 @@ function update() {
 </section>
 
 
-<div class="container">
-    <h1>Progress Steps</h1>
-    <div class="progress-wrap">
-      <div class="progress" id="progress"></div>
-      <div class="step active">1</div>
-      <div class="step">2</div>
-      <div class="step">3</div>
-      <div class="step">4</div>
-    </div>
-
-    <button class="btn" id="prev" disabled>Prev</button>
-    <button class="btn" id="next">Next</button>
-  </div>
