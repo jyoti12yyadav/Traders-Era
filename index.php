@@ -758,45 +758,6 @@
     </div>
 </section>
 
-<section class="customers position-relative z-0">
-    <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-        <img src="assets/images/vector6.png" alt="vector"
-            class="position-absolute rotate d-none d-xxxl-flex start-0 top-0 pt-20 mt-5 ps-20 ms-5">
-        <img src="assets/images/vector8.png" alt="vector"
-            class="position-absolute bottom-0 pb-20 mb-4 d-none d-xxl-flex">
-        <img src="assets/images/earth.png" alt="vector"
-            class="position-absolute d-none d-xl-flex bottom-0 end-0 rotate">
-    </div>
-    <div class="container">
-        <div
-            class="row gy-10 gy-xl-0 justify-content-center justify-content-lg-between align-items-center align-items-xxl-end">
-            <div class="col-lg-6 col-xxl-5 pb-0 pt-120 pb-lg-120">
-                <div class="customers__content me-xxl-18">
-                    <h3 class="mb-4">Your Go-To for Crypto Trading</h3>
-                    <p class="mx-ch">At TradingEra, we specialize in what we do best – Crypto trading. Our platform is
-                        designed to provide you with a simple, secure, and seamless experience, ensuring you can trade
-                        cryptocurrencies with confidence.</p>
-                    <ul class="list_divided d-flex flex-wrap gap-5 mt-5 mt-xxl-6">
-                        <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                                class="ti ti-circle-check s1-color fs-four"></i>Expertise</li>
-                        <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                                class="ti ti-circle-check s1-color fs-four"></i>Security</li>
-                        <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                                class="ti ti-circle-check s1-color fs-four"></i>User-Friendly Interface</li>
-                        <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                                class="ti ti-circle-check s1-color fs-four"></i>24/7 Support</li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-10 col-sm-8 col-lg-6 col-xxl-6 ">
-                <div class="customers__thumb">
-                    <img src="assets/images/customers.png" class="w-100 max-xxl-un cus-rounded-2" alt="video">
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
 <!-- Trade On end -->
 
 <!--People Trust start-->
