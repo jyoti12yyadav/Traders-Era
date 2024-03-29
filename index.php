@@ -787,63 +787,7 @@
                 </div>
             </div>
         </div>
-        <div class="client_company_section py-10 p1-bg align-items-center justify-content-center"
-            style="border-radius: 10px;">
-            <!-- Swiper -->
-            <div class="swiper client_company swiper-initialized swiper-horizontal swiper-pointer-events">
-                <div class="swiper-wrapper align-items-center" id="swiper-wrapper-38fe1326c9563c95" aria-live="off"
-                    style="transition-duration: 0ms; transform: translate3d(-561.143px, 0px, 0px);">
-                    <div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="0"
-                        role="group" aria-label="1 / 7" style="width: 230.571px; margin-right: 50px;">
-                        <img src="assets/images/company_logo.png" alt="Client Logo">
-                    </div>
-                    <div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="1"
-                        role="group" aria-label="2 / 7" style="width: 230.571px; margin-right: 50px;">
-                        <img src="assets/images/company_logo2.png" alt="Client Logo">
-                    </div>
-                    <div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="2"
-                        role="group" aria-label="3 / 7" style="width: 230.571px; margin-right: 50px;">
-                        <img src="assets/images/company_logo3.png" alt="Client Logo">
-                    </div>
-                    <div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="3"
-                        role="group" aria-label="4 / 7" style="width: 230.571px; margin-right: 50px;">
-                        <img src="assets/images/company_logo4.png" alt="Client Logo">
-                    </div>
-                    <div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-prev"
-                        data-swiper-slide-index="4" role="group" aria-label="5 / 7"
-                        style="width: 230.571px; margin-right: 50px;">
-                        <img src="assets/images/company_logo5.png" alt="Client Logo">
-                    </div>
-                    <div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-active"
-                        data-swiper-slide-index="5" role="group" aria-label="6 / 7"
-                        style="width: 230.571px; margin-right: 50px;">
-                        <img src="assets/images/company_logo6.png" alt="Client Logo">
-                    </div>
-                    <div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-next"
-                        data-swiper-slide-index="6" role="group" aria-label="7 / 7"
-                        style="width: 230.571px; margin-right: 50px;">
-                        <img src="assets/images/company_logo7.png" alt="Client Logo">
-                    </div>
-                    <div class="swiper-slide text-center" data-swiper-slide-index="0" role="group" aria-label="1 / 7"
-                        style="width: 230.571px; margin-right: 50px;">
-                        <img src="assets/images/company_logo.png" alt="Client Logo">
-                    </div>
-                    <div class="swiper-slide text-center" data-swiper-slide-index="1" role="group" aria-label="2 / 7"
-                        style="width: 230.571px; margin-right: 50px;">
-                        <img src="assets/images/company_logo2.png" alt="Client Logo">
-                    </div>
-                    <div class="swiper-slide text-center" data-swiper-slide-index="2" role="group" aria-label="3 / 7"
-                        style="width: 230.571px; margin-right: 50px;">
-                        <img src="assets/images/company_logo3.png" alt="Client Logo">
-                    </div>
-                    <div class="swiper-slide text-center" data-swiper-slide-index="3" role="group" aria-label="4 / 7"
-                        style="width: 230.571px; margin-right: 50px;">
-                        <img src="assets/images/company_logo4.png" alt="Client Logo">
-                    </div>
-                </div>
-                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
-            </div>
-        </div>
+       
     </div>
 </section>
 <!-- People Trust end -->
