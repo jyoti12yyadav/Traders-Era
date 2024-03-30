@@ -711,25 +711,20 @@
                 </h5>
                 <ul class="d-flex gap-4 flex-column mt-6">
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Accessible anytime and anywhere, without the need for installation.
+                            class="ti ti-circle-check s1-color fs-four"></i>Accessible anywhere, without the need for installation.
 
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Cross-Device Compatibility, Works seamlessly across multiple devices.
+                            class="ti ti-circle-check s1-color fs-four"></i>Works seamlessly across multiple devices.
                         </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Platform updates are hassle-free, ensuring easy access to the latest features.
+                            class="ti ti-circle-check s1-color fs-four"></i> Easy access to the latest features.
 
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Doesn't need high-end hardware, suitable for various devices.</li>
-                            <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                                class="ti ti-circle-check s1-color fs-four"></i>Compatible across various operating systems without requiring specific versions.
-                            </li>
-                            <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                                class="ti ti-circle-check s1-color fs-four"></i>Requires minimal disk space as data is stored in the cloud or on servers.
-
-                            </li>
+                            class="ti ti-circle-check s1-color fs-four"></i>Doesn't need high-end hardware.</li>
+                           
+                          
                 </ul>
                 <!-- <a href="signup.html" class="cmn-btn secondary-alt fs-six-up nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6 mt-7 mt-xxl-8">Sign up Now <i class="ti ti-arrow-right fs-four"></i></a> -->
 
