@@ -205,4 +205,8 @@
     max-width: 100%;
    
 }
+
+.contact li {
+    margin-right: 10px; /* Adjust the value as per your design */
+}
     </style>
