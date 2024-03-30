@@ -304,9 +304,45 @@
         }
     }
 
-    /* style our partners start */
 
-    /* style our partners start */
+
+    .our-clients .container {
+        width: 100%;
+        height: 35%;
+        display: flex;
+        align-items: center;
+        overflow: hidden;
+    }
+
+    .our-clients .container ul {
+        display: flex;
+        flex-wrap: nowrap;
+        width: 100%;
+        transition: 0.3s;
+    }
+
+    .our-clients .container ul li {
+        list-style: none;
+        width: 40%;
+        height: 100px;
+        flex-shrink: 0;
+        box-sizing: border-box;
+        padding: 0 8px;
+        margin-top: 25px;
+    }
+
+    .our-clients .container ul li p {
+        background: #58585a;
+        text-align: center;
+        color: #fff;
+        line-height: 100px;
+        border-radius: 8px;
+    }
+
+    .our-clients{
+        margin-top: 10px    ;
+    }
+
 </style>
 <div class="slider">
     <div class="slide_viewer">
@@ -718,22 +754,6 @@
                 </h5>
                 <ul class="d-flex gap-4 flex-column mt-6">
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-<<<<<<< HEAD
-                            class="ti ti-circle-check s1-color fs-four"></i>Accessible anywhere, without the need for installation.
-
-                    </li>
-                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Works seamlessly across multiple devices.
-                        </li>
-                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i> Easy access to the latest features.
-
-                    </li>
-                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Doesn't need high-end hardware.</li>
-                           
-                          
-=======
                             class="ti ti-circle-check s1-color fs-four"></i>Accessible anytime and anywhere, without the
                         need for installation.
 
@@ -759,10 +779,7 @@
                         stored in the cloud or on servers.
 
                     </li>
->>>>>>> 0528edb84db32f1cc09b944637edaba28f56e363
                 </ul>
-                <!-- <a href="signup.html" class="cmn-btn secondary-alt fs-six-up nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6 mt-7 mt-xxl-8">Sign up Now <i class="ti ti-arrow-right fs-four"></i></a> -->
-
             </div>
         </div>
 </section>
@@ -806,36 +823,7 @@
 
 <!-- Trade On end -->
 
-<!--People Trust start-->
-<section>
-    <div class="container">
-        <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
-            <div class="col-sm-10 col-lg-6 col-xxl-5 order-2 order-lg-0">
-                <div class="company-story__thumbs d-center">
-                    <img src="assets/images/deposite.png" class="cus-rounded-1 w-100" alt="Imgae">
-                </div>
-            </div>
-            <div class="col-lg-6 col-xxl-7">
-                <div class="row ms-xl-3 ms-xxl-10">
-                    <div class="col-xxl-12">
-                        <div class="">
-                            <h3 class="mb-3 mt-5">Friendly Funding Options</h3>
-                            <p>
-                                At TradersEra we've got all your account funding needs sorted. Whether you fancy the
-                                ease of Visa or Mastercard, the trustworthiness of a wire transfer or the modern touch
-                                of cryptocurrency we offer a range of options to kick off smoothly. Pick the approach
-                                that suits you and dive into trading
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-    </div>
-</section>
-
-<section class="provide-world pt-120 position-relative z-0 mb-10">
+<section class="provide-world pt-80 position-relative z-0 mb-10">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-7 col-xxl-6">
@@ -876,162 +864,61 @@
         </div>
     </div>
 </section>
-<!-- html our partners start slider -->
 
-<!-- html our partners end slider -->
-
-
-
-<!-- People Trust end -->
-
-<!--Testimonial start-->
-<!-- <section class="testimonial p1-bg pt-120 pb-120 position-relative z-0">
-        <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-            <img src="assets/images/star.png" alt="vector" class="position-absolute push_animat">
-            <img src="assets/images/vector2.png" alt="vector" class="position-absolute bottom-0 start-0 d-none d-xxxl-flex">
-            <img src="assets/images/sun.png" alt="vector" class="position-absolute push_animat d-none d-xxl-flex">
-        </div>
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-8 col-xxl-7">
-                    <div class="heading__content alt-color mb-10 mb-lg-15 text-center">
-                        <span class="heading fs-five mb-5">Testimonial</span>
-                        <h3>What people say</h3>
-                    </div>
+<!--People Trust start-->
+<section>
+    <div class="container" style="margin-top: 70px;">
+        <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
+            <div class="col-sm-10 col-lg-6 col-xxl-5 order-2 order-lg-0">
+                <div class="company-story__thumbs d-center">
+                    <img src="assets/images/deposite.png" class="cus-rounded-1 w-100" alt="Imgae">
                 </div>
             </div>
-            <div class="row">
-                <div class="col-12">
-                    <div class="swiper common-slider1 cus-rounded-1 d-center align-items-end align-items-xxl-center ">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide cus-rounded-1 overflow-hidden cus-rounded-1 overflow-hidden">
-                                <div class="testimonial__part a2-bg d-flex flex-column flex-sm-row  align-items-center">
-                                    <div class="testimonial__author d-none d-sm-flex">
-                                        <img src="assets/images/author.png" class="max-xxl-un " alt="Image">
-                                    </div>
-                                    <div class="testimonial__content p-4 px-lg-7 px-xxl-8 py-lg-6 py-xxl-7">
-                                        <div class="content__part">
-                                            <img src="assets/images/icon/quote_left.png" alt="icon">
-                                            <p class=" fs-six-up mt-5 mt-xxl-6">"Trading has always been a passion, but it wasn't management that began to see consistent profits. The journey was not without its ups and downs, but the lessons I learned along the way have been embraced riskinvaluable.</p>
-                                            <h5 class="heading p1-color mt-4">Brooklyn Simmons</h5>
-                                            <span class="fs-seven fw_500 mt-2">Marketing Director</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide cus-rounded-1 overflow-hidden">
-                                <div class="testimonial__part a2-bg d-flex flex-column flex-sm-row  align-items-center">
-                                    <div class="testimonial__author d-none d-sm-flex">
-                                        <img src="assets/images/author2.png" class="max-xxl-un " alt="Image">
-                                    </div>
-                                    <div class="testimonial__content p-4 p-lg-7 p-xxl-8">
-                                        <div class="content__part">
-                                            <img src="assets/images/icon/quote_left.png" alt="icon">
-                                            <p class=" fs-six-up mt-5 mt-xxl-6">"Trading has always been a passion, but it wasn't management that began to see consistent profits. The journey was not without its ups and downs, but the lessons I learned along the way have been embraced riskinvaluable.</p>
-                                            <h5 class="heading p1-color mt-4">Chris Moore</h5>
-                                            <span class="fs-seven fw_500 mt-2">President of Sales</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide cus-rounded-1 overflow-hidden">
-                                <div class="testimonial__part a2-bg d-flex flex-column flex-sm-row  align-items-center">
-                                    <div class="testimonial__author d-none d-sm-flex">
-                                        <img src="assets/images/author3.png" class="max-xxl-un" alt="Image">
-                                    </div>
-                                    <div class="testimonial__content p-4 p-lg-7 p-xxl-8">
-                                        <div class="content__part">
-                                            <img src="assets/images/icon/quote_left.png" alt="icon">
-                                            <p class=" fs-six-up mt-5 mt-xxl-6">"Trading has always been a passion, but it wasn't management that began to see consistent profits. The journey was not without its ups and downs, but the lessons I learned along the way have been embraced riskinvaluable.</p>
-                                            <h5 class="heading p1-color mt-4">Balogh Imre</h5>
-                                            <span class="fs-seven fw_500 mt-2">Account Executive</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="slider-btn position-absolute justify-content-end d-center justify-content-xxl-between gap-2 w-100 pb-3 pb-sm-5 pb-xxl-0 px-8 px-sm-18 px-xl-12 px-xxl-18">
-                            <button type="button" aria-label="Slide Prev" class="ara-prev slide-button cmn-btn2 d-center">
-                                <i class="ti ti-arrow-narrow-right"></i>
-                            </button>
-                            <button type="button" aria-label="Slide Next" class="ara-next slide-button cmn-btn2 d-center">
-                                <i class="ti ti-arrow-narrow-right"></i>
-                            </button>
+            <div class="col-lg-6 col-xxl-7">
+                <div class="row ms-xl-3 ms-xxl-10">
+                    <div class="col-xxl-12">
+                        <div class="">
+                            <h3 class="mb-3 mt-5">Friendly Funding Options</h3>
+                            <p>
+                                At TradersEra we've got all your account funding needs sorted. Whether you fancy the
+                                ease of Visa or Mastercard, the trustworthiness of a wire transfer or the modern touch
+                                of cryptocurrency we offer a range of options to kick off smoothly. Pick the approach
+                                that suits you and dive into trading
+                            </p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </section> -->
-<!-- Testimonial end -->
+    </div>
+</section>
 
-<!--blog_news start-->
-<!-- <section class="blog_news pt-120 pb-120 position-relative z-0">
-        <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-            <img src="assets/images/star.png" alt="vector" class="position-absolute">
-            <img src="assets/images/vector2.png" alt="vector" class="position-absolute bottom-0 start-0">
-            <img src="assets/images/sun.png" alt="vector" class="position-absolute">
-        </div>
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="heading__content d-flex row-gap-7 gap-20 flex-wrap justify-content-between align-items-center mb-10 mb-lg-15 ">
-                    <div class="heading__part">
-                        <span class="heading s1-color fs-five mb-5">Blog</span>
-                        <h3>News & Analysis</h3>
-                    </div>
-                    <a href="blog.html" class="cmn-btn link fs-six-up  gap-2 gap-lg-3 align-items-center"> See All <i class="ti ti-arrow-right fs-four"></i></a>
-                </div>
-            </div>
-            <div class="row gy-6">
-                <div class="col-md-6 col-xxl-4">
-                    <div class="blog_news__card nb3-bg cus-rounded-1 overflow-hidden">
-                        <div class="blog_news__thumbs position-relative">
-                            <img src="assets/images/blog_news.png" alt="Image" class="w-100">
-                            <a href="#" class="border border-color second nw1-color fs-seven rounded-3 position-absolute top-0 end-0 py-1 px-3 mt-5 me-5">News</a>
-                        </div>
-                        <div class="blog_news__content py-6 py-lg-7 py-xxl-8 px-4 px-lg-5 px-xxl-6">
-                           <a href="blog-details.html"><h5 class="mb-4 mb-lg-5">Trading Psychology: Mastering Your Mind for Profit</h5></a>
-                           <div class="fs-seven fw_500 d-flex row-gap-0 flex-wrap gap-3 mb-4 mb-lg-5">August 17,2023 <span>|</span> Written by jason Turner</div>
-                           <p>Trading in financial markets involves a wide 
-                            employ to make informed decisions.</p>
-                            <a href="blog-details.html" class="link fs-five fw-semibold d-flex gap-2 gap-lg-3 align-items-center mt-6  mt-lg-8"> Continue Reading <i class="ti ti-arrow-right"></i></a>
-                       </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-xxl-4">
-                    <div class="blog_news__card nb3-bg cus-rounded-1 overflow-hidden">
-                        <div class="blog_news__thumbs position-relative">
-                            <img src="assets/images/blog_news2.png" alt="Image" class="w-100">
-                            <a href="#" class="border border-color second nw1-color fs-seven rounded-3 position-absolute top-0 end-0 py-1 px-3 mt-5 me-5">Features</a>
-                        </div>
-                        <div class="blog_news__content py-6 py-lg-7 py-xxl-8 px-4 px-lg-5 px-xxl-6">
-                           <a href="blog-details.html"><h5 class="mb-4 mb-lg-5">Trading Pitfalls Common Mistakes and How to Avoid Them...</h5></a>
-                           <div class="fs-seven fw_500 d-flex flex-wrap row-gap-0 gap-3 mb-4 mb-lg-5">August 17,2023 <span>|</span> Written by jason Turner</div>
-                           <p>Trading in financial markets involves a wide 
-                            employ to make informed decisions.</p>
-                            <a href="blog-details.html" class="link fs-five fw-semibold d-flex gap-2 gap-lg-3 align-items-center mt-6  mt-lg-8"> Continue Reading <i class="ti ti-arrow-right"></i></a>
-                       </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-xxl-4">
-                    <div class="blog_news__card nb3-bg cus-rounded-1 overflow-hidden">
-                        <div class="blog_news__thumbs position-relative">
-                            <img src="assets/images/blog_news3.png" alt="Image" class="w-100">
-                            <a href="#" class="border border-color second nw1-color fs-seven rounded-3 position-absolute top-0 end-0 py-1 px-3 mt-5 me-5">News</a>
-                        </div>
-                        <div class="blog_news__content py-6 py-lg-7 py-xxl-8 px-4 px-lg-5 px-xxl-6">
-                           <a href="blog-details.html"><h5 class="mb-4 mb-lg-5">Trading Platforms: Tools for Success in Financial Markets</h5></a>
-                           <div class="fs-seven fw_500 d-flex flex-wrap row-gap-0 gap-3 mb-4 mb-lg-5">August 17,2023 <span>|</span> Written by jason Turner</div>
-                           <p>Trading in financial markets involves a wide 
-                            employ to make informed decisions.</p>
-                            <a href="blog-details.html" class="link fs-five fw-semibold d-flex gap-2 gap-lg-3 align-items-center mt-6  mt-lg-8"> Continue Reading <i class="ti ti-arrow-right"></i></a>
-                       </div>
-                    </div>
-                </div>
+<section style="background-color: white;" class="our-clients">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <ul id="client-slider">
+                    <li>
+                        <img src="assets/images/icon/crypto-logo.png" alt="crypto">
+                    </li>
+                    <li>
+                        <img src="assets/images/icon/mastercard.png" alt="crypto">
+                    </li>
+                    <li>
+                        <img src="assets/images/icon/visa-logo.png" alt="crypto">
+                    </li>
+                    <li>
+                        <img src="assets/images/icon/Wire-Transfer.png" alt="crypto">
+                    </li>
+                </ul>
             </div>
         </div>
-    </section> -->
-<!-- blog_news end -->
+    </div>
+</section>
+
+
+
+
 <script>
 
     $('.slider').each(function () {
@@ -1176,7 +1063,25 @@
     });
 
 
+
     //  script our partners start slider
+
+    var clientSlider = document.getElementById('client-slider');
+    var clientList = clientSlider.getElementsByTagName('li');
+
+    setInterval(() => {
+        clientSlider.style.transform = "translateX(-20%)";
+    }, 3000);
+
+    clientSlider.addEventListener('transitionend', function () {
+        clientSlider.appendChild(clientSlider.firstElementChild);
+
+        clientSlider.style.transition = "none";
+        clientSlider.style.transform = "translateX(0)";
+        setTimeout(() => {
+            clientSlider.style.transition = "0.3s";
+        });
+    })
 
     // script our partners end slider
 

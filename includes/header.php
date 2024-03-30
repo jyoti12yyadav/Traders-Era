@@ -56,15 +56,16 @@
         <div class="container-fluid bg-upper-header upper-header">
             <div class="container">
                 <div class="upper-header-content">
+                    <div class="col col-lg-8 col-md-12 d-none d-lg-block">
+                        <div class="contact-details ">
+                            <ul class="contact" style="display: flex;position: absolute;margin-top: 12px;">
+                                <li><img src="assets/images/icon/mail icon png.png" alt=""><a
+                                        href="mailto:support@tradersera.com">support@tradersera.com</a></li>
+                                <li><img src="assets/images/icon/call icon png.png" alt=""><a href="tel:+ 44203758865">+
+                                        44203758865</a></li>
+                            </ul>
 
-
-                 <div class="col col-lg-8 col-md-12 d-none d-lg-block">
-                    <div class="contact-details ">
-                        <ul  class="contact"style="display: flex; margin-bottom: -23px; ">
-                            <li><img src="assets/images/icon/mail icon png.png" alt=""><a href="mailto:support@tradersera.com">support@tradersera.com</a></li>
-                            <li><img src="assets/images/icon/call icon png.png" alt=""><a href="tel:+ 44203758865">+ 44203758865</a></li>
-                        </ul> 
-                         
+                        </div>
                     </div>
                 </div>
               
@@ -206,9 +207,9 @@
    
 }
 
-.contact-details{
+/* .contact-details{
     padding-top: 10px;
-}
+} */
 
 
 
