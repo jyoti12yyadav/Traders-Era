@@ -521,9 +521,11 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">CRYPTO AND FX LEVERAGE</h3>
+                                        <h3 class="">Binary Trading</h3>
 
-                                        <span>Available Predict asset price changes for fixed gains or losses.
+                                        <span>High returns on investment within short timeframes.
+
+
                                         </span>
                                     </div>
 
@@ -539,9 +541,10 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">NO DOWNLOADS REQUIRED</h3>
+                                        <h3 class="">Secure Funding</h3>
 
-                                        <span>Our web-based platform supports all operating systems.
+                                        <span>AI for trades based on algorithms and market conditions.
+
                                         </span>
                                     </div>
 
@@ -557,11 +560,12 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">LOWEST TRADING FEES</h3>
+                                       
                                         <h3 class="">AI Trading Available
                                         </h3>
 
-                                        <span>AI for trades based on algorithms and market conditions.</span>
+                                        <span>Direct from your crypto wallet
+                                        </span>
                                     </div>
 
                                 </div>
@@ -583,7 +587,7 @@
                                     <div class="row">
                                         <h3 class="">Advantage Of Forex And Crypto</h3>
 
-                                        <span> Investment opportunities across traditional and digital financial
+                                        <span> Investment opportunities across digital financial
                                             markets.
                                         </span>
                                     </div>
@@ -600,9 +604,9 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">SECURE FUNDING</h3>
+                                        <h3 class="">No Download Required</h3>
 
-                                        <span>Direct from your crypto wallet
+                                        <span>Our web-based platform supports all operating systems
                                         </span>
                                     </div>
 
