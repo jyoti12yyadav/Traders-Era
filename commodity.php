@@ -55,67 +55,6 @@
     </div>
 </section>
 
-<section class="provide-world pt-120 pb-120  position-relative z-0">
-    <div class="container">
-        <div class="row justify-content-center text-center mb-10 mb-lg-15">
-            <div class="col-md-8 col-xl-5">
-                <h3>How is TradersEra reliable?</h3>
-            </div>
-        </div>
-        <div class="row gy-6">
-            <div class="col-lg-6 col-xxl-6">
-                <div class="apply-card nb3-bg cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <h3 class="mb-4">Strong Spreads</h3>
-                    <p>TradersEra reduces your commodity trading costs and provides you the lowest possible spreads in
-                        the market.
-                    </p>
-                    <br>
-                </div>
-            </div>
-            <div class="col-lg-6 col-xxl-6">
-                <div class="apply-card nb3-bg cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <h3 class="mb-4">Global Regulation</h3>
-                    <p>TradersEra is regulated in diverse jurisdictions and strives to meet all strict financial
-                        standards as per FCA statutes, including capital adequacy requirements.
-                    </p>
-                </div>
-            </div>
-            <div class="col-lg-6 col-xxl-6">
-                <div class="apply-card nb3-bg cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <h3 class="mb-4">Flexible Leverage</h3>
-                    <p>With small opening investments, our leverage gives greater access to all the financial markets.
-                        Trade correctly and gain profit on your investments with TradersEra.
-                    </p>
-                </div>
-            </div>
-            <div class="col-lg-6 col-xxl-6">
-                <div class="apply-card nb3-bg cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <h3 class="mb-4">Quick Execution</h3>
-                    <p>TradersEra utilises enterprise-level hardware on its trade servers to ensure the lowest latency
-                        and fastest trade execution only for you.
-                    </p>
-                    <br>
-                </div>
-            </div>
-            <div class="col-lg-6 col-xxl-6">
-                <div class="apply-card nb3-bg cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <h3 class="mb-4">Funds’ Security</h3>
-                    <p>TradersEra holds all your funds in segregate accounts with top-notch banks and also keeps them
-                        separate from the firm’s assets.
-                    </p>
-                </div>
-            </div>
-            <div class="col-lg-6 col-xxl-6">
-                <div class="apply-card nb3-bg cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <h3 class="mb-4">Unrivalled Customer Support</h3>
-                    <p>With an experienced team backing you up during every trouble, TradersEra aims to provide you the
-                        best possible customer support 24×5.
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
 
 <section class="faq pb-120 pt-120 position-relative z-0">
     <div class="container">

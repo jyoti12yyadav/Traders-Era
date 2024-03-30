@@ -384,7 +384,7 @@
                         </div>
                         <div class="col-sm-10 col-lg-6 col-xxl-5">
                             <div class="hero-section__thumbs pb-xxl-10">
-                                <img src="assets/images/hero_thumb.png" class="max-auto max-xxl-un" alt="img">
+                                <img src="assets/images/banner one.png" class="max-auto max-xxl-un" alt="img">
                             </div>
                         </div>
                         <ul
@@ -450,7 +450,7 @@
                         </div>
                         <div class="col-sm-10 col-lg-6 col-xxl-5">
                             <div class="hero-section__thumbs pb-xxl-10">
-                                <img src="assets/images/hero_thumb.png" class="max-auto max-xxl-un" alt="img">
+                                <img src="assets/images/banner two.png" class="max-auto max-xxl-un" alt="img">
                             </div>
                         </div>
                         <ul
@@ -698,28 +698,28 @@
                     <div class="col-3 ">
                         <div class="process-step-cont">
                             <div class="process-step step-1"></div>
-                            <h4 class="process-label">Get Started </h4>
+                            <h4 class="process-label">Sign Up </h4>
                             <!-- <p class="process-label-P">Simply click on the "Register Now" button</p> -->
                         </div>
                     </div>
                     <div class="col-3 ">
                         <div class="process-step-cont">
                             <div class="process-step step-2"></div>
-                            <h4 class="process-label">Add Credentials</h4>
+                            <h4 class="process-label">Do Your KYC</h4>
                             <!-- <p class="process-label-P text-center">Enter your email address and choose a password</p> -->
                         </div>
                     </div>
                     <div class="col-3">
                         <div class="process-step-cont">
                             <div class="process-step step-3"></div>
-                            <h4 class="process-label">Trading Experience</h4>
+                            <h4 class="process-label">Deposit With Multiple Payment Option </h4>
                             <!-- <p class="process-label-P text-center">Take a moment to answer a few important questions to enhance your trading experience</p> -->
                         </div>
                     </div>
                     <div class="col-3">
                         <div class="process-step-cont">
                             <div class="process-step step-4"></div>
-                            <h4 class="process-label">Fund Your Account</h4>
+                            <h4 class="process-label">Start Your Trading</h4>
                             <!-- <span class="process-label-P text-center">Once completed, the next step is to fund your account</span> -->
                         </div>
                     </div>

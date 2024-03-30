@@ -95,7 +95,7 @@
                         id="nav-icon3">
                         <span></span><span></span><span></span><span></span>
                     </button>
-                    <a href="index.html" class="navbar-brand m-0 p-0 d-flex align-items-center gap-5 gap-xl-5 me-2">
+                    <a href="index.php" class="navbar-brand m-0 p-0 d-flex align-items-center gap-5 gap-xl-5 me-2">
                         <img src="assets/images/fav.png" class="logo small_logo d-sm-none" alt="logo">
                         <img src="assets/images/logo.png" class="logo d-none d-sm-flex" alt="logo">
                     </a>
@@ -158,7 +158,8 @@
                             <button type="button" aria-label="Navbar Dropdown Button"
                                 class="dropdown-toggle dropdown-nav">Partners</button>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="become-an-iB.php">Become an IB</a></li>
+                                <li><a class="dropdown-item" href="become-an-iB.php">Become An Partner</a></li>
+                                <li><a class="dropdown-item" href="commission.php">Commission</a></li>
                                 <li><a class="dropdown-item" href="faq.php">FAQ</a></li>
                             </ul>
                         </li>
@@ -214,6 +215,6 @@
 
 
 .contact li {
-    margin-right: 70px; /* Adjust the value as per your design */
+    margin-right: 25px; /* Adjust the value as per your design */
 }
     </style>

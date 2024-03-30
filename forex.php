@@ -123,40 +123,5 @@
     </div>
 </section>
 
-<section class="provide-world pt-120 pb-120  position-relative z-0">
-    <div class="container">
-        <div class="row justify-content-center text-center mb-10 mb-lg-15">
-            <div class="col-md-8 col-xl-5">
-                <h3>How is FX trading safe with TradersEra?</h3>
-            </div>
-        </div>
-        <div class="row gy-6">
-            <div class="col-lg-6 col-xxl-6">
-                <div class="apply-card nb3-bg cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                   <h3 class="mb-4">Financially Regulated</h3>
-                   <p>TradersEra is regulated in several jurisdictions and meets all strict financial standards as per FCA ordinances, including capital adequacy requirements.</p>
-                </div>
-            </div>
-            <div class="col-lg-6 col-xxl-6">
-                <div class="apply-card nb3-bg cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                   <h3 class="mb-4">Complaint Management</h3>
-                   <p>TradersEra acknowledges its clients’ issues, resolves them with equal priority, and ensures the proper functioning of our complaint management system.</p>
-                </div>
-            </div>
-            <div class="col-lg-6 col-xxl-6">
-                <div class="apply-card nb3-bg cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                   <h3 class="mb-4">Segregated Accounts</h3>
-                   <p>TradersEra ensures that its client’s funds are kept in separate accounts with pre-eminent banks and completely segregated from the assets of the firm.</p>
-                </div>
-            </div>
-            <div class="col-lg-6 col-xxl-6">
-                <div class="apply-card nb3-bg cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                   <h3 class="mb-4">Transparency Policy</h3>
-                   <p>TradersEra holds extreme transparent policy to ensure that our client receives a transparent price feed, liquidity, and market information at all times.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
 
 <?php include("includes/footer.php"); ?>

@@ -49,45 +49,6 @@
 </section>
 
 
-
-
-    <section class="provide-world pt-120 pb-120  position-relative z-0">
-        <div class="container">
-            <div class="row justify-content-center text-center mb-10 mb-lg-15">
-                <div class="col-md-8 col-xl-5">
-                    <h3>Why Trade Indices with TradersEra?</h3>
-                </div>
-            </div>
-            <div class="row gy-6">
-                <div class="col-lg-6 col-xxl-6">
-                    <div class="apply-card nb3-bg cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                       <h3 class="mb-4">Lower Transaction Costs</h3>
-                       <p>Trade commission free with no exchange fees. Start index trading with us.</p>
-                       <br>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-xxl-6">
-                    <div class="apply-card nb3-bg cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                       <h3 class="mb-4">Enhanced Execution</h3>
-                       <p>Trade indices without minimum stop distances on most products with TradersEra.</p>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-xxl-6">
-                    <div class="apply-card nb3-bg cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                       <h3 class="mb-4">Transparency</h3>
-                       <p>TradersEra’s performance statistics, requote, slippage, and order executions are regularly checked by PwC to ensure 100% genuinity and transparency.</p>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-xxl-6">
-                    <div class="apply-card nb3-bg cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                       <h3 class="mb-4">Safe & Secure Funds</h3>
-                       <p>EdureFX makes sure that all your funds are kept in segregated accounts with top-tier banks. Your funds are also kept separate from the firm’s assets.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
     <section class="provide-world a2-bg pt-120 pb-120  position-relative z-0">
         <div class="container">
             <div class="row justify-content-center">
