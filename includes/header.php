@@ -43,7 +43,20 @@
 
     <!-- header-section start -->
 
-
+    <!-- <div class="row d-flex">
+        <div class="col-lm-4">
+            <ul class="contact" >
+            <li><img src="assets/images/icon/mail icon png.png" alt=""><a
+                href="mailto:support@tradersera.com">support@tradersera.com</a></li>
+            </ul>
+        </div>
+        <div class="col-lm-4">
+            <ul class="contact" >
+            <li><img src="assets/images/icon/call icon png.png" alt=""><a href="tel:+ 44203758865">+
+                44203758865</a></li>
+            </ul>
+        </div>
+    </div> -->
 
 
     <header class="header-section a2-bg header-menu w-100">
@@ -58,18 +71,38 @@
                 <div class="upper-header-content">
 
 
-                <div class="col col-lg-8 col-md-12 d-none d-lg-block">
-                        <div class="contact-details">
-                        <ul>
-                            <li><img src="assets/images/icon/mail.png" alt=""><a href="mailto:sales@priximglobal.com">sales@priximglobal.com</a></li>
-                            <li><img src="assets/images/icon/phone-call.webp" alt="united kingdom"><a href="tel:+44 20 36952310">+44 20 36952310</a></li>
+<<<<<<< HEAD
+                 <div class="col col-lg-8 col-md-12 d-none d-lg-block">
+                    <div class="contact-details ">
+                        <ul  class="contact"style="display: flex; margin-bottom: -23px; ">
+                            <li><img src="assets/images/icon/mail icon png.png" alt=""><a href="mailto:support@tradersera.com">support@tradersera.com</a></li>
+                            <li><img src="assets/images/icon/call icon png.png" alt=""><a href="tel:+ 44203758865">+ 44203758865</a></li>
+                        </ul> 
                          
+=======
+                    <div class="col col-lg-8 col-md-12 d-none d-lg-block">
+                        <div class="contact-details ">
+                            <ul class="contact" style="display: flex; ">
+                                <li><img src="assets/images/icon/mail icon png.png" alt=""><a
+                                        href="mailto:support@tradersera.com">support@tradersera.com</a></li>
+                                        <br>
+                                        <br>
+                                <li><img src="assets/images/icon/call icon png.png" alt=""><a href="tel:+ 44203758865">+
+                                        44203758865</a></li>
+                            </ul>
+
                         </div>
+>>>>>>> 4e5636129bca4f2cec701acdbb2304767e142bcc
                     </div>
-                </div>
 
 
                     <div class="right-area position-relative  ms-0 d-end gap-1 gap-xl-4 d-none d-lg-flex">
+
+                        <div class="single-item">
+                            <a href="signin.html"
+                                class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button">
+                                Open an Account </a>
+                        </div>
                         <div class="single-item">
                             <a href="signin.html"
                                 class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button">
@@ -167,11 +200,13 @@
                         </li>
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
-                                class="dropdown-toggle dropdown-nav"><a class="dropdown-item" href="contact.php">Contact</a></button>
+                                class="dropdown-toggle dropdown-nav"><a class="dropdown-item"
+                                    href="contact.php">Contact</a></button>
                         </li>
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
-                                class="dropdown-toggle dropdown-nav"><a class="dropdown-item" href="blog.php">Blog</a></button>
+                                class="dropdown-toggle dropdown-nav"><a class="dropdown-item"
+                                    href="blog.php">Blog</a></button>
                         </li>
 
                     </ul>
@@ -190,3 +225,29 @@
         </div>
     </header>
     <!-- header-section end -->
+
+    <style>
+        .contact img {
+            height: 25px;
+            width: 25px;
+            max-width: 100%;
+
+<<<<<<< HEAD
+.contact-details{
+    padding-top: 10px;
+}
+
+
+
+.contact li {
+    margin-right: 70px; /* Adjust the value as per your design */
+}
+=======
+        }
+
+        .contact li {
+            margin-right: 10px;
+            /* Adjust the value as per your design */
+        }
+>>>>>>> 4e5636129bca4f2cec701acdbb2304767e142bcc
+    </style>
