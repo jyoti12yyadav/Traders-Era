@@ -179,7 +179,7 @@
                         </li> -->
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
-                                class="dropdown-toggle dropdown-nav"><a class="dropdown-item" href="blog.php">Blog</a></button>
+                                class="dropdown-nav"><a class="dropdown-item" href="blog.php">Blog</a></button>
                         </li>
 
                     </ul>

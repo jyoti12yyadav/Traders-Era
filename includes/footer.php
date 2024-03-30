@@ -133,8 +133,8 @@
                         <li>
                             <a class="n2-color" href="academy.php">Academy</a>
                         </li>
-
                     </ul>
+                    <br>
                     <h4 class="mb-6 mb-lg-8 mt-4">Partners</h4>
 
                     <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4 mb-4">
