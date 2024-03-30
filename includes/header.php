@@ -73,7 +73,7 @@
 
                     <div class="right-area position-relative  ms-0 d-end gap-1 gap-xl-4 d-none d-lg-flex">
                       
-                        <div class="single-item">
+                        <div class="single-item" style="  margin-right: 10px; ">
                             <a href="signin.html"
                                 class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button">
                                 Open an Account </a>

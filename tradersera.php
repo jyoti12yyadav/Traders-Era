@@ -96,8 +96,8 @@
                     <h4 class="mt-5 mb-5">Strong Security Procedures</h4>
                     <p>At TradersEra , the protection of our clients' money and private data is of highest priority. We
                         use advanced safety methods, such as secure payment gateways and encryption protocols, to guard
-                        against unwanted access and preserve the assets of our clients. You may trade with confidence
-                        knowing that your investments are safeguarded when you use TradersEra .</p>
+                        against unwanted access and preserve the assets of our clients.</p>
+                        <br><br>
                     <!-- <a href="signup.html" class="cmn-btn link third-link fs-five  gap-2 gap-lg-3 align-items-center mt-5">Learn More<i class="ti ti-arrow-narrow-right"></i></a> -->
                 </div>
             </div>

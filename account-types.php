@@ -95,7 +95,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-7 col-xxl-6">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h3 class="mb-5 mb-lg-6">Combined Plus Account Advantages:</h3>
+                    <h3 class="mb-5 mb-lg-6">Combined Plus Account Advantages</h3>
                 </div>
             </div>
         </div>
