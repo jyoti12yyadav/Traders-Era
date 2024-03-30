@@ -60,7 +60,7 @@
 
                  <div class="col col-lg-8 col-md-12 d-none d-lg-block">
                     <div class="contact-details ">
-                        <ul  class="contact"style="display: flex; " >
+                        <ul  class="contact"style="display: flex; margin-bottom: -23px; ">
                             <li><img src="assets/images/icon/mail icon png.png" alt=""><a href="mailto:support@tradersera.com">support@tradersera.com</a></li>
                             <li><img src="assets/images/icon/call icon png.png" alt=""><a href="tel:+ 44203758865">+ 44203758865</a></li>
                         </ul> 
@@ -206,7 +206,13 @@
    
 }
 
+.contact-details{
+    padding-top: 10px;
+}
+
+
+
 .contact li {
-    margin-right: 10px; /* Adjust the value as per your design */
+    margin-right: 70px; /* Adjust the value as per your design */
 }
     </style>
