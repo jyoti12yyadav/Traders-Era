@@ -338,6 +338,11 @@
         line-height: 100px;
         border-radius: 8px;
     }
+
+    .our-clients{
+        margin-top: 10px    ;
+    }
+
 </style>
 <div class="slider">
     <div class="slide_viewer">
@@ -749,22 +754,6 @@
                 </h5>
                 <ul class="d-flex gap-4 flex-column mt-6">
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-<<<<<<< HEAD
-                            class="ti ti-circle-check s1-color fs-four"></i>Accessible anywhere, without the need for installation.
-
-                    </li>
-                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Works seamlessly across multiple devices.
-                        </li>
-                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i> Easy access to the latest features.
-
-                    </li>
-                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Doesn't need high-end hardware.</li>
-                           
-                          
-=======
                             class="ti ti-circle-check s1-color fs-four"></i>Accessible anytime and anywhere, without the
                         need for installation.
 
@@ -790,10 +779,7 @@
                         stored in the cloud or on servers.
 
                     </li>
->>>>>>> 0528edb84db32f1cc09b944637edaba28f56e363
                 </ul>
-                <!-- <a href="signup.html" class="cmn-btn secondary-alt fs-six-up nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6 mt-7 mt-xxl-8">Sign up Now <i class="ti ti-arrow-right fs-four"></i></a> -->
-
             </div>
         </div>
 </section>
@@ -837,7 +823,7 @@
 
 <!-- Trade On end -->
 
-<section class="provide-world pt-120 position-relative z-0 mb-10">
+<section class="provide-world pt-80 position-relative z-0 mb-10">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-7 col-xxl-6">
@@ -881,7 +867,7 @@
 
 <!--People Trust start-->
 <section>
-    <div class="container">
+    <div class="container" style="margin-top: 70px;">
         <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
             <div class="col-sm-10 col-lg-6 col-xxl-5 order-2 order-lg-0">
                 <div class="company-story__thumbs d-center">
