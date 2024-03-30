@@ -521,12 +521,8 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">Binary Trading</h3>
-
-                                        <span>High returns on investment within short timeframes.
-
-
-                                        </span>
+                                        <h3 class="">Forex, Crypto & Binary Trading</h3>
+                                        <span>Multiple options of trading like Forex, Crypto & Binary Trading.</span>
                                     </div>
 
                                 </div>
@@ -541,12 +537,8 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">Secure Funding</h3>
-
-                                        <span>We offer secure funding options.
-
-
-                                        </span>
+                                        <h3 class="">Multiple Funding</h3>
+                                        <span> Customized funding to your needs & your investment journey.</span>
                                     </div>
 
                                 </div>
@@ -561,13 +553,8 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                       
-                                        <h3 class="">AI Trading Available
-                                        </h3>
-
-                                        <span>AI for trades based on algorithms and market conditions.
-
-                                        </span>
+                                        <h3 class="">AI Trading With ChatGPT</h3>
+                                        <span>AI for trades based on algorithms and market conditions.</span>
                                     </div>
 
                                 </div>
@@ -587,11 +574,8 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">Advantage Of Forex And Crypto</h3>
-
-                                        <span> Investment opportunities across digital financial
-                                            markets.
-                                        </span>
+                                        <h3 class="">Regulated & Established Broker</h3>
+                                        <span>Trading services with a regulated and established broker</span>
                                     </div>
 
                                 </div>
@@ -606,11 +590,8 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">No Download Required</h3>
-
-                                        <span>Our web-based platform supports all operating systems.
-
-                                        </span>
+                                        <h3 class="">Web Platform</h3>
+                                        <span>Our web-based platform supports all operating systems.</span>
                                     </div>
 
                                 </div>
@@ -625,11 +606,9 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">Customer Centric Approach </h3>
-
+                                        <h3 class="">24/7 Customer Support</h3>
                                         <span>Raise a Ticket and resolve problem real quick.</span>
                                     </div>
-
                                 </div>
                             </div>
                         </div>
