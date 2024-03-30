@@ -191,24 +191,24 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10 col-xxl-8">
-                <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
-                    <h2 class="text-center ">Disclaimer</h2>
-                    <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
+                <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2" >
+                    <h3 class="text-center ">Disclaimer</h3>
+                    <div class="privacy-policy__card d-flex flex-column ">
                         <div class="privacy-policy__part">
-                            <h5 class="mb-4">Risk Warning :</h5>
-                            <p>Please note that foreign exchange, cryptocurrency and other leveraged trading &
+                            <h6 class="mb-4">Risk Warning :</h6>
+                            <p class="mt-4 mb-5" style="font-size: 15px;">Please note that foreign exchange, cryptocurrency and other leveraged trading &
                                 investments involve significant risk of loss. It is not suitable for all investors and
                                 you should make sure you understand the risks involved, seeking independent advice if
                                 necessary.
                             </p>
                         </div>
                         <div class="privacy-policy__part">
-                            <h5 class="mb-4">Regional Restrictions:</h5>
-                            <p class="mt-4 mb-5"> It is the responsibility of the Client to ascertain whether he/she is
+                            <h6 class="mb-4">Regional Restrictions:</h6>
+                            <p class="mt-4 mb-5" style="font-size: 15px;"> It is the responsibility of the Client to ascertain whether he/she is
                                 permitted to use the services of TradersEra based on the legal requirements in his/her
                                 country of residence.
                                 </p>
-                            <p class="mt-4 mb-5">TradersEra does not provide services to residents of the USA, Japan,
+                            <p class="mt-4 mb-5" style="font-size: 15px;">TradersEra does not provide services to residents of the USA, Japan,
                                 Canada, Australia, the Democratic Republic of Korea, European Union, United Kingdom.
                             </p>
 

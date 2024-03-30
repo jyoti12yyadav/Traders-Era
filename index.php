@@ -828,47 +828,6 @@
 
 <!-- Trade On end -->
 
-<section class="provide-world pt-80 position-relative z-0 mb-10">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-7 col-xxl-6">
-                <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h2 class="mb-5 mb-lg-6">Our speciality</h2>
-                </div>
-            </div>
-        </div>
-        <div class="row gy-6 gy-xxl-0">
-            <div class="col-md-6 col-xxl-6">
-                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/trading_exp.png">
-                    </span>
-                    <h4 class="mt-5 mb-5">Binary Trading</h4>
-                    <p> Our area of expertise is binary trading, which provides traders looking for simplicity and
-                        accuracy in the financial markets with simplified speculating on asset price movements with
-                        predetermined results.
-                        <br>
-                        <br>
-                    </p>
-                </div>
-            </div>
-            <div class="col-md-6 col-xxl-6">
-                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/ai-trading.png">
-                    </span>
-                    <h4 class="mt-5 mb-5">
-                        AI Trading
-                    </h4>
-                    <p>Many Platforms don’t have AI trading In which AI helps for investing. AI trading is our
-                        specialty, harnessing advanced algorithms to navigate markets swiftly and effectively,
-                        delivering optimized investment strategies with precision and speed.</p>
-                </div>
-
-            </div>
-        </div>
-    </div>
-</section>
 
 <!--People Trust start-->
 <section>
@@ -898,7 +857,7 @@
     </div>
 </section>
 
-<section style="background-color: white;" class="our-clients">
+<!-- <section style="background-color: white;" class="our-clients">
     <div class="container">
         <div class="row">
             <div class="col-12">
@@ -919,7 +878,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
 
