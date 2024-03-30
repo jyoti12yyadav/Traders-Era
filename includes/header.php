@@ -43,7 +43,20 @@
 
     <!-- header-section start -->
 
-
+    <!-- <div class="row d-flex">
+        <div class="col-lm-4">
+            <ul class="contact" >
+            <li><img src="assets/images/icon/mail icon png.png" alt=""><a
+                href="mailto:support@tradersera.com">support@tradersera.com</a></li>
+            </ul>
+        </div>
+        <div class="col-lm-4">
+            <ul class="contact" >
+            <li><img src="assets/images/icon/call icon png.png" alt=""><a href="tel:+ 44203758865">+
+                44203758865</a></li>
+            </ul>
+        </div>
+    </div> -->
 
 
     <header class="header-section a2-bg header-menu w-100">
@@ -58,20 +71,23 @@
                 <div class="upper-header-content">
 
 
-                 <div class="col col-lg-8 col-md-12 d-none d-lg-block">
-                    <div class="contact-details ">
-                        <ul  class="contact"style="display: flex; " >
-                            <li><img src="assets/images/icon/mail icon png.png" alt=""><a href="mailto:support@tradersera.com">support@tradersera.com</a></li>
-                            <li><img src="assets/images/icon/call icon png.png" alt=""><a href="tel:+ 44203758865">+ 44203758865</a></li>
-                        </ul> 
-                         
+                    <div class="col col-lg-8 col-md-12 d-none d-lg-block">
+                        <div class="contact-details ">
+                            <ul class="contact" style="display: flex; ">
+                                <li><img src="assets/images/icon/mail icon png.png" alt=""><a
+                                        href="mailto:support@tradersera.com">support@tradersera.com</a></li>
+                                        <br>
+                                        <br>
+                                <li><img src="assets/images/icon/call icon png.png" alt=""><a href="tel:+ 44203758865">+
+                                        44203758865</a></li>
+                            </ul>
+
+                        </div>
                     </div>
-                </div>
-              
 
 
                     <div class="right-area position-relative  ms-0 d-end gap-1 gap-xl-4 d-none d-lg-flex">
-                      
+
                         <div class="single-item">
                             <a href="signin.html"
                                 class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button">
@@ -174,11 +190,13 @@
                         </li>
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
-                                class="dropdown-toggle dropdown-nav"><a class="dropdown-item" href="contact.php">Contact</a></button>
+                                class="dropdown-toggle dropdown-nav"><a class="dropdown-item"
+                                    href="contact.php">Contact</a></button>
                         </li>
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
-                                class="dropdown-toggle dropdown-nav"><a class="dropdown-item" href="blog.php">Blog</a></button>
+                                class="dropdown-toggle dropdown-nav"><a class="dropdown-item"
+                                    href="blog.php">Blog</a></button>
                         </li>
 
                     </ul>
@@ -199,14 +217,15 @@
     <!-- header-section end -->
 
     <style>
-    .contact img {
-    height: 25px;
-    width: 25px;
-    max-width: 100%;
-   
-}
+        .contact img {
+            height: 25px;
+            width: 25px;
+            max-width: 100%;
 
-.contact li {
-    margin-right: 10px; /* Adjust the value as per your design */
-}
+        }
+
+        .contact li {
+            margin-right: 10px;
+            /* Adjust the value as per your design */
+        }
     </style>
