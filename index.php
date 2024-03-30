@@ -543,7 +543,8 @@
                                     <div class="row">
                                         <h3 class="">Secure Funding</h3>
 
-                                        <span>AI for trades based on algorithms and market conditions.
+                                        <span>We offer secure funding options.
+
 
                                         </span>
                                     </div>
@@ -564,7 +565,8 @@
                                         <h3 class="">AI Trading Available
                                         </h3>
 
-                                        <span>Direct from your crypto wallet
+                                        <span>AI for trades based on algorithms and market conditions.
+
                                         </span>
                                     </div>
 
@@ -606,7 +608,8 @@
                                     <div class="row">
                                         <h3 class="">No Download Required</h3>
 
-                                        <span>Our web-based platform supports all operating systems
+                                        <span>Our web-based platform supports all operating systems.
+
                                         </span>
                                     </div>
 
