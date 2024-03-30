@@ -807,33 +807,6 @@
 
 
 
-<div class="client_company_section py-10 p1-bg align-items-center justify-content-center">
-    <!-- Swiper -->
-    <div class="swiper client_company swiper-initialized swiper-horizontal swiper-pointer-events">
-        <div class="swiper-wrapper align-items-center" id="swiper-wrapper-f197f9099bea345e" aria-live="off"
-            style="transition-duration: 6000ms; transform: translate3d(-3086.29px, 0px, 0px);">
-            <div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="0" role="group"
-                aria-label="1 / 7" style="width: 230.571px; margin-right: 50px;">
-                <img src="/assets/images/icon/a .crypto logo.png" alt="Client Logo">
-            </div>
-            <div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="1" role="group"
-                aria-label="2 / 7" style="width: 230.571px; margin-right: 50px;">
-                <img src="/assets/images/icon/a. mastercard.png" alt="Client Logo">
-            </div>
-            <div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="2" role="group"
-                aria-label="3 / 7" style="width: 230.571px; margin-right: 50px;">
-                <img src="assets/images/icon/a. visa_logo.png" alt="Client Logo">
-            </div>
-            <div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="3" role="group"
-                aria-label="4 / 7" style="width: 230.571px; margin-right: 50px;">
-                <img src="assets/images/icon/a. Wire Transfer.png" alt="Client Logo">
-            </div>
-            
-        </div>
-        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
-    </div>
-</div>
-
 <!-- People Trust end -->
 
 <!--Testimonial start-->

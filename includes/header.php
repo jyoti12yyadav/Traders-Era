@@ -42,10 +42,33 @@
     <!-- End Custom Cursor -->
 
     <!-- header-section start -->
+
+
+
+
     <header class="header-section a2-bg header-menu w-100">
+
+
+
+
+
+
         <div class="container-fluid bg-upper-header upper-header">
             <div class="container">
                 <div class="upper-header-content">
+
+
+                <div class="col col-lg-8 col-md-12 d-none d-lg-block">
+                        <div class="contact-details">
+                        <ul>
+                            <li><img src="assets/images/icon/mail.png" alt=""><a href="mailto:sales@priximglobal.com">sales@priximglobal.com</a></li>
+                            <li><img src="assets/images/icon/phone-call.webp" alt="united kingdom"><a href="tel:+44 20 36952310">+44 20 36952310</a></li>
+                         
+                        </div>
+                    </div>
+                </div>
+
+
                     <div class="right-area position-relative  ms-0 d-end gap-1 gap-xl-4 d-none d-lg-flex">
                         <div class="single-item">
                             <a href="signin.html"
