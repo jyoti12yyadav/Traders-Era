@@ -41,7 +41,7 @@
                 <div class="col-12 col-lg-6 col-xl-6">
                     <div class="submissions-area d-flex flex-column gap-8 gap-lg-10">
                         <div class="submissions">
-                            <h3>United Kingdome</h3>
+                            <h3>United Kingdom</h3>
                             <p class="fs-six-up mt-4">
 First Floor, First St Vincent Bank Ltd Building, James Street, Kingstown
 St.Vincent and Grenadines</p>

@@ -173,10 +173,10 @@
                                 <li><a class="dropdown-item" href="help-center.php">Help Center</a></li>
                             </ul>
                         </li>
-                        <li class="dropdown show-dropdown">
+                        <!-- <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
-                                class="dropdown-toggle dropdown-nav"><a class="dropdown-item" href="contact.php">Contact</a></button>
-                        </li>
+                                class="dropdown-toggle dropdown-nav"><a class="dropdown-item" href="contact-us.php">Contact</a></button>
+                        </li> -->
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
                                 class="dropdown-toggle dropdown-nav"><a class="dropdown-item" href="blog.php">Blog</a></button>
