@@ -303,6 +303,10 @@
             transform: rotate(150deg);
         }
     }
+
+    /* style our partners start */
+
+    /* style our partners start */
 </style>
 <div class="slider">
     <div class="slide_viewer">
@@ -700,9 +704,11 @@
 
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
-                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;">A Web Based Trading Platform 
+                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;">A Web Based Trading Platform
                     </h2>
-                    <p class="mx-ch">Web trading platforms are safer since they use a remote server or cloud for calculations. Users only need to focus on their internet connection and routing speed to receive pricing data quickly and execute orders smoothly. No need to download or install anything.</p>
+                    <p class="mx-ch">Web trading platforms are safer since they use a remote server or cloud for
+                        calculations. Users only need to focus on their internet connection and routing speed to receive
+                        pricing data quickly and execute orders smoothly. No need to download or install anything.</p>
 
                 </div>
 
@@ -712,25 +718,31 @@
                 </h5>
                 <ul class="d-flex gap-4 flex-column mt-6">
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Accessible anytime and anywhere, without the need for installation.
+                            class="ti ti-circle-check s1-color fs-four"></i>Accessible anytime and anywhere, without the
+                        need for installation.
 
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Cross-Device Compatibility, Works seamlessly across multiple devices.
-                        </li>
+                            class="ti ti-circle-check s1-color fs-four"></i>Cross-Device Compatibility, Works seamlessly
+                        across multiple devices.
+                    </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Platform updates are hassle-free, ensuring easy access to the latest features.
+                            class="ti ti-circle-check s1-color fs-four"></i>Platform updates are hassle-free, ensuring
+                        easy access to the latest features.
 
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Doesn't need high-end hardware, suitable for various devices.</li>
-                            <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                                class="ti ti-circle-check s1-color fs-four"></i>Compatible across various operating systems without requiring specific versions.
-                            </li>
-                            <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                                class="ti ti-circle-check s1-color fs-four"></i>Requires minimal disk space as data is stored in the cloud or on servers.
+                            class="ti ti-circle-check s1-color fs-four"></i>Doesn't need high-end hardware, suitable for
+                        various devices.</li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>Compatible across various operating systems
+                        without requiring specific versions.
+                    </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>Requires minimal disk space as data is
+                        stored in the cloud or on servers.
 
-                            </li>
+                    </li>
                 </ul>
                 <!-- <a href="signup.html" class="cmn-btn secondary-alt fs-six-up nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6 mt-7 mt-xxl-8">Sign up Now <i class="ti ti-arrow-right fs-four"></i></a> -->
 
@@ -806,34 +818,52 @@
     </div>
 </section>
 
-
-
-<div class="client_company_section py-10 p1-bg align-items-center justify-content-center">
-    <!-- Swiper -->
-    <div class="swiper client_company swiper-initialized swiper-horizontal swiper-pointer-events">
-        <div class="swiper-wrapper align-items-center" id="swiper-wrapper-f197f9099bea345e" aria-live="off"
-            style="transition-duration: 6000ms; transform: translate3d(-3086.29px, 0px, 0px);">
-            <div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="0" role="group"
-                aria-label="1 / 7" style="width: 230.571px; margin-right: 50px;">
-                <img src="/assets/images/icon/a .crypto logo.png" alt="Client Logo">
+<section class="provide-world pt-120 position-relative z-0 mb-10">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-7 col-xxl-6">
+                <div class="heading__content mb-10 mb-lg-15 text-center">
+                    <h2 class="mb-5 mb-lg-6">Our speciality</h2>
+                </div>
             </div>
-            <div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="1" role="group"
-                aria-label="2 / 7" style="width: 230.571px; margin-right: 50px;">
-                <img src="/assets/images/icon/a. mastercard.png" alt="Client Logo">
-            </div>
-            <div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="2" role="group"
-                aria-label="3 / 7" style="width: 230.571px; margin-right: 50px;">
-                <img src="assets/images/icon/a. visa_logo.png" alt="Client Logo">
-            </div>
-            <div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="3" role="group"
-                aria-label="4 / 7" style="width: 230.571px; margin-right: 50px;">
-                <img src="assets/images/icon/a. Wire Transfer.png" alt="Client Logo">
-            </div>
-            
         </div>
-        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+        <div class="row gy-6 gy-xxl-0">
+            <div class="col-md-6 col-xxl-6">
+                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/trading_exp.png">
+                    </span>
+                    <h4 class="mt-5 mb-5">Binary Trading</h4>
+                    <p> Our area of expertise is binary trading, which provides traders looking for simplicity and
+                        accuracy in the financial markets with simplified speculating on asset price movements with
+                        predetermined results.
+                        <br>
+                        <br>
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-6 col-xxl-6">
+                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/ai-trading.png">
+                    </span>
+                    <h4 class="mt-5 mb-5">
+                        AI Trading
+                    </h4>
+                    <p>Many Platforms don’t have AI trading In which AI helps for investing. AI trading is our
+                        specialty, harnessing advanced algorithms to navigate markets swiftly and effectively,
+                        delivering optimized investment strategies with precision and speed.</p>
+                </div>
+
+            </div>
+        </div>
     </div>
-</div>
+</section>
+<!-- html our partners start slider -->
+
+<!-- html our partners end slider -->
+
+
 
 <!-- People Trust end -->
 
@@ -1128,6 +1158,10 @@
 
     });
 
+
+    //  script our partners start slider
+
+    // script our partners end slider
 
 </script>
 <?php include("includes/footer.php") ?>
