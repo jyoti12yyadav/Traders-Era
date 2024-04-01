@@ -43,7 +43,7 @@
                             <div class="content">
                                 <h3 class="mb-3">Easy to Start Trading </h3>
                                 <div class="col-12 mt-10 mt-lg-15 ">
-                            <a href="#" class="cmn-btn fs-five nb4-xxl-bg align-items-center py-3 px-6 py-lg-3 px-lg-8" style="--top: 44.03125px; --left: 180px;">Register    </a>
+                            <a href="#" class="cmn-btn fs-five nb4-xxl-bg align-items-center py-3 px-6 py-lg-3 px-lg-8" style="--top: 44.03125px; --left: 180px; margin-right: 40px" >Register    </a>
                             <a href="#" class="cmn-btn fs-five nb4-xxl-bg align-items-center py-3 px-6 py-lg-3 px-lg-8" style="--top: 44.03125px; --left: 180px;">Deposit </a>
                         </div>
                             </div>
