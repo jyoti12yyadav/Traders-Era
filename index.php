@@ -339,10 +339,9 @@
         border-radius: 8px;
     }
 
-    .our-clients{
-        margin-top: 10px    ;
+    .our-clients {
+        margin-top: 10px;
     }
-
 </style>
 <div class="slider">
     <div class="slide_viewer">
@@ -788,11 +787,9 @@
                     <br>
                     <p class="mx-ch">All you require in a single app.</p>
 
-                    <div class="col-10" style="display: flex; justify-content: space-evenly;">
-                        <a href="signup.html"
-                            class="cmn-btn fs-six-up nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-4 py-lg-3 px-lg-5 mt-7 mt-xxl-8">Android</a>
-                        <a href="signup.html"
-                            class="cmn-btn fs-six-up nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-4 py-lg-3 px-lg-5 mt-7 mt-xxl-8">Apple</a>
+                    <div class="col-4 mt-4" style="display: flex; justify-content: space-evenly; ">
+                        <img style="border:1px solid white; border-radius:17px;" src="assets/images/_app store.png">
+                        <img style="border:1px solid white; border-radius:17px; margin-left:20px;" src="assets/images/_google play store.png">
                     </div>
                 </div>
             </div>
