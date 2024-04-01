@@ -20,10 +20,13 @@
     color: #000;
     background-color: white;
 }
-.hero-section2::before{content:"";position:absolute;top:0;left:0;width:45%;height:100%;background:#f5c06d;z-index:-1}
+.hero-section2::before{content:"";position:absolute;top:0;right:0;height:100%;background:#f5c06d;z-index:-1;width: 50%;}
 .hero-section2 .hero-card {
     padding-right: 198px;
     border-radius: 0px 24px 24px 0px;
+}
+.hero-card2{
+    transform: scaleX(-1);
 }
 .apply-card>h3{
 font-size: 25px;

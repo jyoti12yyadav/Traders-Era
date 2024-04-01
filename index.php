@@ -353,15 +353,158 @@
     color: #9ad953;
     }
 </style>
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container" style="margin-top: 150px;">
+    <div class="tradingview-widget-container__widget"></div>
+    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+    {
+    "symbols": [
+      {
+        "proName": "FX_IDC:EURUSD",
+        "title": "EUR to USD"
+      },
+      {
+        "description": "",
+        "proName": "FX:GBPUSD"
+      },
+      {
+        "description": "",
+        "proName": "FX:USDJPY"
+      },
+      {
+        "description": "",
+        "proName": "OANDA:AUDUSD"
+      },
+      {
+        "description": "",
+        "proName": "FX:GBPJPY"
+      },
+      {
+        "description": "",
+        "proName": "OANDA:USDCAD"
+      },
+      {
+        "description": "",
+        "proName": "OANDA:EURJPY"
+      },
+      {
+        "description": "",
+        "proName": "OANDA:NZDUSD"
+      },
+      {
+        "description": "",
+        "proName": "FX:USDCHF"
+      },
+      {
+        "description": "",
+        "proName": "OANDA:GBPCAD"
+      },
+      {
+        "description": "",
+        "proName": "OANDA:AUDNZD"
+      },
+      {
+        "description": "",
+        "proName": "OANDA:GBPCHF"
+      },
+      {
+        "description": "",
+        "proName": "NASDAQ:TSLA"
+      },
+      {
+        "description": "",
+        "proName": "NASDAQ:AAPL"
+      },
+      {
+        "description": "",
+        "proName": "NASDAQ:NVDA"
+      },
+      {
+        "description": "",
+        "proName": "NASDAQ:MSFT"
+      },
+      {
+        "description": "",
+        "proName": "NASDAQ:AMZN"
+      },
+      {
+        "description": "",
+        "proName": "NASDAQ:META"
+      },
+      {
+        "description": "",
+        "proName": "NASDAQ:NFLX"
+      },
+      {
+        "description": "",
+        "proName": "NASDAQ:GOOGL"
+      },
+      {
+        "description": "",
+        "proName": "NASDAQ:PYPL"
+      },
+      {
+        "description": "",
+        "proName": "NASDAQ:INTC"
+      },
+      {
+        "description": "",
+        "proName": "NYSE:NKE"
+      },
+      {
+        "description": "",
+        "proName": "NSE:NIFTY"
+      },
+      {
+        "description": "",
+        "proName": "TVC:DXY"
+      },
+      {
+        "description": "",
+        "proName": "SP:SPX"
+      },
+      {
+        "description": "",
+        "proName": "TVC:VIX"
+      },
+      {
+        "description": "",
+        "proName": "BITSTAMP:BTCUSD"
+      },
+      {
+        "description": "",
+        "proName": "BINANCE:SOLUSDT"
+      },
+      {
+        "description": "",
+        "proName": "BINANCE:XRPUSDT"
+      },
+      {
+        "description": "",
+        "proName": "BINANCE:ETHBTC"
+      }
+    ],
+    "showSymbolLogo": true,
+    "isTransparent": false,
+    "displayMode": "adaptive",
+    "colorTheme": "dark",
+    "locale": "en"
+  }
+    </script>
+  </div>
+  <!-- TradingView Widget END -->
 <div class="slider">
+    
     <div class="slide_viewer">
         <div class="slide_group">
+            
             <div class="slide hero-section--secondary hero-section position-relative z-0 ">
+                
                 <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
                     <img src="assets/images/hero_vector.png" alt="vector"
                         class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX">
                 </div>
-                <div class="container pt-20 mt-12 mt-lg-20">
+                <div class="container">
                     <div
                         class="row pt-4 pt-lg-10 gy-12 gy-lg-0 justify-content-center justify-content-lg-between align-items-center">
                         <div class="col-lg-6 col-xxl-7">
@@ -396,29 +539,7 @@
                                 <img src="assets/images/banner one.png" class="max-auto max-xxl-un" alt="img">
                             </div>
                         </div>
-                        <ul
-                            class="list_items col-12 d-flex row-gap-6 gap-lg-15 justify-content-between flex-wrap pt-2 pt-lg-15 pt-xl-2 pt-xxl-15 pb-15">
-                            <li class="d-flex gap-3 align-items-center">
-                                <span class="d-center s1-bg p-3 p-lg-4 rounded-circle"><i
-                                        class="ti ti-tools fs-three nb4-color"></i></span>
-                                <h4 class="nw1-color">Enhanced Tools</h4>
-                            </li>
-                            <li class="d-flex gap-3 align-items-center">
-                                <span class="d-center s1-bg p-3 p-lg-4 rounded-circle"><i
-                                        class="ti ti-trending-up fs-three nb4-color"></i></span>
-                                <h4 class="nw1-color">Trading Guides</h4>
-                            </li>
-                            <li class="d-flex gap-3 align-items-center">
-                                <span class="d-center s1-bg p-3 p-lg-4 rounded-circle"><i
-                                        class="ti ti-broadcast fs-three nb4-color"></i></span>
-                                <h4 class="nw1-color">Fast Execution</h4>
-                            </li>
-                            <li class="d-flex gap-3 align-items-center">
-                                <span class="d-center s1-bg p-3 p-lg-4 rounded-circle"><i
-                                        class="ti ti-percentage fs-three nb4-color"></i></span>
-                                <h4 class="nw1-color">0% Commission</h4>
-                            </li>
-                        </ul>
+                       
                     </div>
                 </div>
             </div>
@@ -427,64 +548,42 @@
                     <img src="assets/images/hero_vector.png" alt="vector"
                         class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX">
                 </div>
-                <div class="container pt-20 mt-12 mt-lg-20">
-                    <div
-                        class="row pt-4 pt-lg-10 gy-12 gy-lg-0 justify-content-center justify-content-lg-between align-items-center">
+                <div class="container">
+                    <div class="row pt-4 pt-lg-10 gy-12 gy-lg-0 justify-content-center justify-content-lg-between align-items-center">
+                        <div class="col-sm-10 col-lg-6 col-xxl-5">
+                            <div class="hero-section__thumbs pb-xxl-10">
+                                <img src="assets/images/banner two.png" class="max-auto max-xxl-un" alt="img" style="position: relative;left: -240px;">
+                            </div>
+                        </div>
                         <div class="col-lg-6 col-xxl-7">
-                            <div class="hero-card p1-xxl-bg2 pt-xl-20 pb-xl-20 position-relative">
+                            <div class="hero-card hero-card2 p1-xxl-bg2 pt-xl-20 pb-xl-20 position-relative">
                                 <div class="pt-xxl-10 pb-xxl-10">
                                     <div
                                         class=" first d-center cus-z1 position-absolute end-0 top-0 d-none d-xxl-flex  me-lg-10 mt-lg-10">
 
                                     </div>
-                                    <span class="heading p1-max-xxl nb4-xxl-color fs-five mb-3">Empower Your
+                                    <span class="heading p1-max-xxl nb4-xxl-color fs-five mb-3" style="transform: scaleX(-1);" >Empower Your
                                         Trades</span>
-                                    <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Binary Trading Is Now Possible
+                                    <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6" style="transform: scaleX(-1);" >Binary Trading Is Now Possible
                                         with TradersEra
 
                                     </h1>
-                                    <p class="fs-six-up fw_500 nb4-xxl-color">Trade smarter with TradingEra's insights,
+                                    <p class="fs-six-up fw_500 nb4-xxl-color" style="transform: scaleX(-1);" >Trade smarter with TradingEra's insights,
                                         maximizing your financial potential.</p>
                                     <div
                                         class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8 mt-lg-10">
                                         <a href="signup.html"
-                                            class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6">Start
+                                            class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6" style="transform: scaleX(-1);" >Start
                                             Trading <i class="ti ti-trending-up"></i></a>
                                         <a href="signin.html"
-                                            class="cmn-btn link link-xxl-color fs-five  gap-2 gap-lg-3 align-items-center "><i
+                                            class="cmn-btn link link-xxl-color fs-five  gap-2 gap-lg-3 align-items-center " style="transform: scaleX(-1);" ><i
                                                 class="ti ti-arrow-narrow-right fs-four"></i> Try demo account</a>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-10 col-lg-6 col-xxl-5">
-                            <div class="hero-section__thumbs pb-xxl-10">
-                                <img src="assets/images/banner two.png" class="max-auto max-xxl-un" alt="img">
-                            </div>
-                        </div>
-                        <ul
-                            class="list_items col-12 d-flex row-gap-6 gap-lg-15 justify-content-between flex-wrap pt-2 pt-lg-15 pt-xl-2 pt-xxl-15 pb-15">
-                            <li class="d-flex gap-3 align-items-center">
-                                <span class="d-center s1-bg p-3 p-lg-4 rounded-circle"><i
-                                        class="ti ti-tools fs-three nb4-color"></i></span>
-                                <h4 class="nw1-color">Enhanced Tools</h4>
-                            </li>
-                            <li class="d-flex gap-3 align-items-center">
-                                <span class="d-center s1-bg p-3 p-lg-4 rounded-circle"><i
-                                        class="ti ti-trending-up fs-three nb4-color"></i></span>
-                                <h4 class="nw1-color">Trading Guides</h4>
-                            </li>
-                            <li class="d-flex gap-3 align-items-center">
-                                <span class="d-center s1-bg p-3 p-lg-4 rounded-circle"><i
-                                        class="ti ti-broadcast fs-three nb4-color"></i></span>
-                                <h4 class="nw1-color">Fast Execution</h4>
-                            </li>
-                            <li class="d-flex gap-3 align-items-center">
-                                <span class="d-center s1-bg p-3 p-lg-4 rounded-circle"><i
-                                        class="ti ti-percentage fs-three nb4-color"></i></span>
-                                <h4 class="nw1-color">0% Commission</h4>
-                            </li>
-                        </ul>
+                       
+                       
                     </div>
                 </div>
             </div>
@@ -736,48 +835,52 @@
         <div class="row justify-content-center">
             <div class="col-lg-7 col-xxl-6">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h2 class="" style="font-size:35px;">Ready to get started
+                    <h2 class="">Ready to get started
                     </h2>
                     <span class="heading p1-color fs-six mb-5" style="margin-top:12px;">Start trading in 3 easy steps</span>
                 </div>
             </div>
         </div>
         <div class="row gy-6 gy-xxl-0">
-            <div class="col-md-6 col-xxl-4">
+            <div class="col-md-6 col-xxl-3">
                 <div class=" secondary get-started text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center p-4 rounded-circle mx-auto">
                        <img src="assets/images/icon/verify.png">
                     </span>
-                    <h4 class="mt-5 mb-5">Register</h4>
-                    <p> Create a profile
-                        in less than 2 minutes.
-                    </p>
+                    <h4 class="mt-5 mb-5">Sign up</h4>
                 </div>
             </div>
-            <div class="col-md-6 col-xxl-4">
+            <div class="col-md-6 col-xxl-3">
                 <div class=" secondary get-started  text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/piggy-bank.png">
+                        <img src="assets/images/icon/kyc (1).png">
                     </span>
                     <h4 class="mt-5 mb-5">
-                        Deposit funds
+                        KYC
                     </h4>
-                    <p>Fund your account
-                        via your chosen method</p>
                 </div>
 
             </div>
-            <div class="col-md-6 col-xxl-4">
+            <div class="col-md-6 col-xxl-3">
+                <div class=" secondary get-started  text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/deposit.png">
+                    </span>
+                    <h4 class="mt-5 mb-5 ">
+                        
+                        Deposit
+                    </h4>
+                </div>
+
+            </div>
+            <div class="col-md-6 col-xxl-3">
                 <div class=" secondary text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/trading_exp.png">
                     </span>
                     <h4 class="mt-5 mb-5">
-                        Trade
+                        Start Trading
                     </h4>
-                    <p>Start trading with
-                        a reliable broker
-                    </p>
                 </div>
 
             </div>
@@ -821,7 +924,196 @@
 
 <!-- Trade On end -->
 
-
+<section class="provide-world pt-120 position-relative z-0 mb-10 pb-120 mb-10" style="background-color: #000;">
+    <div class="container" style="height: 700px;">
+        <div class="row justify-content-center">
+            <div class="col-lg-7 col-xxl-6">
+                <div class="heading__content mb-10 mb-lg-15 text-center">
+                    <h2 class="">Trade
+                    </h2>
+                </div>
+            </div>
+        </div>
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+    <div class="tradingview-widget-container__widget"></div>
+    <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/" rel="noopener nofollow" target="_blank"><span class="blue-text">Track all markets on TradingView</span></a></div>
+    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-quotes.js" async>
+    {
+    "width": 1250,
+    "height": 500,
+    "symbolsGroups": [
+      {
+        "name": "Forex",
+        "originalName": "Forex",
+        "symbols": [
+          {
+            "name": "FX:EURUSD",
+            "displayName": "EUR to USD"
+          },
+          {
+            "name": "FX:GBPUSD",
+            "displayName": "GBP to USD"
+          },
+          {
+            "name": "FX:USDJPY",
+            "displayName": "USD to JPY"
+          },
+          {
+            "name": "FX:USDCHF",
+            "displayName": "USD to CHF"
+          },
+          {
+            "name": "FX:AUDUSD",
+            "displayName": "AUD to USD"
+          },
+          {
+            "name": "FX:USDCAD",
+            "displayName": "USD to CAD"
+          },
+          {
+            "name": "FX:USDCHF",
+            "displayName": "USD to CHF"
+          }
+        ]
+      },
+      {
+        "name": "Commodity",
+        "symbols": [
+          {
+            "name": "OANDA:XAUUSD",
+            "displayName": "GOLD"
+          },
+          {
+            "name": "OANDA:XAGUSD",
+            "displayName": "SILVER"
+          },
+          {
+            "name": "TVC:USOIL",
+            "displayName": "USOIL"
+          },
+          {
+            "name": "TVC:UKOIL",
+            "displayName": "UKOIL"
+          },
+          {
+            "name": "FOREXCOM:NATURALGAS",
+            "displayName": "NGAS"
+          },
+          {
+            "name": "ACTIVTRADES:COCOAK2024",
+            "displayName": "COCOA"
+          },
+          {
+            "name": "ACTIVTRADES:COTTONK2024",
+            "displayName": "COTTON"
+          }
+        ]
+      },
+      {
+        "name": "Indices",
+        "symbols": [
+          {
+            "name": "CAPITALCOM:US100",
+            "displayName": "US100"
+          },
+          {
+            "name": "PEPPERSTONE:US500",
+            "displayName": "US500"
+          },
+          {
+            "name": "TVC:UKX",
+            "displayName": "UK 100"
+          },
+          {
+            "name": "PEPPERSTONE:JPN225",
+            "displayName": "JPN225"
+          },
+          {
+            "name": "PEPPERSTONE:HK50",
+            "displayName": "HONGKONG"
+          },
+          {
+            "name": "NSE:NIFTY",
+            "displayName": "INDIA NSE"
+          },
+          {
+            "name": "PEPPERSTONE:US30",
+            "displayName": "US30"
+          },
+          {
+            "name": "TVC:VIX",
+            "displayName": "GLOBAL VIX"
+          }
+        ]
+      },
+      {
+        "name": "Stocks",
+        "symbols": [
+          {
+            "name": "NASDAQ:AAPL",
+            "displayName": "APPLE"
+          },
+          {
+            "name": "NASDAQ:GOOGL",
+            "displayName": "GOOGLE"
+          },
+          {
+            "name": "NASDAQ:TSLA",
+            "displayName": "TESLA"
+          },
+          {
+            "name": "NASDAQ:AMZN",
+            "displayName": "AMAZON"
+          },
+          {
+            "name": "NASDAQ:MSFT",
+            "displayName": "MICROSOFT"
+          },
+          {
+            "name": "NASDAQ:NFLX",
+            "displayName": "NETFLIX"
+          }
+        ]
+      },
+      {
+        "name": "Crypto",
+        "symbols": [
+          {
+            "name": "BINANCE:BTCUSDT"
+          },
+          {
+            "name": "BITSTAMP:BTCUSD"
+          },
+          {
+            "name": "BINANCE:DOGEUSDT"
+          },
+          {
+            "name": "BITSTAMP:ETHUSD"
+          },
+          {
+            "name": "COINBASE:SOLUSD"
+          },
+          {
+            "name": "BINANCE:XRPUSDT"
+          },
+          {
+            "name": "BINANCE:NEARUSDT"
+          }
+        ]
+      }
+    ],
+    "showSymbolLogo": true,
+    "isTransparent": false,
+    "colorTheme": "dark",
+    "locale": "en",
+    "backgroundColor": "#131722"
+  }
+    </script>
+  </div>
+  <!-- TradingView Widget END -->
+    </div>
+</section>
 <!--People Trust start-->
 <section>
     <div class="container" style="margin-top: 70px;">
