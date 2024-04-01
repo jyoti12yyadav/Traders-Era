@@ -908,8 +908,9 @@
                     <p class="mx-ch">All you require in a single app.</p>
 
                     <div class="col-4 mt-4" style="display: flex; justify-content: space-evenly; ">
-                        <img style="border:1px solid white; border-radius:17px;" src="assets/images/_app store.png">
-                        <img style="border:1px solid white; border-radius:17px; margin-left:20px;" src="assets/images/_google play store.png">
+                        <img style="border:1px solid white; border-radius:10px;" src="assets/images/_app store.png">
+                        <img style="border:1px solid white; border-radius:10px; margin-left:20px;" src="assets/images/_google play store.png">
+                        <img style="border:1px solid white; border-radius:10px; margin-left:20px;" src="assets/images/_download APK.png">
                     </div>
                 </div>
             </div>
