@@ -167,11 +167,11 @@
         right: 0;
         background: #ebebeb;
         border: 2px #ebebeb solid;
-        -o-transition: .4s;
-        -ms-transition: .4s;
-        -moz-transition: .4s;
-        -webkit-transition: .4s;
-        transition: .4s;
+        -o-transition: .8s;
+        -ms-transition: .8s;
+        -moz-transition: .8s;
+        -webkit-transition: .8s;
+        transition: .8s;
     }
 
     .process-step-cont {
@@ -342,6 +342,16 @@
     .our-clients {
         margin-top: 10px;
     }
+    .get-started::after{
+        position: relative;
+    content: "\2192";
+    display: flex;
+    float: right;
+    bottom: 111px;
+    font-size: 70px;
+    left: 80px;
+    color: #9ad953;
+    }
 </style>
 <div class="slider">
     <div class="slide_viewer">
@@ -482,10 +492,7 @@
     </div>
 </div><!-- End // .slider -->
 
-<div class="slide_buttons">
-</div>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 
 <!-- Why Trade start-->
 
@@ -496,7 +503,7 @@
 <!-- provide-world end -->
 
 <!--Trade On start-->
-<section class="company-story position-relative z-0  pt-120 pb-120 ">
+<section class="pt-120 pb-120 ">
 
     <div class="container">
         <div class="row justify-content-center">
@@ -510,7 +517,7 @@
         </div>
         <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
 
-            <div class="col-sm-10 col-lg-6 col-xxl-5  order-2 order-lg-0">
+            <div class="col-sm-10 col-lg-6 col-xxl-6">
                 <div class="row d-flex justify-content-end">
                     <div class="col-xxl-12">
                         <div class="company-story__part">
@@ -532,6 +539,45 @@
                         <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
                             <div class="row">
                                 <div class="col-lg-2 d-flex align-items-center">
+                                    <img src="assets/images/icon/candlestick-chart.png" alt="">
+                                </div>
+                                <div class="col-lg-10 d-flex align-items-center">
+                                    <div class="row">
+                                        <h3 class="">AI Trading With ChatGPT</h3>
+                                        <span>AI for trades based on algorithms and market conditions.</span>
+                                    </div>
+                                   
+
+                                </div>
+                            </div>
+                         
+                        </div>
+                    </div>
+                    <div class="col-xxl-12 mt-8 mt-md-10 mt-xxl-13">
+                        <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
+                            <div class="row">
+                                <div class="col-lg-2 d-flex align-items-center">
+                                    <img src="assets/images/icon/insurance.png" alt="">
+                                </div>
+                                <div class="col-lg-10 d-flex align-items-center">
+                                    <div class="row">
+                                        <h3 class="">Web Platform</h3>
+                                        <span>Our web-based platform supports all operating systems.</span>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-10 col-lg-6 col-xxl-6 ">
+                <div class="row d-flex justify-content-end">
+                    <div class="col-xxl-12 ">
+                        <div class="company-story__part">
+
+                            <div class="row">
+                                <div class="col-lg-2 d-flex align-items-center">
                                     <img src="assets/images/icon/download.png" alt="">
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
@@ -544,54 +590,19 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xxl-12 mt-8 mt-md-10 mt-xxl-13">
+                    <div class="col-xxl-12 mt-md-10 mt-xxl-13">
                         <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
                             <div class="row">
                                 <div class="col-lg-2 d-flex align-items-center">
-                                    <img src="assets/images/icon/candlestick-chart.png" alt="">
-                                </div>
-                                <div class="col-lg-10 d-flex align-items-center">
-                                    <div class="row">
-                                        <h3 class="">AI Trading With ChatGPT</h3>
-                                        <span>AI for trades based on algorithms and market conditions.</span>
-                                    </div>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-6 col-xxl-6">
-                <div class="row ms-xl-3 ms-xxl-10">
-                    <div class="col-xxl-12 ">
-                        <div class="company-story__part">
-
-                            <div class="row">
-                                <div class="col-lg-2 d-flex align-items-center">
                                     <img src="assets/images/icon/active-user.png" alt="">
+
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
                                         <h3 class="">Regulated & Established Broker</h3>
                                         <span>Trading services with a regulated and established broker</span>
                                     </div>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xxl-12 mt-md-10 mt-xxl-13">
-                        <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
-                            <div class="row">
-                                <div class="col-lg-2 d-flex align-items-center">
-                                    <img src="assets/images/icon/insurance.png" alt="">
-                                </div>
-                                <div class="col-lg-10 d-flex align-items-center">
-                                    <div class="row">
-                                        <h3 class="">Web Platform</h3>
-                                        <span>Our web-based platform supports all operating systems.</span>
-                                    </div>
+                                    
 
                                 </div>
                             </div>
@@ -617,45 +628,7 @@
         </div>
     </div>
 </section>
-<section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
-    <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-        <img src="assets/images/coin.png" alt="vector" class="position-absolute d-none d-md-flex previewShapeRevX">
-        <img src="assets/images/star2.png" alt="vector" class="position-absolute d-none d-xl-flex push_animat">
-        <img src="assets/images/coin_vector.png" alt="vector"
-            class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX opacity-50">
-    </div>
-    <div class="container">
-        <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
-            <div class="col-lg-6 col-xxl-5">
-                <div class="trade_on__content">
 
-                    <h2 class="mb-4 mb-lg-5">Why Choose us</h2>
-                    <ul class="d-flex gap-4 flex-column mt-6">
-                        <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                                class="ti ti-circle-check s1-color fs-four"></i>Trading with a global broker-dealer that
-                            operates under regulatory control in multiple jurisdictions. </li>
-                        <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                                class="ti ti-circle-check s1-color fs-four"></i>More than 1250 instruments to choose
-                            from, Forex, cryptocurrencies, stocks, commodities, and indices.</li>
-                        <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                                class="ti ti-circle-check s1-color fs-four"></i>Enjoy perks such as automated risk
-                            management solutions and get helpful in platform trading signals.
-                        </li>
-                        <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                                class="ti ti-circle-check s1-color fs-four"></i>Start trading with zero risk by signing
-                            up for a Free Demo Account to practice.</li>
-                    </ul>
-                    <!-- <a href="signup.html" class="cmn-btn secondary-alt fs-six-up nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6 mt-7 mt-xxl-8">Sign up Now <i class="ti ti-arrow-right fs-four"></i></a> -->
-                </div>
-            </div>
-            <div class="col-md-8 col-lg-6">
-                <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/why choose.png" alt="Imgae">
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
 
 <!-- <section class="provide-world bg nb4-bg pt-120 pb-120  position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1 d-none d-md-flex">
@@ -766,7 +739,59 @@
             </div>
         </div>
 </section>
+<section class="provide-world pt-120 position-relative z-0 mb-10 pb-120" style="background-color: #000;">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-7 col-xxl-6">
+                <div class="heading__content mb-10 mb-lg-15 text-center">
+                    <h2 class="" style="font-size:35px;">Ready to get started
+                    </h2>
+                    <span class="heading p1-color fs-six mb-5" style="margin-top:12px;">Start trading in 3 easy steps</span>
+                </div>
+            </div>
+        </div>
+        <div class="row gy-6 gy-xxl-0">
+            <div class="col-md-6 col-xxl-4">
+                <div class=" secondary get-started text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center p-4 rounded-circle mx-auto">
+                       <img src="assets/images/icon/verify.png">
+                    </span>
+                    <h4 class="mt-5 mb-5">Register</h4>
+                    <p> Create a profile
+                        in less than 2 minutes.
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-6 col-xxl-4">
+                <div class=" secondary get-started  text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/piggy-bank.png">
+                    </span>
+                    <h4 class="mt-5 mb-5">
+                        Deposit funds
+                    </h4>
+                    <p>Fund your account
+                        via your chosen method</p>
+                </div>
 
+            </div>
+            <div class="col-md-6 col-xxl-4">
+                <div class=" secondary text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/trading_exp.png">
+                    </span>
+                    <h4 class="mt-5 mb-5">
+                        Trade
+                    </h4>
+                    <p>Start trading with
+                        a reliable broker
+                    </p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="vector"
@@ -857,99 +882,101 @@
 </section> -->
 
 
-
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 
 <script>
 
-    $('.slider').each(function () {
-        var $this = $(this);
-        var $group = $this.find('.slide_group');
-        var $slides = $this.find('.slide');
-        var bulletArray = [];
-        var currentIndex = 0;
-        var timeout;
+$('.slider').each(function () {
+    var $this = $(this);
+    var $group = $this.find('.slide_group');
+    var $slides = $this.find('.slide');
+    var bulletArray = [];
+    var currentIndex = 0;
+    var timeout;
+    var animationDuration = 1200; // Adjust this value to control the animation speed
 
-        function move(newIndex) {
-            var animateLeft, slideLeft;
+    function move(newIndex) {
+        var animateLeft, slideLeft;
 
-            advance();
+        advance();
 
-            if ($group.is(':animated') || currentIndex === newIndex) {
-                return;
-            }
+        if ($group.is(':animated') || currentIndex === newIndex) {
+            return;
+        }
 
-            bulletArray[currentIndex].removeClass('active');
-            bulletArray[newIndex].addClass('active');
+        bulletArray[currentIndex].removeClass('active');
+        bulletArray[newIndex].addClass('active');
 
-            if (newIndex > currentIndex) {
-                slideLeft = '100%';
-                animateLeft = '-100%';
-            } else {
-                slideLeft = '-100%';
-                animateLeft = '100%';
-            }
+        if (newIndex > currentIndex) {
+            slideLeft = '100%';
+            animateLeft = '-100%';
+        } else {
+            slideLeft = '-100%';
+            animateLeft = '100%';
+        }
 
+        $slides.eq(newIndex).css({
+            display: 'block',
+            left: slideLeft
+        });
+        $group.animate({
+            left: animateLeft
+        }, animationDuration, function () {
+            $slides.eq(currentIndex).css({
+                display: 'none'
+            });
             $slides.eq(newIndex).css({
-                display: 'block',
-                left: slideLeft
+                left: 0
             });
-            $group.animate({
-                left: animateLeft
-            }, function () {
-                $slides.eq(currentIndex).css({
-                    display: 'none'
-                });
-                $slides.eq(newIndex).css({
-                    left: 0
-                });
-                $group.css({
-                    left: 0
-                });
-                currentIndex = newIndex;
+            $group.css({
+                left: 0
             });
-        }
+            currentIndex = newIndex;
+        });
+    }
 
-        function advance() {
-            clearTimeout(timeout);
-            timeout = setTimeout(function () {
-                if (currentIndex < ($slides.length - 1)) {
-                    move(currentIndex + 1);
-                } else {
-                    move(0);
-                }
-            }, 4000);
-        }
-
-        $('.next_btn').on('click', function () {
+    function advance() {
+        clearTimeout(timeout);
+        timeout = setTimeout(function () {
             if (currentIndex < ($slides.length - 1)) {
                 move(currentIndex + 1);
             } else {
                 move(0);
             }
-        });
+        }, 4000); // Timeout between slides
+    }
 
-        $('.previous_btn').on('click', function () {
-            if (currentIndex !== 0) {
-                move(currentIndex - 1);
-            } else {
-                move(3);
-            }
-        });
-
-        $.each($slides, function (index) {
-            var $button = $('<a class="slide_btn">&bull;</a>');
-
-            if (index === currentIndex) {
-                $button.addClass('active');
-            }
-            $button.on('click', function () {
-                move(index);
-            }).appendTo('.slide_buttons');
-            bulletArray.push($button);
-        });
-
-        advance();
+    $('.next_btn').on('click', function () {
+        if (currentIndex < ($slides.length - 1)) {
+            move(currentIndex + 1);
+        } else {
+            move(0);
+        }
     });
+
+    $('.previous_btn').on('click', function () {
+        if (currentIndex !== 0) {
+            move(currentIndex - 1);
+        } else {
+            move($slides.length - 1);
+        }
+    });
+
+    $.each($slides, function (index) {
+        var $button = $('<a class="slide_btn">&bull;</a>');
+
+        if (index === currentIndex) {
+            $button.addClass('active');
+        }
+        $button.on('click', function () {
+            move(index);
+        }).appendTo('.slide_buttons');
+        bulletArray.push($button);
+    });
+
+    advance();
+});
+
 
 
     /**This is just a demo to add the process classes**/
@@ -1026,4 +1053,5 @@
     // script our partners end slider
 
 </script>
+
 <?php include("includes/footer.php") ?>
