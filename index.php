@@ -494,14 +494,6 @@
 
 
 
-<!-- Why Trade start-->
-
-<!-- Why Trade end -->
-
-<!--provide-world start-->
-
-<!-- provide-world end -->
-
 <!--Trade On start-->
 <section class="pt-120 pb-120 ">
 
@@ -629,6 +621,35 @@
     </div>
 </section>
 
+<<<<<<< HEAD
+=======
+                    <h2 class="mb-4 mb-lg-5">Why Choose us</h2>
+                    <ul class="d-flex gap-4 flex-column mt-6">
+                        <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                                class="ti ti-circle-check s1-color fs-four"></i>Trading with a global broker-dealer that
+                            operates under regulatory control in multiple jurisdictions. </li>
+                        <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                                class="ti ti-circle-check s1-color fs-four"></i>More than 1250 instruments to choose
+                            from, Forex, cryptocurrencies, stocks, commodities, and indices.</li>
+                        <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                                class="ti ti-circle-check s1-color fs-four"></i>Enjoy perks such as automated risk
+                            management solutions and get helpful in platform trading signals.
+                        </li>
+                        <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                                class="ti ti-circle-check s1-color fs-four"></i>Start trading with zero risk by signing
+                            up for a Free Demo Account to practice.</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-8 col-lg-6">
+                <div class="trade_on__thumbs d-flex justify-content-end">
+                    <img src="assets/images/why choose.png" alt="Imgae">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+>>>>>>> 4fd31ee5cc18701dda79ef58c9b36fc2d614ec90
 
 <!-- <section class="provide-world bg nb4-bg pt-120 pb-120  position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1 d-none d-md-flex">

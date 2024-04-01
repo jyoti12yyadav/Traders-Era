@@ -15,51 +15,95 @@
     </div>
 </section>
 
-<section class="company-story position-relative z-0  pt-120 pb-120 ">
-    <div class="animation position-absolute w-100 h-100 z-n1">
+
+
+<section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
+    <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="vector"
-            class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
+            class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
+        <img src="assets/images/sun2.png" alt="vector"
+            class="sun2 position-absolute push_animat d-none d-xxl-flex bottom-0 pb-120">
     </div>
     <div class="container">
-        <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
-            <div class="col-sm-10 col-lg-6 col-xxl-5 order-2 order-lg-0">
-                <div class="company-story__thumbs d-center">
-                    <img src="assets/images/withdrawel.png" class="cus-rounded-1 w-100" alt="Imgae">
-                   
-                        <i class="fa-solid fa-play fs-four"></i>
-                    </a>
+        <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
+          
+            <div class="col-md-10 col-lg-6 col-xxl-5">
+                <div class="trade_on__content">
+                    <h4 class="mb-4 mb-lg-5">Efficient Withdrawal Methods at TradersEra</h4>
+                    <p class="mx-ch">TradersEra ensures seamless transactions by offering multiple withdrawal methods
+                        for our valued clients. Our efficient processing system guarantees swift and secure withdrawals,
+                        providing peace of mind throughout your trading journey.</p>
+                    <br>
+                    <p>
+                        Withdraw anytime with minimum processing fee.
+                    </p>
+                    <a href="signup.html"
+                        class="cmn-btn fs-six-up nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-4 py-lg-3 px-lg-5 mt-7 mt-xxl-8" style="margin-right:18px; font-weight: bold;">Login</a>
+                    <a href="signup.html"
+                        class="cmn-btn fs-six-up nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-4 py-lg-3 px-lg-5 mt-7 mt-xxl-8 "  style="font-weight: bold;">Withdrawal</a>
                 </div>
             </div>
-            <div class="col-lg-6 col-xxl-7">
-                <div class="row ms-xl-3 ms-xxl-10">
-                    <div class="col-xxl-12">
-                        <div class="company-story__part">
 
-                            <h3 class="mb-3 mt-5">Easy Withdrawals, Instant Access</h3>
-                            <p>
-                                ﻿At TradersEra, we've made withdrawing funds a breeze! With our user-friendly platform,
-                                you can easily withdraw your funds in just a few clicks. Plus, most transactions are
-                                processed immediately, so you can access your funds without any delays.
-                        </div>
-                    </div>
-                    <div class="col-xxl-12 mt-8 mt-md-10 mt-xxl-13">
-                        <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
-
-                            <div class="content">
-                                <h3 class="mb-3">Enhanced Withdrawal Support</h3>
-                                <p>But that's not all – we're always exploring new ways to make withdrawing even simpler
-                                    for you! Whether it's offering more withdrawal options or streamlining the process,
-                                    we want to ensure you have the best experience possible. So, feel free to withdraw
-                                    your funds whenever you need to. Consider us your dedicated support team, ready to
-                                    assist you with your withdrawal needs. </p>
-                            </div>
-                        </div>
-                    </div>
+            <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
+                <div class="trade_on__thumbs d-flex justify-content-end">
+                    <img src="assets/images/withdrawal-sec2.png" alt="Imgae">
                 </div>
             </div>
         </div>
     </div>
 </section>
 
-
+<section class="provide-world a2-bg pt-120 pb-120  position-relative z-0">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8 col-xxl-6">
+                <div class="heading__content mb-10 mb-lg-15 text-center">
+                    <h3 class="mb-5 mb-lg-6">WHAT WE OFFER</h3>
+                    <center><h5>Join our Partner Program and Enjoy Exclusive Perks</h5></center>
+                </div>
+            </div>
+        </div>
+        <div class="row gy-6 gy-xxl-0">
+            <div class="col-md-6 col-xxl-3">
+                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/time.png" alt="time">
+                    </span>
+                   <h4 class="mt-5 mb-5">Customized Commission Plans</h4>
+                   <p>We offer commission structures at TradersEra that are tailored to meet your specific requirements, ensuring a mutually beneficial partnership</p>
+                </div>
+            </div>
+            <div class="col-md-6 col-xxl-3">
+                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/wallet.png" alt="wallet">
+                    </span>
+                   <h4 class="mt-5 mb-5">No Crypto-Wallet Fuss</h4>
+                   <p>Bet only on the underlying crypto’s price and quit worrying about the safe-keeping of actual cryptocurrency with TradersEra.</p>
+                   <br>
+                </div>
+            </div>    
+            <div class="col-md-6 col-xxl-3">
+                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/low-price.png" alt="low-price">
+                    </span>
+                   <h4 class="mt-5 mb-5">Low Transaction Costs</h4>
+                   <p>Trade major cryptocurrencies commission free and without any exchange fees with TradersEra.</p>
+                   <br><br>
+                </div>
+            </div>
+            <div class="col-md-6 col-xxl-3">
+                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/customer-service.png" alt="customer">
+                    </span>
+                   <h4 class="mt-5 mb-5">Unrivalled Customer Support</h4>
+                   <p>With an experienced team backing you up during every trouble, TradersEra aims to provide you the best possible customer support 24×5.</p>
+                </div>
+            </div>
+        </div>
+        </div>
+    
+</section>
 <?php include("includes/footer.php"); ?>
