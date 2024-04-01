@@ -658,7 +658,7 @@
     </div>
 </section>
 
-<section class="provide-world bg nb4-bg pt-120 pb-120  position-relative z-0">
+<!-- <section class="provide-world bg nb4-bg pt-120 pb-120  position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1 d-none d-md-flex">
         <img src="assets/images/button.png" alt="vector" class="position-absolute pt-6 pt-xl-15 previewShapeRevX">
     </div>
@@ -678,35 +678,35 @@
                         <div class="process-step-cont">
                             <div class="process-step step-1"></div>
                             <h4 class="process-label">Sign Up </h4>
-                            <!-- <p class="process-label-P">Simply click on the "Register Now" button</p> -->
+                           
                         </div>
                     </div>
                     <div class="col-3 ">
                         <div class="process-step-cont">
                             <div class="process-step step-2"></div>
                             <h4 class="process-label">Do Your KYC</h4>
-                            <!-- <p class="process-label-P text-center">Enter your email address and choose a password</p> -->
+                    
                         </div>
                     </div>
                     <div class="col-3">
                         <div class="process-step-cont">
                             <div class="process-step step-3"></div>
                             <h4 class="process-label">Deposit With Multiple Payment Option </h4>
-                            <!-- <p class="process-label-P text-center">Take a moment to answer a few important questions to enhance your trading experience</p> -->
+                           
                         </div>
                     </div>
                     <div class="col-3">
                         <div class="process-step-cont">
                             <div class="process-step step-4"></div>
                             <h4 class="process-label">Start Your Trading</h4>
-                            <!-- <span class="process-label-P text-center">Once completed, the next step is to fund your account</span> -->
+                            
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
