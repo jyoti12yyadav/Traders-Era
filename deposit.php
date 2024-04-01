@@ -33,10 +33,7 @@
 
                             <h3 class="mb-3 mt-5">Smooth & easy deposit funds with TradersEra</h3>
                             <p>
-                                TradersEra ensures seamless transactions by offering diverse payment methods, including
-                                bank payments, electronic payments, and bank cards. With local banking options
-                                available, managing your funds has never been easier. Choose the payment method that
-                                best suits your convenience and start trading with ease.
+                            TradersEra offers convenient payment options tailored to your preferences, including various payment methods and local banking solutions. Simplify your trading experience with flexible payment choices that suit your needs.
                             </p>
                         </div>
                     </div>
@@ -44,7 +41,11 @@
                         <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
 
                             <div class="content">
-                                <h4 class="mb-3">Easy to Start Trading</h4>
+                                <h3 class="mb-3">Easy to Start Trading </h3>
+                                <div class="col-12 mt-10 mt-lg-15 ">
+                            <a href="#" class="cmn-btn fs-five nb4-xxl-bg align-items-center py-3 px-6 py-lg-3 px-lg-8" style="--top: 44.03125px; --left: 180px; margin-right: 40px" >Register    </a>
+                            <a href="#" class="cmn-btn fs-five nb4-xxl-bg align-items-center py-3 px-6 py-lg-3 px-lg-8" style="--top: 44.03125px; --left: 180px;">Deposit </a>
+                        </div>
                             </div>
                         </div>
                     </div>

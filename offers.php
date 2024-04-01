@@ -14,7 +14,7 @@
         </div>
     </div>
 </section>
-<section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
+<!-- <section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/coin.png" alt="vector" class="position-absolute d-none d-md-flex previewShapeRevX">
         <img src="assets/images/star2.png" alt="vector" class="position-absolute d-none d-xl-flex push_animat">
@@ -26,7 +26,7 @@
             <div class="col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
                     <span class="heading p1-color fs-six mb-5" style="margin-top:120px;"> </span>
-                    <!-- <span class="heading s1-color fs-five mb-5">Trade On Our</span> -->
+                   
                     <h3 class="mb-4 mb-lg-5"> Unlock Confidence and Success in Financial Markets with Us</h3>
                     <p class="fs-six mx-ch">Boost your trading margin with our incredible deposit bonus, allowing
                         you to expand your positions and enhance your trading strategy.</p>
@@ -51,9 +51,9 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
-<section class="market-details pt-120  position-relative z-0">
+<!-- <section class="market-details pt-120  position-relative z-0">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10">
@@ -68,9 +68,9 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
-<section class="market-details pt-120  position-relative z-0">
+<!-- <section class="market-details pt-120  position-relative z-0">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10">
@@ -89,6 +89,11 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
+<div class="row">
+    <div class="col-lm-12" style="padding-top:100px; padding-bottom: 100px;">
+        <center><h1 style="font-size: 100px;">Comming Soon</h1></center>
+    </div>
+</div>
 <br>
 <?php include("includes/footer.php"); ?>
