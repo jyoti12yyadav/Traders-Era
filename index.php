@@ -487,14 +487,6 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 
-<!-- Why Trade start-->
-
-<!-- Why Trade end -->
-
-<!--provide-world start-->
-
-<!-- provide-world end -->
-
 <!--Trade On start-->
 <section class="company-story position-relative z-0  pt-120 pb-120 ">
 
@@ -645,7 +637,6 @@
                                 class="ti ti-circle-check s1-color fs-four"></i>Start trading with zero risk by signing
                             up for a Free Demo Account to practice.</li>
                     </ul>
-                    <!-- <a href="signup.html" class="cmn-btn secondary-alt fs-six-up nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6 mt-7 mt-xxl-8">Sign up Now <i class="ti ti-arrow-right fs-four"></i></a> -->
                 </div>
             </div>
             <div class="col-md-8 col-lg-6">

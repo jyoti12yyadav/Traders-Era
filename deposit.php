@@ -31,12 +31,12 @@
                     <div class="col-xxl-12">
                         <div class="company-story__part">
 
-                            <h3 class="mb-3 mt-5">Easy Deposits and Friendly Support</h3>
+                            <h3 class="mb-3 mt-5">Smooth & easy deposit funds with TradersEra</h3>
                             <p>
-                                ﻿At TradersEra, we have made depositing funds a breeze! With our consumer friendly
-                                platform, It is easy to deposit price range in just a few clicks. Plus, maximum
-                                transactions are processed immediately, so you can start trading right away without any
-                                waiting times.
+                                TradersEra ensures seamless transactions by offering diverse payment methods, including
+                                bank payments, electronic payments, and bank cards. With local banking options
+                                available, managing your funds has never been easier. Choose the payment method that
+                                best suits your convenience and start trading with ease.
                             </p>
                         </div>
                     </div>
@@ -44,11 +44,7 @@
                         <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
 
                             <div class="content">
-                                <h3 class="mb-3">Your Easy Deposit Experience Starts Here</h3>
-                                <p>We're usually looking for new approaches to make depositing even easier for you!
-                                    Whether Large deposit options or simplifying the technique, So you're ﻿always
-                                    welcome to deposit funds into your account. We are here to support you each step, so
-                                    do not hesitate to reach out. Consider us your support team. </p>
+                                <h4 class="mb-3">Easy to Start Trading</h4>
                             </div>
                         </div>
                     </div>
