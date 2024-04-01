@@ -62,6 +62,12 @@
                         <li>
                             <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-youtube"></i></a>
                         </li>
+                        <li>
+                           
+                        </li>
+                        <li>
+                            
+                        </li>
                     </ul>
                 </div>
             </div>
@@ -168,6 +174,7 @@
                         <li>
                             <a class="n2-color" href="help-center.php">Help Center</a>
                         </li>
+                       
 
                     </ul>
                 </div>
@@ -222,6 +229,7 @@
 </section>
 
         <div class="container-fluid">
+            <br><br>
             <div class="row">
                 <div class="col-12 border-top border-color opac-20 py-7 py-xxl-8">
                     <div class="footer__copyright d-center gap-15 flex-wrap justify-content-md-between">
