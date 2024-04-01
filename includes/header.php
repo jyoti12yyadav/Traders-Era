@@ -144,15 +144,20 @@
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item" href="economic-calendar.php">Economic Calender</a></li>
                                 <li><a class="dropdown-item" href="news-research.php">News & Research</a></li>
-                                
-                                <li class="dropdown show-dropdown">
-                                    <button type="button" aria-label="Navbar Dropdown Button"
-                                        class="dropdown-toggle dropdown-nav">academy</button>
-                                    <ul class="dropdown-menu">
-                                        <li><a class="dropdown-item" href="crypto.php">Crypto</a></li>
-                                    </ul>
-                                </li>
-                              
+                                <div class="collapse navbar-collapse justify-content-center" id="navbar-content">
+                                    <li class="dropdown1-submenu">
+                                        <a class="test" tabindex="-1" href="#">New dropdown <span class="caret"></span></a>
+                                        <ul class="dropdown1-menu">
+                                          <li><a tabindex="-1" href="#">2nd level dropdown</a></li>
+                                          <li><a tabindex="-1" href="#">2nd level dropdown</a></li>
+                                          <li class="dropdown1-submenu">
+                                            <a class="test" href="#">Another dropdown <span class="caret"></span></a>
+                                            <ul class="dropdown1-menu">
+                                              <li><a href="#">3rd level dropdown</a></li>
+                                              <li><a href="#">3rd level dropdown</a></li>
+                                            </ul>
+                                          </li>
+                              </div>
                             </ul>
                         </li>
 
@@ -253,10 +258,21 @@
   text-decoration: none;
   display: block;
 }
-
+.dropdown1-submenu {
+  position: relative;
+}
 .dropdown-content a:hover {background-color: #ddd;}
 
 .dropdown:hover .dropdown-content {display: block;}
 
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
 </style>
+<script>
+    $(document).ready(function(){
+  $('.dropdown1-submenu a.test').on("click", function(e){
+    $(this).next('ul').toggle();
+    e.stopPropagation();
+    e.preventDefault();
+  });
+});
+</script>
