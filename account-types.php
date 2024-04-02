@@ -17,88 +17,6 @@
 </section>
 
 
-<style>
-    .hBgQVD {
-        display: flex;
-    }
-
-    .iEOQbh {
-        border-radius: 15px;
-        overflow: hidden;
-        padding-bottom: 40px;
-
-        /* background-color: rgb(255, 255, 255); */
-    }
-
-    .fPIqef {
-        width: 100%;
-        max-width: 100%;
-        padding: 0px 15px;
-    }
-
-    a,
-    body,
-    div,
-    p,
-    span {
-        font-family: Open Sans, sans-serif;
-    }
-
-    .eLlUep {
-        padding: 0px 10px;
-        min-height: 45px;
-        max-height: 70px;
-        text-align: left;
-        background-color: transparent;
-        font-weight: 700;
-        width: 20%;
-        position: relative;
-        display: flex;
-        -webkit-box-align: center;
-        align-items: center;
-
-    }
-
-    * {
-        box-sizing: border-box;
-        margin: 0;
-    }
-
-    .hBgQVD:first-child {
-        font-size: 16px;
-    }
-
-    .eLexdW::after {
-        content: "";
-        width: 1px;
-        height: 100%;
-        /* background-color: rgb(241, 242, 244); */
-        position: absolute;
-        top: 0px;
-        right: 0px;
-    }
-
-    .eLlUep::before {
-        content: "";
-        width: 90%;
-        height: 1px;
-        /* background-color: rgb(241, 242, 244); */
-        position: absolute;
-        bottom: 0px;
-        right: 5%;
-    }
-
-    .eLlUep::after {
-        content: "";
-        width: 1px;
-        height: 100%;
-        /* background-color: rgb(241, 242, 244); */
-        position: absolute;
-        top: 0px;
-        right: 0px;
-    }
-</style>
-
 
 <section class="provide-world pt-120 pb-120  position-relative z-0" style="padding-bottom: 50px;">
     <div class="container">
@@ -173,7 +91,7 @@
 
                     </p>
                     <br>
-                   <br>
+                    <br>
                 </div>
             </div>
             <div class="col-md-6 col-xxl-4">
@@ -213,169 +131,151 @@
 </section>
 
 
-
-
-<div class="sc-f24afe3b-5 fwgXmo">
-    <div class="sc-f24afe3b-7 bixzpQ">
-        <div class="sc-c5573156-0 iEOQbh">
-            <div class="sc-c5573156-2 dgIcTh">
-                <!-- <h2 class="sc-f24afe3b-3 hlwzCK">Create multiple accounts under a single user profile</h2>
-                <h3 class="sc-f24afe3b-4 fjTeFZ">Choose a trading account that is right for you</h3> -->
+<div class="sc-c5573156-1 buXQLt">
+    <div class="sc-c5573156-6 fPIqef">
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLlUep">Features</div>
+            <div class="sc-c5573156-8 eLlUep">Spread</div>
+            <div class="sc-c5573156-8 eLlUep">Standard</div>
+            <div class="sc-c5573156-8 eLlUep">VIP</div>
+            <div class="sc-c5573156-8 eLlUep">VIP Black</div>
+        </div>
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLexdW">Base currency options</div>
+            <div class="sc-c5573156-8 eLexdW">USD, GBP, EUR, CAD, AUD, CZK, ZAR</div>
+            <div class="sc-c5573156-8 eLexdW">USD, GBP, EUR, CAD, AUD, CZK, ZAR</div>
+            <div class="sc-c5573156-8 eLexdW">USD, GBP, EUR, CAD, AUD, CZK, ZAR</div>
+            <div class="sc-c5573156-8 eLexdW">USD, GBP, EUR, CAD, AUD, CZK, ZAR</div>
+        </div>
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLexdW">Spreads from</div>
+            <div class="sc-c5573156-8 eLexdW">1.2</div>
+            <div class="sc-c5573156-8 eLexdW">0.6</div>
+            <div class="sc-c5573156-8 eLexdW">0.4</div>
+            <div class="sc-c5573156-8 eLexdW">0.4</div>
+        </div>
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLexdW">Commission (per round turn lot)</div>
+            <div class="sc-c5573156-8 eLexdW">$0</div>
+            <div class="sc-c5573156-8 eLexdW">$5</div>
+            <div class="sc-c5573156-8 eLexdW">$2</div>
+            <div class="sc-c5573156-8 eLexdW">$0</div>
+        </div>
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLexdW">Minimum trade volume</div>
+            <div class="sc-c5573156-8 eLexdW">0.01 lots</div>
+            <div class="sc-c5573156-8 eLexdW">0.01 lots</div>
+            <div class="sc-c5573156-8 eLexdW">0.01 lots</div>
+            <div class="sc-c5573156-8 eLexdW">0.01 lots</div>
+        </div>
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLexdW">Leverage</div>
+            <div class="sc-c5573156-8 eLexdW">Up to 1:1000</div>
+            <div class="sc-c5573156-8 eLexdW">Up to 1:500 on request</div>
+            <div class="sc-c5573156-8 eLexdW">Up to 1:500 on request</div>
+            <div class="sc-c5573156-8 eLexdW">Up to 1:500 on request</div>
+        </div>
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLexdW">Maximum open / pending orders per client</div>
+            <div class="sc-c5573156-8 eLexdW">200</div>
+            <div class="sc-c5573156-8 eLexdW">200</div>
+            <div class="sc-c5573156-8 eLexdW">200</div>
+            <div class="sc-c5573156-8 eLexdW">200</div>
+        </div>
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLexdW">Maximum lots per trade</div>
+            <div class="sc-c5573156-8 eLexdW">20</div>
+            <div class="sc-c5573156-8 eLexdW">20</div>
+            <div class="sc-c5573156-8 eLexdW">20</div>
+            <div class="sc-c5573156-8 eLexdW">20</div>
+        </div>
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLexdW">Margin call</div>
+            <div class="sc-c5573156-8 eLexdW">100%</div>
+            <div class="sc-c5573156-8 eLexdW">100%</div>
+            <div class="sc-c5573156-8 eLexdW">100%</div>
+            <div class="sc-c5573156-8 eLexdW">100%</div>
+        </div>
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLexdW">Margin stop out</div>
+            <div class="sc-c5573156-8 eLexdW">30%</div>
+            <div class="sc-c5573156-8 eLexdW">30%</div>
+            <div class="sc-c5573156-8 eLexdW">30%</div>
+            <div class="sc-c5573156-8 eLexdW">30%</div>
+        </div>
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLexdW">Trading platform</div>
+            <div class="sc-c5573156-8 eLexdW">MT4 or MT5</div>
+            <div class="sc-c5573156-8 eLexdW">MT4 or MT5</div>
+            <div class="sc-c5573156-8 eLexdW">MT4 or MT5</div>
+            <div class="sc-c5573156-8 eLexdW">MT4 or MT5</div>
+        </div>
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLexdW">Hedging</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+        </div>
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLexdW">Fast order execution speeds</div>
+            <div class="sc-c5573156-8 eLexdW">Milliseconds</div>
+            <div class="sc-c5573156-8 eLexdW">Milliseconds</div>
+            <div class="sc-c5573156-8 eLexdW">Milliseconds</div>
+            <div class="sc-c5573156-8 eLexdW">Milliseconds</div>
+        </div>
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLexdW">Trading signals</div>
+            <div class="sc-c5573156-8 eLexdW">3 daily signals (Unlimited with $500+ deposit)</div>
+            <div class="sc-c5573156-8 eLexdW">3 daily signals (Unlimited with $500+ deposit)</div>
+            <div class="sc-c5573156-8 eLexdW">Unlimited signals</div>
+            <div class="sc-c5573156-8 eLexdW">Unlimited signals</div>
+        </div>
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLexdW">Technical analysis from Trading Central</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+        </div>
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLexdW">Free deposits available</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+        </div>
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLexdW">Free withdrawals available</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+        </div>
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLexdW">24/7 Customer support</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+        </div>
+        <div class="sc-c5573156-3 qmgBZ">
+            <div class="sc-c5573156-5 czRRSg"></div>
+            <div class="sc-c5573156-4 fWVNsp">
+                <div class="sc-f24afe3b-6 iDwNTB"><a href="/spread-account">Learn more</a></div>
             </div>
-            <div class="sc-c5573156-1 buXQLt">
-                <div class="sc-c5573156-6 fPIqef">
-                    <div class="sc-c5573156-7 hBgQVD">
-                        <div class="sc-c5573156-8 eLlUep">Features</div>
-                        <div class="sc-c5573156-8 eLlUep">Spread</div>
-                        <div class="sc-c5573156-8 eLlUep">Standard</div>
-                        <div class="sc-c5573156-8 eLlUep">VIP</div>
-                        <div class="sc-c5573156-8 eLlUep">VIP Black</div>
-                    </div>
-                    <div class="sc-c5573156-7 hBgQVD">
-                        <div class="sc-c5573156-8 eLexdW">Base currency options</div>
-                        <div class="sc-c5573156-8 eLexdW">USD, GBP, EUR, CAD, AUD, CZK, ZAR</div>
-                        <div class="sc-c5573156-8 eLexdW">USD, GBP, EUR, CAD, AUD, CZK, ZAR</div>
-                        <div class="sc-c5573156-8 eLexdW">USD, GBP, EUR, CAD, AUD, CZK, ZAR</div>
-                        <div class="sc-c5573156-8 eLexdW">USD, GBP, EUR, CAD, AUD, CZK, ZAR</div>
-                    </div>
-                    <div class="sc-c5573156-7 hBgQVD">
-                        <div class="sc-c5573156-8 eLexdW">Spreads from</div>
-                        <div class="sc-c5573156-8 eLexdW">1.2</div>
-                        <div class="sc-c5573156-8 eLexdW">0.6</div>
-                        <div class="sc-c5573156-8 eLexdW">0.4</div>
-                        <div class="sc-c5573156-8 eLexdW">0.4</div>
-                    </div>
-                    <div class="sc-c5573156-7 hBgQVD">
-                        <div class="sc-c5573156-8 eLexdW">Commission (per round turn lot)</div>
-                        <div class="sc-c5573156-8 eLexdW">$0</div>
-                        <div class="sc-c5573156-8 eLexdW">$5</div>
-                        <div class="sc-c5573156-8 eLexdW">$2</div>
-                        <div class="sc-c5573156-8 eLexdW">$0</div>
-                    </div>
-                    <div class="sc-c5573156-7 hBgQVD">
-                        <div class="sc-c5573156-8 eLexdW">Minimum trade volume</div>
-                        <div class="sc-c5573156-8 eLexdW">0.01 lots</div>
-                        <div class="sc-c5573156-8 eLexdW">0.01 lots</div>
-                        <div class="sc-c5573156-8 eLexdW">0.01 lots</div>
-                        <div class="sc-c5573156-8 eLexdW">0.01 lots</div>
-                    </div>
-                    <div class="sc-c5573156-7 hBgQVD">
-                        <div class="sc-c5573156-8 eLexdW">Leverage</div>
-                        <div class="sc-c5573156-8 eLexdW">Up to 1:1000</div>
-                        <div class="sc-c5573156-8 eLexdW">Up to 1:500 on request</div>
-                        <div class="sc-c5573156-8 eLexdW">Up to 1:500 on request</div>
-                        <div class="sc-c5573156-8 eLexdW">Up to 1:500 on request</div>
-                    </div>
-                    <div class="sc-c5573156-7 hBgQVD">
-                        <div class="sc-c5573156-8 eLexdW">Maximum open / pending orders per client</div>
-                        <div class="sc-c5573156-8 eLexdW">200</div>
-                        <div class="sc-c5573156-8 eLexdW">200</div>
-                        <div class="sc-c5573156-8 eLexdW">200</div>
-                        <div class="sc-c5573156-8 eLexdW">200</div>
-                    </div>
-                    <div class="sc-c5573156-7 hBgQVD">
-                        <div class="sc-c5573156-8 eLexdW">Maximum lots per trade</div>
-                        <div class="sc-c5573156-8 eLexdW">20</div>
-                        <div class="sc-c5573156-8 eLexdW">20</div>
-                        <div class="sc-c5573156-8 eLexdW">20</div>
-                        <div class="sc-c5573156-8 eLexdW">20</div>
-                    </div>
-                    <div class="sc-c5573156-7 hBgQVD">
-                        <div class="sc-c5573156-8 eLexdW">Margin call</div>
-                        <div class="sc-c5573156-8 eLexdW">100%</div>
-                        <div class="sc-c5573156-8 eLexdW">100%</div>
-                        <div class="sc-c5573156-8 eLexdW">100%</div>
-                        <div class="sc-c5573156-8 eLexdW">100%</div>
-                    </div>
-                    <div class="sc-c5573156-7 hBgQVD">
-                        <div class="sc-c5573156-8 eLexdW">Margin stop out</div>
-                        <div class="sc-c5573156-8 eLexdW">30%</div>
-                        <div class="sc-c5573156-8 eLexdW">30%</div>
-                        <div class="sc-c5573156-8 eLexdW">30%</div>
-                        <div class="sc-c5573156-8 eLexdW">30%</div>
-                    </div>
-                    <div class="sc-c5573156-7 hBgQVD">
-                        <div class="sc-c5573156-8 eLexdW">Trading platform</div>
-                        <div class="sc-c5573156-8 eLexdW">MT4 or MT5</div>
-                        <div class="sc-c5573156-8 eLexdW">MT4 or MT5</div>
-                        <div class="sc-c5573156-8 eLexdW">MT4 or MT5</div>
-                        <div class="sc-c5573156-8 eLexdW">MT4 or MT5</div>
-                    </div>
-                    <div class="sc-c5573156-7 hBgQVD">
-                        <div class="sc-c5573156-8 eLexdW">Hedging</div>
-                        <div class="sc-c5573156-8 eLexdW">Yes</div>
-                        <div class="sc-c5573156-8 eLexdW">Yes</div>
-                        <div class="sc-c5573156-8 eLexdW">Yes</div>
-                        <div class="sc-c5573156-8 eLexdW">Yes</div>
-                    </div>
-                    <div class="sc-c5573156-7 hBgQVD">
-                        <div class="sc-c5573156-8 eLexdW">Fast order execution speeds</div>
-                        <div class="sc-c5573156-8 eLexdW">Milliseconds</div>
-                        <div class="sc-c5573156-8 eLexdW">Milliseconds</div>
-                        <div class="sc-c5573156-8 eLexdW">Milliseconds</div>
-                        <div class="sc-c5573156-8 eLexdW">Milliseconds</div>
-                    </div>
-                    <div class="sc-c5573156-7 hBgQVD">
-                        <div class="sc-c5573156-8 eLexdW">Trading signals</div>
-                        <div class="sc-c5573156-8 eLexdW">3 daily signals (Unlimited with $500+ deposit)</div>
-                        <div class="sc-c5573156-8 eLexdW">3 daily signals (Unlimited with $500+ deposit)</div>
-                        <div class="sc-c5573156-8 eLexdW">Unlimited signals</div>
-                        <div class="sc-c5573156-8 eLexdW">Unlimited signals</div>
-                    </div>
-                    <div class="sc-c5573156-7 hBgQVD">
-                        <div class="sc-c5573156-8 eLexdW">Technical analysis from Trading Central</div>
-                        <div class="sc-c5573156-8 eLexdW">Yes</div>
-                        <div class="sc-c5573156-8 eLexdW">Yes</div>
-                        <div class="sc-c5573156-8 eLexdW">Yes</div>
-                        <div class="sc-c5573156-8 eLexdW">Yes</div>
-                    </div>
-                    <div class="sc-c5573156-7 hBgQVD">
-                        <div class="sc-c5573156-8 eLexdW">Free deposits available</div>
-                        <div class="sc-c5573156-8 eLexdW">Yes</div>
-                        <div class="sc-c5573156-8 eLexdW">Yes</div>
-                        <div class="sc-c5573156-8 eLexdW">Yes</div>
-                        <div class="sc-c5573156-8 eLexdW">Yes</div>
-                    </div>
-                    <div class="sc-c5573156-7 hBgQVD">
-                        <div class="sc-c5573156-8 eLexdW">Free withdrawals available</div>
-                        <div class="sc-c5573156-8 eLexdW">Yes</div>
-                        <div class="sc-c5573156-8 eLexdW">Yes</div>
-                        <div class="sc-c5573156-8 eLexdW">Yes</div>
-                        <div class="sc-c5573156-8 eLexdW">Yes</div>
-                    </div>
-                    <div class="sc-c5573156-7 hBgQVD">
-                        <div class="sc-c5573156-8 eLexdW">24/7 Customer support</div>
-                        <div class="sc-c5573156-8 eLexdW">Yes</div>
-                        <div class="sc-c5573156-8 eLexdW">Yes</div>
-                        <div class="sc-c5573156-8 eLexdW">Yes</div>
-                        <div class="sc-c5573156-8 eLexdW">Yes</div>
-                    </div>
-                    <div class="sc-c5573156-3 qmgBZ">
-                        <div class="sc-c5573156-5 czRRSg"></div>
-                        <div class="sc-c5573156-4 fWVNsp">
-                            <div class="sc-f24afe3b-6 iDwNTB"><a href="/spread-account">Learn more</a></div>
-                        </div>
-                        <div class="sc-c5573156-4 fWVNsp">
-                            <div class="sc-f24afe3b-6 iDwNTB"><a href="/standard">Learn more</a></div>
-                        </div>
-                        <div class="sc-c5573156-4 fWVNsp">
-                            <div class="sc-f24afe3b-6 iDwNTB"><a href="/vip">Learn more</a></div>
-                        </div>
-                        <div class="sc-c5573156-4 fWVNsp">
-                            <div class="sc-f24afe3b-6 iDwNTB"><a href="/vip-black">Learn more</a></div>
-                        </div>
-                    </div>
-                </div>
+            <div class="sc-c5573156-4 fWVNsp">
+                <div class="sc-f24afe3b-6 iDwNTB"><a href="/standard">Learn more</a></div>
+            </div>
+            <div class="sc-c5573156-4 fWVNsp">
+                <div class="sc-f24afe3b-6 iDwNTB"><a href="/vip">Learn more</a></div>
+            </div>
+            <div class="sc-c5573156-4 fWVNsp">
+                <div class="sc-f24afe3b-6 iDwNTB"><a href="/vip-black">Learn more</a></div>
             </div>
         </div>
     </div>
 </div>
-
-
-
-
-
-
 
 
 
