@@ -15,6 +15,26 @@
         </div>
     </div>
 </section>
+<section class="pt-120 pb-120">
+    <div class="container">
+        <!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-timeline.js" async>
+  {
+  "feedMode": "all_symbols",
+  "isTransparent": false,
+  "displayMode": "regular",
+  "width": "1250",
+  "height": "550",
+  "colorTheme": "dark",
+  "locale": "en"
+}
+  </script>
+</div>
+<!-- TradingView Widget END -->
+    </div>
+</section>
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="vector"
