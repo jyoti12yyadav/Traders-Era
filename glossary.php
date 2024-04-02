@@ -17,7 +17,7 @@
 </section>
 
 <!-- a section -->
-<section class="privacy-policy mt-20 pt-120 pb-120 ">
+<section class="privacy-policy mt-20 pb-10 ">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10 col-xxl-10">
@@ -95,7 +95,7 @@
 
 <!-- b section -->
 
-<section class="privacy-policy mt-20 pt-120 pb-120 ">
+<section class="privacy-policy pb-120 ">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10 col-xxl-10">
