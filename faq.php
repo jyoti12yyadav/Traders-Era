@@ -26,214 +26,119 @@
                         <div class="accordion-single  cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
                             <h5 class="header-area">
                                 <button class="accordion-btn transition text-start d-flex position-relative w-100"
-                                    type="button">How do I open a trading account?</button>
+                                    type="button"> What is TradersEra and what services does it offer?</button>
                             </h5>
                             <div class="content-area">
                                 <div class="content-body pt-5">
-                                    <p>You simply need to complete our online application form here and your account
-                                        will be ready for trading in a matter of minutes.</p>
+                                    <p>TradersEra is a comprehensive online trading platform that combines binary
+                                        trading and forex trading into one seamless experience. Our web-based platform
+                                        allows traders to access these markets anytime, anywhere, providing convenience
+                                        and flexibility.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="accordion-single  cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
                             <h5 class="header-area">
                                 <button class="accordion-btn transition text-start d-flex position-relative w-100"
-                                    type="button">What information do I need to provide you with to open an
-                                    account?</button>
+                                    type="button">How does TradersEra's platform work?</button>
                             </h5>
                             <div class="content-area">
                                 <div class="content-body pt-5">
-                                    <p>To open an account, you'll need to provide basic personal information such as
-                                        your name, address, date of birth, and contact details.</p>
+                                    <p>TradersEra's platform is designed to be user-friendly and intuitive. Traders can
+                                        easily navigate through the platform to execute trades, analyze market trends,
+                                        and manage their portfolios. Our platform provides real-time data and advanced
+                                        charting tools to help traders make informed decisions..</p>
                                 </div>
                             </div>
                         </div>
                         <div class="accordion-single  cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
                             <h5 class="header-area">
                                 <button class="accordion-btn transition text-start d-flex position-relative w-100"
-                                    type="button">Do I need to provide any documentation to open an account?</button>
+                                    type="button">What sets TradersEra apart from other trading platforms?</button>
                             </h5>
                             <div class="content-area">
                                 <div class="content-body pt-5">
-                                    <p>Yes, you'll typically need to provide identification documents such as a passport
-                                        or driver's license, as well as proof of address.</p>
+                                    <p>TradersEra stands out for its all-in-one approach, offering both binary trading
+                                        and forex trading on a single platform. This provides traders with greater
+                                        diversity and flexibility in their trading strategies. Additionally, our
+                                        platform's web-based nature means traders can access it from any device with an
+                                        internet connection.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="accordion-single  cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
                             <h5 class="header-area">
                                 <button class="accordion-btn transition text-start d-flex position-relative w-100"
-                                    type="button">How long does it take to open my account?</button>
+                                    type="button"> Is TradersEra suitable for both novice and experienced
+                                    traders?</button>
                             </h5>
                             <div class="content-area">
                                 <div class="content-body pt-5">
-                                    <p>Accounts are usually opened within one business day after all required
-                                        documentation has been submitted and verified.</p>
+                                    <p>Yes, absolutely. TradersEra caters to traders of all levels of experience. For
+                                        novice traders, we offer educational resources, tutorials, and a user-friendly
+                                        interface to help them get started. For experienced traders, our platform
+                                        provides advanced tools and features to enhance their trading experience.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="accordion-single  cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
                             <h5 class="header-area">
                                 <button class="accordion-btn transition text-start d-flex position-relative w-100"
-                                    type="button">Do I need previous trading experience to open a live account?</button>
+                                    type="button">What security measures does TradersEra have in place to protect
+                                    traders' funds and information?</button>
                             </h5>
                             <div class="content-area">
                                 <div class="content-body pt-5">
-                                    <p>No, previous trading experience is not required to open a live account.</p>
+                                    <p>At TradersEra, we take the security of our traders' funds and information very
+                                        seriously. Our platform employs state-of-the-art encryption technology to
+                                        safeguard transactions and data. We also adhere to strict security protocols and
+                                        regularly update our systems to stay ahead of potential threats.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="accordion-single  cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
                             <h5 class="header-area">
                                 <button class="accordion-btn transition text-start d-flex position-relative w-100"
-                                    type="button">How do I change my registered email address?</button>
+                                    type="button">Can traders access customer support on TradersEra's platform?</button>
                             </h5>
                             <div class="content-area">
                                 <div class="content-body pt-5">
-                                    <p>You can change your registered email address by contacting our support team and
-                                        providing the necessary verification information.</p>
+                                    <p>Yes, we have a dedicated customer support team available to assist traders with
+                                        any questions or issues they may encounter. Traders can reach out to our support
+                                        team via email, live chat, or phone during business hours.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="accordion-single  cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
                             <h5 class="header-area">
                                 <button class="accordion-btn transition text-start d-flex position-relative w-100"
-                                    type="button">Can I open multiple trading accounts?</button>
+                                    type="button">What deposit and withdrawal options are available on
+                                    TradersEra?</button>
                             </h5>
                             <div class="content-area">
                                 <div class="content-body pt-5">
-                                    <p>Yes, you can open multiple trading accounts with different specifications such as
-                                        account types or base currencies.</p>
+                                    <p>TradersEra supports a variety of deposit and withdrawal methods to accommodate
+                                        traders from around the world. These options may include bank transfers,
+                                        credit/debit cards, and popular e-wallets. Our platform ensures fast and secure
+                                        transactions for added convenience.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="accordion-single  cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
                             <h5 class="header-area">
                                 <button class="accordion-btn transition text-start d-flex position-relative w-100"
-                                    type="button">Can I open a demo account?</button>
+                                    type="button">Is there a demo account available for traders to practice with before
+                                    trading with real money?</button>
                             </h5>
                             <div class="content-area">
                                 <div class="content-body pt-5">
-                                    <p>Yes, we offer demo accounts for you to practice trading with virtual funds.</p>
+                                    <p>Yes, TradersEra offers a demo account feature that allows traders to practice
+                                        trading with virtual funds in a risk-free environment. This is an excellent way
+                                        for traders to familiarize themselves with our platform and hone their trading
+                                        skills before committing real capital.</p>
                                 </div>
                             </div>
                         </div>
-                        <div class="accordion-single  cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
-                            <h5 class="header-area">
-                                <button class="accordion-btn transition text-start d-flex position-relative w-100"
-                                    type="button">Will my demo account expire?</button>
-                            </h5>
-                            <div class="content-area">
-                                <div class="content-body pt-5">
-                                    <p>Demo accounts typically do not expire unless there is a prolonged period of
-                                        inactivity.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-single  cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
-                            <h5 class="header-area">
-                                <button class="accordion-btn transition text-start d-flex position-relative w-100"
-                                    type="button">Which base currencies can I open an account with?</button>
-                            </h5>
-                            <div class="content-area">
-                                <div class="content-body pt-5">
-                                    <p>You can open an account with various base currencies, including USD, EUR, GBP,
-                                        and more.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-single  cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
-                            <h5 class="header-area">
-                                <button class="accordion-btn transition text-start d-flex position-relative w-100"
-                                    type="button">Can I open an account if I am under 18?</button>
-                            </h5>
-                            <div class="content-area">
-                                <div class="content-body pt-5">
-                                    <p>No, you must be at least 18 years old to open a trading account.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-single  cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
-                            <h5 class="header-area">
-                                <button class="accordion-btn transition text-start d-flex position-relative w-100"
-                                    type="button">Can I close my account at any time?</button>
-                            </h5>
-                            <div class="content-area">
-                                <div class="content-body pt-5">
-                                    <p>Yes, you can close your account at any time by contacting our support team.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-single  cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
-                            <h5 class="header-area">
-                                <button class="accordion-btn transition text-start d-flex position-relative w-100"
-                                    type="button">Can I open a corporate account?</button>
-                            </h5>
-                            <div class="content-area">
-                                <div class="content-body pt-5">
-                                    <p>Yes, we offer corporate accounts for businesses.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-single  cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
-                            <h5 class="header-area">
-                                <button class="accordion-btn transition text-start d-flex position-relative w-100"
-                                    type="button">Which documents are required to open a corporate account?</button>
-                            </h5>
-                            <div class="content-area">
-                                <div class="content-body pt-5">
-                                    <p>Documents required for a corporate account include company registration
-                                        documents, proof of address, and identification documents for authorized
-                                        signatories.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-single  cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
-                            <h5 class="header-area">
-                                <button class="accordion-btn transition text-start d-flex position-relative w-100"
-                                    type="button">Can I use a temporary email address to register?</button>
-                            </h5>
-                            <div class="content-area">
-                                <div class="content-body pt-5">
-                                    <p>No, we require a valid and permanent email address for registration.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-single  cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
-                            <h5 class="header-area">
-                                <button class="accordion-btn transition text-start d-flex position-relative w-100"
-                                    type="button">Can I register with more than one email address?</button>
-                            </h5>
-                            <div class="content-area">
-                                <div class="content-body pt-5">
-                                    <p>No, each client can only register with one email address.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-single  cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
-                            <h5 class="header-area">
-                                <button class="accordion-btn transition text-start d-flex position-relative w-100"
-                                    type="button">Can I update my personal information?</button>
-                            </h5>
-                            <div class="content-area">
-                                <div class="content-body pt-5">
-                                    <p>Yes, you can update your personal information by logging into your account and
-                                        accessing the profile settings.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-single  cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
-                            <h5 class="header-area">
-                                <button class="accordion-btn transition text-start d-flex position-relative w-100"
-                                    type="button">How can I connect my trading account to an affiliate/IB?</button>
-                            </h5>
-                            <div class="content-area">
-                                <div class="content-body pt-5">
-                                    <p>You can connect your trading account to an affiliate or Introducing Broker (IB)
-                                        by providing their referral code or affiliate link during the account opening
-                                        process.</p>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>
