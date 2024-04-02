@@ -26,7 +26,7 @@
                     </h2>
                     <br>
                     <div class="trad" >
-                        <img  src="assets/images/tradersera png white.png">
+                        <img  src="assets/images/logo.png">
                     </div>
                     <!-- <span class="heading p1-color fs-six mb-5" style="margin-top:12px;">Trade with</span> -->
 

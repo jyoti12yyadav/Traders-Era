@@ -837,7 +837,7 @@
 
                     </li>
                     <h5>web platforms:</h5>
-                    <ul class=" d-flex   gap-md-3" >
+                    <ul class=" d-flex   " >
                         <li><img style=" height:35px;" src="assets/images/icon/icon IE.png"></li>
                         <li><img style=" height:35px;" src="assets/images/icon/icon opera.png"></li>
                         <li><img style=" height:35px;" src="assets/images/icon/icon safari.png"></li>
@@ -1164,6 +1164,13 @@
                             </p>
                         </div>
                     </div>
+                    
+                    <ul class=" d-flex   gap-md-3 mt-4" >
+                        <li><img style=" height:35px;" src="assets/images/icon/a. mastercard.png"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/a .crypto logo.png"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/a. visa_logo.png"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/a. Wire Transfer.png"></li>
+                    </ul>
                 </div>
             </div>
         </div>
