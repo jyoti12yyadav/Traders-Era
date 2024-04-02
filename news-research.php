@@ -35,6 +35,41 @@
 <!-- TradingView Widget END -->
     </div>
 </section>
+<section class="pt-120 pb-120">
+    <div class="container">
+    <div class="row justify-content-between align-items-center mb-10 mb-lg-15">
+            <div class="col-xl-12">
+                <!-- <span class="heading s1-color fs-five mb-5">Our Mission</span> -->
+                <h3>Stock Heatmap
+                </h3>
+            </div>
+            
+        </div>
+        <!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-stock-heatmap.js" async>
+  {
+  "exchanges": [],
+  "dataSource": "SPX500",
+  "grouping": "sector",
+  "blockSize": "market_cap_basic",
+  "blockColor": "change",
+  "locale": "en",
+  "symbolUrl": "",
+  "colorTheme": "dark",
+  "hasTopBar": false,
+  "isDataSetEnabled": false,
+  "isZoomEnabled": true,
+  "hasSymbolTooltip": true,
+  "width": "1250",
+  "height": "550"
+}
+  </script>
+</div>
+<!-- TradingView Widget END -->
+</div>
+</section>
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="vector"

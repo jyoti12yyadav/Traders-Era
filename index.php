@@ -964,7 +964,7 @@
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
                     <span class="heading p1-color fs-six mb-5"></span>
-                    <h4 class="mb-4 mb-lg-5">Trade Anywhere, Anytime with TradersEra App</h4>
+                    <h4 class="mb-4 mb-lg-5" style="font-size: 32px;">Trade Anywhere, Anytime with TradersEra App</h4>
                     <p class="mx-ch">Don't let trading opportunities slip away.</p>
                     <br>
                     <p class="mx-ch">Download the TradersEra Trader app for commission-free trading and ultra-low
@@ -993,26 +993,30 @@
 
 <!-- Trade On end -->
 
-<section class="provide-world pt-120 position-relative z-0 mb-10 pb-120 mb-10" style="background-color: #000;">
-    <div class="container" style="height: 700px;">
+<section class="provide-world pt-120 pb-120  position-relative z-0" style="background-color: #000;">
+    <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
+        <img src="assets/images/vector.png" alt="vector" class="position-absolute top-0 pt-120 ms-20 ps-xxl-20 jello d-none d-xl-flex">
+        <img src="assets/images/vector9.png" alt="vector" class="position-absolute rotate top-0 end-0 p-20 mt-5 me-7 d-none d-xxxl-flex">
+        <img src="assets/images/vector_rocket1.png" alt="vector" class="position-absolute bottom-0 start-0 d-none d-xxxl-flex pb-120 mb-10 ms-20 fadeInTopRight">
+    </div>
+    <div class="container">
         <div class="row justify-content-center">
-            <div class="col-lg-7 col-xxl-6">
+            <div class="col-lg-8 col-xxl-7">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h2 class="">Trade
-                    </h2>
+                    <h2 class="mb-5 mb-lg-6">Markets Data</h2>
                 </div>
             </div>
         </div>
+        <div class="row gy-6 gy-xxl-0">
+            <div class="col-12">
         <!-- TradingView Widget BEGIN -->
         <div class="tradingview-widget-container">
             <div class="tradingview-widget-container__widget"></div>
-            <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/" rel="noopener nofollow"
-                    target="_blank"><span class="blue-text">Track all markets on TradingView</span></a></div>
             <script type="text/javascript"
                 src="https://s3.tradingview.com/external-embedding/embed-widget-market-quotes.js" async>
                     {
                         "width": 1250,
-                            "height": 500,
+                            "height": 800,
                                 "symbolsGroups": [
                                     {
                                         "name": "Forex",
@@ -1182,10 +1186,12 @@
                     }
                 </script>
         </div>
-        <!-- TradingView Widget END -->
+        <!-- TradingView Widget END -->            </div>
+        </div>
     </div>
 </section>
 <!--People Trust start-->
+
 <section>
     <div class="container pb-120" style="margin-top: 70px; ">
         <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
@@ -1198,7 +1204,7 @@
                 <div class="row ms-xl-3 ms-xxl-10">
                     <div class="col-xxl-12">
                         <div class="">
-                            <h3 class="mb-3 mt-5">Multiple Funding Options</h3>
+                            <h3 class="mb-3 mt-5" style="font-size: 32px;">Multiple Funding Options</h3>
                             <br>
                             <p>
                                 At TradersEra we've got all your account funding needs sorted. Whether you fancy the

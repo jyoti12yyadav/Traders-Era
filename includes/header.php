@@ -144,8 +144,12 @@
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item" href="economic-calendar.php">Economic Calender</a></li>
                                 <li><a class="dropdown-item" href="news-research.php">News & Research</a></li>
-                                <li><a class="dropdown-item" href="news-research.php">academy</a></li>
+                                <li class="dropdown show-dropdown"><button href="acadamy.php" type="button" aria-label="Navbar Dropdown Button"
+                                    class="dropdown-toggle dropdown-nav">Acadamy</button></li>
+                                <li class="dropdown show-dropdown"><a class="glossary" href="news-research.php">Glossary</a></li>
+                                
                             </ul>
+                            
                         </li>
 
 
