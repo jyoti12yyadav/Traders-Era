@@ -1,5 +1,26 @@
 <?php include("includes/header.php"); ?>
-
+<style>
+    .main-table{
+        display: flex;
+    }
+    .table-content{
+        display: flex;
+        border-bottom: 1px solid #373737;
+    }
+    .sub-table-content{
+        width: 100%;
+    padding: 20px 50px;
+    background-color: #000000;
+    border-right: 1px solid #3e3d3d;
+    }
+    .table-content2>.sub-table-content{
+        background-color: #f5c06d;
+    border: 1px solid black;
+    border-radius: 2px;
+    color: black;
+    font-weight: 700;
+    }
+</style>
 <section class="banner-section pt-120 pb-120">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
@@ -130,151 +151,138 @@
 
 </section>
 
-
-<div class="sc-c5573156-1 buXQLt">
-    <div class="sc-c5573156-6 fPIqef">
-        <div class="sc-c5573156-7 hBgQVD">
-            <div class="sc-c5573156-8 eLlUep">Features</div>
-            <div class="sc-c5573156-8 eLlUep">Spread</div>
-            <div class="sc-c5573156-8 eLlUep">Standard</div>
-            <div class="sc-c5573156-8 eLlUep">VIP</div>
-            <div class="sc-c5573156-8 eLlUep">VIP Black</div>
-        </div>
-        <div class="sc-c5573156-7 hBgQVD">
-            <div class="sc-c5573156-8 eLexdW">Base currency options</div>
-            <div class="sc-c5573156-8 eLexdW">USD, GBP, EUR, CAD, AUD, CZK, ZAR</div>
-            <div class="sc-c5573156-8 eLexdW">USD, GBP, EUR, CAD, AUD, CZK, ZAR</div>
-            <div class="sc-c5573156-8 eLexdW">USD, GBP, EUR, CAD, AUD, CZK, ZAR</div>
-            <div class="sc-c5573156-8 eLexdW">USD, GBP, EUR, CAD, AUD, CZK, ZAR</div>
-        </div>
-        <div class="sc-c5573156-7 hBgQVD">
-            <div class="sc-c5573156-8 eLexdW">Spreads from</div>
-            <div class="sc-c5573156-8 eLexdW">1.2</div>
-            <div class="sc-c5573156-8 eLexdW">0.6</div>
-            <div class="sc-c5573156-8 eLexdW">0.4</div>
-            <div class="sc-c5573156-8 eLexdW">0.4</div>
-        </div>
-        <div class="sc-c5573156-7 hBgQVD">
-            <div class="sc-c5573156-8 eLexdW">Commission (per round turn lot)</div>
-            <div class="sc-c5573156-8 eLexdW">$0</div>
-            <div class="sc-c5573156-8 eLexdW">$5</div>
-            <div class="sc-c5573156-8 eLexdW">$2</div>
-            <div class="sc-c5573156-8 eLexdW">$0</div>
-        </div>
-        <div class="sc-c5573156-7 hBgQVD">
-            <div class="sc-c5573156-8 eLexdW">Minimum trade volume</div>
-            <div class="sc-c5573156-8 eLexdW">0.01 lots</div>
-            <div class="sc-c5573156-8 eLexdW">0.01 lots</div>
-            <div class="sc-c5573156-8 eLexdW">0.01 lots</div>
-            <div class="sc-c5573156-8 eLexdW">0.01 lots</div>
-        </div>
-        <div class="sc-c5573156-7 hBgQVD">
-            <div class="sc-c5573156-8 eLexdW">Leverage</div>
-            <div class="sc-c5573156-8 eLexdW">Up to 1:1000</div>
-            <div class="sc-c5573156-8 eLexdW">Up to 1:500 on request</div>
-            <div class="sc-c5573156-8 eLexdW">Up to 1:500 on request</div>
-            <div class="sc-c5573156-8 eLexdW">Up to 1:500 on request</div>
-        </div>
-        <div class="sc-c5573156-7 hBgQVD">
-            <div class="sc-c5573156-8 eLexdW">Maximum open / pending orders per client</div>
-            <div class="sc-c5573156-8 eLexdW">200</div>
-            <div class="sc-c5573156-8 eLexdW">200</div>
-            <div class="sc-c5573156-8 eLexdW">200</div>
-            <div class="sc-c5573156-8 eLexdW">200</div>
-        </div>
-        <div class="sc-c5573156-7 hBgQVD">
-            <div class="sc-c5573156-8 eLexdW">Maximum lots per trade</div>
-            <div class="sc-c5573156-8 eLexdW">20</div>
-            <div class="sc-c5573156-8 eLexdW">20</div>
-            <div class="sc-c5573156-8 eLexdW">20</div>
-            <div class="sc-c5573156-8 eLexdW">20</div>
-        </div>
-        <div class="sc-c5573156-7 hBgQVD">
-            <div class="sc-c5573156-8 eLexdW">Margin call</div>
-            <div class="sc-c5573156-8 eLexdW">100%</div>
-            <div class="sc-c5573156-8 eLexdW">100%</div>
-            <div class="sc-c5573156-8 eLexdW">100%</div>
-            <div class="sc-c5573156-8 eLexdW">100%</div>
-        </div>
-        <div class="sc-c5573156-7 hBgQVD">
-            <div class="sc-c5573156-8 eLexdW">Margin stop out</div>
-            <div class="sc-c5573156-8 eLexdW">30%</div>
-            <div class="sc-c5573156-8 eLexdW">30%</div>
-            <div class="sc-c5573156-8 eLexdW">30%</div>
-            <div class="sc-c5573156-8 eLexdW">30%</div>
-        </div>
-        <div class="sc-c5573156-7 hBgQVD">
-            <div class="sc-c5573156-8 eLexdW">Trading platform</div>
-            <div class="sc-c5573156-8 eLexdW">MT4 or MT5</div>
-            <div class="sc-c5573156-8 eLexdW">MT4 or MT5</div>
-            <div class="sc-c5573156-8 eLexdW">MT4 or MT5</div>
-            <div class="sc-c5573156-8 eLexdW">MT4 or MT5</div>
-        </div>
-        <div class="sc-c5573156-7 hBgQVD">
-            <div class="sc-c5573156-8 eLexdW">Hedging</div>
-            <div class="sc-c5573156-8 eLexdW">Yes</div>
-            <div class="sc-c5573156-8 eLexdW">Yes</div>
-            <div class="sc-c5573156-8 eLexdW">Yes</div>
-            <div class="sc-c5573156-8 eLexdW">Yes</div>
-        </div>
-        <div class="sc-c5573156-7 hBgQVD">
-            <div class="sc-c5573156-8 eLexdW">Fast order execution speeds</div>
-            <div class="sc-c5573156-8 eLexdW">Milliseconds</div>
-            <div class="sc-c5573156-8 eLexdW">Milliseconds</div>
-            <div class="sc-c5573156-8 eLexdW">Milliseconds</div>
-            <div class="sc-c5573156-8 eLexdW">Milliseconds</div>
-        </div>
-        <div class="sc-c5573156-7 hBgQVD">
-            <div class="sc-c5573156-8 eLexdW">Trading signals</div>
-            <div class="sc-c5573156-8 eLexdW">3 daily signals (Unlimited with $500+ deposit)</div>
-            <div class="sc-c5573156-8 eLexdW">3 daily signals (Unlimited with $500+ deposit)</div>
-            <div class="sc-c5573156-8 eLexdW">Unlimited signals</div>
-            <div class="sc-c5573156-8 eLexdW">Unlimited signals</div>
-        </div>
-        <div class="sc-c5573156-7 hBgQVD">
-            <div class="sc-c5573156-8 eLexdW">Technical analysis from Trading Central</div>
-            <div class="sc-c5573156-8 eLexdW">Yes</div>
-            <div class="sc-c5573156-8 eLexdW">Yes</div>
-            <div class="sc-c5573156-8 eLexdW">Yes</div>
-            <div class="sc-c5573156-8 eLexdW">Yes</div>
-        </div>
-        <div class="sc-c5573156-7 hBgQVD">
-            <div class="sc-c5573156-8 eLexdW">Free deposits available</div>
-            <div class="sc-c5573156-8 eLexdW">Yes</div>
-            <div class="sc-c5573156-8 eLexdW">Yes</div>
-            <div class="sc-c5573156-8 eLexdW">Yes</div>
-            <div class="sc-c5573156-8 eLexdW">Yes</div>
-        </div>
-        <div class="sc-c5573156-7 hBgQVD">
-            <div class="sc-c5573156-8 eLexdW">Free withdrawals available</div>
-            <div class="sc-c5573156-8 eLexdW">Yes</div>
-            <div class="sc-c5573156-8 eLexdW">Yes</div>
-            <div class="sc-c5573156-8 eLexdW">Yes</div>
-            <div class="sc-c5573156-8 eLexdW">Yes</div>
-        </div>
-        <div class="sc-c5573156-7 hBgQVD">
-            <div class="sc-c5573156-8 eLexdW">24/7 Customer support</div>
-            <div class="sc-c5573156-8 eLexdW">Yes</div>
-            <div class="sc-c5573156-8 eLexdW">Yes</div>
-            <div class="sc-c5573156-8 eLexdW">Yes</div>
-            <div class="sc-c5573156-8 eLexdW">Yes</div>
-        </div>
-        <div class="sc-c5573156-3 qmgBZ">
-            <div class="sc-c5573156-5 czRRSg"></div>
-            <div class="sc-c5573156-4 fWVNsp">
-                <div class="sc-f24afe3b-6 iDwNTB"><a href="/spread-account">Learn more</a></div>
+<div class="container pt-120 pb-120">
+    <div class="main-table ">
+        <div class="sub-main-table fPIqef">
+            <div class="table-content table-content2 ">
+                <div class="sub-table-content">Features</div>
+                <div class="sub-table-content">Spread</div>
+                <div class="sub-table-content">Standard</div>
+                <div class="sub-table-content">VIP</div>
+                <div class="sub-table-content">VIP Black</div>
             </div>
-            <div class="sc-c5573156-4 fWVNsp">
-                <div class="sc-f24afe3b-6 iDwNTB"><a href="/standard">Learn more</a></div>
+            <div class="table-content ">
+                <div class="sub-table-content">Base currency options</div>
+                <div class="sub-table-content">USD, GBP, EUR, CAD, AUD, CZK, ZAR</div>
+                <div class="sub-table-content">USD, GBP, EUR, CAD, AUD, CZK, ZAR</div>
+                <div class="sub-table-content">USD, GBP, EUR, CAD, AUD, CZK, ZAR</div>
+                <div class="sub-table-content">USD, GBP, EUR, CAD, AUD, CZK, ZAR</div>
             </div>
-            <div class="sc-c5573156-4 fWVNsp">
-                <div class="sc-f24afe3b-6 iDwNTB"><a href="/vip">Learn more</a></div>
+            <div class="table-content ">
+                <div class="sub-table-content">Spreads from</div>
+                <div class="sub-table-content">1.2</div>
+                <div class="sub-table-content">0.6</div>
+                <div class="sub-table-content">0.4</div>
+                <div class="sub-table-content">0.4</div>
             </div>
-            <div class="sc-c5573156-4 fWVNsp">
-                <div class="sc-f24afe3b-6 iDwNTB"><a href="/vip-black">Learn more</a></div>
+            <div class="table-content ">
+                <div class="sub-table-content">Commission (per round turn lot)</div>
+                <div class="sub-table-content">$0</div>
+                <div class="sub-table-content">$5</div>
+                <div class="sub-table-content">$2</div>
+                <div class="sub-table-content">$0</div>
+            </div>
+            <div class="table-content ">
+                <div class="sub-table-content">Minimum trade volume</div>
+                <div class="sub-table-content">0.01 lots</div>
+                <div class="sub-table-content">0.01 lots</div>
+                <div class="sub-table-content">0.01 lots</div>
+                <div class="sub-table-content">0.01 lots</div>
+            </div>
+            <div class="table-content ">
+                <div class="sub-table-content">Leverage</div>
+                <div class="sub-table-content">Up to 1:1000</div>
+                <div class="sub-table-content">Up to 1:500 on request</div>
+                <div class="sub-table-content">Up to 1:500 on request</div>
+                <div class="sub-table-content">Up to 1:500 on request</div>
+            </div>
+            <div class="table-content ">
+                <div class="sub-table-content">Maximum open / pending orders per client</div>
+                <div class="sub-table-content">200</div>
+                <div class="sub-table-content">200</div>
+                <div class="sub-table-content">200</div>
+                <div class="sub-table-content">200</div>
+            </div>
+            <div class="table-content ">
+                <div class="sub-table-content">Maximum lots per trade</div>
+                <div class="sub-table-content">20</div>
+                <div class="sub-table-content">20</div>
+                <div class="sub-table-content">20</div>
+                <div class="sub-table-content">20</div>
+            </div>
+            <div class="table-content ">
+                <div class="sub-table-content">Margin call</div>
+                <div class="sub-table-content">100%</div>
+                <div class="sub-table-content">100%</div>
+                <div class="sub-table-content">100%</div>
+                <div class="sub-table-content">100%</div>
+            </div>
+            <div class="table-content ">
+                <div class="sub-table-content">Margin stop out</div>
+                <div class="sub-table-content">30%</div>
+                <div class="sub-table-content">30%</div>
+                <div class="sub-table-content">30%</div>
+                <div class="sub-table-content">30%</div>
+            </div>
+            <div class="table-content ">
+                <div class="sub-table-content">Trading platform</div>
+                <div class="sub-table-content">MT4 or MT5</div>
+                <div class="sub-table-content">MT4 or MT5</div>
+                <div class="sub-table-content">MT4 or MT5</div>
+                <div class="sub-table-content">MT4 or MT5</div>
+            </div>
+            <div class="table-content ">
+                <div class="sub-table-content">Hedging</div>
+                <div class="sub-table-content">Yes</div>
+                <div class="sub-table-content">Yes</div>
+                <div class="sub-table-content">Yes</div>
+                <div class="sub-table-content">Yes</div>
+            </div>
+            <div class="table-content ">
+                <div class="sub-table-content">Fast order execution speeds</div>
+                <div class="sub-table-content">Milliseconds</div>
+                <div class="sub-table-content">Milliseconds</div>
+                <div class="sub-table-content">Milliseconds</div>
+                <div class="sub-table-content">Milliseconds</div>
+            </div>
+            <div class="table-content ">
+                <div class="sub-table-content">Trading signals</div>
+                <div class="sub-table-content">3 daily signals (Unlimited with $500+ deposit)</div>
+                <div class="sub-table-content">3 daily signals (Unlimited with $500+ deposit)</div>
+                <div class="sub-table-content">Unlimited signals</div>
+                <div class="sub-table-content">Unlimited signals</div>
+            </div>
+            <div class="table-content ">
+                <div class="sub-table-content">Technical analysis from Trading Central</div>
+                <div class="sub-table-content">Yes</div>
+                <div class="sub-table-content">Yes</div>
+                <div class="sub-table-content">Yes</div>
+                <div class="sub-table-content">Yes</div>
+            </div>
+            <div class="table-content ">
+                <div class="sub-table-content">Free deposits available</div>
+                <div class="sub-table-content">Yes</div>
+                <div class="sub-table-content">Yes</div>
+                <div class="sub-table-content">Yes</div>
+                <div class="sub-table-content">Yes</div>
+            </div>
+            <div class="table-content ">
+                <div class="sub-table-content">Free withdrawals available</div>
+                <div class="sub-table-content">Yes</div>
+                <div class="sub-table-content">Yes</div>
+                <div class="sub-table-content">Yes</div>
+                <div class="sub-table-content">Yes</div>
+            </div>
+            <div class="table-content ">
+                <div class="sub-table-content">24/7 Customer support</div>
+                <div class="sub-table-content">Yes</div>
+                <div class="sub-table-content">Yes</div>
+                <div class="sub-table-content">Yes</div>
+                <div class="sub-table-content">Yes</div>
             </div>
         </div>
     </div>
+    
 </div>
 
 
