@@ -17,7 +17,7 @@
     }
 </style>
 
-<section class="provide-world pt-120 position-relative z-0 " style="background-color: #000;">
+<section class="provide-world pt-120 position-relative z-0 " style="background-color: rgba(var(--nb3), 1);">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-7 col-xxl-6">
