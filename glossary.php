@@ -1087,194 +1087,401 @@
                         </div>
 
                         <div class="privacy-policy__part">
-                            <h2 class="A">I</h2>
+                            <h2 class="A">K</h2>
                             <br>
-                            <h5 class="mb-4">ICCH</h5>
-                            <p class="mt-3">International Commodities Clearing House Limited, a clearing house based in
-                                London operating world wide for many futures markets.</p>
+                            <h5 class="mb-4">Kappa
+                            </h5>
+                            <p class="mt-3">A measure of the sensitivity of the price of an option to a change in its implied volatility.
+                            </p>
                         </div>
 
                         <div class="privacy-policy__part">
-                            <h5 class="mb-4">IFEMA
+                            <h5 class="mb-4">Key currency
                             </h5>
-                            <p class="mt-4">International Foreign Exchange Master Agreement
+                            <p class="mt-4">Small countries, which are highly dependent on exports, orientates their currencies to their major trading partners, the constituents of a currency basket.
                             </p>
 
                         </div>
                         <div class="privacy-policy__part">
-                            <h5 class="mb-4">IMF</h5>
-                            <p class="mt-3">International Monetary Fund, established in 1946 to provide international
-                                liquidity on a short and medium term and encourage liberalization of exchange rates. The
-                                IMF supports countries with balance of payments problems with the provision of loans.
+                            <h5 class="mb-4">Kiwi</h5>
+                            <p class="mt-3">Slang for the New Zealand dollar.
 
                             </p>
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">
-                                Implied Volatility</h5>
-                            <p class="mt-3">A measurement of the market’s expected price range of the underlying
-                                currency futures based on the traded option premiums.
+                                Knock In</h5>
+                            <p class="mt-3">A process where a barrier option (European) becomes active as the underlying spot price is in the money. Knock out has a corresponding meaning although the option may permanently cease to exist.
                             </p>
                         </div>
-                        <div class="privacy-policy__part">
-                            <h5 class="mb-4">Implied Volatility Skews</h5>
-                            <p class="mt-3">The implied volatility varies for different strikes of an option.
-                            </p>
-                        </div>
-                        <div class="privacy-policy__part">
-                            <h5 class="mb-4">Implied Rates</h5>
-                            <p class="mt-3">The interest rate determined by calculating the difference between spot and
-                                forward rates.
-                            </p>
-                        </div>
-                        <div class="privacy-policy__part">
-                            <h5 class="mb-4">In-the-Money</h5>
-                            <p class="mt-3">A call option is in-the-money if the price of the underlying instrument is
-                                higher than the exercise/strike price. A put option is in-the-money if the price of the
-                                underlying instrument is below the exercise/strike price.
-                            </p>
-                        </div>
-                        <div class="privacy-policy__part">
-                            <h5 class="mb-4">Inconvertible Currency</h5>
-                            <p class="mt-3">Currency which cannot be exchanged for other currencies, either because this
-                                is forbidden by the foreign exchange regulations.
+                      
+                    </div>
+                </div>
+            </div>
+        </div>
+</section>
 
-                            </p>
-                        </div>
+
+
+
+
+
+
+<section class="privacy-policy pb-120 ">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-10 col-xxl-10">
+                <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
+
+                    <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
                         <div class="privacy-policy__part">
-                            <h5 class="mb-4">Index Linking</h5>
-                            <p class="mt-3">The process of linking wages, social benefits payments, prices, interest
-                                rates or loan values to an economic index, usually of prices.
-                            </p>
+
+
                         </div>
 
                         <div class="privacy-policy__part">
-                            <h5 class="mb-4">Indicative Quote</h5>
-                            <p class="mt-3">A market-maker’s price which is not firm.
-                            </p>
-                        </div>
-                        <div class="privacy-policy__part">
-                            <h5 class="mb-4">Industrial Production Index</h5>
-                            <p class="mt-3">A coincident indicator measuring physical output of manufacturing, mining
-                                and utilities.
-                            </p>
-                        </div>
-                        <div class="privacy-policy__part">
-                            <h5 class="mb-4">Inflation</h5>
-                            <p class="mt-3">Continued rise in the general price level in conjunction with a related drop
-                                in purchasing power. Sometimes referred to as an excessive movement in such price
-                                levels.
-                            </p>
-                        </div>
-                        <div class="privacy-policy__part">
-                            <h5 class="mb-4">Initial Margin</h5>
-                            <p class="mt-3">The margin is a returnable deposit required to be lodged by buyers and
-                                sellers with the clearing house to secure a new futures or options position.
-                            </p>
-                        </div>
-                        <div class="privacy-policy__part">
-                            <h5 class="mb-4">Instruction</h5>
-                            <p class="mt-3">The specification of the banks at which funds shall be paid upon settlement.
+                            <h2 class="A">L</h2>
+                            <br>
+                            <h5 class="mb-4">Ladder
+                            </h5>
+                            <p class="mt-3">Dealers analysis of the forward book or deposit book showing every existing deal by maturity date, and the net position at each future date arising.
                             </p>
                         </div>
 
                         <div class="privacy-policy__part">
-                            <h5 class="mb-4">Inter-bank Rates</h5>
-                            <p class="mt-3">The bid and offer rates at which international banks place deposits with
-                                each other. The basis of the Interbank market.
+                            <h5 class="mb-4">Lagging Indicator
+                            </h5>
+                            <p class="mt-4">A measure of economic activity which tends to change after change has occurred in the overall economy e.g. CPI.
+                            </p>
+
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Lapsed Rights</h5>
+                            <p class="mt-3">Rights for which call payments have not been made by the acceptance date.
+
                             </p>
                         </div>
                         <div class="privacy-policy__part">
-                            <h5 class="mb-4">Inter-dealer Broker</h5>
-                            <p class="mt-3">A specialist broker who acts as an intermediary between market-makers who
-                                wish to buy or sell securities to improve their book positions, without revealing their
-                                identities to other market-makers.
-                            </p>
-                        </div>
-                        <div class="privacy-policy__part">
-                            <h5 class="mb-4">Interest Arbitrage</h5>
-                            <p class="mt-3">Switching into another currency by buying spot and selling forward, and
-                                investing proceeds in order to obtain a higher interest yield. Interest arbitrage can be
-                                inward, i.e. from foreign currency into the local one or outward, i.e. from the local
-                                currency to the foreign one. Sometimes better results can be obtained by not selling the
-                                forward interest amount. In that case some treat it as no longer being a complete
-                                arbitrage, as if the exchange rate moved against the arbitrageur, the profit on the
-                                transaction may create a loss.
-                            </p>
-                        </div>
-                        <div class="privacy-policy__part">
-                            <h5 class="mb-4">Interest Parity</h5>
-                            <p class="mt-3">One currency is in interest parity with another when the difference in the
-                                interest rates is equalised by the forward exchange margins. For instance, if the
-                                operative interest rate in Japan is 3% and in the UK 6%, a forward premium of 3% for the
-                                Japanese Yen against sterling would bring about interest parity.
-                            </p>
-                        </div>
-                        <div class="privacy-policy__part">
-                            <h5 class="mb-4">Interest Rate Options</h5>
-                            <p class="mt-3">An agreement permitting a party to obtain a particular interest rate, issued
-                                both OTC and by exchanges.
-                            </p>
+                            <h5 class="mb-4">Last Trading Day</h5>
+                            <p class="mt-3">The day on which trading ceases for an expiring contract.</p>
                         </div>
 
 
+
+
                         <div class="privacy-policy__part">
-                            <h5 class="mb-4">Interest Rate Cap</h5>
-                            <p class="mt-3">An agreement that provides the buyer of a cap with a maximum interest rate
-                                for future borrowing requirements.
+                            <h5 class="mb-4">Lay Off</h5>
+                            <p class="mt-3">To carry out a transaction in the market to offset a previous transaction and return to a square position.
                             </p>
                         </div>
+                         <div class="privacy-policy__part">
+                            <h5 class="mb-4">Leading Indicators</h5>
+                            <p class="mt-3">Statistic that are considered to precede changes in economic growth rates and total business activity, e.g. factory orders.</p>
+                        </div> 
                         <div class="privacy-policy__part">
-                            <h5 class="mb-4">Interest Rate Collar</h5>
-                            <p class="mt-3">A combination of a cap and a floor to provide maximum and minimum interest
-                                rates for borrowing or lending.
+                            <h5 class="mb-4">Leads and Lags</h5>
+                            <p class="mt-3">The effect on foreign trade payments of an anticipated move in the exchange rate, normally a devaluation. Then payment of imports is faster and export receipts are slowed down.
                             </p>
-                        </div>
+                        </div> 
                         <div class="privacy-policy__part">
-                            <h5 class="mb-4">Interest Rate Floor</h5>
-                            <p class="mt-3">An agreement which provides the buyer of the floor with a minimum interest
-                                rate for future lending requirements.
+                            <h5 class="mb-4">Left-hand Side</h5>
+                            <p class="mt-3">Taking the left hand side of a two way quote i.e. selling the quoted currency. See Right-hand Side.</p>
+                        </div> 
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Leverage</h5>
+                            <p class="mt-3">In options terminology, this expresses the disproportionately large change in the premium in terms of the relative price movement of the underlying instrument.</p>
+                        </div> 
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Liability</h5>
+                            <p class="mt-3">In terms of foreign exchange , the obligation to deliver to a counterparty an amount of currency either in respect of a balance sheet holding at a specified future date or in respect of an un-matured forward or spot transaction.</p>
+                        </div> 
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">LIBOR</h5>
+                            <p class="mt-3">The London Interbank Offered Rate, the rate charged by one bank to another for lending money.</p>
+                        </div> 
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Life of Contract</h5>
+                            <p class="mt-3">The period between the beginning of trading in a particular future and the expiration of trading.</p>
+                        </div> 
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">LIFFE</h5>
+                            <p class="mt-3">London International Financial Futures Exchange</p>
+                        </div> 
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Limit Down</h5>
+                            <p class="mt-3">The maximum price decline from the previous trading day’s settlement price permitted in one trading session.</p>
+                        </div>
+
+
+
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Limit Move</h5>
+                            <p class="mt-3">A price that has advanced or declined the permissible limit permitted during one trading session.</p>
+                        </div> 
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Limit Order</h5>
+                            <p class="mt-3">An order to buy or sell a specified amount of a security at a specified price or better.</p>
+                        </div> 
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Limit Up</h5>
+                            <p class="mt-3">The maximum price advance from the previous trading day’s settlement price permitted in one trading session.</p>
+                        </div> 
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Limit</h5>
+                            <p class="mt-3">(1) The maximum price fluctuation permitted by an exchange from the previous session’s settlement price for a given contract.</p>
+                            <p class="mt-3">(2) In international banking, the limit a bank is willing to lend in a country.</p>
+                            <p class="mt-3">(3) The amount that one bank is prepared to trade with another.</p>
+                            <p class="mt-3">(4) The amount that a dealer is permitted to trade in a given currency.
                             </p>
-                        </div>
+
+                        </div> 
                         <div class="privacy-policy__part">
-                            <h5 class="mb-4">Interest Rate Swaps</h5>
-                            <p class="mt-3">An agreement to swap interest rate exposures from floating to fixed or
-                                vice-versa. There is no swap of the principal. It is the interest cash flows be they
-                                payments or receipts that are exchanged.
-                            </p>
-                        </div>
+                            <h5 class="mb-4">Limited Convertibility</h5>
+                            <p class="mt-3">When residents of a country are prohibited from buying other currencies even though non-residents may be completely free to buy or sell the national currency.</p>
+                        </div> 
+                       
+
+                    </div>
+                </div>
+            </div>
+        </div>
+</section>
+
+
+
+
+<section class="privacy-policy pb-120 ">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-10 col-xxl-10">
+                <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
+
+                    <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
                         <div class="privacy-policy__part">
-                            <h5 class="mb-4">Intervention</h5>
-                            <p class="mt-3">Action by a central bank to affect the value of its currency by entering the
-                                market. Concerted intervention refers to action by a number of central banks to control
-                                exchange rates.
+
+
+                        </div>
+
+                        <div class="privacy-policy__part">
+                            <h2 class="A">M</h2>
+                            <br>
+                            <h5 class="mb-4">M1
+                            </h5>
+                            <p class="mt-3">Cash in circulation plus demand deposits at commercial banks. There are variations between the precise definitions used by national financial authorities.
                             </p>
                         </div>
 
                         <div class="privacy-policy__part">
-                            <h5 class="mb-4">Intra-Day limit</h5>
-                            <p class="mt-3">Limit set by bank management on the size of each dealer’s Intra Day
-                                Position. Intra-Day Position Open positions run by a dealer within the day. Usually
-                                squared by the close of the day.
+                            <h5 class="mb-4">Lagging Indicator
+                            </h5>
+                            <p class="mt-4">A measure of economic activity which tends to change after change has occurred in the overall economy e.g. CPI.
+                            </p>
+
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">M2</h5>
+                            <p class="mt-3">Includes demand deposits time deposits and money market mutual funds excluding large CDs.
+
                             </p>
                         </div>
                         <div class="privacy-policy__part">
-                            <h5 class="mb-4">Intrinsic Value</h5>
-                            <p class="mt-3">The amount by which an option is in-the-money. The intrinsic value is the
-                                difference between the exercise/strike price and the price of the underlying security.
-                            </p>
+                            <h5 class="mb-4">M3</h5>
+                            <p class="mt-3">In the UK it is M1 plus public and private sector time deposits and sight deposits held by the public sector.</p>
                         </div>
+
+
+
+
                         <div class="privacy-policy__part">
-                            <h5 class="mb-4">Inverted Market</h5>
-                            <p class="mt-3">Where short term instruments are trading at premiums to long term
-                                instruments.
+                            <h5 class="mb-4">M4</h5>
+                            <p class="mt-3">In the US it is M2 plus negotiable CDs.
+
                             </p>
                         </div>
+                         <div class="privacy-policy__part">
+                            <h5 class="mb-4">Maintenance Margin</h5>
+                            <p class="mt-3">The minimum margin which an investor must keep on deposit in a margin account at all times in respect of each open contract.</p>
+                        </div> 
                         <div class="privacy-policy__part">
-                            <h5 class="mb-4">IOM</h5>
-                            <p class="mt-3">Index and Options Market part of the Chicago Mercantile Exchange
+                            <h5 class="mb-4">Make a Market</h5>
+                            <p class="mt-3">A dealer is said to make a market when he or she quotes bid and offer prices at which he or she stands ready to buy and sell.
                             </p>
+                        </div> 
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Managed Float</h5>
+                            <p class="mt-3">When the monetary authorities intervene regularly in the market to stabilise the rates or to aim the exchange rate in a required direction.
+                                </p>
+                        </div> 
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">
+                                Margin</h5>
+                            <p class="mt-3">(1) Difference between the buying and selling rates, also used to indicate the discount or premium between spot or forward.</p>
+                            <p class="mt-3">(2) For options the sum required as collateral from the writer of an option.</p>
+                            
+                            <p class="mt-3">(3) For futures a deposit made to the clearing house on establishing a futures position account.</p>
+                            <p class="mt-3">(4) The percentage reserve required by the US Federal Reserve to make an initial credit transaction.</p>
+                        </div> 
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Margin Call</h5>
+                            <p class="mt-3">A demand for additional funds to be deposited in a margin account to meet margin requirements because of adverse future price movements.</p>
+                        </div> 
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Marginal Risk</h5>
+                            <p class="mt-3">The risk that a customer goes bankrupt after entering into a forward contract. In such an event the issuer must close the commitment running the risk of having to pay the marginal movement on the contract.</p>
+                        </div> 
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Mark to Market</h5>
+                            <p class="mt-3">The daily adjustment of an account to reflect accrued profits and losses often required to calculate variations of margins.</p>
+                        </div> 
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Markup</h5>
+                            <p class="mt-3">Premium.</p>
+                        </div> 
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Market Amount</h5>
+                            <p class="mt-3">The minimum amount conventionally dealt for between banks.</p>
                         </div>
+
+
+
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Market Maker</h5>
+                            <p class="mt-3">A market maker is a person or firm authorised to create and maintain a market in an instrument.</p>
+                        </div> 
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Market Order</h5>
+                            <p class="mt-3">An order to buy or sell a financial instrument immediately at the best possible price.</p>
+                        </div> 
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Marshall – Lerner</h5>
+                            <p class="mt-3">A model that states that if the sum of the elasticity’s of demand for a country’s and that of the imports exceed one, then devaluation will have a positive effect upon the trade balance.</p>
+                        </div> 
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Marry</h5>
+                            <p class="mt-3">Where a dealer is able to match two customer deals which off set one another.</p>
+                           
+
+                        </div> 
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Matched Book</h5>
+                            <p class="mt-3">If the distribution of the maturities of a banks liabilities equal that of its assets , it is said to be running a matched book.</p>
+                        </div> 
+                        
+
+
+
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Matching</h5>
+                            <p class="mt-3">The process of ensuring that purchases and sales in each currency and deposits given and taken in each currency are in balance, by amount and maturity.</p>
+                        </div> 
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Matching Systems</h5>
+                            <p class="mt-3">Electronic Systems duplicating the traditional brokers market. A price shown by a bank is available to all trades.</p>
+                        </div> 
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Maturity Date</h5>
+                            <p class="mt-3">(1) The last trading day of a futures contract.</p>
+                            <p class="mt-3">(2) Date on which a bond matures, at which time the face value will be returned to the purchaser. Sometimes the maturity date is not one specified date but a range of dates during which the bond may be repaid.</p>
+                      
+                        </div> 
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Mid-price or Middle Rate</h5>
+                            <p class="mt-3">The price half-way between the two prices, or the average of both buying and selling prices offered by the market makers.</p>
+                           
+
+                        </div> 
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Minimum Price Fluctuation</h5>
+                            <p class="mt-3">The smallest increment of market price movement possible in a given futures contract.</p>
+                        </div> 
+                       
+
+
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Minimum Reserve</h5>
+                            <p class="mt-3">Reserves required to be deposited at central banks by commercial banks and other financial institutions. Sometimes referred to as Registered Reserves.</p>
+                        </div> 
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Mismatch</h5>
+                            <p class="mt-3">(1) A mismatch between the interest rate maturities of a banks assets and liabilities.</p>
+                            <p class="mt-3">(2) Forward purchases differ in the value date from the forward sales in a given currency.</p>
+                        </div> 
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">MITI</h5>
+                            <p class="mt-3">Japanese ministry of International Trade & Industry.</p>
+                         
+                        </div> 
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">MM</h5>
+                            <p class="mt-3">Money Markets.</p>
+                           
+
+                        </div> 
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Monetarism</h5>
+                            <p class="mt-3">A school of economics which believes that strict control of money supply is the principal tool for implementing monetary policy, especially against inflation. Policies include cuts in public spending and high interest rates.</p>
+                        </div> 
+                       
+
+
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Monetary Base</h5>
+                            <p class="mt-3">Currency in circulation plus banks’ required and excess deposits at the central bank.</p>
+                        </div> 
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Monetary Easing</h5>
+                            <p class="mt-3">A modest loosening of monetary constraint by changing interest rate, money supply, deposit ratios.</p>
+                           
+                        </div> 
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Monetary Policy</h5>
+                            <p class="mt-3">A central bank’s management of a country’s money supply. Economic theory underlying monetary policy suggests that controlling the growth of the amount of money in the economy is the key to controlling prices and therefore inflation. However, central banks’ monetary capability is severely limited by global money movements. This forces them to use the indirect tool of exchange rate manipulation.</p>
+                         
+                        </div> 
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Monetary Union</h5>
+                            <p class="mt-3">An agreement between countries to maintain a fixed exchange rate between their currencies. A process which the EMS is intended to lead to, especially after the Maastricht Treaty.</p>
+                           
+
+                        </div> 
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Money Market</h5>
+                            <p class="mt-3">A market consisting of financial institutions and dealers in money or credit who wish to either borrow or lend.</p>
+                        </div> 
+
+
+                        
+
+
+
+
+
+
+
+
+
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Money Market Operations</h5>
+                            <p class="mt-3">Comprises the acceptance and re-lending of deposits on the money market.</p>
+                        </div> 
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Money Supply</h5>
+                            <p class="mt-3">The amount of money in the economy, which can be measured in a number of ways. See definitions of M0-M4.</p>
+                           
+                        </div> 
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Most Favoured Nation (MFN)</h5>
+                            <p class="mt-3">An undertaking to give the rate of tariff concession offered to members of the GATT. More concessionaire rates can exist.</p>
+                         
+                        </div> 
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Moving Average</h5>
+                            <p class="mt-3">A way of smoothing a set of data, widely used in price time series.
+                            </p>
+                           
+
+                        </div> 
+                      
 
                     </div>
                 </div>
