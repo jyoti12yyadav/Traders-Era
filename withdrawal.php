@@ -53,57 +53,5 @@
     </div>
 </section>
 
-<section class="provide-world a2-bg pt-120 pb-120  position-relative z-0">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-8 col-xxl-6">
-                <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h3 class="mb-5 mb-lg-6">WHAT WE OFFER</h3>
-                    <center><h5>Join our Partner Program and Enjoy Exclusive Perks</h5></center>
-                </div>
-            </div>
-        </div>
-        <div class="row gy-6 gy-xxl-0">
-            <div class="col-md-6 col-xxl-3">
-                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/time.png" alt="time">
-                    </span>
-                   <h4 class="mt-5 mb-5">Customized Commission Plans</h4>
-                   <p>We offer commission structures at TradersEra that are tailored to meet your specific requirements, ensuring a mutually beneficial partnership</p>
-                </div>
-            </div>
-            <div class="col-md-6 col-xxl-3">
-                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/wallet.png" alt="wallet">
-                    </span>
-                   <h4 class="mt-5 mb-5">No Crypto-Wallet Fuss</h4>
-                   <p>Bet only on the underlying crypto’s price and quit worrying about the safe-keeping of actual cryptocurrency with TradersEra.</p>
-                   <br>
-                </div>
-            </div>    
-            <div class="col-md-6 col-xxl-3">
-                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/low-price.png" alt="low-price">
-                    </span>
-                   <h4 class="mt-5 mb-5">Low Transaction Costs</h4>
-                   <p>Trade major cryptocurrencies commission free and without any exchange fees with TradersEra.</p>
-                   <br><br>
-                </div>
-            </div>
-            <div class="col-md-6 col-xxl-3">
-                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/customer-service.png" alt="customer">
-                    </span>
-                   <h4 class="mt-5 mb-5">Unrivalled Customer Support</h4>
-                   <p>With an experienced team backing you up during every trouble, TradersEra aims to provide you the best possible customer support 24×5.</p>
-                </div>
-            </div>
-        </div>
-        </div>
-    
-</section>
+
 <?php include("includes/footer.php"); ?>
