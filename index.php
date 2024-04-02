@@ -577,7 +577,7 @@
                                     <p class="fs-six-up fw_500 nb4-xxl-color" style="transform: scaleX(-1);">Trade
                                         smarter with TradingEra's insights,
                                         maximizing your financial potential.</p>
-                                    <div>
+                                    <div
                                         class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8
                                         mt-lg-10">
                                         <a href="signup.html"
