@@ -84,7 +84,7 @@
             </div>
         </div>
         <div class="container  d-center ">
-            <nav class="navbar py-2 py-xl-4 rounded-3 navbar-expand-lg w-100 justify-content-between ">
+            <nav class="navbar rounded-3 navbar-expand-lg w-100 justify-content-between ">
                 <div class="d-flex align-items-center py-3">
                     <button class="navbar-toggler ms-4" type="button" data-bs-toggle="collapse"
                         aria-label="Navbar Toggler" data-bs-target="#navbar-content" aria-expanded="true"
