@@ -1144,7 +1144,7 @@
 </section>
 <!--People Trust start-->
 <section>
-    <div class="container" style="margin-top: 70px;">
+    <div class="container pb-120" style="margin-top: 70px; ">
         <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
             <div class="col-sm-10 col-lg-6 col-xxl-5 order-2 order-lg-0">
                 <div class="company-story__thumbs d-center">
@@ -1156,20 +1156,23 @@
                     <div class="col-xxl-12">
                         <div class="">
                             <h3 class="mb-3 mt-5">Multiple Funding Options</h3>
+                            <br>
                             <p>
                                 At TradersEra we've got all your account funding needs sorted. Whether you fancy the
                                 ease of Visa or Mastercard, the trustworthiness of a wire transfer or the modern touch
                                 of cryptocurrency we offer a range of options to kick off smoothly. Pick the approach
                                 that suits you and dive into trading
                             </p>
+                            <br>
                         </div>
                     </div>
                     
                     <ul class=" d-flex   gap-md-3 mt-4" >
+                        <li><img style=" height:35px;" src="assets/images/icon/a. Wire Transfer white logo.png"></li>
                         <li><img style=" height:35px;" src="assets/images/icon/a. mastercard.png"></li>
                         <li><img style=" height:35px;" src="assets/images/icon/a .crypto logo.png"></li>
-                        <li><img style=" height:35px;" src="assets/images/icon/a. visa_logo.png"></li>
-                        <li><img style=" height:35px;" src="assets/images/icon/a. Wire Transfer.png"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/a. visa white _logo.png"></li>
+                       
                     </ul>
                 </div>
             </div>
