@@ -19,13 +19,12 @@
         <div class="row justify-content-center">
             <div class="col-lg-7 col-xxl-6">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h2 class="" style="font-size:35px; width:107%">Trade your way. Trade with confidence
+                    <h2 class="" style="font-size:35px; width:107%">It Is Easy To Start Trading
                     </h2>
-                    <span class="heading p1-color fs-six mb-5" style="margin-top:12px;">Trade with</span>
+                    <!-- <span class="heading p1-color fs-six mb-5" style="margin-top:12px;">Trade with</span> -->
                  
-               
-                    <a href="signup.html" class="cmn-btn fs-six-up nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-4 py-lg-3 px-lg-5 mt-7 mt-xxl-8 " style="font-weight: bold; --top: 48.609375px; --left: 193px;">Start Trading Now</a>
-                    <span class="heading p1-color fs-six mb-5" style="margin-top:12px;">Instant account opening & funding</span>
+                    <a href="signup.html" class="cmn-btn fs-six-up nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-4 py-lg-3 px-lg-5 mt-7 mt-xxl-8 " style="font-weight: bold; --top: 48.609375px; --left: 193px;">Open An Trading Account</a>
+                    <!-- <span class="heading p1-color fs-six mb-5" style="margin-top:12px;">Open An Trading Account</span> -->
                
                 </div>
             </div>

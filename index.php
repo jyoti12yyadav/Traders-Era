@@ -906,6 +906,7 @@
                         spreads on major FX pairs and gold.</p>
                     <br>
                     <p class="mx-ch">All you require in a single app.</p>
+                    <br>
 
                     <div class="col-4 mt-4" style="display: flex; justify-content: space-evenly; ">
                         <img style="border:1px solid white; border-radius:10px;" src="assets/images/_app store.png">
