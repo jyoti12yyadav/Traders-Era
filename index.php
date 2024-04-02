@@ -930,7 +930,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-7 col-xxl-6">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h2 class="">Trade
+                    <h2 class="">
                     </h2>
                 </div>
             </div>
