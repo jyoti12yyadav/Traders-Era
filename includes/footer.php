@@ -261,7 +261,15 @@
                             <li><a class="n2-color" href="aml-kyc.php">AML & KYC Policy</a></li>
                         </ul>
                       
-                      
+                        <ul class="social-area d-center gap-2 gap-md-3">
+                            <li><img style="border:1px solid white; border-radius:17px;  height:35px;"
+                                src="assets/images/_app store.png"></li>
+                                <li><img style="border:1px solid white; border-radius:17px;  height:35px;"
+                                    src="assets/images/_google play store.png"></li>
+                                    <li><img style="border:1px solid white; border-radius:17px;  height:35px;"
+                                        src="assets/images/_download APK.png"></li>
+                         
+                        </ul>
                         <ul class="social-area d-center gap-2 gap-md-3">
                             <li><a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-facebook"></i></a></li>
                             <li><a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-twitch"></i></a></li>

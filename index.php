@@ -787,7 +787,7 @@
 
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
-                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;">A Web Based Trading Platform
+                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;">A Web Trading Platform
                     </h2>
                     <p class="mx-ch">Web trading platforms are safer since they use a remote server or cloud for
                         calculations. Users only need to focus on their internet connection and routing speed to receive
@@ -797,7 +797,7 @@
 
 
                 <h5 class="mt-4 mb-lg-5">
-                    Advantages of Web-Based Trading Platforms
+                    Advantages of Web Trading Platforms
                 </h5>
                 <ul class="d-flex gap-4 flex-column mt-6">
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
@@ -931,7 +931,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-7 col-xxl-6">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h2 class="">Trade
+                    <h2 class="">
                     </h2>
                 </div>
             </div>
