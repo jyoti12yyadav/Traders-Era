@@ -2,15 +2,18 @@
 
 
 <style>
-
-.col-xxl-8 {
-    flex: 0 0 auto;
-    width: 100.666667%;
-}
+    .col-xxl-8 {
+        flex: 0 0 auto;
+        width: 100.666667%;
+    }
 
     .social-area {
         margin-left: -65px;
         /* margin-top: 25px; */
+    }
+    
+    .trad img{
+        height:70px;
     }
 </style>
 
@@ -18,18 +21,29 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-7 col-xxl-6">
-                <div class="heading__content mb-10 mb-lg-15 text-center">
+                <div class="heading__content  mb-lg-15 text-center">
                     <h2 class="" style="font-size:35px; width:107%">It Is Easy To Start Trading
                     </h2>
+                    <br>
+                    <div class="trad" >
+                        <img  src="assets/images/tradersera png white.png">
+                    </div>
                     <!-- <span class="heading p1-color fs-six mb-5" style="margin-top:12px;">Trade with</span> -->
-                 
-                    <a href="signup.html" class="cmn-btn fs-six-up nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-4 py-lg-3 px-lg-5 mt-7 mt-xxl-8 " style="font-weight: bold; --top: 48.609375px; --left: 193px;">Open An Trading Account</a>
-                    <!-- <span class="heading p1-color fs-six mb-5" style="margin-top:12px;">Open An Trading Account</span> -->
-               
+
+                    <a href="signup.html"
+                        class="cmn-btn fs-six-up nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-4 py-lg-3 px-lg-5 mt-7 mt-xxl-8 "
+                        style="font-weight: bold; --top: 48.609375px; --left: 193px; margin-right:2rem;">Open An New
+                        Account</a>
+                    <a href="signup.html"
+                        class="cmn-btn fs-six-up nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-4 py-lg-3 px-lg-5 mt-7 mt-xxl-8 "
+                        style="font-weight: bold; --top: 48.609375px; --left: 193px;">Open An Demo Account</a>
+                        
+                        <span class="heading p1-color fs-six mb-5 " style="margin-top:30px;">Instant account opening & funding</span>
                 </div>
+               
             </div>
         </div>
-      
+
     </div>
 </section>
 
@@ -84,10 +98,10 @@
                             <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-youtube"></i></a>
                         </li>
                         <li>
-                           
+
                         </li>
                         <li>
-                            
+
                         </li>
                     </ul>
                 </div>
@@ -195,7 +209,7 @@
                         <li>
                             <a class="n2-color" href="help-center.php">Help Center</a>
                         </li>
-                       
+
 
                     </ul>
                 </div>
@@ -214,83 +228,95 @@
             </div> -->
 
 
-<!--Privacy & Policy start-->
-<section class="privacy-policy pt-20 ">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-10 col-xxl-8">
-                <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2" >
-                    <h3 class="text-center ">Disclaimer</h3>
-                    <div class="privacy-policy__card d-flex flex-column ">
-                        <div class="privacy-policy__part">
-                            <h6 class="mb-4">Risk Warning :</h6>
-                            <p class="mt-4 mb-5" style="font-size: 15px;">Please note that foreign exchange, cryptocurrency and other leveraged trading &
-                                investments involve significant risk of loss. It is not suitable for all investors and
-                                you should make sure you understand the risks involved, seeking independent advice if
-                                necessary.
-                            </p>
-                        </div>
-                        <div class="privacy-policy__part">
-                            <h6 class="mb-4">Regional Restrictions:</h6>
-                            <p class="mt-4 mb-5" style="font-size: 15px;"> It is the responsibility of the Client to ascertain whether he/she is
-                                permitted to use the services of TradersEra based on the legal requirements in his/her
-                                country of residence.
-                                </p>
-                            <p class="mt-4 mb-5" style="font-size: 15px;">TradersEra does not provide services to residents of the USA, Japan,
-                                Canada, Australia, the Democratic Republic of Korea, European Union, United Kingdom.
-                            </p>
+            <!--Privacy & Policy start-->
+            <section class="privacy-policy pt-20 ">
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-10 col-xxl-8">
+                            <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
+                                <h3 class="text-center ">Disclaimer</h3>
+                                <div class="privacy-policy__card d-flex flex-column ">
+                                    <div class="privacy-policy__part">
+                                        <h6 class="mb-4">Risk Warning :</h6>
+                                        <p class="mt-4 mb-5" style="font-size: 15px;">Please note that foreign exchange,
+                                            cryptocurrency and other leveraged trading &
+                                            investments involve significant risk of loss. It is not suitable for all
+                                            investors and
+                                            you should make sure you understand the risks involved, seeking independent
+                                            advice if
+                                            necessary.
+                                        </p>
+                                    </div>
+                                    <div class="privacy-policy__part">
+                                        <h6 class="mb-4">Regional Restrictions:</h6>
+                                        <p class="mt-4 mb-5" style="font-size: 15px;"> It is the responsibility of the
+                                            Client to ascertain whether he/she is
+                                            permitted to use the services of TradersEra based on the legal requirements
+                                            in his/her
+                                            country of residence.
+                                        </p>
+                                        <p class="mt-4 mb-5" style="font-size: 15px;">TradersEra does not provide
+                                            services to residents of the USA, Japan,
+                                            Canada, Australia, the Democratic Republic of Korea, European Union, United
+                                            Kingdom.
+                                        </p>
 
-                        </div>
+                                    </div>
 
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
-            </div>
-        </div>
-    </div>
-</section>
+            </section>
 
-        <div class="container-fluid">
-            <br><br>
-            <div class="row">
-                <div class="col-12 border-top border-color opac-20 py-7 py-xxl-8">
-                    <div class="footer__copyright d-center gap-15 flex-wrap justify-content-md-between">
-                        <ul class=" d-center gap-2 gap-md-3">
-                            <li><a class="n2-color" href="terms-condition.php">Terms & Conditions</a></li>
-                            <li><a class="n2-color" href="risk-disclaimer.php">Risk Disclaimer</a></li>
-                            <li><a class="n2-color" href="privacy-policy.php">Privacy Policy</a></li>
-                            <li><a class="n2-color" href="aml-kyc.php">AML & KYC Policy</a></li>
-                        </ul>
-                      
-                        <ul class="social-area d-center gap-2 gap-md-3">
-                            <li><img style="border:1px solid white; border-radius:17px;  height:35px;"
-                                src="assets/images/_app store.png"></li>
+            <div class="container-fluid">
+                <br><br>
+                <div class="row">
+                    <div class="col-12 border-top border-color opac-20 py-7 py-xxl-8">
+                        <div class="footer__copyright d-center gap-15 flex-wrap justify-content-md-between">
+                            <ul class=" d-center gap-2 gap-md-3">
+                                <li><a class="n2-color" href="terms-condition.php">Terms & Conditions</a></li>
+                                <li><a class="n2-color" href="risk-disclaimer.php">Risk Disclaimer</a></li>
+                                <li><a class="n2-color" href="privacy-policy.php">Privacy Policy</a></li>
+                                <li><a class="n2-color" href="aml-kyc.php">AML & KYC Policy</a></li>
+                            </ul>
+
+                            <ul class="social-area d-center gap-2 gap-md-3">
                                 <li><img style="border:1px solid white; border-radius:17px;  height:35px;"
-                                    src="assets/images/_google play store.png"></li>
-                                    <li><img style="border:1px solid white; border-radius:17px;  height:35px;"
+                                        src="assets/images/_app store.png"></li>
+                                <li><img style="border:1px solid white; border-radius:17px;  height:35px;"
+                                        src="assets/images/_google play store.png"></li>
+                                <li><img style="border:1px solid white; border-radius:17px;  height:35px;"
                                         src="assets/images/_download APK.png"></li>
-                        </ul>
-                        <ul class="social-area d-center gap-2 gap-md-3">
-                            <li><a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-facebook"></i></a></li>
-                            <li><a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-twitch"></i></a></li>
-                            <li><a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-instagram"></i></a></li>
-                            <li><a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-discord-filled"></i></a></li>
-                            <li><a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-youtube"></i></a></li>
-                        </ul>
+                            </ul>
+                            <ul class="social-area d-center gap-2 gap-md-3">
+                                <li><a class="d-center cus-rounded-1 fs-four" href="#"><i
+                                            class="ti ti-brand-facebook"></i></a></li>
+                                <li><a class="d-center cus-rounded-1 fs-four" href="#"><i
+                                            class="ti ti-brand-twitch"></i></a></li>
+                                <li><a class="d-center cus-rounded-1 fs-four" href="#"><i
+                                            class="ti ti-brand-instagram"></i></a></li>
+                                <li><a class="d-center cus-rounded-1 fs-four" href="#"><i
+                                            class="ti ti-brand-discord-filled"></i></a></li>
+                                <li><a class="d-center cus-rounded-1 fs-four" href="#"><i
+                                            class="ti ti-brand-youtube"></i></a></li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </footer>
-    <!-- Footer Section Ends -->
-    <!-- ==== js dependencies start ==== -->
-    <script data-cfasync="false" src="assets/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/js/plugins/plugins.js"></script>
-    <script src="assets/js/plugins/plugin-custom.js"></script>
-    <script src="assets/js/main.js"></script>
+</footer>
+<!-- Footer Section Ends -->
+<!-- ==== js dependencies start ==== -->
+<script data-cfasync="false" src="assets/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+<script src="assets/js/plugins/plugins.js"></script>
+<script src="assets/js/plugins/plugin-custom.js"></script>
+<script src="assets/js/main.js"></script>
 </body>
 
 
 <!-- Mirrored from pixner.net/tradez/main/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 16 Jan 2024 07:19:07 GMT -->
+
 </html>
 <!--Privacy & Policy end -->
-
-

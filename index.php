@@ -1155,7 +1155,7 @@
                 <div class="row ms-xl-3 ms-xxl-10">
                     <div class="col-xxl-12">
                         <div class="">
-                            <h3 class="mb-3 mt-5">Friendly Funding Options</h3>
+                            <h3 class="mb-3 mt-5">Multiple Funding Options</h3>
                             <p>
                                 At TradersEra we've got all your account funding needs sorted. Whether you fancy the
                                 ease of Visa or Mastercard, the trustworthiness of a wire transfer or the modern touch

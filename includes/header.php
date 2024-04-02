@@ -84,7 +84,7 @@
             </div>
         </div>
         <div class="container  d-center ">
-            <nav class="navbar py-2 rounded-3 navbar-expand-lg w-100 justify-content-between ">
+            <nav class="navbar py-2 py-xl-4 rounded-3 navbar-expand-lg w-100 justify-content-between ">
                 <div class="d-flex align-items-center py-3">
                     <button class="navbar-toggler ms-4" type="button" data-bs-toggle="collapse"
                         aria-label="Navbar Toggler" data-bs-target="#navbar-content" aria-expanded="true"
@@ -144,15 +144,7 @@
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item" href="economic-calendar.php">Economic Calender</a></li>
                                 <li><a class="dropdown-item" href="news-research.php">News & Research</a></li>
-                                <div class="collapse navbar-collapse justify-content-center" id="navbar-content">
-                                <li class="dropdown show-dropdown">
-                                    <button type="button" aria-label="Navbar Dropdown Button"
-                                        class="dropdown-toggle dropdown-nav">academy</button>
-                                    <ul class="dropdown-menu">
-                                        <li><a class="dropdown-item" href="crypto.php">Glossary</a></li>
-                                    </ul>
-                                </li>
-                              </div>
+                                <li><a class="dropdown-item" href="news-research.php">academy</a></li>
                             </ul>
                         </li>
 
