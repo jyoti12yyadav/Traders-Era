@@ -342,164 +342,166 @@
     .our-clients {
         margin-top: 10px;
     }
-    .get-started::after{
+
+    .get-started::after {
         position: relative;
-    content: "\2192";
-    display: flex;
-    float: right;
-    bottom: 111px;
-    font-size: 70px;
-    left: 80px;
-    color: #9ad953;
+        content: "\2192";
+        display: flex;
+        float: right;
+        bottom: 111px;
+        font-size: 70px;
+        left: 80px;
+        color: #9ad953;
     }
 </style>
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container" style="margin-top: 150px;">
     <div class="tradingview-widget-container__widget"></div>
-    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
-    {
-    "symbols": [
-      {
-        "proName": "FX_IDC:EURUSD",
-        "title": "EUR to USD"
-      },
-      {
-        "description": "",
-        "proName": "FX:GBPUSD"
-      },
-      {
-        "description": "",
-        "proName": "FX:USDJPY"
-      },
-      {
-        "description": "",
-        "proName": "OANDA:AUDUSD"
-      },
-      {
-        "description": "",
-        "proName": "FX:GBPJPY"
-      },
-      {
-        "description": "",
-        "proName": "OANDA:USDCAD"
-      },
-      {
-        "description": "",
-        "proName": "OANDA:EURJPY"
-      },
-      {
-        "description": "",
-        "proName": "OANDA:NZDUSD"
-      },
-      {
-        "description": "",
-        "proName": "FX:USDCHF"
-      },
-      {
-        "description": "",
-        "proName": "OANDA:GBPCAD"
-      },
-      {
-        "description": "",
-        "proName": "OANDA:AUDNZD"
-      },
-      {
-        "description": "",
-        "proName": "OANDA:GBPCHF"
-      },
-      {
-        "description": "",
-        "proName": "NASDAQ:TSLA"
-      },
-      {
-        "description": "",
-        "proName": "NASDAQ:AAPL"
-      },
-      {
-        "description": "",
-        "proName": "NASDAQ:NVDA"
-      },
-      {
-        "description": "",
-        "proName": "NASDAQ:MSFT"
-      },
-      {
-        "description": "",
-        "proName": "NASDAQ:AMZN"
-      },
-      {
-        "description": "",
-        "proName": "NASDAQ:META"
-      },
-      {
-        "description": "",
-        "proName": "NASDAQ:NFLX"
-      },
-      {
-        "description": "",
-        "proName": "NASDAQ:GOOGL"
-      },
-      {
-        "description": "",
-        "proName": "NASDAQ:PYPL"
-      },
-      {
-        "description": "",
-        "proName": "NASDAQ:INTC"
-      },
-      {
-        "description": "",
-        "proName": "NYSE:NKE"
-      },
-      {
-        "description": "",
-        "proName": "NSE:NIFTY"
-      },
-      {
-        "description": "",
-        "proName": "TVC:DXY"
-      },
-      {
-        "description": "",
-        "proName": "SP:SPX"
-      },
-      {
-        "description": "",
-        "proName": "TVC:VIX"
-      },
-      {
-        "description": "",
-        "proName": "BITSTAMP:BTCUSD"
-      },
-      {
-        "description": "",
-        "proName": "BINANCE:SOLUSDT"
-      },
-      {
-        "description": "",
-        "proName": "BINANCE:XRPUSDT"
-      },
-      {
-        "description": "",
-        "proName": "BINANCE:ETHBTC"
-      }
-    ],
-    "showSymbolLogo": true,
-    "isTransparent": false,
-    "displayMode": "adaptive",
-    "colorTheme": "dark",
-    "locale": "en"
-  }
-    </script>
-  </div>
-  <!-- TradingView Widget END -->
+    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js"
+        async>
+            {
+                "symbols": [
+                    {
+                        "proName": "FX_IDC:EURUSD",
+                        "title": "EUR to USD"
+                    },
+                    {
+                        "description": "",
+                        "proName": "FX:GBPUSD"
+                    },
+                    {
+                        "description": "",
+                        "proName": "FX:USDJPY"
+                    },
+                    {
+                        "description": "",
+                        "proName": "OANDA:AUDUSD"
+                    },
+                    {
+                        "description": "",
+                        "proName": "FX:GBPJPY"
+                    },
+                    {
+                        "description": "",
+                        "proName": "OANDA:USDCAD"
+                    },
+                    {
+                        "description": "",
+                        "proName": "OANDA:EURJPY"
+                    },
+                    {
+                        "description": "",
+                        "proName": "OANDA:NZDUSD"
+                    },
+                    {
+                        "description": "",
+                        "proName": "FX:USDCHF"
+                    },
+                    {
+                        "description": "",
+                        "proName": "OANDA:GBPCAD"
+                    },
+                    {
+                        "description": "",
+                        "proName": "OANDA:AUDNZD"
+                    },
+                    {
+                        "description": "",
+                        "proName": "OANDA:GBPCHF"
+                    },
+                    {
+                        "description": "",
+                        "proName": "NASDAQ:TSLA"
+                    },
+                    {
+                        "description": "",
+                        "proName": "NASDAQ:AAPL"
+                    },
+                    {
+                        "description": "",
+                        "proName": "NASDAQ:NVDA"
+                    },
+                    {
+                        "description": "",
+                        "proName": "NASDAQ:MSFT"
+                    },
+                    {
+                        "description": "",
+                        "proName": "NASDAQ:AMZN"
+                    },
+                    {
+                        "description": "",
+                        "proName": "NASDAQ:META"
+                    },
+                    {
+                        "description": "",
+                        "proName": "NASDAQ:NFLX"
+                    },
+                    {
+                        "description": "",
+                        "proName": "NASDAQ:GOOGL"
+                    },
+                    {
+                        "description": "",
+                        "proName": "NASDAQ:PYPL"
+                    },
+                    {
+                        "description": "",
+                        "proName": "NASDAQ:INTC"
+                    },
+                    {
+                        "description": "",
+                        "proName": "NYSE:NKE"
+                    },
+                    {
+                        "description": "",
+                        "proName": "NSE:NIFTY"
+                    },
+                    {
+                        "description": "",
+                        "proName": "TVC:DXY"
+                    },
+                    {
+                        "description": "",
+                        "proName": "SP:SPX"
+                    },
+                    {
+                        "description": "",
+                        "proName": "TVC:VIX"
+                    },
+                    {
+                        "description": "",
+                        "proName": "BITSTAMP:BTCUSD"
+                    },
+                    {
+                        "description": "",
+                        "proName": "BINANCE:SOLUSDT"
+                    },
+                    {
+                        "description": "",
+                        "proName": "BINANCE:XRPUSDT"
+                    },
+                    {
+                        "description": "",
+                        "proName": "BINANCE:ETHBTC"
+                    }
+                ],
+                    "showSymbolLogo": true,
+                        "isTransparent": false,
+                            "displayMode": "adaptive",
+                                "colorTheme": "dark",
+                                    "locale": "en"
+            }
+        </script>
+</div>
+<!-- TradingView Widget END -->
 <div class="slider">
-    
+
     <div class="slide_viewer">
         <div class="slide_group">
-            
+
             <div class="slide hero-section--secondary hero-section position-relative z-0 ">
-                
+
                 <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
                     <img src="assets/images/hero_vector.png" alt="vector"
                         class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX">
@@ -539,7 +541,7 @@
                                 <img src="assets/images/banner one.png" class="max-auto max-xxl-un" alt="img">
                             </div>
                         </div>
-                       
+
                     </div>
                 </div>
             </div>
@@ -549,10 +551,12 @@
                         class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX">
                 </div>
                 <div class="container">
-                    <div class="row pt-4 pt-lg-10 gy-12 gy-lg-0 justify-content-center justify-content-lg-between align-items-center">
+                    <div
+                        class="row pt-4 pt-lg-10 gy-12 gy-lg-0 justify-content-center justify-content-lg-between align-items-center">
                         <div class="col-sm-10 col-lg-6 col-xxl-5">
                             <div class="hero-section__thumbs pb-xxl-10">
-                                <img src="assets/images/banner two.png" class="max-auto max-xxl-un" alt="img" style="position: relative;left: -240px;">
+                                <img src="assets/images/banner two.png" class="max-auto max-xxl-un" alt="img"
+                                    style="position: relative;left: -240px;">
                             </div>
                         </div>
                         <div class="col-lg-6 col-xxl-7">
@@ -562,28 +566,34 @@
                                         class=" first d-center cus-z1 position-absolute end-0 top-0 d-none d-xxl-flex  me-lg-10 mt-lg-10">
 
                                     </div>
-                                    <span class="heading p1-max-xxl nb4-xxl-color fs-five mb-3" style="transform: scaleX(-1);" >Empower Your
+                                    <span class="heading p1-max-xxl nb4-xxl-color fs-five mb-3"
+                                        style="transform: scaleX(-1);">Empower Your
                                         Trades</span>
-                                    <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6" style="transform: scaleX(-1);" >Binary Trading Is Now Possible
+                                    <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6" style="transform: scaleX(-1);">
+                                        Binary Trading Is Now Possible
                                         with TradersEra
 
                                     </h1>
-                                    <p class="fs-six-up fw_500 nb4-xxl-color" style="transform: scaleX(-1);" >Trade smarter with TradingEra's insights,
+                                    <p class="fs-six-up fw_500 nb4-xxl-color" style="transform: scaleX(-1);">Trade
+                                        smarter with TradingEra's insights,
                                         maximizing your financial potential.</p>
-                                    <div
-                                        class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8 mt-lg-10">
+                                    <div>
+                                        class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8
+                                        mt-lg-10">
                                         <a href="signup.html"
-                                            class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6" style="transform: scaleX(-1);" >Start
+                                            class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6"
+                                            style="transform: scaleX(-1);">Start
                                             Trading <i class="ti ti-trending-up"></i></a>
                                         <a href="signin.html"
-                                            class="cmn-btn link link-xxl-color fs-five  gap-2 gap-lg-3 align-items-center " style="transform: scaleX(-1);" ><i
+                                            class="cmn-btn link link-xxl-color fs-five  gap-2 gap-lg-3 align-items-center "
+                                            style="transform: scaleX(-1);"><i
                                                 class="ti ti-arrow-narrow-right fs-four"></i> Try demo account</a>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                       
-                       
+
+
                     </div>
                 </div>
             </div>
@@ -637,11 +647,11 @@
                                         <h3 class="">AI Trading With ChatGPT</h3>
                                         <span>AI for trades based on algorithms and market conditions.</span>
                                     </div>
-                                   
+
 
                                 </div>
                             </div>
-                         
+
                         </div>
                     </div>
                     <div class="col-xxl-12 mt-8 mt-md-10 mt-xxl-13">
@@ -693,7 +703,7 @@
                                         <h3 class="">Regulated & Established Broker</h3>
                                         <span>Trading services with a regulated and established broker</span>
                                     </div>
-                                    
+
 
                                 </div>
                             </div>
@@ -826,8 +836,19 @@
                         stored in the cloud or on servers.
 
                     </li>
+                    <h5>web platforms:</h5>
+                    <ul class=" d-flex   gap-md-3" >
+                        <li><img style=" height:35px;" src="assets/images/icon/icon IE.png"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/icon opera.png"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/icon safari.png"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/icon fire fox.png"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/icon CROME.png"></li>
+
+                    </ul>
                 </ul>
+
             </div>
+
         </div>
 </section>
 <section class="provide-world pt-120 position-relative z-0 mb-10 pb-120" style="background-color: #000;">
@@ -837,7 +858,8 @@
                 <div class="heading__content mb-10 mb-lg-15 text-center">
                     <h2 class="">Ready to get started
                     </h2>
-                    <span class="heading p1-color fs-six mb-5" style="margin-top:12px;">Start trading in 3 easy steps</span>
+                    <span class="heading p1-color fs-six mb-5" style="margin-top:12px;">Start trading in 3 easy
+                        steps</span>
                 </div>
             </div>
         </div>
@@ -845,7 +867,7 @@
             <div class="col-md-6 col-xxl-3">
                 <div class=" secondary get-started text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center p-4 rounded-circle mx-auto">
-                       <img src="assets/images/icon/verify.png">
+                        <img src="assets/images/icon/verify.png">
                     </span>
                     <h4 class="mt-5 mb-5">Sign up</h4>
                 </div>
@@ -867,7 +889,7 @@
                         <img src="assets/images/icon/deposit.png">
                     </span>
                     <h4 class="mt-5 mb-5 ">
-                        
+
                         Deposit
                     </h4>
                 </div>
@@ -909,8 +931,10 @@
 
                     <div class="col-4 mt-4" style="display: flex; justify-content: space-evenly; ">
                         <img style="border:1px solid white; border-radius:10px;" src="assets/images/_app store.png">
-                        <img style="border:1px solid white; border-radius:10px; margin-left:20px;" src="assets/images/_google play store.png">
-                        <img style="border:1px solid white; border-radius:10px; margin-left:20px;" src="assets/images/_download APK.png">
+                        <img style="border:1px solid white; border-radius:10px; margin-left:20px;"
+                            src="assets/images/_google play store.png">
+                        <img style="border:1px solid white; border-radius:10px; margin-left:20px;"
+                            src="assets/images/_download APK.png">
                     </div>
                 </div>
             </div>
@@ -930,189 +954,191 @@
         <div class="row justify-content-center">
             <div class="col-lg-7 col-xxl-6">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h2 class="">
+                    <h2 class="">Trade
                     </h2>
                 </div>
             </div>
         </div>
-<!-- TradingView Widget BEGIN -->
-<div class="tradingview-widget-container">
-    <div class="tradingview-widget-container__widget"></div>
-    <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/" rel="noopener nofollow" target="_blank"><span class="blue-text">Track all markets on TradingView</span></a></div>
-    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-quotes.js" async>
-    {
-    "width": 1250,
-    "height": 500,
-    "symbolsGroups": [
-      {
-        "name": "Forex",
-        "originalName": "Forex",
-        "symbols": [
-          {
-            "name": "FX:EURUSD",
-            "displayName": "EUR to USD"
-          },
-          {
-            "name": "FX:GBPUSD",
-            "displayName": "GBP to USD"
-          },
-          {
-            "name": "FX:USDJPY",
-            "displayName": "USD to JPY"
-          },
-          {
-            "name": "FX:USDCHF",
-            "displayName": "USD to CHF"
-          },
-          {
-            "name": "FX:AUDUSD",
-            "displayName": "AUD to USD"
-          },
-          {
-            "name": "FX:USDCAD",
-            "displayName": "USD to CAD"
-          },
-          {
-            "name": "FX:USDCHF",
-            "displayName": "USD to CHF"
-          }
-        ]
-      },
-      {
-        "name": "Commodity",
-        "symbols": [
-          {
-            "name": "OANDA:XAUUSD",
-            "displayName": "GOLD"
-          },
-          {
-            "name": "OANDA:XAGUSD",
-            "displayName": "SILVER"
-          },
-          {
-            "name": "TVC:USOIL",
-            "displayName": "USOIL"
-          },
-          {
-            "name": "TVC:UKOIL",
-            "displayName": "UKOIL"
-          },
-          {
-            "name": "FOREXCOM:NATURALGAS",
-            "displayName": "NGAS"
-          },
-          {
-            "name": "ACTIVTRADES:COCOAK2024",
-            "displayName": "COCOA"
-          },
-          {
-            "name": "ACTIVTRADES:COTTONK2024",
-            "displayName": "COTTON"
-          }
-        ]
-      },
-      {
-        "name": "Indices",
-        "symbols": [
-          {
-            "name": "CAPITALCOM:US100",
-            "displayName": "US100"
-          },
-          {
-            "name": "PEPPERSTONE:US500",
-            "displayName": "US500"
-          },
-          {
-            "name": "TVC:UKX",
-            "displayName": "UK 100"
-          },
-          {
-            "name": "PEPPERSTONE:JPN225",
-            "displayName": "JPN225"
-          },
-          {
-            "name": "PEPPERSTONE:HK50",
-            "displayName": "HONGKONG"
-          },
-          {
-            "name": "NSE:NIFTY",
-            "displayName": "INDIA NSE"
-          },
-          {
-            "name": "PEPPERSTONE:US30",
-            "displayName": "US30"
-          },
-          {
-            "name": "TVC:VIX",
-            "displayName": "GLOBAL VIX"
-          }
-        ]
-      },
-      {
-        "name": "Stocks",
-        "symbols": [
-          {
-            "name": "NASDAQ:AAPL",
-            "displayName": "APPLE"
-          },
-          {
-            "name": "NASDAQ:GOOGL",
-            "displayName": "GOOGLE"
-          },
-          {
-            "name": "NASDAQ:TSLA",
-            "displayName": "TESLA"
-          },
-          {
-            "name": "NASDAQ:AMZN",
-            "displayName": "AMAZON"
-          },
-          {
-            "name": "NASDAQ:MSFT",
-            "displayName": "MICROSOFT"
-          },
-          {
-            "name": "NASDAQ:NFLX",
-            "displayName": "NETFLIX"
-          }
-        ]
-      },
-      {
-        "name": "Crypto",
-        "symbols": [
-          {
-            "name": "BINANCE:BTCUSDT"
-          },
-          {
-            "name": "BITSTAMP:BTCUSD"
-          },
-          {
-            "name": "BINANCE:DOGEUSDT"
-          },
-          {
-            "name": "BITSTAMP:ETHUSD"
-          },
-          {
-            "name": "COINBASE:SOLUSD"
-          },
-          {
-            "name": "BINANCE:XRPUSDT"
-          },
-          {
-            "name": "BINANCE:NEARUSDT"
-          }
-        ]
-      }
-    ],
-    "showSymbolLogo": true,
-    "isTransparent": false,
-    "colorTheme": "dark",
-    "locale": "en",
-    "backgroundColor": "#131722"
-  }
-    </script>
-  </div>
-  <!-- TradingView Widget END -->
+        <!-- TradingView Widget BEGIN -->
+        <div class="tradingview-widget-container">
+            <div class="tradingview-widget-container__widget"></div>
+            <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/" rel="noopener nofollow"
+                    target="_blank"><span class="blue-text">Track all markets on TradingView</span></a></div>
+            <script type="text/javascript"
+                src="https://s3.tradingview.com/external-embedding/embed-widget-market-quotes.js" async>
+                    {
+                        "width": 1250,
+                            "height": 500,
+                                "symbolsGroups": [
+                                    {
+                                        "name": "Forex",
+                                        "originalName": "Forex",
+                                        "symbols": [
+                                            {
+                                                "name": "FX:EURUSD",
+                                                "displayName": "EUR to USD"
+                                            },
+                                            {
+                                                "name": "FX:GBPUSD",
+                                                "displayName": "GBP to USD"
+                                            },
+                                            {
+                                                "name": "FX:USDJPY",
+                                                "displayName": "USD to JPY"
+                                            },
+                                            {
+                                                "name": "FX:USDCHF",
+                                                "displayName": "USD to CHF"
+                                            },
+                                            {
+                                                "name": "FX:AUDUSD",
+                                                "displayName": "AUD to USD"
+                                            },
+                                            {
+                                                "name": "FX:USDCAD",
+                                                "displayName": "USD to CAD"
+                                            },
+                                            {
+                                                "name": "FX:USDCHF",
+                                                "displayName": "USD to CHF"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Commodity",
+                                        "symbols": [
+                                            {
+                                                "name": "OANDA:XAUUSD",
+                                                "displayName": "GOLD"
+                                            },
+                                            {
+                                                "name": "OANDA:XAGUSD",
+                                                "displayName": "SILVER"
+                                            },
+                                            {
+                                                "name": "TVC:USOIL",
+                                                "displayName": "USOIL"
+                                            },
+                                            {
+                                                "name": "TVC:UKOIL",
+                                                "displayName": "UKOIL"
+                                            },
+                                            {
+                                                "name": "FOREXCOM:NATURALGAS",
+                                                "displayName": "NGAS"
+                                            },
+                                            {
+                                                "name": "ACTIVTRADES:COCOAK2024",
+                                                "displayName": "COCOA"
+                                            },
+                                            {
+                                                "name": "ACTIVTRADES:COTTONK2024",
+                                                "displayName": "COTTON"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Indices",
+                                        "symbols": [
+                                            {
+                                                "name": "CAPITALCOM:US100",
+                                                "displayName": "US100"
+                                            },
+                                            {
+                                                "name": "PEPPERSTONE:US500",
+                                                "displayName": "US500"
+                                            },
+                                            {
+                                                "name": "TVC:UKX",
+                                                "displayName": "UK 100"
+                                            },
+                                            {
+                                                "name": "PEPPERSTONE:JPN225",
+                                                "displayName": "JPN225"
+                                            },
+                                            {
+                                                "name": "PEPPERSTONE:HK50",
+                                                "displayName": "HONGKONG"
+                                            },
+                                            {
+                                                "name": "NSE:NIFTY",
+                                                "displayName": "INDIA NSE"
+                                            },
+                                            {
+                                                "name": "PEPPERSTONE:US30",
+                                                "displayName": "US30"
+                                            },
+                                            {
+                                                "name": "TVC:VIX",
+                                                "displayName": "GLOBAL VIX"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Stocks",
+                                        "symbols": [
+                                            {
+                                                "name": "NASDAQ:AAPL",
+                                                "displayName": "APPLE"
+                                            },
+                                            {
+                                                "name": "NASDAQ:GOOGL",
+                                                "displayName": "GOOGLE"
+                                            },
+                                            {
+                                                "name": "NASDAQ:TSLA",
+                                                "displayName": "TESLA"
+                                            },
+                                            {
+                                                "name": "NASDAQ:AMZN",
+                                                "displayName": "AMAZON"
+                                            },
+                                            {
+                                                "name": "NASDAQ:MSFT",
+                                                "displayName": "MICROSOFT"
+                                            },
+                                            {
+                                                "name": "NASDAQ:NFLX",
+                                                "displayName": "NETFLIX"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Crypto",
+                                        "symbols": [
+                                            {
+                                                "name": "BINANCE:BTCUSDT"
+                                            },
+                                            {
+                                                "name": "BITSTAMP:BTCUSD"
+                                            },
+                                            {
+                                                "name": "BINANCE:DOGEUSDT"
+                                            },
+                                            {
+                                                "name": "BITSTAMP:ETHUSD"
+                                            },
+                                            {
+                                                "name": "COINBASE:SOLUSD"
+                                            },
+                                            {
+                                                "name": "BINANCE:XRPUSDT"
+                                            },
+                                            {
+                                                "name": "BINANCE:NEARUSDT"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                    "showSymbolLogo": true,
+                                        "isTransparent": false,
+                                            "colorTheme": "dark",
+                                                "locale": "en",
+                                                    "backgroundColor": "#131722"
+                    }
+                </script>
+        </div>
+        <!-- TradingView Widget END -->
     </div>
 </section>
 <!--People Trust start-->
@@ -1171,96 +1197,96 @@
 
 <script>
 
-$('.slider').each(function () {
-    var $this = $(this);
-    var $group = $this.find('.slide_group');
-    var $slides = $this.find('.slide');
-    var bulletArray = [];
-    var currentIndex = 0;
-    var timeout;
-    var animationDuration = 1200; // Adjust this value to control the animation speed
+    $('.slider').each(function () {
+        var $this = $(this);
+        var $group = $this.find('.slide_group');
+        var $slides = $this.find('.slide');
+        var bulletArray = [];
+        var currentIndex = 0;
+        var timeout;
+        var animationDuration = 1200; // Adjust this value to control the animation speed
 
-    function move(newIndex) {
-        var animateLeft, slideLeft;
+        function move(newIndex) {
+            var animateLeft, slideLeft;
 
-        advance();
+            advance();
 
-        if ($group.is(':animated') || currentIndex === newIndex) {
-            return;
-        }
+            if ($group.is(':animated') || currentIndex === newIndex) {
+                return;
+            }
 
-        bulletArray[currentIndex].removeClass('active');
-        bulletArray[newIndex].addClass('active');
+            bulletArray[currentIndex].removeClass('active');
+            bulletArray[newIndex].addClass('active');
 
-        if (newIndex > currentIndex) {
-            slideLeft = '100%';
-            animateLeft = '-100%';
-        } else {
-            slideLeft = '-100%';
-            animateLeft = '100%';
-        }
+            if (newIndex > currentIndex) {
+                slideLeft = '100%';
+                animateLeft = '-100%';
+            } else {
+                slideLeft = '-100%';
+                animateLeft = '100%';
+            }
 
-        $slides.eq(newIndex).css({
-            display: 'block',
-            left: slideLeft
-        });
-        $group.animate({
-            left: animateLeft
-        }, animationDuration, function () {
-            $slides.eq(currentIndex).css({
-                display: 'none'
-            });
             $slides.eq(newIndex).css({
-                left: 0
+                display: 'block',
+                left: slideLeft
             });
-            $group.css({
-                left: 0
+            $group.animate({
+                left: animateLeft
+            }, animationDuration, function () {
+                $slides.eq(currentIndex).css({
+                    display: 'none'
+                });
+                $slides.eq(newIndex).css({
+                    left: 0
+                });
+                $group.css({
+                    left: 0
+                });
+                currentIndex = newIndex;
             });
-            currentIndex = newIndex;
-        });
-    }
+        }
 
-    function advance() {
-        clearTimeout(timeout);
-        timeout = setTimeout(function () {
+        function advance() {
+            clearTimeout(timeout);
+            timeout = setTimeout(function () {
+                if (currentIndex < ($slides.length - 1)) {
+                    move(currentIndex + 1);
+                } else {
+                    move(0);
+                }
+            }, 4000); // Timeout between slides
+        }
+
+        $('.next_btn').on('click', function () {
             if (currentIndex < ($slides.length - 1)) {
                 move(currentIndex + 1);
             } else {
                 move(0);
             }
-        }, 4000); // Timeout between slides
-    }
+        });
 
-    $('.next_btn').on('click', function () {
-        if (currentIndex < ($slides.length - 1)) {
-            move(currentIndex + 1);
-        } else {
-            move(0);
-        }
+        $('.previous_btn').on('click', function () {
+            if (currentIndex !== 0) {
+                move(currentIndex - 1);
+            } else {
+                move($slides.length - 1);
+            }
+        });
+
+        $.each($slides, function (index) {
+            var $button = $('<a class="slide_btn">&bull;</a>');
+
+            if (index === currentIndex) {
+                $button.addClass('active');
+            }
+            $button.on('click', function () {
+                move(index);
+            }).appendTo('.slide_buttons');
+            bulletArray.push($button);
+        });
+
+        advance();
     });
-
-    $('.previous_btn').on('click', function () {
-        if (currentIndex !== 0) {
-            move(currentIndex - 1);
-        } else {
-            move($slides.length - 1);
-        }
-    });
-
-    $.each($slides, function (index) {
-        var $button = $('<a class="slide_btn">&bull;</a>');
-
-        if (index === currentIndex) {
-            $button.addClass('active');
-        }
-        $button.on('click', function () {
-            move(index);
-        }).appendTo('.slide_buttons');
-        bulletArray.push($button);
-    });
-
-    advance();
-});
 
 
 
