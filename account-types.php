@@ -16,6 +16,272 @@
     </div>
 </section>
 
+
+
+<section class="provide-world pt-120 pb-120  position-relative z-0" style="padding-bottom: 50px;">
+    <div class="container">
+        <div class="row gy-6 gy-xxl-0">
+            <h3 class=" mb-lg-5 d-flex justify-content-center">Online trading account types</h3>
+            <center>
+                <h5 class="mb-7">Tailored trading account for Forex, indices, stocks, commodities
+
+                </h5>
+            </center>
+            <div class="col-md-6 col-xxl-4">
+                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/distribution.png" alt="stock-market">
+                    </span>
+                    <h4 class="mt-5 mb-5">Spreads from 0.4 pips
+                    </h4>
+                    <p>Our consolidated liquidity helps maintain low spreads, typically throughout trading periods.
+                    </p>
+                    <br>
+                </div>
+            </div>
+            <div class="col-md-6 col-xxl-4">
+                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/check.png" alt="stock-market">
+                    </span>
+                    <h4 class="mt-5 mb-5">Zero commission
+                    </h4>
+                    <p>Start trading from as low as $0 per lot on our VIP or spread-only trading accounts.
+                    </p>
+                    <br>
+
+                </div>
+            </div>
+            <div class="col-md-6 col-xxl-4">
+                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/withdrawal.png" alt="stock-market">
+                    </span>
+                    <h4 class="mt-5 mb-5">Low starting amount
+                    </h4>
+                    <p>Begin trading by opening your account with just $10.
+                    </p>
+
+                    <br>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+
+</section>
+
+
+
+<section class="provide-world position-relative z-0">
+    <div class="container">
+        <div class="row gy-6 gy-xxl-0">
+
+
+            <div class="col-md-6 col-xxl-4">
+                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/withdrawal.png" alt="stock-market">
+                    </span>
+                    <h4 class="mt-5 mb-5">High Leverage
+
+                    </h4>
+                    <p>Utilize leverage of up to 1:1000 for trading
+
+                    </p>
+                    <br>
+                    <br>
+                </div>
+            </div>
+            <div class="col-md-6 col-xxl-4">
+                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/withdrawal.png" alt="stock-market">
+                    </span>
+                    <h4 class="mt-5 mb-5">Fast order execution
+
+                    </h4>
+                    <p>Trades are typically executed within milliseconds, with minimal slippage
+
+                    </p>
+                    <br>
+
+                </div>
+            </div>
+            <div class="col-md-6 col-xxl-4">
+                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/withdrawal.png" alt="stock-market">
+                    </span>
+                    <h4 class="mt-5 mb-5">
+                        Micro lot trading
+
+                    </h4>
+                    <p>Begin trading from just $0.10 per pip, perfect for smaller accounts and improved risk management.
+
+                    </p>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+
+</section>
+
+
+<div class="sc-c5573156-1 buXQLt">
+    <div class="sc-c5573156-6 fPIqef">
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLlUep">Features</div>
+            <div class="sc-c5573156-8 eLlUep">Spread</div>
+            <div class="sc-c5573156-8 eLlUep">Standard</div>
+            <div class="sc-c5573156-8 eLlUep">VIP</div>
+            <div class="sc-c5573156-8 eLlUep">VIP Black</div>
+        </div>
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLexdW">Base currency options</div>
+            <div class="sc-c5573156-8 eLexdW">USD, GBP, EUR, CAD, AUD, CZK, ZAR</div>
+            <div class="sc-c5573156-8 eLexdW">USD, GBP, EUR, CAD, AUD, CZK, ZAR</div>
+            <div class="sc-c5573156-8 eLexdW">USD, GBP, EUR, CAD, AUD, CZK, ZAR</div>
+            <div class="sc-c5573156-8 eLexdW">USD, GBP, EUR, CAD, AUD, CZK, ZAR</div>
+        </div>
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLexdW">Spreads from</div>
+            <div class="sc-c5573156-8 eLexdW">1.2</div>
+            <div class="sc-c5573156-8 eLexdW">0.6</div>
+            <div class="sc-c5573156-8 eLexdW">0.4</div>
+            <div class="sc-c5573156-8 eLexdW">0.4</div>
+        </div>
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLexdW">Commission (per round turn lot)</div>
+            <div class="sc-c5573156-8 eLexdW">$0</div>
+            <div class="sc-c5573156-8 eLexdW">$5</div>
+            <div class="sc-c5573156-8 eLexdW">$2</div>
+            <div class="sc-c5573156-8 eLexdW">$0</div>
+        </div>
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLexdW">Minimum trade volume</div>
+            <div class="sc-c5573156-8 eLexdW">0.01 lots</div>
+            <div class="sc-c5573156-8 eLexdW">0.01 lots</div>
+            <div class="sc-c5573156-8 eLexdW">0.01 lots</div>
+            <div class="sc-c5573156-8 eLexdW">0.01 lots</div>
+        </div>
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLexdW">Leverage</div>
+            <div class="sc-c5573156-8 eLexdW">Up to 1:1000</div>
+            <div class="sc-c5573156-8 eLexdW">Up to 1:500 on request</div>
+            <div class="sc-c5573156-8 eLexdW">Up to 1:500 on request</div>
+            <div class="sc-c5573156-8 eLexdW">Up to 1:500 on request</div>
+        </div>
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLexdW">Maximum open / pending orders per client</div>
+            <div class="sc-c5573156-8 eLexdW">200</div>
+            <div class="sc-c5573156-8 eLexdW">200</div>
+            <div class="sc-c5573156-8 eLexdW">200</div>
+            <div class="sc-c5573156-8 eLexdW">200</div>
+        </div>
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLexdW">Maximum lots per trade</div>
+            <div class="sc-c5573156-8 eLexdW">20</div>
+            <div class="sc-c5573156-8 eLexdW">20</div>
+            <div class="sc-c5573156-8 eLexdW">20</div>
+            <div class="sc-c5573156-8 eLexdW">20</div>
+        </div>
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLexdW">Margin call</div>
+            <div class="sc-c5573156-8 eLexdW">100%</div>
+            <div class="sc-c5573156-8 eLexdW">100%</div>
+            <div class="sc-c5573156-8 eLexdW">100%</div>
+            <div class="sc-c5573156-8 eLexdW">100%</div>
+        </div>
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLexdW">Margin stop out</div>
+            <div class="sc-c5573156-8 eLexdW">30%</div>
+            <div class="sc-c5573156-8 eLexdW">30%</div>
+            <div class="sc-c5573156-8 eLexdW">30%</div>
+            <div class="sc-c5573156-8 eLexdW">30%</div>
+        </div>
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLexdW">Trading platform</div>
+            <div class="sc-c5573156-8 eLexdW">MT4 or MT5</div>
+            <div class="sc-c5573156-8 eLexdW">MT4 or MT5</div>
+            <div class="sc-c5573156-8 eLexdW">MT4 or MT5</div>
+            <div class="sc-c5573156-8 eLexdW">MT4 or MT5</div>
+        </div>
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLexdW">Hedging</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+        </div>
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLexdW">Fast order execution speeds</div>
+            <div class="sc-c5573156-8 eLexdW">Milliseconds</div>
+            <div class="sc-c5573156-8 eLexdW">Milliseconds</div>
+            <div class="sc-c5573156-8 eLexdW">Milliseconds</div>
+            <div class="sc-c5573156-8 eLexdW">Milliseconds</div>
+        </div>
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLexdW">Trading signals</div>
+            <div class="sc-c5573156-8 eLexdW">3 daily signals (Unlimited with $500+ deposit)</div>
+            <div class="sc-c5573156-8 eLexdW">3 daily signals (Unlimited with $500+ deposit)</div>
+            <div class="sc-c5573156-8 eLexdW">Unlimited signals</div>
+            <div class="sc-c5573156-8 eLexdW">Unlimited signals</div>
+        </div>
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLexdW">Technical analysis from Trading Central</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+        </div>
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLexdW">Free deposits available</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+        </div>
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLexdW">Free withdrawals available</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+        </div>
+        <div class="sc-c5573156-7 hBgQVD">
+            <div class="sc-c5573156-8 eLexdW">24/7 Customer support</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+            <div class="sc-c5573156-8 eLexdW">Yes</div>
+        </div>
+        <div class="sc-c5573156-3 qmgBZ">
+            <div class="sc-c5573156-5 czRRSg"></div>
+            <div class="sc-c5573156-4 fWVNsp">
+                <div class="sc-f24afe3b-6 iDwNTB"><a href="/spread-account">Learn more</a></div>
+            </div>
+            <div class="sc-c5573156-4 fWVNsp">
+                <div class="sc-f24afe3b-6 iDwNTB"><a href="/standard">Learn more</a></div>
+            </div>
+            <div class="sc-c5573156-4 fWVNsp">
+                <div class="sc-f24afe3b-6 iDwNTB"><a href="/vip">Learn more</a></div>
+            </div>
+            <div class="sc-c5573156-4 fWVNsp">
+                <div class="sc-f24afe3b-6 iDwNTB"><a href="/vip-black">Learn more</a></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
 <div class="container">
     <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
         <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
@@ -103,7 +369,7 @@
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                       <img src="assets/images/icon/trading_exp.png">
+                        <img src="assets/images/icon/trading_exp.png">
                     </span>
                     <h4 class="mt-5 mb-5">Straightforward Trading Experience</h4>
                     <p> Ideal for traders who maintain long-term positions or trade infrequently, the Combined Plus
