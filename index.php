@@ -10,6 +10,7 @@
         height: 760px;
         overflow: hidden;
         position: relative;
+        margin-top: -45px;
     }
 
     .slide_group {
@@ -354,149 +355,8 @@
         color: #9ad953;
     }
 </style>
-<!-- TradingView Widget BEGIN -->
-<div class="tradingview-widget-container">
-    <div class="tradingview-widget-container__widget"></div>
-    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js"
-        async>
-            {
-                "symbols": [
-                    {
-                        "proName": "FX_IDC:EURUSD",
-                        "title": "EUR to USD"
-                    },
-                    {
-                        "description": "",
-                        "proName": "FX:GBPUSD"
-                    },
-                    {
-                        "description": "",
-                        "proName": "FX:USDJPY"
-                    },
-                    {
-                        "description": "",
-                        "proName": "OANDA:AUDUSD"
-                    },
-                    {
-                        "description": "",
-                        "proName": "FX:GBPJPY"
-                    },
-                    {
-                        "description": "",
-                        "proName": "OANDA:USDCAD"
-                    },
-                    {
-                        "description": "",
-                        "proName": "OANDA:EURJPY"
-                    },
-                    {
-                        "description": "",
-                        "proName": "OANDA:NZDUSD"
-                    },
-                    {
-                        "description": "",
-                        "proName": "FX:USDCHF"
-                    },
-                    {
-                        "description": "",
-                        "proName": "OANDA:GBPCAD"
-                    },
-                    {
-                        "description": "",
-                        "proName": "OANDA:AUDNZD"
-                    },
-                    {
-                        "description": "",
-                        "proName": "OANDA:GBPCHF"
-                    },
-                    {
-                        "description": "",
-                        "proName": "NASDAQ:TSLA"
-                    },
-                    {
-                        "description": "",
-                        "proName": "NASDAQ:AAPL"
-                    },
-                    {
-                        "description": "",
-                        "proName": "NASDAQ:NVDA"
-                    },
-                    {
-                        "description": "",
-                        "proName": "NASDAQ:MSFT"
-                    },
-                    {
-                        "description": "",
-                        "proName": "NASDAQ:AMZN"
-                    },
-                    {
-                        "description": "",
-                        "proName": "NASDAQ:META"
-                    },
-                    {
-                        "description": "",
-                        "proName": "NASDAQ:NFLX"
-                    },
-                    {
-                        "description": "",
-                        "proName": "NASDAQ:GOOGL"
-                    },
-                    {
-                        "description": "",
-                        "proName": "NASDAQ:PYPL"
-                    },
-                    {
-                        "description": "",
-                        "proName": "NASDAQ:INTC"
-                    },
-                    {
-                        "description": "",
-                        "proName": "NYSE:NKE"
-                    },
-                    {
-                        "description": "",
-                        "proName": "NSE:NIFTY"
-                    },
-                    {
-                        "description": "",
-                        "proName": "TVC:DXY"
-                    },
-                    {
-                        "description": "",
-                        "proName": "SP:SPX"
-                    },
-                    {
-                        "description": "",
-                        "proName": "TVC:VIX"
-                    },
-                    {
-                        "description": "",
-                        "proName": "BITSTAMP:BTCUSD"
-                    },
-                    {
-                        "description": "",
-                        "proName": "BINANCE:SOLUSDT"
-                    },
-                    {
-                        "description": "",
-                        "proName": "BINANCE:XRPUSDT"
-                    },
-                    {
-                        "description": "",
-                        "proName": "BINANCE:ETHBTC"
-                    }
-                ],
-                    "showSymbolLogo": true,
-                        "isTransparent": false,
-                            "displayMode": "adaptive",
-                                "colorTheme": "dark",
-                                    "locale": "en"
-            }
-        </script>
-</div>
-<!-- TradingView Widget END -->
-<div class="slider">
-
+<iframe src="https://fxpricing.com/fx-widget/ticker-tape-widget.php?id=1,2,3,5,14,20&border=show&speed=50&click_target=blank&theme=dark&tm-cr=212529&hr-cr=FFFFFF13&by-cr=28A745&sl-cr=DC3545&flags=circle&d_mode=regular&column=&lang=en&font=Arial, sans-serif" width="100%" height="85" style="border: unset;margin-top:150px"></iframe>
+    <style type="text/css">#fx-pricing-widget-copyright{text-align: center; font-size: 13px; font-family: sans-serif; margin-top: 10px; margin-bottom: 10px; color: #9db2bd;} #fx-pricing-widget-copyright a{text-decoration: unset; color: #bb3534; font-weight: 600;}</style>
     <div class="slide_viewer">
         <div class="slide_group">
 
@@ -652,7 +512,7 @@
             <div class="col-lg-8 col-xxl-7">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
                     <!-- <span class="heading p1-color fs-five mb-5">Global Trust, Unbeatable Rates</span> -->
-                    <h2 class="mb-5 mb-lg-6">What Makes TradersEra Different
+                    <h2 class="mb-5 mb-lg-6">Benefits with TradersEra
                     </h2>
                 </div>
             </div>
@@ -670,7 +530,7 @@
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
                                         <h3 class="">Forex, Crypto & Binary Trading</h3>
-                                        <span>Multiple options of trading like Forex, Crypto & Binary Trading.</span>
+                                        <span>Multiple Assets and Trading type under one Roof.</span>
                                     </div>
 
                                 </div>
@@ -685,8 +545,8 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">AI Trading With ChatGPT</h3>
-                                        <span>AI for trades based on algorithms and market conditions.</span>
+                                        <h3 class="">GPT and AI for Trading</h3>
+                                        <span>Use AI for Investment Management and Trading</span>
                                     </div>
 
 
@@ -703,8 +563,8 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">Web Platform</h3>
-                                        <span>Our web-based platform supports all operating systems.</span>
+                                        <h3 class="">Web Platform for All</h3>
+                                        <span>No download, No setup, No fuss Trade on the go.</span>
                                     </div>
 
                                 </div>
