@@ -1450,16 +1450,6 @@
                         </div> 
 
 
-                        
-
-
-
-
-
-
-
-
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Money Market Operations</h5>
                             <p class="mt-3">Comprises the acceptance and re-lending of deposits on the money market.</p>
