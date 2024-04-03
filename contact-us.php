@@ -93,7 +93,7 @@
             <br>
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/withdrawal.png" alt="stock-market">
+                        <img src="assets/images/icon/question.png" alt="stock-market">
                     </span>
                     <h4 class="mt-5 mb-5">General Inquiries
                     </h4>
@@ -107,7 +107,7 @@
             <br>
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/withdrawal.png" alt="stock-market">
+                        <img src="assets/images/icon/complaint.png" alt="stock-market">
                     </span>
                     <h4 class="mt-5 mb-5">Complaints
                     </h4>
