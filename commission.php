@@ -67,7 +67,7 @@ We customized the commission structure for you tailored to suit your requirement
                 <div class="col-md-6 col-xxl-4">
                     <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                            <i class="ti ti-file fs-three p1-color"></i>
+                        <img src="assets/images/icon/cost-per-click.png" alt="cost">
                         </span>
                        <h4 class="mt-5 mb-5">Cost Per Acquisition</h4>
                        <p>With our CPA program, you'll receive a fixed payment for every client you refer to TradersEra. This ensures a consistent rate for every new trader you bring onboard.
@@ -78,7 +78,7 @@ We customized the commission structure for you tailored to suit your requirement
                 <div class="col-md-6 col-xxl-4">
                     <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                            <i class="ti ti-world fs-three p1-color"></i>
+                        <img src="assets/images/icon/revenue.png" alt="revenue">
                         </span>
                        <h4 class="mt-5 mb-5">Revenue Share</h4>
                        <p>Build long-term partnerships with our RevShare program, where you'll earn a percentage of your client's trading volume. As long as they keep trading, you'll continue to see profits rolling in.
@@ -89,7 +89,7 @@ We customized the commission structure for you tailored to suit your requirement
                 <div class="col-md-6 col-xxl-4">
                     <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                            <i class="ti ti-shield-lock-filled fs-three p1-color"></i>
+                        <img src="assets/images/icon/professional.png" alt="professional">
                         </span>
                        <h4 class="mt-5 mb-5">Master Affiliate</h4>
                        <p>  Whether you prefer referring clients or affiliates, our Master Affiliate program has you covered. Earn commissions on your clients' traffic and trading activities, as well as a percentage of your sub-affiliates' performance.</p>
