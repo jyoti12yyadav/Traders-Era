@@ -1514,16 +1514,10 @@
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Money Market</h5>
-<<<<<<< HEAD
-                            <p class="mt-3">A market consisting of financial institutions and dealers in money or credit
-                                who wish to either borrow or lend.</p>
-                        </div>
-=======
                             <p class="mt-3">A market consisting of financial institutions and dealers in money or credit who wish to either borrow or lend.</p>
                         </div> 
 
 
->>>>>>> fdb2a5ab6df79ea2a22cf6578aeb7d71a5448e24
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Money Market Operations</h5>
                             <p class="mt-3">Comprises the acceptance and re-lending of deposits on the money market.</p>
@@ -2322,4 +2316,300 @@
             </div>
         </div>
 </section>
+
+
+
+<section class="privacy-policy pb-120 ">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-10 col-xxl-10">
+                <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
+
+                    <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
+                        <div class="privacy-policy__part">
+
+
+                        </div>
+
+                        <div class="privacy-policy__part">
+                            <h2 class="A">T</h2>
+                            <br>
+                            <h5 class="mb-4">Talking Up</h5>
+                            <p>Statements made normally by the central bank or government minister designed to bolster market sentiment with respect to the currency.</p>
+                            
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h4 class="mb-4">Technical Analysis
+                            </h4>
+                            <p>Is concerned with past price and volume trends and often with the help of chart analysis in a market in order to be able to make forecasts about future price developments of the commodity being traded.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Technical Correction</h5>
+                            <p class="mt-4">An adjustment to price not based on market sentiment but technical factors such as volume and charting.
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Temporal Accounting</h5>
+                            <p class="mt-3">Method of determining accounting exposure which translates all balance sheet items at the current rate of exchange, not the one at the time the cost was incurred.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Tender</h5>
+                            <p class="mt-3">(1) a formal offer to supply or purchase goods or services.</p>
+                            <p class="mt-3">(2) In the UK the term for the weekly Treasury Bill issue.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Tenor</h5>
+                            <p>Maturity or number of days to maturity normally on bills of exchange.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Terms of Trade</h5>
+                            <p class="mt-3">The ratio between export and import price indices.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Theory of Elasticities</h5>
+                            <p class="mt-3">A model of exchange rate determination stating that the exchange rate is simply the price of the foreign exchange which maintains the BOP in equilibrium. The degree to which the exchange rate responds to a change in price.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Threshold of Divergence</h5>
+                            <p class="mt-3">A safety feature for the EMS which creates an emergency exit for currencies which become the singular focus of various adverse forces. The threshold of divergence indicates when the specific country with the pressured currency should take additional steps other then simple central bank intervention in the foreign exchange markets.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Theta</h5>
+                            <p class="mt-3">A measure of the sensitivity of the price of an option to a change in its time to expiry.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Thin Market</h5>
+                            <p class="mt-3">A market in which trading volume is low and in which consequently bid and ask quotes are wide and the liquidity of the instrument traded is low.
+                            </p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">
+                            Thursday/Friday Dollars</h5>
+                            <p class="mt-3">A U.S. foreign exchange technicality. If the bank leaves the funds overnight and transfers them on Friday by means of a clearing house cheque then clearance is not until Monday, the next working day. Higher interest rates for this period are thus available.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Tick</h5>
+                            <p class="mt-3">A minimum change in price, up or down.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Ticket</h5>
+                            <p>See Deal Slip.</p>
+                        </div>
+
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Tier One</h5>
+                            <p class="mt-3">A measure of a banks financial strength used by the BIS being the shareholders’ equity available to cover actual or potential irredeemable and non-cumulative preference shares. It excludes, hybrid forms of capital such as fixed term stock, goodwill, and revaluation reserves. BIS has a minimum requirement of 4 percent on risk-weighted assets.
+                            </p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Tight Money</h5>
+                            <p class="mt-3">A condition where there is a shortage of credit as a result of monetary policy restricting the supply of credit normally through raising interest rates.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">TIFFE</h5>
+                            <p class="mt-3">Tokyo International Financial Futures Exchange.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Time Decay</h5>
+                            <p class="mt-3">The decline in the time value of an option as the expiry approaches.
+
+</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Time Decay</h5>
+                            <p class="mt-3">Interest bearing deposits at a savings institution that has a specific maturity.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Time Value</h5>
+                            <p class="mt-3">That part of an option premium which reflects the length of time remaining in the option prior to expiration. The longer the time remaining until expiration, the higher the time value.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Today/Tomorrow</h5>
+                            <p class="mt-3">Simultaneous buying of a currency for delivery the following day and selling for the spot day, or vice versa. Also referred to as overnight.
+                            </p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Tombstone</h5>
+                            <p class="mt-3">Colloquial term for announcement in a publication that a loan or bond has been arranged.
+</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Tomorrow Next (Tom Next)</h5>
+                            <p class="mt-3">Simultaneous buying of a currency for delivery the following day and selling for the spot day or vice versa.
+                            </p>
+                       
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Trade Date</h5>
+                            <p class="mt-3">The date on which a trade occurs.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Trade Deficit/Surplus</h5>
+                            <p class="mt-3">The difference between the value of imports and exports. Often only reported in visible trade terms.</p>
+                           
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Spot Next</h5>
+                            <p class="mt-3">The overnight swap from the spot date to the next business day.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Spot Month</h5>
+                            <p class="mt-3">The contract month closest to delivery or settlement.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Spot Price/Rate</h5>
+                            <p class="mt-3">The price at which the currency is currently trading in the spot market.
+                            </p>
+                        </div>
+
+
+
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Spot Week</h5>
+                            <p class="mt-3">A standard period of one week swap measured from the current value date of
+                                the currency spot rate.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Spread</h5>
+                            <p class="mt-3">(1)The difference between the bid and ask price of a currency.</p>
+                            <p class="mt-3">(2) The difference between the price of two related futures contracts.</p>
+                            <p class="mt-3">(3) For options, transactions involving two or more option series on the
+                                same underlying currency.</p>
+                        </div>
+
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Square</h5>
+                            <p class="mt-3">Purchase and sales are in balance and thus the dealer has no open position.
+                            </p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Squawk Box</h5>
+                            <p class="mt-3">A speaker connected to a phone often used in broker trading desks.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Squeeze</h5>
+                            <p class="mt-3">Action by a central bank to reduce supply in order to increase the price of
+                                money.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Stable Market</h5>
+                            <p class="mt-3">An active market which can absorb large sale or purchases of currency
+                                without major moves.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Standard</h5>
+                            <p class="mt-3">A term referring to certain normal amounts and maturities for dealing.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Stand by Credit</h5>
+                            <p class="mt-3">An arrangement with the IMF for draw downs on a “need” basis. The term is
+                                sometimes more generally used.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Sterilisation</h5>
+                            <p class="mt-3">Central Bank activity in the domestic money market to reduce the impact on
+                                money supply of its intervention activities in the FX market.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Sterling Index</h5>
+                            <p class="mt-3">A index based on the movement of sterling against the major currency.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Sterling</h5>
+                            <p class="mt-3">British pound, otherwise known as cable.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Stocky</h5>
+                            <p class="mt-3">Market slang for Swedish Krona.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Stop Loss Order</h5>
+                            <p class="mt-3">Order given to ensure that, should a currency weaken by a certain
+                                percentage, a short position will be covered even though his involves taking a loss.
+                                Realise profit orders are less common.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">
+                                Stop Out Price</h5>
+                            <p class="mt-3">U.S. term for the lowest accepted price for Treasury Bills at auction.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">
+                                Straddle</h5>
+                            <p class="mt-3">The simultaneous purchase/sale of both call and put options for the same
+                                share, exercise/strike price and expiry date.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Stagflation</h5>
+                            <p class="mt-3">Recession or low growth in conjunction with high inflation rates.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Strap</h5>
+                            <p class="mt-3">A combination of two calls and one put.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Strike Price</h5>
+                            <p class="mt-3">Also called exercise price. The price at which an options holder can buy or
+                                sell the underlying instrument.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Strip</h5>
+                            <p class="mt-3">A combination of two puts and one call.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Supply Side Economics</h5>
+                            <p class="mt-3">The concept is that tax cuts will boost investment leading to an increase in
+                                the supply of goods in the economy. To be compared with demand led Keynesian economics.
+                            </p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Support Levels</h5>
+                            <p class="mt-3">When an exchange rate depreciates or appreciates to a level where (1)
+                                Technical analysis techniques suggest that the currency will rebound, or not go below;
+                                (2) the monetary authorities intervene to stop any further downward movement. See
+                                Resistance Point.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Swap</h5>
+                            <p class="mt-3">The simultaneous purchase and sale of the same amount of a given currency
+                                for two different dates, against the sale and purchase of another. A swap can be a swap
+                                against a forward. In essence, swapping is somewhat similar to borrowing one currency
+                                and lending another for the same period. However, any rate of return or cost of funds is
+                                expressed in the price differential between the two sides of the transaction.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Swap as a Percentage</h5>
+                            <p class="mt-3">Swaps expressed as an annualized percentage.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Swap Price</h5>
+                            <p class="mt-3">A price as a differential between two dates of the swap.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Swaption</h5>
+                            <p class="mt-3">An option to enter into a swap contract.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">SWIFT</h5>
+                            <p class="mt-3">Society for World-wide Interbank Telecommunications is Belgian based company
+                                that provides the global electronic network for settlement of most foreign exchange
+                                transactions.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Swissy</h5>
+                            <p class="mt-3">Market slang for Swiss Franc.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Synthetics</h5>
+                            <p class="mt-3">Options or futures that create a position that able to be achieved directly
+                                but is generated by a combination of options and futures in the relevant market. In
+                                foreign exchange a SAFE combines two forward contracts into a single transaction where
+                                settlement only involves the difference in values.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+</section>
+
+
 <?php include("includes/footer.php"); ?>
