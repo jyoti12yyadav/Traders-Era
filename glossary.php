@@ -1514,8 +1514,9 @@
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Money Market</h5>
-                            <p class="mt-3">A market consisting of financial institutions and dealers in money or credit who wish to either borrow or lend.</p>
-                        </div> 
+                            <p class="mt-3">A market consisting of financial institutions and dealers in money or credit
+                                who wish to either borrow or lend.</p>
+                        </div>
 
 
                         <div class="privacy-policy__part">
@@ -2335,21 +2336,27 @@
                             <h2 class="A">T</h2>
                             <br>
                             <h5 class="mb-4">Talking Up</h5>
-                            <p>Statements made normally by the central bank or government minister designed to bolster market sentiment with respect to the currency.</p>
-                            
+                            <p>Statements made normally by the central bank or government minister designed to bolster
+                                market sentiment with respect to the currency.</p>
+
                         </div>
                         <div class="privacy-policy__part">
                             <h4 class="mb-4">Technical Analysis
                             </h4>
-                            <p>Is concerned with past price and volume trends and often with the help of chart analysis in a market in order to be able to make forecasts about future price developments of the commodity being traded.</p>
+                            <p>Is concerned with past price and volume trends and often with the help of chart analysis
+                                in a market in order to be able to make forecasts about future price developments of the
+                                commodity being traded.</p>
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Technical Correction</h5>
-                            <p class="mt-4">An adjustment to price not based on market sentiment but technical factors such as volume and charting.
+                            <p class="mt-4">An adjustment to price not based on market sentiment but technical factors
+                                such as volume and charting.
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Temporal Accounting</h5>
-                            <p class="mt-3">Method of determining accounting exposure which translates all balance sheet items at the current rate of exchange, not the one at the time the cost was incurred.</p>
+                            <p class="mt-3">Method of determining accounting exposure which translates all balance sheet
+                                items at the current rate of exchange, not the one at the time the cost was incurred.
+                            </p>
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Tender</h5>
@@ -2366,25 +2373,35 @@
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Theory of Elasticities</h5>
-                            <p class="mt-3">A model of exchange rate determination stating that the exchange rate is simply the price of the foreign exchange which maintains the BOP in equilibrium. The degree to which the exchange rate responds to a change in price.</p>
+                            <p class="mt-3">A model of exchange rate determination stating that the exchange rate is
+                                simply the price of the foreign exchange which maintains the BOP in equilibrium. The
+                                degree to which the exchange rate responds to a change in price.</p>
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Threshold of Divergence</h5>
-                            <p class="mt-3">A safety feature for the EMS which creates an emergency exit for currencies which become the singular focus of various adverse forces. The threshold of divergence indicates when the specific country with the pressured currency should take additional steps other then simple central bank intervention in the foreign exchange markets.</p>
+                            <p class="mt-3">A safety feature for the EMS which creates an emergency exit for currencies
+                                which become the singular focus of various adverse forces. The threshold of divergence
+                                indicates when the specific country with the pressured currency should take additional
+                                steps other then simple central bank intervention in the foreign exchange markets.</p>
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Theta</h5>
-                            <p class="mt-3">A measure of the sensitivity of the price of an option to a change in its time to expiry.</p>
+                            <p class="mt-3">A measure of the sensitivity of the price of an option to a change in its
+                                time to expiry.</p>
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Thin Market</h5>
-                            <p class="mt-3">A market in which trading volume is low and in which consequently bid and ask quotes are wide and the liquidity of the instrument traded is low.
+                            <p class="mt-3">A market in which trading volume is low and in which consequently bid and
+                                ask quotes are wide and the liquidity of the instrument traded is low.
                             </p>
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">
-                            Thursday/Friday Dollars</h5>
-                            <p class="mt-3">A U.S. foreign exchange technicality. If the bank leaves the funds overnight and transfers them on Friday by means of a clearing house cheque then clearance is not until Monday, the next working day. Higher interest rates for this period are thus available.</p>
+                                Thursday/Friday Dollars</h5>
+                            <p class="mt-3">A U.S. foreign exchange technicality. If the bank leaves the funds overnight
+                                and transfers them on Friday by means of a clearing house cheque then clearance is not
+                                until Monday, the next working day. Higher interest rates for this period are thus
+                                available.</p>
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Tick</h5>
@@ -2397,12 +2414,17 @@
 
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Tier One</h5>
-                            <p class="mt-3">A measure of a banks financial strength used by the BIS being the shareholders’ equity available to cover actual or potential irredeemable and non-cumulative preference shares. It excludes, hybrid forms of capital such as fixed term stock, goodwill, and revaluation reserves. BIS has a minimum requirement of 4 percent on risk-weighted assets.
+                            <p class="mt-3">A measure of a banks financial strength used by the BIS being the
+                                shareholders’ equity available to cover actual or potential irredeemable and
+                                non-cumulative preference shares. It excludes, hybrid forms of capital such as fixed
+                                term stock, goodwill, and revaluation reserves. BIS has a minimum requirement of 4
+                                percent on risk-weighted assets.
                             </p>
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Tight Money</h5>
-                            <p class="mt-3">A condition where there is a shortage of credit as a result of monetary policy restricting the supply of credit normally through raising interest rates.</p>
+                            <p class="mt-3">A condition where there is a shortage of credit as a result of monetary
+                                policy restricting the supply of credit normally through raising interest rates.</p>
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">TIFFE</h5>
@@ -2412,31 +2434,37 @@
                             <h5 class="mb-4">Time Decay</h5>
                             <p class="mt-3">The decline in the time value of an option as the expiry approaches.
 
-</p>
+                            </p>
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Time Decay</h5>
-                            <p class="mt-3">Interest bearing deposits at a savings institution that has a specific maturity.</p>
+                            <p class="mt-3">Interest bearing deposits at a savings institution that has a specific
+                                maturity.</p>
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Time Value</h5>
-                            <p class="mt-3">That part of an option premium which reflects the length of time remaining in the option prior to expiration. The longer the time remaining until expiration, the higher the time value.</p>
+                            <p class="mt-3">That part of an option premium which reflects the length of time remaining
+                                in the option prior to expiration. The longer the time remaining until expiration, the
+                                higher the time value.</p>
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Today/Tomorrow</h5>
-                            <p class="mt-3">Simultaneous buying of a currency for delivery the following day and selling for the spot day, or vice versa. Also referred to as overnight.
+                            <p class="mt-3">Simultaneous buying of a currency for delivery the following day and selling
+                                for the spot day, or vice versa. Also referred to as overnight.
                             </p>
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Tombstone</h5>
-                            <p class="mt-3">Colloquial term for announcement in a publication that a loan or bond has been arranged.
-</p>
+                            <p class="mt-3">Colloquial term for announcement in a publication that a loan or bond has
+                                been arranged.
+                            </p>
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Tomorrow Next (Tom Next)</h5>
-                            <p class="mt-3">Simultaneous buying of a currency for delivery the following day and selling for the spot day or vice versa.
+                            <p class="mt-3">Simultaneous buying of a currency for delivery the following day and selling
+                                for the spot day or vice versa.
                             </p>
-                       
+
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Trade Date</h5>
@@ -2444,15 +2472,312 @@
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Trade Deficit/Surplus</h5>
-                            <p class="mt-3">The difference between the value of imports and exports. Often only reported in visible trade terms.</p>
-                           
+                            <p class="mt-3">The difference between the value of imports and exports. Often only reported
+                                in visible trade terms.</p>
+
                         </div>
-                   
+
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Trade-weighted Exchange Rate
+                            </h5>
+                            <p class="mt-3">The changes in the exchange rate against a trade weighted basket including
+                                the currencies of the county’s principal trading partners.
+
+                            </p>
+
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Traded Options</h5>
+                            <p class="mt-3">Transferable options with the right to buy and sell a standardised amount of
+                                a currency at a fixed price within a specified period.
+
+                            </p>
+
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Tradeable Amount</h5>
+                            <p class="mt-3">Smallest transaction size acceptable.</p>
+
+                        </div>
+
+
+
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Trade Ticket
+                            </h5>
+                            <p class="mt-3">See deal ticket.</p>
+
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Transaction Date</h5>
+                            <p class="mt-3">The date on which a trade occurs.</p>
+
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Tranche</h5>
+                            <p class="mt-3">A portion of, specifically used for borrowings from the IMF.</p>
+
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Transaction</h5>
+                            <p class="mt-3">The buying or selling of securities resulting from the execution of an order.</p>
+
+                        </div>
+
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Transaction Exposure</h5>
+                            <p class="mt-3">Potential profit and loss generated by current foreign exchange transactions.</p>
+
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">
+                                Translation Exposure</h5>
+                            <p class="mt-3">The calculation of loss or profit resulting from the valuation of foreign assets and liabilities for balance sheet purposes, when consolidating into the base currency.</p>
+
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Treasury Bills</h5>
+                            <p class="mt-3">Short-term obligations of a Government issued for periods of one year or less. Treasury bills do not carry a rate of interest and are issued at a discount on the par value. Treasury bills are repaid at par on the due date. In the UK they are normally for 91 days, and are offered at weekly tenders. In the US they are auctioned.</p>
+
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Turnover</h5>
+                            <p class="mt-3">The total money value of currency contracts traded is calculated by multiplying size by the number of contracts traded.</p>
+
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Two-Tier Market</h5>
+                            <p class="mt-3">A dual exchange rate system where normally only one rate is open to market pressure, e.g. South Africa.
+
+                            </p>
+
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Two-Way Quotation</h5>
+                            <p class="mt-3">When a dealer quotes both buying and selling rates for foreign exchange transactions.
+
+                            </p>
+
+                        </div>
+
                     </div>
                 </div>
             </div>
         </div>
 </section>
 
+
+
+<section class="privacy-policy pb-120 ">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-10 col-xxl-10">
+                <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
+
+                    <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
+                        <div class="privacy-policy__part">
+
+
+                        </div>
+
+                        <div class="privacy-policy__part">
+                            <h2 class="A">U</h2>
+                            <br>
+                            <h5 class="mb-4">Uncovered
+                            </h5>
+                            <p>Another term for an open position.</p>
+
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h4 class="mb-4">Under Reference (Order)
+                            </h4>
+                            <p>Before finalizing a transaction all the details should be submitted for approval to the order giver, who has the right to turn down the proposal.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Under-Valuation</h5>
+                            <p class="mt-4">An exchange rate is normally considered to be undervalued when it is below its purchasing power parity.
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Undo</h5>
+                            <p class="mt-3">A colloquial term for reversing a transaction, e.g., a spot sale by means of a forward purchase or if done in error a spot purchase.
+                            </p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Unload</h5>
+                            <p class="mt-3">Term for sale of assets or unwinding positions either to limit loss or to undermine other market participants positions.</p>
+                        
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Unmatched Book</h5>
+                            <p>If the average maturity of a banks liabilities is less than that of its assets, it is said to be running an unmatched book.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Unwind</h5>
+                            <p class="mt-3">Selling of assets and or instruments to square a position.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Up-Tick</h5>
+                            <p class="mt-3">A transaction executed at a price greater than the previous transaction.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">USDX</h5>
+                            <p class="mt-3">Currency index which consist of the weighted average of the prices of ten foreign currencies against the U.S. Dollar: Deutsche Mark, Japanese Yen, French Franc, British Pound, Canadian Dollar, Italian Lira, Dutch Guilder, Belgian Franc, Swedish Krona, and Swiss Franc.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">U.S. Quote</h5>
+                            <p class="mt-3">Exchange rate quotation on a reciprocal basis. Also known as an American Quote.</p>
+                        </div>
+                       
+
+                    </div>
+                </div>
+            </div>
+        </div>
+</section>
+
+
+
+<section class="privacy-policy pb-120 ">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-10 col-xxl-10">
+                <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
+
+                    <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
+                        <div class="privacy-policy__part">
+
+
+                        </div>
+
+                        <div class="privacy-policy__part">
+                            <h2 class="A">V</h2>
+                            <br>
+                            <h5 class="mb-4">Value at Risk
+                            </h5>
+                            <p>The expected loss from an adverse market movement.</p>
+
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h4 class="mb-4">Value Date
+                            </h4>
+                            <p>For exchange contracts, it is the day on which the two contracting parties exchange the currencies which are being bought or sold.
+                                <br>
+                                For a spot transaction, it is two business banking days forward in the country of the bank providing quotations which determine the spot value date.
+                                <br>
+                                The only exception to this general rule is the spot day in the quoting centre coinciding with a banking holiday in the country/countries of the foreign currency/currencies. The value date then moves forward a day. The enquirer is the party who must make sure that his spot day coincides with the one applied by the respondent. The forward months maturity must fall on the corresponding date in the relevant calendar month.  If the one month date falls on a non-banking day in one of the centres, the operative date would be the next business day that is common. The adjustment of the maturity for a particular month does not effect the other maturities that will continue to fall on the original corresponding date if they meet the open day requirement. If the last spot date falls on the last business day of a month, the forward dates will match this date by also falling due on the last business day (also referred to as maturity date).
+                            </p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Value Spot</h5>
+                            <p class="mt-4">Normally settlement for two working days from today.
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Value Today</h5>
+                            <p class="mt-3">Transaction executed for same day settlement; sometimes also referred to as “cash transaction.” </p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Velocity of Money</h5>
+                            <p class="mt-3">The speed with which money circulates or turnover in the economy. It is calculated as the annual national income: average money stock in the period.</p>
+                        
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Vertical (bear or bull) Spread</h5>
+                            <p>The sale of an option with a high exercise price and the purchase (in the case of a bull) or the sale (in the case of a bear) of an option with a lower exercise price. Both options will have the same expiration date.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Visible Trade</h5>
+                            <p class="mt-3">Trade in merchandise goods as compared with capital flows and invisible trade.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Volatility</h5>
+                            <p class="mt-3">A measure of the amount by which an asset price is expected to fluctuate over a given period. Normally measured by the annual standard deviation of daily price changes. (historic). Can be implied from futures pricing, see implied volatility.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Vostro Account</h5>
+                            <p class="mt-3">A local currency account maintained with a bank by another bank. The term is normally applied to the counterparty’s account from which funds may be paid into or withdrawn, as a result of a transaction.</p>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+</section>
+
+
+
+<section class="privacy-policy pb-120 ">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-10 col-xxl-10">
+                <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
+
+                    <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
+                        <div class="privacy-policy__part">
+
+
+                        </div>
+
+                        <div class="privacy-policy__part">
+                            <h2 class="A">W</h2>
+                            <br>
+                            <h5 class="mb-4">Whipsaw
+                            </h5>
+                            <p>Term for where a trader takes a position, then has to move against it, triggering stop-loss limits and liquidation of positions, then having to move in the original direction. Normally occurs in volatile markets.</p>
+
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h4 class="mb-4">Wholesale Money
+                            </h4>
+                            <p>Money borrowed in large amounts from banks and institutions rather than from small investors.
+                              </p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Wholesale Price Index</h5>
+                            <p class="mt-4">It measures changes in prices in the manufacturing and distribution sector of the economy and tends to lead the consumer price index by 60 to 90 days. The index is often quoted separately for food and industrial products.
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">Working Balance</h5>
+                            <p class="mt-3">Discretionary element in the monetary reserves of a central bank.</p>
+                        </div>
+                        <div class="privacy-policy__part">
+                            <h5 class="mb-4">World Bank</h5>
+                            <p class="mt-3">A bank made up of members of the IMF whose aim is to assist in the development of member states by making loans where private capital is not available.</p>
+                        
+                        </div>
+                       
+                    </div>
+                </div>
+            </div>
+        </div>
+</section>
+
+
+
+<section class="privacy-policy pb-120 ">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-10 col-xxl-10">
+                <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
+
+                    <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
+                        <div class="privacy-policy__part">
+
+
+                        </div>
+
+                        <div class="privacy-policy__part">
+                            <h2 class="A">Y</h2>
+                            <br>
+                            <h5 class="mb-4">Yield Curve
+                            </h5>
+                            <p>The graph showing changes in yield on instruments depending on time to maturity. A system originally developed in the bond markets is now broadly applied to various financial futures. A positive sloping curve has lower interest rates at the shorter maturities and higher at the longer maturities. A negative sloping curve has higher interest rates at the shorter maturities.</p>
+
+                        </div>
+                       
+                    </div>
+                </div>
+            </div>
+        </div>
+</section>
 
 <?php include("includes/footer.php"); ?>
