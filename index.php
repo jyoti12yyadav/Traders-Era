@@ -355,7 +355,7 @@
     }
 </style>
 <!-- TradingView Widget BEGIN -->
-<div class="tradingview-widget-container" style="margin-top: 150px;">
+<div class="tradingview-widget-container">
     <div class="tradingview-widget-container__widget"></div>
     <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js"
         async>
@@ -551,12 +551,10 @@
                         class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX">
                 </div>
                 <div class="container">
-                    <div
-                        class="row pt-4 pt-lg-10 gy-12 gy-lg-0 justify-content-center justify-content-lg-between align-items-center">
+                    <div class="row pt-4 pt-lg-10 gy-12 gy-lg-0 justify-content-center justify-content-lg-between align-items-center row-reverse">
                         <div class="col-sm-10 col-lg-6 col-xxl-5">
-                            <div class="hero-section__thumbs pb-xxl-10">
-                                <img src="assets/images/banner two.png" class="max-auto max-xxl-un" alt="img"
-                                    style="position: relative;left: -240px;">
+                            <div class="hero-section__thumbs hero-section-2 pb-xxl-10">
+                                <img src="assets/images/banner two.png" class="max-auto max-xxl-un" alt="img">
                             </div>
                         </div>
                         <div class="col-lg-6 col-xxl-7">
@@ -1003,14 +1001,14 @@
         <div class="row justify-content-center">
             <div class="col-lg-8 col-xxl-7">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h2 class="mb-5 mb-lg-6">Markets Data</h2>
+                    <h2 class="">Markets Data</h2>
                 </div>
             </div>
         </div>
         <div class="row gy-6 gy-xxl-0">
             <div class="col-12">
         <!-- TradingView Widget BEGIN -->
-        <div class="tradingview-widget-container">
+        <div class="tradingview-widget-container" style="margin-top: 0px;">
             <div class="tradingview-widget-container__widget"></div>
             <script type="text/javascript"
                 src="https://s3.tradingview.com/external-embedding/embed-widget-market-quotes.js" async>
