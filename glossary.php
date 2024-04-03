@@ -1514,9 +1514,16 @@
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Money Market</h5>
+<<<<<<< HEAD
                             <p class="mt-3">A market consisting of financial institutions and dealers in money or credit
                                 who wish to either borrow or lend.</p>
                         </div>
+=======
+                            <p class="mt-3">A market consisting of financial institutions and dealers in money or credit who wish to either borrow or lend.</p>
+                        </div> 
+
+
+>>>>>>> fdb2a5ab6df79ea2a22cf6578aeb7d71a5448e24
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Money Market Operations</h5>
                             <p class="mt-3">Comprises the acceptance and re-lending of deposits on the money market.</p>

@@ -14,6 +14,13 @@
             </div>
         </div>
     </section>
+
+
+
+
+
+    
+
     <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
         <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
             <img src="assets/images/star3.png" alt="vector" class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
@@ -28,13 +35,101 @@
                 </div>
                 <div class="col-md-10 col-lg-6 col-xxl-5">
                     <div class="trade_on__content">
-                        <span class="heading p1-color fs-six mb-5">Join Us</span>
+                      <h3 style="color:rgba(var(--p1), 1)">Join Us</h3> 
+                      <br>
                         <h5 class="mx-ch">Need to get in touch with us? If you have any questions or want more information, please contact us through one of the methods below. We will endeavour to respond to all your queries within 24 hours.</h5>   
                     </div>
                 </div>
             </div>
         </div>
     </section>
+
+
+
+
+
+
+
+
+
+    <section class="provide-world  position-relative z-0" style="padding-bottom: 50px;">
+    <div class="container">
+        <div class="row gy-6 gy-xxl-0">
+            <h3 class=" mb-lg-5 d-flex justify-content-center">Have a question? We're here to help.</h3>
+          
+    
+            <div class="col-md-6 col-xxl-3">
+                <br>
+                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/distribution.png" alt="stock-market">
+                    </span>
+
+                    <h4 class="mt-5 mb-5">Client Support
+                    </h4>
+                    <p><strong>Email:</strong> support@tradersera.com
+                    </p>
+                    <p><strong>Call:</strong>+ 44203758865</p>
+
+                  
+                </div>
+            </div>
+            <div class="col-md-6 col-xxl-3">
+            <br>
+                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/check.png" alt="stock-market">
+                    </span>
+                    <h4 class="mt-5 mb-5">Account Opening
+                    </h4>
+                   <p><strong>Email:</strong> support@tradersera.com
+                    </p>
+                    <p><strong>Call:</strong>+ 44203758865</p>
+
+
+                </div>
+            </div>
+            <div class="col-md-6 col-xxl-3">
+            <br>
+                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/withdrawal.png" alt="stock-market">
+                    </span>
+                    <h4 class="mt-5 mb-5">General Inquiries
+                    </h4>
+                    <p><strong>Email:</strong> support@tradersera.com
+                    </p>
+                    <p><strong>Call:</strong>+ 44203758865</p>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-xxl-3">
+            <br>
+                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/withdrawal.png" alt="stock-market">
+                    </span>
+                    <h4 class="mt-5 mb-5">Complaints
+                    </h4>
+                    <p><strong>Email:</strong> support@tradersera.com
+                    </p>
+                    <p><strong>Call:</strong>+ 44203758865</p>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+
+</section>
+
+
+
+
+
+
+
+
 <section class="contact nb4-bg pt-120 pb-120">
         <div class="container ">
             <div class="row gy-18 justify-content-between">
@@ -53,13 +148,11 @@ St.Vincent and Grenadines</p>
                             </div>
                             <div class="d-flex align-items-center gap-3">
                                 <span class="box_12 p1-bg rounded-circle d-center"><i class="ti ti-phone fs-four-up nb4-color"></i></span>
-                                <span class="fs-six-up">+1 212 386 5575
-</span>
+                                <span class="fs-six-up">+1 212 386 5575</span>
                             </div>
                             <div class="d-flex align-items-center gap-3">
                                 <span class="box_12 p1-bg rounded-circle d-center"><i class="ti ti-phone fs-four-up nb4-color"></i></span>
-                                <span class="fs-six-up">+1 212 386 5555
-</span>
+                                <span class="fs-six-up">+1 212 386 5555</span>
                             </div>
                         </div>
                         <!-- <div class="submissions">

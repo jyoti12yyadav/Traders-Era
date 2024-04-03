@@ -842,44 +842,37 @@
                 <div class="trade_on__content">
                     <h2 class="mb-4 mb-lg-5" style="font-size:35px;">A Web Trading Platform
                     </h2>
-                    <p class="mx-ch">Web trading platforms are safer since they use a remote server or cloud for
-                        calculations. Users only need to focus on their internet connection and routing speed to receive
-                        pricing data quickly and execute orders smoothly. No need to download or install anything.</p>
+                    <p class="mx-ch">Web trading platforms are safer since they use a remote server or cloud for calculations. Users only need to focus on their internet connection and routing speed.  No need to download or install anything.</p>
 
                 </div>
 
 
                 <h5 class="mt-4 mb-lg-5">
-                    Advantages of Web Trading Platforms
+                Benefits of Web Based Trading Platforms:
                 </h5>
                 <ul class="d-flex gap-4 flex-column mt-6">
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Accessible anytime and anywhere, without the
-                        need for installation.
+                            class="ti ti-circle-check s1-color fs-four"></i>Accessible anytime and anywhere, no need for installation.
 
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Cross-Device Compatibility, Works seamlessly
-                        across multiple devices.
+                            class="ti ti-circle-check s1-color fs-four"></i>Cross-Device Compatibility, Works across multiple devices.
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Platform updates are hassle-free, ensuring
-                        easy access to the latest features.
+                            class="ti ti-circle-check s1-color fs-four"></i>Platform updates are hassle-free.
 
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Doesn't need high-end hardware, suitable for
-                        various devices.</li>
+                            class="ti ti-circle-check s1-color fs-four"></i>No need for high-end hardware, suitable for various devices.</li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Compatible across various operating systems
-                        without requiring specific versions.
+                            class="ti ti-circle-check s1-color fs-four"></i>Compatible across various operating systems.
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Requires minimal disk space as data is
-                        stored in the cloud or on servers.
+                            class="ti ti-circle-check s1-color fs-four"></i>Requires minimal disk space as data is stored in the cloud.
 
                     </li>
-                    <h5>web platforms:</h5>
+                <br>
+                    <h5>Platforms Supported:</h5>
                     <ul class=" d-flex  gap-md-3 " >
                         <li><img style=" height:35px;" src="assets/images/icon/icon IE.png"></li>
                         <li><img style=" height:35px;" src="assets/images/icon/icon opera.png"></li>
