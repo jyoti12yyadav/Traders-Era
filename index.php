@@ -584,7 +584,7 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">Multiple Funding</h3>
+                                        <h3 class="">Multiple Funding Options</h3>
                                         <span> Customized funding to your needs & your investment journey.</span>
                                     </div>
 
