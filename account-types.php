@@ -36,10 +36,7 @@
     .sub-table-content>h4{
 color: #000000;
     }
-<<<<<<< HEAD
 
-    
-=======
     .cus-rounded-3{
         border-radius: 0px 0px 10px 10px;
     }
@@ -52,7 +49,9 @@ color: #000000;
         color: #000000;
         text-align: center;
     }
->>>>>>> 5eb3c003361242a7103f806d0cc6393d3c247b20
+    .package-para{
+        font-size: 20px;
+    }
 </style>
 <section class="banner-section pt-120 pb-120">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
@@ -184,18 +183,22 @@ color: #000000;
 
 </section>
 <section class="provide-world pt-120 pb-120  position-relative z-0">
-<div class="container">
+    <div class="container">
         <div class="row gy-6 gy-xxl-0">
             <h3 class=" mb-lg-5 d-flex justify-content-center">Online trading account types</h3>
             <div class="col-md-6 col-xxl-3">
                 <div class="packages">
                     <h4>Starter</h4>
                 </div>
-                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-3 py-5 py-lg-10 px-4 px-lg-9">
-                   
-                    <h4 class="mt-5 mb-5">Base Currency</h4>
-                    <p>Our consolidated liquidity helps maintain low spreads, typically throughout trading periods.
-                    </p>
+                <div class="nb3-bg text-center cus-rounded-3 py-5 py-lg-10 px-4 px-lg-9">
+                    <span>Base currency options</span><p>USD, GBP, EUR<hr></p>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span >Spreads from </span><p class="package-para">1.0</p></div><hr>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span >Leverage</span><p class="package-para">500</p></div><hr>
+                    <span>Hedging</span><p><img src="assets/images/icon/check-1.png" alt="check-1"><hr></p>
+                    <br>
+                    <span>Assets</span><p>Crypto<hr></p>
+                    <span>Binary</span><p>Yes<hr></p>
+                    <span>AI Trader</span><p><img src="assets/images/icon/check-1.png" alt="check-1"><hr></p>
                     <br>
                 </div>
             </div>
@@ -203,24 +206,31 @@ color: #000000;
                 <div class="packages">
                     <h4>Standard</h4>
                 </div>
-                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-3 py-5 py-lg-10 px-4 px-lg-9">
-                    
-                    <h4 class="mt-5 mb-5">Base Currency</h4>
-                    <p>Start trading from as low as $0 per lot on our VIP or spread-only trading accounts.
-                    </p>
+                <div class="nb3-bg text-center cus-rounded-3 py-5 py-lg-10 px-4 px-lg-9">
+                    <span>Base currency options</span><p>USD, GBP, EUR<hr></p>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span >Spreads from </span><p class="package-para">0.6</p></div><hr>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span >Leverage</span><p class="package-para">200</p></div><hr>
+                    <span>Hedging</span><p><img src="assets/images/icon/check-1.png" alt="check-1"><hr></p>
+                    <span>Assets</span><p>Crypto,Stocks,Forex,
+                    Commodities,Indices<hr></p>
+                    <span>Binary</span><p>Yes<hr></p>
+                    <span>AI Trader</span><p><img src="assets/images/icon/check-1.png" alt="check-1"><hr></p>
                     <br>
-
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
                 <div class="packages">
                     <h4>Advanced</h4>
                 </div>
-                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-3 py-5 py-lg-10 px-4 px-lg-9">
-                    <h4 class="mt-5 mb-5">Base Currency</h4>
-                    <p>Begin trading by opening your account with just $10.
-                    </p>
-
+                <div class="nb3-bg text-center cus-rounded-3 py-5 py-lg-10 px-4 px-lg-9">
+                    <span>Base currency options</span><p>USD, GBP, EUR<hr></p>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span >Spreads from </span><p class="package-para">0.4</p></div><hr>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span >Leverage</span><p class="package-para">200</p></div><hr>
+                    <span>Hedging</span><p><img src="assets/images/icon/check-1.png" alt="check-1"><hr></p>
+                    <span>Assets</span><p>Crypto,Stocks,Forex,
+                    Commodities,Indices<hr></p>
+                    <span>Binary</span><p>Yes<hr></p>
+                    <span>AI Trader</span><p><img src="assets/images/icon/check-1.png" alt="check-1"><hr></p>
                     <br>
                 </div>
             </div>
@@ -229,18 +239,25 @@ color: #000000;
                 <div class="packages">
                     <h4>Proffessional</h4>
                 </div>
-                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-3 py-5 py-lg-10 px-4 px-lg-9">
-                   
-                    <h4 class="mt-5 mb-5">Base Currency</h4>
-                    <p>Begin trading by opening your account with just $10.
-                    </p>
-
+                <div class="nb3-bg text-center cus-rounded-3 py-5 py-lg-10 px-4 px-lg-9">
+                    <span>Base currency options</span><p>USD, GBP, EUR<hr></p>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span >Spreads from </span><p class="package-para">0</p></div><hr>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span >Leverage</span><p class="package-para">100</p></div><hr>
+                    <span>Hedging</span><p><img src="assets/images/icon/check-1.png" alt="check-1"><hr></p>
+                    <span>Assets</span><p>Crypto, Stocks, Forex,
+                    Commodities, Indices<hr></p>
+                    <span>Binary</span><p>Yes<hr></p>
+                    <span>AI Trader</span><p><img src="assets/images/icon/check-1.png" alt="check-1"><hr></p>
                     <br>
                 </div>
             </div>
         </div>
     </div>
+    <center><a href="signup.html"
+        class="cmn-btn fs-six-up nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 py-lg-3 px-lg-5 mt-7 mt-xxl-8"
+        style="--top: 38.796875px; font-weight: bold;">Open an account</a></center>
 </section>
+
 <div class="container pt-120 pb-120">
     <h3 class=" mb-lg-5 d-flex justify-content-center">Create multiple accounts under a single user profile</h3>
     <br>
@@ -374,7 +391,6 @@ color: #000000;
             </div>
         </div>
     </div>
-    
 </div>
 
 
