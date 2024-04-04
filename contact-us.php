@@ -1,63 +1,159 @@
 <?php include("includes/header.php"); ?>
+
+<style>
+    .company-story__part {
+    border: solid 1px white;
+    padding: 30px;
+    border-radius: 19px;
+}
+</style>
+
 <section class="banner-section  pt-120 pb-120">
-        <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
-            <div class="row">
-                <div class="col-12 breadcrumb-area ">
-                    <h2 class="mb-4">Contact Us</h2>
-                    <nav aria-label="breadcrumb">
-                        <ol class="breadcrumb mb-0">
-                            <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                            <li class="breadcrumb-item ms-2 ps-7 active" aria-current="page"><span>Contact Us</span></li>
-                        </ol>
-                    </nav>
+    <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
+        <div class="row">
+            <div class="col-12 breadcrumb-area ">
+                <h2 class="mb-1">We are here for you, 24/7.</h2>
+                <nav aria-label="breadcrumb">
+                    <a href="signup.html"
+                        class="cmn-btn fs-six-up nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 py-lg-3 px-lg-5 mt-7 mt-xxl-8"
+                        style="--top: 38.796875px; font-weight: bold;">Open an account</a>
+                </nav>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="pt-120 pb-120 ">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8 col-xxl-7">
+                <div class="heading__content mb-10 mb-lg-15 text-center">
+                    <h3 class="mb-5 mb-lg-6">Have a question or require specialist assistance? Our dedicated customer service team is here 24/7 to assist you.</h3>
                 </div>
             </div>
         </div>
-    </section>
-
-
-
-
-
-    
-
-    <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
-        <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-            <img src="assets/images/star3.png" alt="vector" class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
-            <img src="assets/images/sun2.png" alt="vector" class="sun2 position-absolute push_animat d-none d-xxl-flex bottom-0 pb-120">
-        </div>
-        <div class="container">
-            <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
-                <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
-                    <div class="trade_on__thumbs d-flex justify-content-end">
-                        <img src="assets/images/education.png" alt="Imgae">
+        <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
+            <div class="col-sm-10 col-lg-6 col-xxl-6">
+                <div class="row d-flex justify-content-end">
+                    <div class="col-xxl-12 mt-8 mt-md-10 mt-xxl-13">
+                        <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
+                            <div class="row">
+                                <div class="col-lg-2 d-flex align-items-center">
+                                    <img src="assets/images/icon/phone.png" alt="">
+                                </div>
+                                <div class="col-lg-10 d-flex align-items-center">
+                                    <div class="row">
+                                        <h3 class="pb-3">Call Us</h3>
+                                        <span>General <b>+ 248 467 19 76</b></span>
+                                        <span class="pb-3">(International charges may apply)</span>
+                                        <br><br>
+                                        <span><b>+1 212 386 5575</b></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <div class="col-md-10 col-lg-6 col-xxl-5">
-                    <div class="trade_on__content">
-                      <h3 style="color:rgba(var(--p1), 1)">Join Us</h3> 
-                      <br>
-                        <h5 class="mx-ch">Need to get in touch with us? If you have any questions or want more information, please contact us through one of the methods below. We will endeavour to respond to all your queries within 24 hours.</h5>   
+            </div>
+            <div class="col-sm-10 col-lg-6 col-xxl-6 ">
+                <div class="row d-flex justify-content-end">
+                    <div class="col-xxl-12 mt-md-10 mt-xxl-13">
+                        <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
+                            <div class="row">
+                                <div class="col-lg-2 d-flex align-items-center">
+                                    <img src="assets/images/icon/email.png" alt="">
+                                </div>
+                                <div class="col-lg-10 d-flex align-items-center">
+                                    <div class="row">
+                                        <h3 class="pb-3">Email Enquiries</h3>
+                                        <span>support@tradersera.com</span>
+                                        <br>
+                                        <br><br><br>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
+    </div>
+</section>
 
 
+<section class="contact nb4-bg pt-120 pb-120">
+    <div class="container ">
+        <div class="row gy-18 justify-content-between">
+            <div class="col-12 col-lg-7 col-xl-12">
+                <form method="POST" autocomplete="off" id="frmContactus" class="contact__form alt_form px-4 px-lg-8">
+                    <h2 class="contact__title mb-3 mb-md-3 mb-lg-5">Send us a message</h2>
+                    <h6 class="contact__title mb-7 mb-md-10 mb-lg-15">Whether you are new to IC Markets Global or have a question about your existing account, we can help. Simply fill in your details below and we'll get back to you soon.</h6>
+                    <div class="d-flex gap-3 gap-sm-5 gap-lg-8 flex-column">
+                        <div class="row gap-3 gap-sm-0">
+                            <div class="col-sm-6">
+                                <div class="single-input">
+                                    <input type="text" class="fs-six-up" name="fname" placeholder="Fast Name" required="">
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="single-input">
+                                    <input type="text" class="fs-six-up" name="lname" placeholder="Last Name" required="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row gap-3 gap-sm-0 ">
+                            <div class="col-sm-6">
+                                <div class="single-input">
+                                    <input type="email" class="fs-six-up" name="email" placeholder="Email" required="">
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="single-input">
+                                    <input type="text" class="fs-six-up" name="Phone" placeholder="Phone" required="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row gap-3 gap-sm-0 ">
+                            <div class="col-sm-6">
+                                <div class="single-input">
+                                    <input type="text" class="fs-six-up" name="accountnumber" placeholder="Your Live trading account number" required="">
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="single-input">
+                                    <select class="form-control department fs-six-up" id="00N2x000009IscO" name="00N2x000009IscO" title="Department" required="">
+                                        <option value="Client Relations">Client Relations</option>
+                                        <option value="Support" selected="">Support</option>
+                                        <option value="Accounts">Accounts</option>
+                                        <option value="Compliance">Compliance</option> 
+                                        <option value="Marketing">Marketing</option>
+                                        <option value="Partners">Partners</option>  
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="single-input">
+                            <input type="text" class="fs-six-up" name="support" placeholder="Subject" required="">
+                        </div>
+                        <div class="input-single">
+                            <textarea class="fs-six-up" name="message" rows="4" placeholder="Message" required=""></textarea>
+                        </div>
+                    </div>
+                    <span id="msg"></span> 
+                    <button type="submit" class="cmn-btn py-3 px-5 px-lg-6 mt-8 mt-lg-10 d-flex ms-auto" name="submit" id="submit">Submit<i class="bi bi-arrow-up-right"></i><span></span></button>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
 
 
-
-
-
-
-
-    <section class="provide-world  position-relative z-0" style="padding-bottom: 50px;">
+<section class="provide-world  position-relative z-0" style="padding-bottom: 50px;">
     <div class="container">
         <div class="row gy-6 gy-xxl-0">
             <h3 class=" mb-lg-5 d-flex justify-content-center">Have a question? We're here to help.</h3>
-          
-    
+
+
             <div class="col-md-6 col-xxl-3">
                 <br>
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
@@ -71,18 +167,18 @@
                     </p>
                     <p><strong>Call:</strong>+ 44203758865</p>
 
-                  
+
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
-            <br>
+                <br>
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/check.png" alt="stock-market">
                     </span>
                     <h4 class="mt-5 mb-5">Account Opening
                     </h4>
-                   <p><strong>Email:</strong> support@tradersera.com
+                    <p><strong>Email:</strong> support@tradersera.com
                     </p>
                     <p><strong>Call:</strong>+ 44203758865</p>
 
@@ -90,7 +186,7 @@
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
-            <br>
+                <br>
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/question.png" alt="stock-market">
@@ -104,7 +200,7 @@
             </div>
 
             <div class="col-md-6 col-xxl-3">
-            <br>
+                <br>
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/complaint.png" alt="stock-market">
@@ -123,114 +219,73 @@
 
 </section>
 
-
-
-
-
-
-
-
 <section class="contact nb4-bg pt-120 pb-120">
-        <div class="container ">
-            <div class="row gy-18 justify-content-between">
-                <div class="col-12 col-lg-6 col-xl-6">
-                    <div class="submissions-area d-flex flex-column gap-8 gap-lg-10">
-                        <div class="submissions">
-                            <h3>United Kingdom</h3>
-                            <p class="fs-six-up mt-4">
-First Floor, First St Vincent Bank Ltd Building, James Street, Kingstown
-St.Vincent and Grenadines</p>
-                        </div>
-                        <div class="contact__mail d-flex flex-column gap-5 gap-lg-6 pb-8 pb-lg-10 border-bottom border-color four">
-                            <div class="d-flex align-items-center gap-3">
-                                <span class="box_12 p1-bg rounded-circle d-center"><i class="ti ti-phone fs-four-up nb4-color"></i></span>
-                                <span class="fs-six-up">+1 212 386 5577</span>
-                            </div>
-                            <div class="d-flex align-items-center gap-3">
-                                <span class="box_12 p1-bg rounded-circle d-center"><i class="ti ti-phone fs-four-up nb4-color"></i></span>
-                                <span class="fs-six-up">+1 212 386 5575</span>
-                            </div>
-                            <div class="d-flex align-items-center gap-3">
-                                <span class="box_12 p1-bg rounded-circle d-center"><i class="ti ti-phone fs-four-up nb4-color"></i></span>
-                                <span class="fs-six-up">+1 212 386 5555</span>
-                            </div>
-                        </div>
-                        <!-- <div class="submissions">
-                            <h3>Our socials media</h3>
-                            <ul class="social-area d-center justify-content-start gap-2 gap-md-3 mt-7 mt-lg-8">
-                                <li>
-                                    <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-facebook"></i></a>
-                                </li>
-                                <li>
-                                    <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-twitch"></i></a>
-                                </li>
-                                <li>
-                                    <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-instagram"></i></a>
-                                </li>
-                                <li>
-                                    <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-discord-filled"></i></a>
-                                </li>
-                                <li>
-                                    <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-youtube"></i></a>
-                                </li>
-                            </ul>
-                        </div> -->
+    <div class="container ">
+        <div class="row gy-18 justify-content-between">
+            <div class="col-12 col-lg-6 col-xl-6">
+                <div class="submissions-area d-flex flex-column gap-8 gap-lg-10">
+                    <div class="submissions">
+                        <h3>United Kingdom</h3>
+                        <p class="fs-six-up mt-4">
+                            First Floor, First St Vincent Bank Ltd Building, James Street, Kingstown
+                            St.Vincent and Grenadines</p>
                     </div>
-                    
-                </div>
-                <div class="col-12 col-lg-6 col-xl-6">
-                    <div class="submissions-area d-flex flex-column gap-8 gap-lg-10">
-                        <div class="submissions">
-                            <h3>Germany</h3>
-                            <p class="fs-six-up mt-4">
-First Floor, First St Vincent Bank Ltd Building, James Street, Kingstown
-St.Vincent and Grenadines</p>
+                    <div
+                        class="contact__mail d-flex flex-column gap-5 gap-lg-6 pb-8 pb-lg-10 border-bottom border-color four">
+                        <div class="d-flex align-items-center gap-3">
+                            <span class="box_12 p1-bg rounded-circle d-center"><i
+                                    class="ti ti-phone fs-four-up nb4-color"></i></span>
+                            <span class="fs-six-up">+1 212 386 5577</span>
                         </div>
-                        <div class="contact__mail d-flex flex-column gap-5 gap-lg-6 pb-8 pb-lg-10 border-bottom border-color four">
-                            <div class="d-flex align-items-center gap-3">
-                                <span class="box_12 p1-bg rounded-circle d-center"><i class="ti ti-message fs-four-up nb4-color"></i></span>
-                                <span class="fs-six-up">info@TradersEra.com</span>
-                            </div>
-                            <div class="d-flex align-items-center gap-3">
-                                <span class="box_12 p1-bg rounded-circle d-center"><i class="ti ti-arrow-right fs-four-up nb4-color"></i></span>
-                                <span class="fs-six-up">Monday–Saturday: 8:00AM–6:00PM
-                                    Sunday: CLOSED
-</span>
-                            </div>
-                            <div class="d-flex align-items-center gap-3">
-                                <span class="">
-                                    <br>
-                                    <br>
-                                </span>
-                                <span class="fs-six-up">
-</span>
-                            </div>
+                        <div class="d-flex align-items-center gap-3">
+                            <span class="box_12 p1-bg rounded-circle d-center"><i
+                                    class="ti ti-phone fs-four-up nb4-color"></i></span>
+                            <span class="fs-six-up">+1 212 386 5575</span>
                         </div>
-                        <!-- <div class="submissions">
-                            <h3>Our socials media</h3>
-                            <ul class="social-area d-center justify-content-start gap-2 gap-md-3 mt-7 mt-lg-8">
-                                <li>
-                                    <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-facebook"></i></a>
-                                </li>
-                                <li>
-                                    <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-twitch"></i></a>
-                                </li>
-                                <li>
-                                    <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-instagram"></i></a>
-                                </li>
-                                <li>
-                                    <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-discord-filled"></i></a>
-                                </li>
-                                <li>
-                                    <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-youtube"></i></a>
-                                </li>
-                            </ul>
-                        </div> -->
+                        <div class="d-flex align-items-center gap-3">
+                            <span class="box_12 p1-bg rounded-circle d-center"><i
+                                    class="ti ti-phone fs-four-up nb4-color"></i></span>
+                            <span class="fs-six-up">+1 212 386 5555</span>
+                        </div>
                     </div>
-                </div>
-                <div class="col-12">
                 </div>
             </div>
+            <div class="col-12 col-lg-6 col-xl-6">
+                <div class="submissions-area d-flex flex-column gap-8 gap-lg-10">
+                    <div class="submissions">
+                        <h3>Germany</h3>
+                        <p class="fs-six-up mt-4">
+                            First Floor, First St Vincent Bank Ltd Building, James Street, Kingstown
+                            St.Vincent and Grenadines</p>
+                    </div>
+                    <div
+                        class="contact__mail d-flex flex-column gap-5 gap-lg-6 pb-8 pb-lg-10 border-bottom border-color four">
+                        <div class="d-flex align-items-center gap-3">
+                            <span class="box_12 p1-bg rounded-circle d-center"><i
+                                    class="ti ti-message fs-four-up nb4-color"></i></span>
+                            <span class="fs-six-up">info@TradersEra.com</span>
+                        </div>
+                        <div class="d-flex align-items-center gap-3">
+                            <span class="box_12 p1-bg rounded-circle d-center"><i
+                                    class="ti ti-arrow-right fs-four-up nb4-color"></i></span>
+                            <span class="fs-six-up">Monday–Saturday: 8:00AM–6:00PM
+                                Sunday: CLOSED
+                            </span>
+                        </div>
+                        <div class="d-flex align-items-center gap-3">
+                            <span class="">
+                                <br>
+                                <br>
+                            </span>
+                            <span class="fs-six-up">
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12">
+            </div>
         </div>
-    </section>
+    </div>
+</section>
 <?php include("includes/footer.php"); ?>
