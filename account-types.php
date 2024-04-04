@@ -36,7 +36,6 @@
     .sub-table-content>h4{
 color: #000000;
     }
-
     .cus-rounded-3{
         border-radius: 0px 0px 10px 10px;
     }

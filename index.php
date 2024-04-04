@@ -355,8 +355,8 @@
         color: #9ad953;
     }
 </style>
-<!-- <iframe src="https://fxpricing.com/fx-widget/ticker-tape-widget.php?id=1,2,3,5,14,20&border=show&speed=50&click_target=blank&theme=dark&tm-cr=212529&hr-cr=FFFFFF13&by-cr=28A745&sl-cr=DC3545&flags=circle&d_mode=regular&column=&lang=en&font=Arial, sans-serif" width="100%" height="85" style="border: unset;margin-top:150px"></iframe>
-    <style type="text/css">#fx-pricing-widget-copyright{text-align: center; font-size: 13px; font-family: sans-serif; margin-top: 10px; margin-bottom: 10px; color: #9db2bd;} #fx-pricing-widget-copyright a{text-decoration: unset; color: #bb3534; font-weight: 600;}</style> -->
+ <iframe src="https://fxpricing.com/fx-widget/ticker-tape-widget.php?id=1,2,3,5,14,20&border=show&speed=50&click_target=blank&theme=dark&tm-cr=212529&hr-cr=FFFFFF13&by-cr=28A745&sl-cr=DC3545&flags=circle&d_mode=regular&column=&lang=en&font=Arial, sans-serif" width="100%" height="85" style="border: unset;margin-top:150px"></iframe>
+    <style type="text/css">#fx-pricing-widget-copyright{text-align: center; font-size: 13px; font-family: sans-serif; margin-top: 10px; margin-bottom: 10px; color: #9db2bd;} #fx-pricing-widget-copyright a{text-decoration: unset; color: #bb3534; font-weight: 600;}</style> 
     <div class="slide_viewer">
         <div class="slide_group">
 
@@ -585,7 +585,7 @@
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
                                         <h3 class="">Multiple Funding Options</h3>
-                                        <span> Customized funding to your needs & your investment journey.</span>
+                                        <span>Pay via cards,banks,local transfer and cryptose.</span>
                                     </div>
 
                                 </div>
@@ -601,8 +601,8 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">Regulated & Established Broker</h3>
-                                        <span>Trading services with a regulated and established broker</span>
+                                        <h3 class="">Safety of Funds Assured</h3>
+                                        <span>Safe garding you and all peers with top security and regulatory frameworks practices.</span>
                                     </div>
 
 
@@ -619,7 +619,7 @@
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
                                         <h3 class="">24/7 Customer Support</h3>
-                                        <span>Raise a Ticket and resolve problem real quick.</span>
+                                        <span>Speak to us and resolve your questions round the clock.</span>
                                     </div>
                                 </div>
                             </div>
