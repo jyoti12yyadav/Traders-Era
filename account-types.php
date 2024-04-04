@@ -36,8 +36,23 @@
     .sub-table-content>h4{
 color: #000000;
     }
+<<<<<<< HEAD
 
     
+=======
+    .cus-rounded-3{
+        border-radius: 0px 0px 10px 10px;
+    }
+    .packages{
+        background: #9ad953;
+        padding: 25px;
+        border-radius: 10px 10px 0px 0px;
+    }
+    .packages>h4{
+        color: #000000;
+        text-align: center;
+    }
+>>>>>>> 5eb3c003361242a7103f806d0cc6393d3c247b20
 </style>
 <section class="banner-section pt-120 pb-120">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
@@ -168,7 +183,64 @@ color: #000000;
     </div>
 
 </section>
+<section class="provide-world pt-120 pb-120  position-relative z-0">
+<div class="container">
+        <div class="row gy-6 gy-xxl-0">
+            <h3 class=" mb-lg-5 d-flex justify-content-center">Online trading account types</h3>
+            <div class="col-md-6 col-xxl-3">
+                <div class="packages">
+                    <h4>Starter</h4>
+                </div>
+                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-3 py-5 py-lg-10 px-4 px-lg-9">
+                   
+                    <h4 class="mt-5 mb-5">Base Currency</h4>
+                    <p>Our consolidated liquidity helps maintain low spreads, typically throughout trading periods.
+                    </p>
+                    <br>
+                </div>
+            </div>
+            <div class="col-md-6 col-xxl-3">
+                <div class="packages">
+                    <h4>Standard</h4>
+                </div>
+                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-3 py-5 py-lg-10 px-4 px-lg-9">
+                    
+                    <h4 class="mt-5 mb-5">Base Currency</h4>
+                    <p>Start trading from as low as $0 per lot on our VIP or spread-only trading accounts.
+                    </p>
+                    <br>
 
+                </div>
+            </div>
+            <div class="col-md-6 col-xxl-3">
+                <div class="packages">
+                    <h4>Advanced</h4>
+                </div>
+                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-3 py-5 py-lg-10 px-4 px-lg-9">
+                    <h4 class="mt-5 mb-5">Base Currency</h4>
+                    <p>Begin trading by opening your account with just $10.
+                    </p>
+
+                    <br>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-xxl-3">
+                <div class="packages">
+                    <h4>Proffessional</h4>
+                </div>
+                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-3 py-5 py-lg-10 px-4 px-lg-9">
+                   
+                    <h4 class="mt-5 mb-5">Base Currency</h4>
+                    <p>Begin trading by opening your account with just $10.
+                    </p>
+
+                    <br>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 <div class="container pt-120 pb-120">
     <h3 class=" mb-lg-5 d-flex justify-content-center">Create multiple accounts under a single user profile</h3>
     <br>
