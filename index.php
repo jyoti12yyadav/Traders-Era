@@ -746,63 +746,67 @@
         </div>
 </section>
 <section class="provide-world pt-120 position-relative z-0 mb-10 pb-120" style="background-color: #000;">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-7 col-xxl-6">
-                <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h2 class="">Ready to get started
-                    </h2>
-                    <span class="heading p1-color fs-six mb-5" style="margin-top:12px;">Start trading in 3 easy
-                        steps</span>
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-12 col-xxl-10">
+                        <div class="heading__content mb-10 mb-lg-15 text-center">
+                            <h2 class="mb-5 mb-lg-6">Open an account in 4 simple steps</h2>
+                        </div>
+                    </div>
                 </div>
-            </div>
-        </div>
-        <div class="row gy-6 gy-xxl-0">
-            <div class="col-md-6 col-xxl-3">
-                <div class=" secondary get-started text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/verify.png">
-                    </span>
-                    <h4 class="mt-5 mb-5">Sign up</h4>
-                </div>
-            </div>
-            <div class="col-md-6 col-xxl-3">
-                <div class=" secondary get-started  text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/kyc (1).png">
-                    </span>
-                    <h4 class="mt-5 mb-5">
-                        KYC
-                    </h4>
-                </div>
+                <div class="row gy-6 gy-xxl-0">
+                    <div class="col-md-6 col-xxl-3">
+                        <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                            <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                                <img src="assets/images/icon/number-1.png" alt="time">
+                            </span>
+                            <h4 class="mt-5 mb-5">Register</h4>
+                            <p>Choose an account type and complete our fast and secure application fast and secure
+                                application
+                                form</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-xxl-3">
+                        <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                            <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                                <img src="assets/images/icon/two.png" alt="wallet">
+                            </span>
+                            <h4 class="mt-5 mb-5">Verify</h4>
+                            <p>use our digital onboarding system for fast verification</p>
+                            <br>
+                            <br>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-xxl-3">
+                        <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                            <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                                <img src="assets/images/icon/number-3.png" alt="low-price">
+                            </span>
+                            <h4 class="mt-5 mb-5">Fund</h4>
+                            <p>Fund your trading account using a wide range of funding methods</p>
+                            <br>
+                            <br>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-xxl-3">
+                        <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                            <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                                <img src="assets/images/icon/number-4.png" alt="customer">
+                            </span>
+                            <h4 class="mt-5 mb-5">UTrade</h4>
+                            <p>Start trading on your live account and access +2,100 instruments</p>
+                            <br>
+                            <br>
+                        </div>
 
-            </div>
-            <div class="col-md-6 col-xxl-3">
-                <div class=" secondary get-started  text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/deposit.png">
-                    </span>
-                    <h4 class="mt-5 mb-5 ">
-
-                        Deposit
-                    </h4>
+                    </div>
                 </div>
-
+                <center><a href="signup.html"
+                        class="cmn-btn fs-six-up nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 py-lg-3 px-lg-5 mt-7 mt-xxl-8"
+                        style="--top: 38.796875px; font-weight: bold;">Open an account</a></center>
             </div>
-            <div class="col-md-6 col-xxl-3">
-                <div class=" secondary text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/trading_exp.png">
-                    </span>
-                    <h4 class="mt-5 mb-5">
-                        Start Trading
-                    </h4>
-                </div>
 
-            </div>
-        </div>
-    </div>
-</section>
+        </section>
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="vector"

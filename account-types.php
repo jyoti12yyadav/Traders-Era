@@ -79,7 +79,7 @@ color: #000000;
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/distribution.png" alt="stock-market">
+                        <img src="assets/images/icon/Spreads.png" alt="stock-market">
                     </span>
                     <h4 class="mt-5 mb-5">Spreads from 0.4 pips
                     </h4>
@@ -91,7 +91,7 @@ color: #000000;
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/check.png" alt="stock-market">
+                        <img src="assets/images/icon/commission.png" alt="stock-market">
                     </span>
                     <h4 class="mt-5 mb-5">Zero commission
                     </h4>
@@ -104,7 +104,7 @@ color: #000000;
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/withdrawal.png" alt="stock-market">
+                        <img src="assets/images/icon/Low-starting-amount.png" alt="stock-market">
                     </span>
                     <h4 class="mt-5 mb-5">Low starting amount
                     </h4>
@@ -131,7 +131,7 @@ color: #000000;
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/withdrawal.png" alt="stock-market">
+                        <img src="assets/images/icon/profits.png" alt="stock-market">
                     </span>
                     <h4 class="mt-5 mb-5">High Leverage
 
@@ -146,7 +146,7 @@ color: #000000;
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/withdrawal.png" alt="stock-market">
+                        <img src="assets/images/icon/sales-marketing.png" alt="stock-market">
                     </span>
                     <h4 class="mt-5 mb-5">Fast order execution
 
@@ -161,7 +161,7 @@ color: #000000;
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/withdrawal.png" alt="stock-market">
+                        <img src="assets/images/icon/growth.png" alt="stock-market">
                     </span>
                     <h4 class="mt-5 mb-5">
                         Micro lot trading
