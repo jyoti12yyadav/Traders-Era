@@ -698,7 +698,7 @@
 
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
-                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;">A Web Trading Platform
+                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;">TradersEra - Trading Platform
                     </h2>
                     <p class="mx-ch">Web trading platforms are safer since they use a remote server or cloud for calculations. Users only need to focus on their internet connection and routing speed.  No need to download or install anything.</p>
 
@@ -1072,11 +1072,10 @@
                     </div>
                     
                     <ul class=" d-flex   gap-md-3 mt-4" >
-                        <li><img style=" height:35px;" src="assets/images/icon/a. Wire Transfer white logo.png"></li>
-                        <li><img style=" height:35px;" src="assets/images/icon/a. mastercard.png"></li>
-                        <li><img style=" height:35px;" src="assets/images/icon/a .crypto logo.png"></li>
                         <li><img style=" height:35px;" src="assets/images/icon/a. visa white _logo.png"></li>
-                       
+                        <li><img style=" height:35px;" src="assets/images/icon/a. mastercard.png"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/a. Wire Transfer white logo.png"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/a .crypto logo.png"></li>
                     </ul>
                 </div>
             </div>
