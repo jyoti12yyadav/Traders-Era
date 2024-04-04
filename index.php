@@ -559,7 +559,7 @@
                         <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
                             <div class="row">
                                 <div class="col-lg-2 d-flex align-items-center">
-                                    <img src="assets/images/icon/insurance.png" alt="">
+                                    <img src="assets/images/icon/Web-Platform.png" alt="">
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
@@ -580,7 +580,7 @@
 
                             <div class="row">
                                 <div class="col-lg-2 d-flex align-items-center">
-                                    <img src="assets/images/icon/download.png" alt="">
+                                    <img src="assets/images/icon/Multiple Funding.png" alt="">
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
@@ -614,7 +614,7 @@
                         <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
                             <div class="row">
                                 <div class="col-lg-2 d-flex align-items-center">
-                                    <img src="assets/images/icon/withdrawal.png" alt="">
+                                    <img src="assets/images/icon/24-hours-support.png" alt="">
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">

@@ -60,7 +60,7 @@
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                    <img src="assets/images/icon/distribution.png" alt="stock-market">
+                    <img src="assets/images/icon/custom.png" alt="stock-market">
                     </span>
                     <h4 class="mt-5 mb-5">Customized Commission Plans</h4>
                     <p> We offer commission structures at TradersEra that are tailored to meet your specific requirements, ensuring a mutually beneficial partnership..</p>
@@ -70,7 +70,7 @@
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/check.png" alt="stock-market">
+                        <img src="assets/images/icon/payday.png" alt="stock-market">
                     </span>
                     <h4 class="mt-5 mb-5">Timely Payouts</h4>
                     <p>You can rely on our timely payments and commission rates to provide you with a steady income stream that you can count on.</p>
@@ -82,7 +82,7 @@
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/withdrawal.png" alt="stock-market">
+                        <img src="assets/images/icon/Cutting-Edge.png" alt="stock-market">
                     </span>
                     <h4 class="mt-5 mb-5">Cutting Edge Technological Solutions</h4>
                     <p>Get access to cutting-edge tools and support to enhance your trading journey. Our friendly team is ready to assist you at every step.</p>
