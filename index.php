@@ -354,7 +354,14 @@
         left: 80px;
         color: #9ad953;
     }
+
+    .pt-120 {
+    padding-top: 60px;
+}
+
+
 </style>
+<<<<<<< HEAD
 <iframe
     src="https://fxpricing.com/fx-widget/ticker-tape-widget.php?id=1,2,3,5,14,20&border=show&speed=50&click_target=blank&theme=dark&tm-cr=212529&hr-cr=FFFFFF13&by-cr=28A745&sl-cr=DC3545&flags=circle&d_mode=regular&column=&lang=en&font=Arial, sans-serif"
     width="100%" height="85" style="border: unset;margin-top:150px"></iframe>
@@ -367,6 +374,13 @@
         margin-bottom: 10px;
         color: #9db2bd;
     }
+=======
+
+<iframe src="https://fxpricing.com/fx-widget/ticker-tape-widget.php?id=1,2,3,5,14,20&border=show&speed=50&click_target=blank&theme=dark&tm-cr=212529&hr-cr=FFFFFF13&by-cr=28A745&sl-cr=DC3545&flags=circle&d_mode=regular&column=&lang=en&font=Arial, sans-serif" width="100%" height="85" style="border: unset;margin-top:150px"></iframe>
+    <style type="text/css">#fx-pricing-widget-copyright{text-align: center; font-size: 13px; font-family: sans-serif; margin-top: 10px; margin-bottom: 10px; color: #9db2bd;} #fx-pricing-widget-copyright a{text-decoration: unset; color: #bb3534; font-weight: 600;}</style>
+    <div class="slide_viewer">
+        <div class="slide_group">
+>>>>>>> 6e6ef090bcbaac65e027e915ab617b9e83e47478
 
     #fx-pricing-widget-copyright a {
         text-decoration: unset;
@@ -552,7 +566,7 @@
 
 
 <!--Trade On start-->
-<section class="pt-120 pb-120 ">
+<section class="pt-120">
 
     <div class="container">
         <div class="row justify-content-center">
@@ -798,7 +812,11 @@
 
         </div>
 </section>
+<<<<<<< HEAD
 <section class="provide-world a2-bg pt-120 pb-120  position-relative z-0">
+=======
+<section class="provide-world pt-120 position-relative z-0 mb-10" style="background-color: #000;">
+>>>>>>> 6e6ef090bcbaac65e027e915ab617b9e83e47478
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-12 col-xxl-10">
@@ -1124,13 +1142,28 @@
                             <br>
                         </div>
                     </div>
+<<<<<<< HEAD
 
                     <ul class=" d-flex   gap-md-3 mt-4">
                         <li><img style=" height:35px;" src="assets/images/icon/a. Wire Transfer white logo.png"></li>
+=======
+                    
+                    <ul class=" d-flex   gap-md-3 mt-4" >
+                    <li><img style=" height:35px;" src="assets/images/icon/a. visa white _logo.png"></li>
+                       
+>>>>>>> 6e6ef090bcbaac65e027e915ab617b9e83e47478
                         <li><img style=" height:35px;" src="assets/images/icon/a. mastercard.png"></li>
+
+                        <li><img style=" height:35px;" src="assets/images/icon/a. Wire Transfer white logo.png"></li>
+                        
                         <li><img style=" height:35px;" src="assets/images/icon/a .crypto logo.png"></li>
+<<<<<<< HEAD
                         <li><img style=" height:35px;" src="assets/images/icon/a. visa white _logo.png"></li>
 
+=======
+                      
+                       
+>>>>>>> 6e6ef090bcbaac65e027e915ab617b9e83e47478
                     </ul>
                 </div>
             </div>
