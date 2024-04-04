@@ -354,7 +354,14 @@
         left: 80px;
         color: #9ad953;
     }
+
+    .pt-120 {
+    padding-top: 60px;
+}
+
+
 </style>
+
 <iframe src="https://fxpricing.com/fx-widget/ticker-tape-widget.php?id=1,2,3,5,14,20&border=show&speed=50&click_target=blank&theme=dark&tm-cr=212529&hr-cr=FFFFFF13&by-cr=28A745&sl-cr=DC3545&flags=circle&d_mode=regular&column=&lang=en&font=Arial, sans-serif" width="100%" height="85" style="border: unset;margin-top:150px"></iframe>
     <style type="text/css">#fx-pricing-widget-copyright{text-align: center; font-size: 13px; font-family: sans-serif; margin-top: 10px; margin-bottom: 10px; color: #9db2bd;} #fx-pricing-widget-copyright a{text-decoration: unset; color: #bb3534; font-weight: 600;}</style>
     <div class="slide_viewer">
@@ -505,7 +512,7 @@
 
 
 <!--Trade On start-->
-<section class="pt-120 pb-120 ">
+<section class="pt-120">
 
     <div class="container">
         <div class="row justify-content-center">
@@ -745,7 +752,7 @@
 
         </div>
 </section>
-<section class="provide-world pt-120 position-relative z-0 mb-10 pb-120" style="background-color: #000;">
+<section class="provide-world pt-120 position-relative z-0 mb-10" style="background-color: #000;">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-7 col-xxl-6">
@@ -1068,10 +1075,14 @@
                     </div>
                     
                     <ul class=" d-flex   gap-md-3 mt-4" >
-                        <li><img style=" height:35px;" src="assets/images/icon/a. Wire Transfer white logo.png"></li>
+                    <li><img style=" height:35px;" src="assets/images/icon/a. visa white _logo.png"></li>
+                       
                         <li><img style=" height:35px;" src="assets/images/icon/a. mastercard.png"></li>
+
+                        <li><img style=" height:35px;" src="assets/images/icon/a. Wire Transfer white logo.png"></li>
+                        
                         <li><img style=" height:35px;" src="assets/images/icon/a .crypto logo.png"></li>
-                        <li><img style=" height:35px;" src="assets/images/icon/a. visa white _logo.png"></li>
+                      
                        
                     </ul>
                 </div>
