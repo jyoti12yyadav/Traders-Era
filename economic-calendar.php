@@ -19,8 +19,13 @@
 <style>
     .provide-world{
         background-color: #141414;
-        margin-top: 120px;
-        margin-bottom: 120px;
+        margin-top: 60px;
+        margin-bottom: 60px;
+    }
+
+    .tradingview-widget-container{
+        margin-top: 60px;
+        margin-bottom: 60px;
     }
 </style>
 
