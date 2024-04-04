@@ -191,13 +191,12 @@ color: #000000;
                 </div>
                 <div class="nb3-bg text-center cus-rounded-3 py-5 py-lg-10 px-4 px-lg-9">
                     <span>Base currency options</span><p>USD, GBP, EUR<hr></p>
+                    <br><span>Assets</span><p>Crypto<hr></p>
                     <div class=" d-flex justify-content-xxl-between align-items-center"><span >Spreads from </span><p class="package-para">1.0</p></div><hr>
                     <div class=" d-flex justify-content-xxl-between align-items-center"><span >Leverage</span><p class="package-para">500</p></div><hr>
-                    <span>Hedging</span><p><img src="assets/images/icon/check-1.png" alt="check-1"><hr></p>
-                    <br>
-                    <span>Assets</span><p>Crypto<hr></p>
-                    <span>Binary</span><p>Yes<hr></p>
-                    <span>AI Trader</span><p><img src="assets/images/icon/check-1.png" alt="check-1"><hr></p>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span >Hedging</span><img src="assets/images/icon/check-1.png" alt="check-1"></div><hr>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span >Binary</span><p class="package-para">Yes</p></div><hr>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span >AI Trader</span><img src="assets/images/icon/check-1.png" alt="check-1"></div><hr>
                     <br>
                 </div>
             </div>
@@ -207,13 +206,13 @@ color: #000000;
                 </div>
                 <div class="nb3-bg text-center cus-rounded-3 py-5 py-lg-10 px-4 px-lg-9">
                     <span>Base currency options</span><p>USD, GBP, EUR<hr></p>
+                    <span>Assets</span><p>Crypto, Stocks, Forex,
+                    Commodities, Indices<hr></p>
                     <div class=" d-flex justify-content-xxl-between align-items-center"><span >Spreads from </span><p class="package-para">0.6</p></div><hr>
                     <div class=" d-flex justify-content-xxl-between align-items-center"><span >Leverage</span><p class="package-para">200</p></div><hr>
-                    <span>Hedging</span><p><img src="assets/images/icon/check-1.png" alt="check-1"><hr></p>
-                    <span>Assets</span><p>Crypto,Stocks,Forex,
-                    Commodities,Indices<hr></p>
-                    <span>Binary</span><p>Yes<hr></p>
-                    <span>AI Trader</span><p><img src="assets/images/icon/check-1.png" alt="check-1"><hr></p>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span >Hedging</span><img src="assets/images/icon/check-1.png" alt="check-1"></div><hr>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span >Binary</span><p class="package-para">Yes</p></div><hr>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span >AI Trader</span><img src="assets/images/icon/check-1.png" alt="check-1"></div><hr>
                     <br>
                 </div>
             </div>
@@ -223,13 +222,13 @@ color: #000000;
                 </div>
                 <div class="nb3-bg text-center cus-rounded-3 py-5 py-lg-10 px-4 px-lg-9">
                     <span>Base currency options</span><p>USD, GBP, EUR<hr></p>
+                    <span>Assets</span><p>Crypto, Stocks, Forex,
+                    Commodities, Indices<hr></p>
                     <div class=" d-flex justify-content-xxl-between align-items-center"><span >Spreads from </span><p class="package-para">0.4</p></div><hr>
                     <div class=" d-flex justify-content-xxl-between align-items-center"><span >Leverage</span><p class="package-para">200</p></div><hr>
-                    <span>Hedging</span><p><img src="assets/images/icon/check-1.png" alt="check-1"><hr></p>
-                    <span>Assets</span><p>Crypto,Stocks,Forex,
-                    Commodities,Indices<hr></p>
-                    <span>Binary</span><p>Yes<hr></p>
-                    <span>AI Trader</span><p><img src="assets/images/icon/check-1.png" alt="check-1"><hr></p>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span >Hedging</span><img src="assets/images/icon/check-1.png" alt="check-1"></div><hr>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span >Binary</span><p class="package-para">Yes</p></div><hr>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span >AI Trader</span><img src="assets/images/icon/check-1.png" alt="check-1"></div><hr>
                     <br>
                 </div>
             </div>
@@ -240,13 +239,13 @@ color: #000000;
                 </div>
                 <div class="nb3-bg text-center cus-rounded-3 py-5 py-lg-10 px-4 px-lg-9">
                     <span>Base currency options</span><p>USD, GBP, EUR<hr></p>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span >Spreads from </span><p class="package-para">0</p></div><hr>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span >Leverage</span><p class="package-para">100</p></div><hr>
-                    <span>Hedging</span><p><img src="assets/images/icon/check-1.png" alt="check-1"><hr></p>
                     <span>Assets</span><p>Crypto, Stocks, Forex,
                     Commodities, Indices<hr></p>
-                    <span>Binary</span><p>Yes<hr></p>
-                    <span>AI Trader</span><p><img src="assets/images/icon/check-1.png" alt="check-1"><hr></p>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span >Spreads from </span><p class="package-para">0</p></div><hr>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span >Leverage</span><p class="package-para">100</p></div><hr>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span >Hedging</span><img src="assets/images/icon/check-1.png" alt="check-1"></div><hr>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span >Binary</span><p class="package-para">Yes</p></div><hr>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span >AI Trader</span><img src="assets/images/icon/check-1.png" alt="check-1"></div><hr>
                     <br>
                 </div>
             </div>
