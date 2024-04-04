@@ -75,9 +75,7 @@ color: #000000;
         <div class="row gy-6 gy-xxl-0">
             <h3 class=" mb-lg-5 d-flex justify-content-center">Online trading account types</h3>
             <center>
-                <h5 class="mb-7">Tailored trading account for Forex, indices, stocks, commodities
-
-                </h5>
+                <h5 class="mb-7">Tailored trading account for Forex, indices, stocks, commodities </h5>
             </center>
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
