@@ -36,6 +36,8 @@
     .sub-table-content>h4{
 color: #000000;
     }
+
+    
 </style>
 <section class="banner-section pt-120 pb-120">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
@@ -55,7 +57,7 @@ color: #000000;
 
 
 
-<section class="provide-world pt-120 pb-120  position-relative z-0" style="padding-bottom: 50px;">
+<section class="provide-world pt-120 pb-120  position-relative z-0" style="padding-bottom: 25px;">
     <div class="container">
         <div class="row gy-6 gy-xxl-0">
             <h3 class=" mb-lg-5 d-flex justify-content-center">Online trading account types</h3>
@@ -309,7 +311,7 @@ color: #000000;
 
 
 <div class="container">
-    <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
+    <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center pt-40">
         <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
             <div class="trade_on__thumbs d-flex justify-content-end">
                 <img src="assets/images/account sec1.png" alt="Imgae">

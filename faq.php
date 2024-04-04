@@ -147,12 +147,12 @@
     </div>
 </section>
 
-<section class="provide-world pt-120 pb-120  position-relative z-0">
+<section class="provide-world pt-60 pb-120  position-relative z-0">
     <div class="container">
         <div class="row gy-6">
             <div class="col-lg-6 col-xxl-12">
                 <div class="apply-card nb3-bg cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <h3 class="mb-4">Troubleshooting:</h3>
+                    <h3 class="mb-4">Troubleshooting</h3>
                     <h6 class="mb-4">I didn't receive my trading account login details</h6>
                     <p>Please check your Junk/Spam/Other folder, and if you are still unable to find the email, please
                         contact our support team for assistance.</p>
