@@ -585,7 +585,7 @@
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
                                         <h3 class="">Multiple Funding Options</h3>
-                                        <span> Customized funding to your needs & your investment journey.</span>
+                                        <span>Pay via cards,banks,local transfer and cryptose.</span>
                                     </div>
 
                                 </div>
@@ -601,8 +601,8 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">Regulated & Established Broker</h3>
-                                        <span>Trading services with a regulated and established broker</span>
+                                        <h3 class="">Safety of Funds Assured</h3>
+                                        <span>Safe garding you and all peers with top security and regulatory frameworks practices.</span>
                                     </div>
 
 
@@ -619,7 +619,7 @@
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
                                         <h3 class="">24/7 Customer Support</h3>
-                                        <span>Raise a Ticket and resolve problem real quick.</span>
+                                        <span>Speak to us and resolve your questions round the clock.</span>
                                     </div>
                                 </div>
                             </div>
