@@ -355,8 +355,7 @@
         color: #9ad953;
     }
 </style>
- <iframe src="https://fxpricing.com/fx-widget/ticker-tape-widget.php?id=1,2,3,5,14,20&border=show&speed=50&click_target=blank&theme=dark&tm-cr=212529&hr-cr=FFFFFF13&by-cr=28A745&sl-cr=DC3545&flags=circle&d_mode=regular&column=&lang=en&font=Arial, sans-serif" width="100%" height="85" style="border: unset;margin-top:150px"></iframe>
-    <style type="text/css">#fx-pricing-widget-copyright{text-align: center; font-size: 13px; font-family: sans-serif; margin-top: 10px; margin-bottom: 10px; color: #9db2bd;} #fx-pricing-widget-copyright a{text-decoration: unset; color: #bb3534; font-weight: 600;}</style> 
+
     <div class="slide_viewer">
         <div class="slide_group">
 
@@ -458,6 +457,7 @@
         </div>
     </div>
 </div><!-- End // .slider -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <div class="client_company_section py-10 p1-bg align-items-center justify-content-center">
     <!-- Swiper -->
     <div class="swiper client_company swiper-initialized swiper-horizontal swiper-pointer-events">
@@ -1107,7 +1107,7 @@
 </section> -->
 
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
 
 <script>
 

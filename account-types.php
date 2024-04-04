@@ -188,8 +188,8 @@ color: #000000;
                     <h4>Starter</h4>
                 </div>
                 <div class="nb3-bg text-center cus-rounded-3 py-5 py-lg-10 px-4 px-lg-9">
-                    <span>Base currency options</span><p>USD, GBP, EUR<hr></p>
-                    <br><span>Assets</span><p>Crypto<hr></p>
+                    <span>Base currency options</span> <br><p>USD, GBP, EUR<hr></p>
+                    <span>Assets</span> <br> <br><p>Crypto<hr></p>
                     <div class=" d-flex justify-content-xxl-between align-items-center"><span >Spreads from </span><p class="package-para">1.0</p></div><hr>
                     <div class=" d-flex justify-content-xxl-between align-items-center"><span >Leverage</span><p class="package-para">500</p></div><hr>
                     <div class=" d-flex justify-content-xxl-between align-items-center"><span >Hedging</span><img src="assets/images/icon/check-1.png" alt="check-1"></div><hr>
