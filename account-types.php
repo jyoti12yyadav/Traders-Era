@@ -36,10 +36,6 @@
     .sub-table-content>h4{
 color: #000000;
     }
-<<<<<<< HEAD
-
-    
-=======
     .cus-rounded-3{
         border-radius: 0px 0px 10px 10px;
     }
@@ -52,7 +48,6 @@ color: #000000;
         color: #000000;
         text-align: center;
     }
->>>>>>> 5eb3c003361242a7103f806d0cc6393d3c247b20
 </style>
 <section class="banner-section pt-120 pb-120">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
