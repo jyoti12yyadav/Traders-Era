@@ -262,126 +262,108 @@ color: #000000;
     <div class="main-table ">
         <div class="sub-main-table fPIqef">
             <div class="table-content table-content2 ">
-                
                 <div class="sub-table-content text-center"><h4>Spread</h4></div>
                 <div class="sub-table-content text-center"><h4>Standard</h4></div>
                 <div class="sub-table-content text-center"><h4>VIP</h4></div>
                 <div class="sub-table-content text-center"><h4>VIP Black</h4></div>
             </div>
             <div class="table-content ">
-                
                 <div class="sub-table-content"><span>Base currency options</span><p>USD, GBP, EUR, CAD, AUD, CZK, ZAR <hr></p></div>
                 <div class="sub-table-content"><span>Base currency options</span><p>USD, GBP, EUR, CAD, AUD, CZK, ZAR <hr></p></div>
                 <div class="sub-table-content"><span>Base currency options</span><p>USD, GBP, EUR, CAD, AUD, CZK, ZAR <hr></p></div>
                 <div class="sub-table-content"><span>Base currency options</span><p>USD, GBP, EUR, CAD, AUD, CZK, ZAR <hr></p></div>
             </div>
-            <div class="table-content ">
-                
+            <div class="table-content ">  
                 <div class="sub-table-content"><span>Spreads from</span>1.2<hr></div>
                 <div class="sub-table-content"><span>Spreads from</span>0.6<hr></div>
                 <div class="sub-table-content"><span>Spreads from</span>0.4<hr></div>
                 <div class="sub-table-content"><span>Spreads from</span>0.4<hr></div>
             </div>
             <div class="table-content ">
-              
                 <div class="sub-table-content"><span>Commission </span><p>(per round turn lot)</p>$0<hr></div>
                 <div class="sub-table-content"><span>Commission </span><p>(per round turn lot)</p>$5<hr></div>
                 <div class="sub-table-content"><span>Commission </span><p>(per round turn lot)</p>$2<hr></div>
                 <div class="sub-table-content"><span>Commission </span><p>(per round turn lot)</p>$0<hr></div>
             </div>
             <div class="table-content ">
-               
                 <div class="sub-table-content"><span>Minimum trade volume</span>0.01 lots<hr></div>
                 <div class="sub-table-content"><span>Minimum trade volume</span>0.01 lots<hr></div>
                 <div class="sub-table-content"><span>Minimum trade volume</span>0.01 lots<hr></div>
                 <div class="sub-table-content"><span>Minimum trade volume</span>0.01 lots<hr></div>
             </div>
             <div class="table-content ">
-               
                 <div class="sub-table-content"><span>Leverage</span><p>Up to 1:1000<hr></p></div>
                 <div class="sub-table-content"><span>Leverage</span><p>Up to 1:500 on request<hr></p></div>
                 <div class="sub-table-content"><span>Leverage</span><p>Up to 1:500 on request<hr></p></div>
                 <div class="sub-table-content"><span>Leverage</span><p>Up to 1:500 on request<hr></p></div>
             </div>
             <div class="table-content ">
-                
                 <div class="sub-table-content"><span><p>Maximum open / pending orders per client</p></span>200<hr></div>
                 <div class="sub-table-content"><span><p>Maximum open / pending orders per client</p></span>200<hr></div>
                 <div class="sub-table-content"><span><p>Maximum open / pending orders per client</p></span>200<hr></div>
                 <div class="sub-table-content"><span><p>Maximum open / pending orders per client</p></span>200<hr></div>
             </div>
             <div class="table-content ">
-                
                 <div class="sub-table-content"><span>Maximum lots per trade</span>20<hr></div>
                 <div class="sub-table-content"><span>Maximum lots per trade</span>20<hr></div>
                 <div class="sub-table-content"><span>Maximum lots per trade</span>20<hr></div>
                 <div class="sub-table-content"><span>Maximum lots per trade</span>20<hr></div>
             </div>
             <div class="table-content ">
-                
                 <div class="sub-table-content"><span>Margin call</span>100%<hr></div>
                 <div class="sub-table-content"><span>Margin call</span>100%<hr></div>
                 <div class="sub-table-content"><span>Margin call</span>100%<hr></div>
                 <div class="sub-table-content"><span>Margin call</span>100%<hr></div>
             </div>
             <div class="table-content ">
-                
                 <div class="sub-table-content"><span>Margin stop out</span>30%<hr></div>
                 <div class="sub-table-content"><span>Margin stop out</span>30%<hr></div>
                 <div class="sub-table-content"><span>Margin stop out</span>30%<hr></div>
                 <div class="sub-table-content"><span>Margin stop out</span>30%<hr></div>
             </div>
             <div class="table-content ">
-                
                 <div class="sub-table-content"><span>Trading platform</span>MT4 or MT5<hr></div>
                 <div class="sub-table-content"><span>Trading platform</span>MT4 or MT5<hr></div>
                 <div class="sub-table-content"><span>Trading platform</span>MT4 or MT5<hr></div>
                 <div class="sub-table-content"><span>Trading platform</span>MT4 or MT5<hr></div>
             </div>
             <div class="table-content ">
-                
                 <div class="sub-table-content"><span>Hedging</span>Yes<hr></div>
                 <div class="sub-table-content"><span>Hedging</span>Yes<hr></div>
                 <div class="sub-table-content"><span>Hedging</span>Yes<hr></div>
                 <div class="sub-table-content"><span>Hedging</span>Yes<hr></div>
             </div>
             <div class="table-content ">
-                
                 <div class="sub-table-content"><span>Fast order execution speeds</span>Milliseconds<hr></div>
                 <div class="sub-table-content"><span>Fast order execution speeds</span>Milliseconds<hr></div>
                 <div class="sub-table-content"><span>Fast order execution speeds</span>Milliseconds<hr></div>
                 <div class="sub-table-content"><span>Fast order execution speeds</span>Milliseconds<hr></div>
             </div>
             <div class="table-content ">
-               
                 <div class="sub-table-content"><span>Trading signals</span>3 daily signals <p>(Unlimited with $500+ deposit)</p><hr></div>
                 <div class="sub-table-content"><span>Trading signals</span>3 daily signals <p>(Unlimited with $500+ deposit)</p><hr></div>
                 <div class="sub-table-content"><span>Trading signals</span>Unlimited signals<hr></div>
                 <div class="sub-table-content"><span>Trading signals</span>Unlimited signals<hr></div>
             </div>
             <div class="table-content ">
-                
                 <div class="sub-table-content"><span>Technical analysis from Trading Central</span>Yes<hr></div>
                 <div class="sub-table-content"><span>Technical analysis from Trading Central</span>Yes<hr></div>
                 <div class="sub-table-content"><span>Technical analysis from Trading Central</span>Yes<hr></div>
                 <div class="sub-table-content"><span>Technical analysis from Trading Central</span>Yes<hr></div>
             </div>
             <div class="table-content ">
-                
                 <div class="sub-table-content"><span>Free deposits available</span>Yes<hr></div>
                 <div class="sub-table-content"><span>Free deposits available</span>Yes<hr></div>
                 <div class="sub-table-content"><span>Free deposits available</span>Yes<hr></div>
                 <div class="sub-table-content"><span>Free deposits available</span>Yes<hr></div>
             </div>
             <div class="table-content ">
-                
                 <div class="sub-table-content"><span>Free withdrawals available</span>Yes<hr></div>
                 <div class="sub-table-content"><span>Free withdrawals available</span>Yes<hr></div>
                 <div class="sub-table-content"><span>Free withdrawals available</span>Yes<hr></div>
                 <div class="sub-table-content"><span>Free withdrawals available</span>Yes<hr></div>
             </div>
             <div class="table-content ">
-                
                 <div class="sub-table-content"><span>24/7 Customer support</span>Yes</div>
                 <div class="sub-table-content"><span>24/7 Customer support</span>Yes</div>
                 <div class="sub-table-content"><span>24/7 Customer support</span>Yes</div>
