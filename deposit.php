@@ -4,8 +4,20 @@
     .pt-120 {
         padding-top: 60px;
     }
+
     .pb-120 {
         padding-top: 60px;
+    }
+
+    .table thead th,
+    .table td,
+    .table th {
+        border: none;
+        padding: 18px;
+    }
+
+    .icon-table {
+        height: 35px;
     }
 </style>
 
@@ -31,37 +43,74 @@
     </div>
     <div class="container">
         <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
-            <div class="col-sm-10 col-lg-6 col-xxl-5 order-2 order-lg-0">
-                <div class="company-story__thumbs d-center">
-                    <img src="assets/images/deposite.png" class="cus-rounded-1 w-100" alt="Imgae">
-                </div>
-            </div>
-            <div class="col-lg-6 col-xxl-7">
-                <div class="row ms-xl-3 ms-xxl-10">
-                    <div class="col-xxl-12">
-                        <div class="company-story__part">
-
-                            <h3 class="mb-3 mt-5">Smooth & easy deposit funds with TradersEra</h3>
-                            <p>
-                            TradersEra offers convenient payment options tailored to your preferences, including various payment methods and local banking solutions. Simplify your trading experience with flexible payment choices that suit your needs.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-xxl-12 mt-8 mt-md-10 mt-xxl-13">
-                        <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
-
-                            <div class="content">
-                                <h3 class="mb-3">Easy to Start Trading </h3>
-                                <div class="col-12 mt-10 mt-lg-15 ">
-                            <a href="#" class="cmn-btn fs-five nb4-xxl-bg align-items-center py-3 px-6 py-lg-3 px-lg-8" style="--top: 44.03125px; --left: 180px; margin-right: 40px" >Register    </a>
-                            <a href="#" class="cmn-btn fs-five nb4-xxl-bg align-items-center py-3 px-6 py-lg-3 px-lg-8" style="--top: 44.03125px; --left: 180px;">Deposit </a>
-                        </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+            <div class="container my-5">
+                <table id="Record" class="table table-striped table-dark my-3">
+                    <thead>
+                        <tr>
+                            <th scope="col">PAYMENT METHOD</th>
+                            <th scope="col">MINIMUM AMOUNT</th>
+                            <th scope="col">COMMISSION</th>
+                            <th scope="col">FIXED RATE</th>
+                            <th scope="col">EXECUTION TIME</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row"><img src="assets/images/icon/a. mastercard.png" alt="mastercard" class="icon-table"></th>
+                            <td>Mark</td>
+                            <td>Otto</td>
+                            <td>@mdo</td>
+                            <td>@mdo</td>
+                        </tr>
+                        <tr>
+                            <td scope="row"><img src="assets/images/icon/a. mastercard.png" alt="mastercard" class="icon-table"></td>
+                            <td>50.00 EUR</td>
+                            <td>Free</td>
+                            <td>Not applied</td>
+                            <td>Instant</td>
+                            <td>instant</td>
+                        </tr>
+                        <tr>
+                            <th scope="row"><img src="assets/images/icon/Tether.png" alt="mastercard" class="icon-table"></th>
+                            <td>50.00000000 USDTE</td>
+                            <td>Free</td>
+                            <td>Not applied</td>
+                            <td>3-30 minutes</td>
+                            <td>instant</td>
+                        </tr>
+                        <tr>
+                            <th scope="row"><img src="assets/images/icon/Tether.png" alt="mastercard" class="icon-table"></th>
+                            <td>50.00000000 USDTT</td>
+                            <td>Free</td>
+                            <td>Not applied</td>
+                            <td>3-30 minutes</td>
+                            <td>instant</td>
+                        </tr>
+                        <tr>
+                            <th scope="row"><img src="assets/images/icon/a. mastercard.png" alt="mastercard" class="icon-table"></th>
+                            <td>Larry</td>
+                            <td>the Bird</td>
+                            <td>@twitter</td>
+                        </tr>
+                        <tr>
+                            <th scope="row"><img src="assets/images/icon/Upi-Payment.png" alt="mastercard" class="icon-table"></th>
+                            <td>1500.00 INR</td>
+                            <td>Free</td>
+                            <td>Available</td>
+                            <td>3-30 minutes</td>
+                            <td>Instant</td>
+                        </tr>
+                        <tr>
+                            <th scope="row"><img src="assets/images/icon/a. mastercard.png" alt="mastercard" class="icon-table"></th>
+                            <td>Larry</td>
+                            <td>the Bird</td>
+                            <td>@twitter</td>
+                        </tr>
+                    </tbody>
+                </table>
             </div>
         </div>
     </div>
 </section>
+
 <?php include("includes/footer.php"); ?>

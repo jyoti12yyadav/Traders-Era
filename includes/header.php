@@ -147,8 +147,8 @@
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item" href="economic-calendar.php">Economic Calender</a></li>
                                 <li><a class="dropdown-item" href="news-research.php">News & Research</a></li>
-                                <li class="glossary-hover"><a class="dropdown-item " href="news-research.php">Academy</a></li>
-                                <li class="glossary"><a class="dropdown-item" href="glossary.php">Glossary</a></li>
+                                <li><a class="dropdown-item" href="glossary.php">Glossary</a></li>
+                                <li><a class="dropdown-item " href="#">Academy</a></li>
                             </ul>
                         </li>
 
