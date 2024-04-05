@@ -16,7 +16,7 @@
     </div>
 </section>
 
-<section class="faq pb-120 pt-120 position-relative z-0">
+<!-- <section class="faq pb-120 pt-120 position-relative z-0">
     <div class="container">
         <div class="row gy-6 justify-content-center">
             <h2 class="d-flex justify-content-center mb-10">FAQ</h2>
@@ -160,6 +160,13 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
+
+<div class="row">
+    <div class="col-lm-12" style="padding-top:100px; padding-bottom: 100px;">
+        <center><h1 style="font-size: 100px;">Coming Soon</h1></center>
+    </div>
+</div>
+<br>
 
 <?php include("includes/footer.php"); ?>
