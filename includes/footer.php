@@ -118,7 +118,7 @@
                             <a class="n2-color d-flex align-items-center" href="account-types.php">Account Types</a>
                         </li>
                         <li>
-                            <a class="n2-color" href="deposit.php">Deposite</a>
+                            <a class="n2-color" href="deposit.php">Deposit</a>
                         </li>
                         <li>
                             <a class="n2-color" href="withdrawal.php">Withdrawal</a>

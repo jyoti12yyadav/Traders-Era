@@ -92,7 +92,7 @@
 </section> -->
 <div class="row">
     <div class="col-lm-12" style="padding-top:100px; padding-bottom: 100px;">
-        <center><h1 style="font-size: 100px;">Comming Soon</h1></center>
+        <center><h1 style="font-size: 100px;">Coming Soon</h1></center>
     </div>
 </div>
 <br>
