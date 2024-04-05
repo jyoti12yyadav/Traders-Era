@@ -6,6 +6,27 @@
     padding: 30px;
     border-radius: 19px;
 }
+.alt_form select{
+    border-bottom:rgb(52 56 57);
+    
+}
+
+.single-input{
+    margin-top: 27px !important;
+    border-bottom: 2px solid #3a3939;
+
+}
+.nice-select{
+    padding-top:10px;
+    padding-bottom: 14px;
+}
+.nice-select:focus, .nice-select:hover {
+    background-color: transparent;
+    box-shadow: none;
+}
+.nice-select .list{
+    background-color:#000;
+}
 </style>
 
 <section class="banner-section  pt-120 pb-120">
@@ -120,10 +141,10 @@
                                 </div>
                             </div>
                             <div class="col-sm-6">
-                                <div class="single-input">
-                                    <select class="form-control department fs-six-up" id="00N2x000009IscO" name="00N2x000009IscO" title="Department" required="">
+                                <div class="single-input" style="  margin-top: 27px">
+                                    <select class="form-control fs-six-up" id="00N2x000009IscO" name="00N2x000009IscO" title="Department" required="">
                                         <option value="Client Relations">Client Relations</option>
-                                        <option value="Support" selected="">Support</option>
+                                        <option value="Support" selected="" >Support</option>
                                         <option value="Accounts">Accounts</option>
                                         <option value="Compliance">Compliance</option> 
                                         <option value="Marketing">Marketing</option>

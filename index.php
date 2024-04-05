@@ -607,7 +607,7 @@
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
                                         <h3 class="">Safety of Funds Assured</h3>
-                                        <span>Safe garding you and all peers with top security and regulatory frameworks practices.</span>
+                                        <span>Safeguarding you and all peers with top security and regulatory frameworks practices.</span>
                                     </div>
 
 
