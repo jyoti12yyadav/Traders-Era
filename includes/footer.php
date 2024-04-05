@@ -111,8 +111,9 @@
                         </li>
                     </ul>
                 </div>
-                <div class="trading-img">
-                    <img style="height:60px;" src="assets/images/icon/trading-view.png" alt="">
+                <br>
+                <div class="trading-img" class="mt-10;">
+                    <img  style="height:40px; border:1px solid white; border-radius:14px;" src="assets/images/icon/trading-view.png" alt="">
                 </div>
             </div>
 
