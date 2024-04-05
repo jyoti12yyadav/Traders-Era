@@ -11,9 +11,9 @@
         margin-left: -65px;
         /* margin-top: 25px; */
     }
-    
-    .trad img{
-        height:70px;
+
+    .trad img {
+        height: 70px;
     }
 </style>
 
@@ -54,23 +54,27 @@
         <img src="assets/images/vector4.png" alt="vector" class="position-absolute bottom-0 end-0">
     </div>
     <div class="container">
-        <div class="start-earning nb3-bg cus-rounded-2 d-flex align-items-center p-4 p-sm-6 p-md-10 p-lg-15 p-xl-20 pe-lg-6 pe-xl-16 overflow-hidden position-relative">
-                <div class="vector_effect position-absolute d-center justify-content-end end-0  d-flex gap-20">
-                    <img src="assets/images/star2.png" alt="vector" class="d-none d-xxl-flex push_animat">
-                    <img src="assets/images/star_focus.png" alt="vector" class="d-none d-sm-flex rotate time_dur ms-auto ms-lg-0 me-md-5">
+        <div
+            class="start-earning nb3-bg cus-rounded-2 d-flex align-items-center p-4 p-sm-6 p-md-10 p-lg-15 p-xl-20 pe-lg-6 pe-xl-16 overflow-hidden position-relative">
+            <div class="vector_effect position-absolute d-center justify-content-end end-0  d-flex gap-20">
+                <img src="assets/images/star2.png" alt="vector" class="d-none d-xxl-flex push_animat">
+                <img src="assets/images/star_focus.png" alt="vector"
+                    class="d-none d-sm-flex rotate time_dur ms-auto ms-lg-0 me-md-5">
+            </div>
+            <div class="row gy-6 w-100 text-center text-sm-start align-items-center justify-content-sm-between">
+                <div class="col-sm-8">
+                    <h4>Start Trading today with TradersEra with $10</h4>
+                    <p class="fs-six-up fw_500 mt-5">Trade crypto, binary, forex and use AI for Investments.
+                    </p>
                 </div>
-                <div class="row gy-6 w-100 text-center text-sm-start align-items-center justify-content-sm-between">
-                    <div class="col-sm-8">
-                        <h4>Start Trading today with TradersEra with $10</h4>
-                        <p class="fs-six-up fw_500 mt-5">Trade crypto, binary, forex and use AI for Investments.
-</p>    
-                    </div>
-                    <div class="col-sm-4 text-sm-end">
-                        <a href="signup.html" class="cmn-btn secondary-alt ms-auto fs-five nb4-xxl-bg gap-2 align-items-center  py-2 px-4 py-lg-3 px-lg-5">Open An
+                <div class="col-sm-4 text-sm-end">
+                    <a href="signup.html"
+                        class="cmn-btn secondary-alt ms-auto fs-five nb4-xxl-bg gap-2 align-items-center  py-2 px-4 py-lg-3 px-lg-5">Open
+                        An
                         Account <i class="ti ti-arrow-right fs-four"></i></a>
-                    </div>
                 </div>
-            </div>  
+            </div>
+        </div>
 
         <div class="row gy-8 gy-sm-12 gy-lg-0 pt-120 ">
             <div class="col-6 col-lg-3">
@@ -106,6 +110,9 @@
 
                         </li>
                     </ul>
+                </div>
+                <div class="trading-img">
+                    <img style="height:60px;" src="assets/images/icon/trading-view.png" alt="">
                 </div>
             </div>
 
@@ -320,15 +327,15 @@
 
 <!--Start of Tawk.to Script-->
 <script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/660a504ba0c6737bd126e8e2/1hqc4ja9h';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
-})();
+    var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+    (function () {
+        var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+        s1.async = true;
+        s1.src = 'https://embed.tawk.to/660a504ba0c6737bd126e8e2/1hqc4ja9h';
+        s1.charset = 'UTF-8';
+        s1.setAttribute('crossorigin', '*');
+        s0.parentNode.insertBefore(s1, s0);
+    })();
 </script>
 <!--End of Tawk.to Script-->
 </body>
