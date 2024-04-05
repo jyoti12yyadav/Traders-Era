@@ -50,7 +50,7 @@
                                 <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
 
                                     <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
-                                        
+
 
                                         <div class="privacy-policy__part">
 
@@ -68,33 +68,47 @@
                                                 regulators, and other important information that traders may find
                                                 helpful when working on the financial markets.</p>
                                         </div>
-                                        
+
                                     </div>
                                 </div>
                             </div>
                         </div>
+
+
+
+
                 </section>
+                <section class="provide-world a2-bg">
+                    <div class="container">
+                        <div class="row justify-content-center">
 
-          <!-- TradingView Widget BEGIN -->
-<div class="tradingview-widget-container">
-    <div class="tradingview-widget-container__widget"></div>
-    <div class="tradingview-widget-copyright"><a href="https://in.tradingview.com/" rel="noopener nofollow" target="_blank"><span class="blue-text">Track all markets on TradingView</span></a></div>
-    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-events.js" async>
-    {
-    "colorTheme": "dark",
-    "isTransparent": false,
-    "width": "1000",
-    "height": "750",
-    "locale": "in",
-    "importanceFilter": "-1,0,1",
-    "countryFilter": "ar,au,br,ca,cn,fr,de,in,id,it,jp,kr,mx,ru,sa,za,tr,gb,us,eu"
-  }
-    </script>
-  </div>
+                        <!-- TradingView Widget BEGIN -->
+                        <div class="tradingview-widget-container">
+                            <div class="tradingview-widget-container__widget"></div>
+                            <div class="tradingview-widget-copyright"><a href="https://in.tradingview.com/"
+                                    rel="noopener nofollow" target="_blank"><span class="blue-text">Track all markets on
+                                        TradingView</span></a></div>
+                            <script type="text/javascript"
+                                src="https://s3.tradingview.com/external-embedding/embed-widget-events.js" async>
+                                    {
+                                        "colorTheme": "dark",
+                                            "isTransparent": false,
+                                                "width": "1000",
+                                                    "height": "750",
+                                                        "locale": "in",
+                                                            "importanceFilter": "-1,0,1",
+                                                                "countryFilter": "ar,au,br,ca,cn,fr,de,in,id,it,jp,kr,mx,ru,sa,za,tr,gb,us,eu"
+                                    }
+                                </script>
+                        </div>
 
-                <!-- TradingView Widget END -->
+                        <!-- TradingView Widget END -->
+                        </div>
+                    </div>
+                        <!-- TradingView Widget END -->
 
 
+                </section>
                 <section class="privacy-policy pb-120 ">
                     <div class="container">
                         <div class="row justify-content-center">
@@ -102,7 +116,7 @@
                                 <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
 
                                     <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
-                                        
+
                                         <div class="privacy-policy__part">
                                             <h5 class="mb-4">How is the News calendar to be read?
                                             </h5>
@@ -112,10 +126,14 @@
                                             <p class="mt-4">How to increase the effectiveness of your trading operations
                                                 by utilizing the news calendar
                                             </p>
-                                            <p class="mt-4">Select your location's time zone to begin using the Economic calendar. As a result, news and reports will be released according to your local time.
-                                                Next, choose the period that you would like to get the reports. The news for the current and upcoming weeks is available in the TraderEra Financial calendar.
-                                                
-                                                
+                                            <p class="mt-4">Select your location's time zone to begin using the Economic
+                                                calendar. As a result, news and reports will be released according to
+                                                your local time.
+                                                Next, choose the period that you would like to get the reports. The news
+                                                for the current and upcoming weeks is available in the TraderEra
+                                                Financial calendar.
+
+
                                             </p>
 
                                         </div>
