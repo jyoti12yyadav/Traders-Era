@@ -70,6 +70,7 @@
             </div>
         </div>
     </section>
+
     <section class="company-story position-relative z-0  pt-120 pb-120 ">
         <div class="animation position-absolute w-100 h-100 z-n1">
             <img src="assets/images/star3.png" alt="vector" class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
@@ -121,38 +122,96 @@
             </div>
         </div>
     </section>
+
     <section class="company-story position-relative z-0  pt-120 pb-120 ">
         <div class="animation position-absolute w-100 h-100 z-n1">
             <img src="assets/images/star3.png" alt="vector" class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
         </div>
         <div class="container">
             <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
-                <div class="col-sm-10 col-lg-6 col-xxl-3 order-2 order-lg-0">
-                    <div class="company-story__thumbs d-center">
-                        <img src="assets/images/company_story.png" class="cus-rounded-1 w-100" alt="Imgae">
+                <div class="col-sm-10 col-lg-6 col-xxl-2 order-2 order-lg-0">
+                    <div class="company-story__thumbs offers-content d-center">
+                        <h4>3</h4>
+                        <div>
+                  
+                        </div>
                     </div>
                 </div>
-                <div class="col-lg-6 col-xxl-7">
+                <div class="col-sm-10 col-lg-6 col-xxl-4 order-2 order-lg-0">
+                    <div class="company-story__thumbs offers-content d-center">
+                      
+                        <div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-xxl-6">
                     <div class="row ms-xl-3 ms-xxl-10">
                         <div class="col-md-6 col-xxl-12">
-                            <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                               <h4 class="mt-5 mb-5">MetaTrader 5</h4>
-                               <p>For smart tech trading</p>
+                            <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 px-4 px-lg-9">
+                               <h4 class="mt-5 mb-5 offers-title">Increase your deposit by half with our bonus</h4>
+                               <hr>
+                               <p>Activate your free 50% bonus on the amount you deposit.</p>
                             </div>
                         </div> 
-                        <div class="col-xxl-12 mt-8 mt-md-10 mt-xxl-13">
-                            <div class="col-md-6 col-xxl-12">
-                                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                                   <h4 class="mt-5 mb-5">MetaTrader 4</h4>
-                                   <p>For an easy start</p>
-                                </div>
-                            </div>  
-                        </div>
                     </div>  
                 </div>
             </div>
         </div>
     </section>
 
+    <section class="company-story position-relative z-0  pt-120 pb-120 ">
+        <div class="animation position-absolute w-100 h-100 z-n1">
+            <img src="assets/images/star3.png" alt="vector" class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
+        </div>
+        <div class="container">
+            <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
+                <div class="col-sm-10 col-lg-6 col-xxl-2 order-2 order-lg-0">
+                    <div class="company-story__thumbs offers-content d-center">
+                        <h4>4</h4>
+                        <div>
+                  
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-10 col-lg-6 col-xxl-5 order-2 order-lg-0">
+                    <div class="company-story__thumbs offers-content d-center">
+                        <div>
+                        <h2>Withdraw bonus funds</h2>
+                        <br>
+                        <p>Privileged conditions for users with higher statuses</p>
+                        <br>
+                        <p>Keep trading and you’ll be able to withdraw the bonus amount. You’ll need to trade the following number of lots to withdraw your bonus:</p>
+                        <br>
+                        <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 px-4 px-lg-9">
+                            <div class="row">
+                                <div class="col-6 d-flex align-items-center">
+                                    <p>Standard lot number =</p>
+                                </div>
+                                <div class="col-6">
+                                    <p>Bonus amount in USD <hr>2</p>
+                                </div>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-xxl-5">
+                    <div class="row ms-xl-3 ms-xxl-10">
+                        <div class="col-md-6 col-xxl-12">
+                            <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 px-4 px-lg-9">
+                                <div class="row">
+                                    <div class="d-flex "><p>Your deposit amount</p> <p style="padding-left: 190px;">$400</p></div><hr><br>
+                                    <div class="d-flex "><p>50% bonus we provide</p> <p style="padding-left: 175px;">$200</p></div><hr><br>
+                                    <div class="d-flex "><p>Divide your bonus by half</p> <p style="padding-left: 157px;">$200/2</p></div><hr><br>
+                                    <div class="d-flex "><h6>Number of lots to trade</h6> <h6 style="padding-left: 140px;">100 lots</h6></div>
+                                    
+                                </div>
+                            </div>
+                        </div> 
+                    </div>  
+                </div>
+            </div>
+        </div>
+    </section>
 
 <?php include("includes/footer.php"); ?>
