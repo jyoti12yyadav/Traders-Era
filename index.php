@@ -821,9 +821,8 @@
                         <img src="assets/images/icon/number-1.png" alt="time">
                     </span>
                     <h4 class="mt-5 mb-5">Register</h4>
-                    <p>Choose an account type and complete our fast and secure application fast and secure
-                        application
-                        form</p>
+                    <p>Sign up using your bank details and login to dashboard.</p>
+                    <br>
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
@@ -832,9 +831,8 @@
                         <img src="assets/images/icon/two.png" alt="wallet">
                     </span>
                     <h4 class="mt-5 mb-5">Verify</h4>
-                    <p>use our digital onboarding system for fast verification</p>
-                    <br>
-                    <br>
+                    <p>Use our online verification tool and submit your details and document.</p>
+                   
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
@@ -843,9 +841,7 @@
                         <img src="assets/images/icon/number-3.png" alt="low-price">
                     </span>
                     <h4 class="mt-5 mb-5">Fund</h4>
-                    <p>Fund your trading account using a wide range of funding methods</p>
-                    <br>
-                    <br>
+                    <p>Fund your trading account using a wide range of funding methods.</p>
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
@@ -854,8 +850,7 @@
                         <img src="assets/images/icon/number-4.png" alt="customer">
                     </span>
                     <h4 class="mt-5 mb-5">Trade</h4>
-                    <p>Start trading on your live account and access +2,100 instruments</p>
-                    <br>
+                    <p>Start trading with binary,spot and AI trading platform.</p>
                     <br>
                 </div>
 
