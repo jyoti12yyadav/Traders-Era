@@ -24,7 +24,155 @@
         </div>
     </div>
 </section>
+<section class="company-story position-relative z-0  pt-120">
+    <div class="animation position-absolute w-100 h-100 z-n1">
+        <img src="assets/images/star3.png" alt="vector" class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
+    </div>
+    <div class="container">
+        <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
+            <h2 class=" mb-lg-5 d-flex justify-content-center">Energy</h2>
+            <div class="container my-5">
+            <table id="Record" class="table table-striped table-dark my-3">
+            <thead>
+            <tr>
+<th>Instrument</th>
+<th>Currency</th>
+<th>Contract size</th>
+</tr>
+</thead>
+<thead>
+<tr>
 
+</tr>
+</thead>
+<tbody>
+    <tr>
+    <td>Gold Zero</td>
+    <td>USD</td>
+    <td>100</td>
+    </tr>
+    <tr>
+    <td>Silver Zero</td>
+    <td>USD</td>
+    <td>5000</td>
+    </tr>
+    <tr>
+    <td>Gold</td>
+    <td>USD</td>
+    <td>100</td>
+    </tr>
+    <tr>
+    <td>Mini Gold</td>
+    <td>USD</td>
+    <td>10</td>
+    </tr>
+    <tr>
+    <td>Silver</td>
+    <td>USD</td>
+    <td>5000</td>
+    </tr>
+    <tr>
+    <td>Mini Silver</td>
+    <td>USD</td>
+    <td>500</td>
+    </tr>
+    <tr>
+    <td>Platinum</td>
+    <td>USD</td>
+    <td>100</td>
+    </tr>
+    <tr>
+    <td>High Grade<br>
+    Copper</td>
+    <td>USD</td>
+    <td>10000</td>
+    </tr>
+    <tr>
+    <td>Gold in EUR</td>
+    <td>EUR</td>
+    <td>100</td>
+    </tr>
+    </tbody>
+</table>
+            </div>
+    </div>
+    </div>
+</section>
+<section class="company-story position-relative z-0  pt-120 pb-120 ">
+    <div class="animation position-absolute w-100 h-100 z-n1">
+        <img src="assets/images/star3.png" alt="vector" class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
+    </div>
+    <div class="container">
+        <h2 class=" mb-lg-5 d-flex justify-content-center">Metal</h2>
+        <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
+            <div class="container my-5">
+            <table id="Record" class="table table-striped table-dark my-3">
+            <thead>
+            <tr>
+<th>Instrument</th>
+<th>Currency</th>
+<th>Contract size</th>
+</tr>
+</thead>
+<thead>
+<tr>
+
+</tr>
+</thead>
+<tbody>
+    <tr>
+    <td>Gold Zero</td>
+    <td>USD</td>
+    <td>100</td>
+    </tr>
+    <tr>
+    <td>Silver Zero</td>
+    <td>USD</td>
+    <td>5000</td>
+    </tr>
+    <tr>
+    <td>Gold</td>
+    <td>USD</td>
+    <td>100</td>
+    </tr>
+    <tr>
+    <td>Mini Gold</td>
+    <td>USD</td>
+    <td>10</td>
+    </tr>
+    <tr>
+    <td>Silver</td>
+    <td>USD</td>
+    <td>5000</td>
+    </tr>
+    <tr>
+    <td>Mini Silver</td>
+    <td>USD</td>
+    <td>500</td>
+    </tr>
+    <tr>
+    <td>Platinum</td>
+    <td>USD</td>
+    <td>100</td>
+    </tr>
+    <tr>
+    <td>High Grade<br>
+    Copper</td>
+    <td>USD</td>
+    <td>10000</td>
+
+    </tr>
+    <tr>
+    <td>Gold in EUR</td>
+    <td>EUR</td>
+    <td>100</td>
+    </tr>
+    </tbody>
+</table>
+            </div>
+    </div>
+    </div>
+</section>
 <section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/coin.png" alt="vector" class="position-absolute d-none d-md-flex previewShapeRevX">
