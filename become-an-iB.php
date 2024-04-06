@@ -257,7 +257,7 @@
                     </h3>
                     <p>Access a wide range of trading resources and tools suitable for traders of all levels
                     </p>
-                   <br>
+                   <br> 
                 </div>
             </div>
             <div class="col-lg-6 col-xxl-6">
