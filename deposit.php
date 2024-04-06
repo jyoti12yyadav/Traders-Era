@@ -36,6 +36,8 @@
         </div>
     </div>
 </section>
+
+
 <section class="company-story position-relative z-0  pt-120 pb-120 ">
     <div class="animation position-absolute w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="vector"
@@ -57,7 +59,7 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <th scope="row"><img src="assets/images/icon/a. mastercard.png" alt="mastercard" class="icon-table"></th>
+                            <th scope="row"><img src="assets/images/icon/a. visa white _logo.png" alt="mastercard" style="height: 25px;"></th>
                             <td>Mark</td>
                             <td>Otto</td>
                             <td>@mdo</td>
@@ -89,7 +91,7 @@
                             <td>instant</td>
                         </tr>
                         <tr>
-                            <th scope="row"><img src="assets/images/icon/a. mastercard.png" alt="mastercard" class="icon-table"></th>
+                            <th scope="row"><img src="assets/images/icon/Perfect-Money- white logo.png" alt="mastercard" style="height: 45px;"></th>
                             <td>Larry</td>
                             <td>the Bird</td>
                             <td>@twitter</td>
@@ -105,7 +107,7 @@
                             <td>Instant</td>
                         </tr>
                         <tr>
-                            <th scope="row"><img src="assets/images/icon/a. mastercard.png" alt="mastercard" class="icon-table"></th>
+                            <th scope="row"><img src="assets/images/icon/a. Wire Transfer white logo.png" alt="mastercard" class="icon-table"></th>
                             <td>Larry</td>
                             <td>the Bird</td>
                             <td>@twitter</td>

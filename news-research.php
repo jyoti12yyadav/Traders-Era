@@ -15,60 +15,104 @@
         </div>
     </div>
 </section>
+
+<style>
+    .pt-120 {
+    padding-top: 60px;
+}
+
+.pb-120{
+    padding-bottom: 60px;
+}
+
+.tradingview-widget-container {
+    margin-top: 50px;
+   
+}
+</style>
+
+
 <section class="pt-60 pb-60">
     <div class="container">
+        <section class="provide-world   position-relative z-0">
+            <div class="container">
+                <div class="row gy-6 gy-xxl-0  pt-120">
+                    <h3 class=" mb-lg-5 d-flex justify-content-center">Forex Market Updates</h3>
+                    <center>
+                        <h5 class="mb-7"> Stay Ahead of Market Trends and Opportunities with Regular, Timely Updates on Forex Developments.</h5>
+                    </center>
+        
+                </div>
+            </div>
+        
+        </section>
+      
         <!-- TradingView Widget BEGIN -->
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-timeline.js" async>
-  {
-  "feedMode": "all_symbols",
-  "isTransparent": false,
-  "displayMode": "regular",
-  "width": "1250",
-  "height": "550",
-  "colorTheme": "dark",
-  "locale": "en"
-}
-  </script>
-</div>
-<!-- TradingView Widget END -->
+        <div class="tradingview-widget-container">
+            <div class="tradingview-widget-container__widget"></div>
+            <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-timeline.js"
+                async>
+                    {
+                        "feedMode": "all_symbols",
+                            "isTransparent": false,
+                                "displayMode": "regular",
+                                    "width": "1250",
+                                        "height": "550",
+                                            "colorTheme": "dark",
+                                                "locale": "en"
+                    }
+                </script>
+        </div>
+        <!-- TradingView Widget END -->
     </div>
 </section>
 <section class="pt-120 pb-60">
     <div class="container">
-    <div class="row justify-content-between align-items-center mb-10 mb-lg-15">
-            <div class="col-xl-12">
-                <!-- <span class="heading s1-color fs-five mb-5">Our Mission</span> -->
-                <h3>Stock Heatmap</h3>
-            </div>  
-        </div>
+        <section class="provide-world pt-120 pb-120  position-relative z-0" style="padding-bottom: 25px;">
+            <div class="container">
+                <div class="row gy-6 gy-xxl-0">
+                    <h3 class=" mb-lg-5 d-flex justify-content-center">Forex Heat Map  </h3>
+                    <center>
+                        <h5 class="mb-7"> Experience Real-time Currency Strength Visualization for Immediate Market Analysis and Informed Trading Decisions.</h5>
+                    </center>
+        
+                </div>
+            </div>
+        
+        </section>
+      
         <!-- TradingView Widget BEGIN -->
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-stock-heatmap.js" async>
-  {
-  "exchanges": [],
-  "dataSource": "SPX500",
-  "grouping": "sector",
-  "blockSize": "market_cap_basic",
-  "blockColor": "change",
-  "locale": "en",
-  "symbolUrl": "",
-  "colorTheme": "dark",
-  "hasTopBar": false,
-  "isDataSetEnabled": false,
-  "isZoomEnabled": true,
-  "hasSymbolTooltip": true,
-  "width": "1250",
-  "height": "550"
-}
-  </script>
-</div>
-<!-- TradingView Widget END -->
-</div>
+        <!-- TradingView Widget BEGIN -->
+        <div class="tradingview-widget-container pb-120">
+            <div class="tradingview-widget-container__widget"></div>
+            <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/" rel="noopener nofollow"
+                    target="_blank"><span class="blue-text"></span></a></div>
+            <script type="text/javascript"
+                src="https://s3.tradingview.com/external-embedding/embed-widget-forex-heat-map.js" async>
+                    {
+                        "width": 1250,
+                            "height": 700,
+                                "currencies": [
+                                    "EUR",
+                                    "USD",
+                                    "JPY",
+                                    "GBP",
+                                    "CHF",
+                                    "AUD",
+                                    "CAD",
+                                    "NZD",
+                                    "CNY"
+                                ],
+                                    "isTransparent": false,
+                                        "colorTheme": "dark",
+                                            "locale": "en",
+                                                "backgroundColor": "#1D222D"
+                    }
+                </script>
+        </div>
+        <!-- TradingView Widget END -->
 </section>
-<section class="trade_on trade_on--secondary pt-120 pb-60 position-relative z-0">
+<!-- <section class="trade_on trade_on--secondary pt-120 pb-60 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="vector"
             class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
@@ -99,11 +143,11 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
 <!--Our Mission start-->
-<section class="provide-world our_mission pt-120 pb-120 position-relative z-0">
+<!-- <section class="provide-world our_mission pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/vector7.png" alt="vector"
             class="position-absolute bottom-0 pt-6 pt-xl-15 d-none d-lg-flex push_animat">
@@ -111,17 +155,17 @@
     <div class="container">
         <div class="row justify-content-between align-items-center mb-10 mb-lg-15">
             <div class="col-xl-12">
-                <!-- <span class="heading s1-color fs-five mb-5">Our Mission</span> -->
+               
                 <h3>Empower Your Trading Journey with TradersEra's News & Research Hub!
                 </h3>
             </div>
-            
+
         </div>
         <div class="row gy-6 gy-xxl-0">
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                    <img src="assets/images/icon/market-research.png" alt="Imgae">
+                        <img src="assets/images/icon/market-research.png" alt="Imgae">
                     </span>
                     <h4 class="mt-5 mb-5">Market Insights</h4>
                     <p>Explore our comprehensive market insights section, where you'll find up-to-the-minute analysis on
@@ -134,7 +178,7 @@
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                    <img src="assets/images/icon/world-news.png" alt="Imgae">
+                        <img src="assets/images/icon/world-news.png" alt="Imgae">
                     </span>
                     <h4 class="mt-5 mb-5">Breaking News</h4>
                     <p>Stay informed with real-time updates on significant events, economic indicators, central bank
@@ -146,7 +190,7 @@
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                    <img src="assets/images/icon/education.png" alt="Imgae">
+                        <img src="assets/images/icon/education.png" alt="Imgae">
                     </span>
                     <h4 class="mt-5 mb-5">Educational Resources</h4>
                     <p>Knowledge is power. Enhance your trading skills and deepen your understanding of forex markets
@@ -160,69 +204,78 @@
 
         <div class="container">
             <div class="row justify-content-between align-items-center mb-10 mb-lg-15">
-                <!-- <div class="col-xl-5">
-                    <span class="heading s1-color fs-five mb-5">Our Mission</span>
-                    <h3>Empowering Success How We're Making a Difference</h3>
-                </div>
-                <div class="col-xl-4">
-                    <p class="fs-six-up mx-ch text-xl-end mt-3 mt-xl-0">we believe that success is not reserved for the
-                        privileged few. It's a journey that anyone can embark upon with right guidance</p>
-                </div> -->
+               
             </div>
             <div class="row gy-6 gy-xxl-0">
                 <div class="col-md-6 col-xxl-4">
                     <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/technical.png" alt="Imgae">
+                            <img src="assets/images/icon/technical.png" alt="Imgae">
                         </span>
                         <h4 class="mt-5 mb-5">Technical Analysis</h4>
-                        <p>Unlock the power of technical analysis with our comprehensive charts, indicators, and technical insights. Whether you're interested in chart patterns, Fibonacci retracements, or oscillators, our technical analysis tools empower you to identify potential trade opportunities and optimize your entry and exit points.
+                        <p>Unlock the power of technical analysis with our comprehensive charts, indicators, and
+                            technical insights. Whether you're interested in chart patterns, Fibonacci retracements, or
+                            oscillators, our technical analysis tools empower you to identify potential trade
+                            opportunities and optimize your entry and exit points.
                         </p>
                     </div>
                 </div>
                 <div class="col-md-6 col-xxl-4">
                     <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/fundamental.png" alt="Imgae">
+                            <img src="assets/images/icon/fundamental.png" alt="Imgae">
                         </span>
                         <h4 class="mt-5 mb-5">Fundamental Analysis</h4>
-                        <p>Understand the fundamental drivers behind currency movements with our in-depth analysis of economic data releases, central bank policies, and macroeconomic trends. Our fundamental analysis equips you with the knowledge to interpret market fundamentals and anticipate future market trends.</p>
-                    <br>
+                        <p>Understand the fundamental drivers behind currency movements with our in-depth analysis of
+                            economic data releases, central bank policies, and macroeconomic trends. Our fundamental
+                            analysis equips you with the knowledge to interpret market fundamentals and anticipate
+                            future market trends.</p>
+                        <br>
                     </div>
                 </div>
                 <div class="col-md-6 col-xxl-4">
                     <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/research.png" alt="Imgae">
+                            <img src="assets/images/icon/research.png" alt="Imgae">
                         </span>
                         <h4 class="mt-5 mb-5">Research Reports</h4>
-                        <p>Dive deep into the forex market with our research reports, which provide detailed analysis and forecasts on key currency pairs and market trends. Whether you're interested in short-term trading opportunities or long-term investment strategies, our research reports offer valuable insights to guide your decision-making proces</p>
+                        <p>Dive deep into the forex market with our research reports, which provide detailed analysis
+                            and forecasts on key currency pairs and market trends. Whether you're interested in
+                            short-term trading opportunities or long-term investment strategies, our research reports
+                            offer valuable insights to guide your decision-making proces</p>
                     </div>
                 </div>
-    
+
             </div>
-    
-</section>
+
+</section> -->
 <!-- Our Mission end -->
 
 
 <!--Customers start-->
-<section class="customers position-relative z-0">
+<!-- <section class="customers position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-        <img src="assets/images/vector6.png" alt="vector" class="position-absolute rotate d-none d-xxxl-flex start-0 top-0 pt-20 mt-5 ps-20 ms-5">
-        <img src="assets/images/vector8.png" alt="vector" class="position-absolute bottom-0 pb-20 mb-4 d-none d-xxl-flex">
-        <img src="assets/images/earth.png" alt="vector" class="position-absolute d-none d-xl-flex bottom-0 end-0 rotate">
+        <img src="assets/images/vector6.png" alt="vector"
+            class="position-absolute rotate d-none d-xxxl-flex start-0 top-0 pt-20 mt-5 ps-20 ms-5">
+        <img src="assets/images/vector8.png" alt="vector"
+            class="position-absolute bottom-0 pb-20 mb-4 d-none d-xxl-flex">
+        <img src="assets/images/earth.png" alt="vector"
+            class="position-absolute d-none d-xl-flex bottom-0 end-0 rotate">
     </div>
     <div class="container">
-        <div class="row gy-10 gy-xl-0 justify-content-center justify-content-lg-between align-items-center align-items-xxl-end">
+        <div
+            class="row gy-10 gy-xl-0 justify-content-center justify-content-lg-between align-items-center align-items-xxl-end">
             <div class="col-lg-6 col-xxl-5 pb-0 pt-120 pb-lg-120">
                 <div class="customers__content me-xxl-18">
-                    <h4 class="mb-4">Ready to take your trading to the next level? Explore our News & Research section now!
+                    <h4 class="mb-4">Ready to take your trading to the next level? Explore our News & Research section
+                        now!
 
                     </h4>
-                    <p class="mx-ch">At TradersEra, we're committed to providing you with the tools, insights, and resources you need to succeed in the fast-paced world of forex trading. Bookmark this page and make it your go- to destination for staying informed and empowered in your trading journey.</p>   
-                  
-                    
+                    <p class="mx-ch">At TradersEra, we're committed to providing you with the tools, insights, and
+                        resources you need to succeed in the fast-paced world of forex trading. Bookmark this page and
+                        make it your go- to destination for staying informed and empowered in your trading journey.</p>
+
+
                 </div>
             </div>
             <div class="col-10 col-sm-8 col-lg-6 col-xxl-6 ">
@@ -232,7 +285,6 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <?php include("includes/footer.php"); ?>
-

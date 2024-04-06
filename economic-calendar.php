@@ -20,13 +20,13 @@
 <style>
     .provide-world {
         background-color: #141414;
-        margin-top: 60px;
-        margin-bottom: 60px;
+        margin-top: 50px;
+        margin-bottom: 50px;
     }
 
     .tradingview-widget-container {
-        margin-top: 60px;
-        margin-bottom: 60px;
+        margin-top: 50px;
+        margin-bottom: 50px;
     }
 </style>
 
@@ -37,7 +37,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-8 col-xxl-12">
                 <!-- TradingView Widget BEGIN -->
-                <h2 class="d-flex justify-content-center" style="margin-bottom: 30px;">Stay Ahead with TradersEra's
+                <h2 class="d-flex justify-content-center" style="margin-bottom: 10px;">Stay Ahead with TradersEra's
                     Economic Calendar</h2>
                 <p class="fs-six-up mx-ch mx-auto">Maximize Your Forex Trading Potential with Real-Time Market Insights
                 </p>
@@ -85,9 +85,9 @@
                         <!-- TradingView Widget BEGIN -->
                         <div class="tradingview-widget-container">
                             <div class="tradingview-widget-container__widget"></div>
-                            <div class="tradingview-widget-copyright"><a href="https://in.tradingview.com/"
+                            <!-- <div class="tradingview-widget-copyright"><a href="https://in.tradingview.com/"
                                     rel="noopener nofollow" target="_blank"><span class="blue-text">Track all markets on
-                                        TradingView</span></a></div>
+                                        TradingView</span></a></div> -->
                             <script type="text/javascript"
                                 src="https://s3.tradingview.com/external-embedding/embed-widget-events.js" async>
                                     {
@@ -109,7 +109,7 @@
 
 
                 </section>
-                <section class="privacy-policy pb-120 ">
+                <section class="privacy-policy  ">
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-10 col-xxl-10">
