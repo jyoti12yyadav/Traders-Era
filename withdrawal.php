@@ -7,6 +7,17 @@
     .pb-120 {
         padding-top: 60px;
     }
+
+    .table thead th,
+    .table td,
+    .table th {
+        border: none;
+        padding: 18px;
+    }
+
+    .icon-table {
+        height: 35px;
+    }
 </style>
 
 <section class="banner-section pt-120 pb-120">
@@ -27,37 +38,73 @@
 
 
 
-<section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
-    <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
+<section class="company-story position-relative z-0  pt-120 pb-120 ">
+    <div class="animation position-absolute w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="vector"
-            class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
-        <img src="assets/images/sun2.png" alt="vector"
-            class="sun2 position-absolute push_animat d-none d-xxl-flex bottom-0 pb-120">
+            class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
     </div>
     <div class="container">
-        <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
-          
-            <div class="col-md-10 col-lg-6 col-xxl-5">
-                <div class="trade_on__content">
-                    <h4 class="mb-4 mb-lg-5">Efficient Withdrawal Methods at TradersEra</h4>
-                    <p class="mx-ch">TradersEra ensures seamless transactions by offering multiple withdrawal methods
-                        for our valued clients. Our efficient processing system guarantees swift and secure withdrawals,
-                        providing peace of mind throughout your trading journey.</p>
-                    <br>
-                    <p>
-                        Withdraw anytime with minimum processing fee.
-                    </p>
-                    <a href="signup.html"
-                        class="cmn-btn fs-six-up nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-4 py-lg-3 px-lg-5 mt-7 mt-xxl-8" style="margin-right:18px; font-weight: bold;">Login</a>
-                    <a href="signup.html"
-                        class="cmn-btn fs-six-up nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-4 py-lg-3 px-lg-5 mt-7 mt-xxl-8 "  style="font-weight: bold;">Withdrawal</a>
-                </div>
-            </div>
-
-            <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
-                <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/withdrawal-sec2.png" alt="Imgae">
-                </div>
+        <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
+            <div class="container my-5">
+                <table id="Record" class="table table-striped table-dark my-3">
+                    <thead>
+                        <tr>
+                            <th scope="col">PAYMENT METHOD</th>
+                            <th scope="col">MINIMUM AMOUNT</th>
+                            <th scope="col">COMMISSION</th>
+                            <th scope="col">EXECUTION TIME</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row"><img src="assets/images/icon/a. visa white _logo.png" alt="mastercard" class="icon-table"></th>
+                            <td>Mark</td>
+                            <td>Otto</td>
+                            <td>@mdo</td>
+                            <td>@mdo</td>
+                        </tr>
+                        <tr>
+                            <td scope="row"><img src="assets/images/icon/a. mastercard.png" alt="mastercard" class="icon-table"></td>
+                            <td>50.00 EUR</td>
+                            <td>Free</td>
+                            <td>Instant</td>
+                            <td>instant</td>
+                        </tr>
+                        <tr>
+                            <th scope="row"><img src="assets/images/icon/Tether.png" alt="mastercard" class="icon-table"></th>
+                            <td>10.00000000 USDTE</td>
+                            <td>Free</td>
+                            <td>1-3 hours to approve and up to 30 minutes to transfer</td>
+                            <td>instant</td>
+                        </tr>
+                        <tr>
+                            <th scope="row"><img src="assets/images/icon/Tether.png" alt="mastercard" class="icon-table"></th>
+                            <td>10.00000000 USDTT</td>
+                            <td>Free</td>
+                            <td>1-3 hours to approve and up to 30 minutes to transfer</td>
+                            <td>instant</td>
+                        </tr>
+                        <tr>
+                            <th scope="row"><img src="assets/images/icon/a. mastercard.png" alt="mastercard" class="icon-table"></th>
+                            <td>Larry</td>
+                            <td>the Bird</td>
+                            <td>@twitter</td>
+                        </tr>
+                        <tr>
+                            <th scope="row"><img src="assets/images/icon/Upi-Payment.png" alt="mastercard" class="icon-table"></th>
+                            <td>1500.00 INR</td>
+                            <td>Free</td>
+                            <td>3-30 minutes</td>
+                            <td>Instant</td>
+                        </tr>
+                        <tr>
+                            <th scope="row"><img src="assets/images/icon/a. mastercard.png" alt="mastercard" class="icon-table"></th>
+                            <td>Larry</td>
+                            <td>the Bird</td>
+                            <td>@twitter</td>
+                        </tr>
+                    </tbody>
+                </table>
             </div>
         </div>
     </div>
