@@ -7,6 +7,18 @@
     .offers-content>h4{
         font-size: 300px;
     }
+     .offers-content3::before{
+        position: relative;
+    top: -80px;
+    content: "3";
+    font-size: 466px;
+    color: white;
+    font-weight: 700;
+    left: 130px;
+    }
+    .mtn{
+        margin-top: -74px;
+    }
 </style>
 <section class="banner-section pt-120 pb-120">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
@@ -24,7 +36,7 @@
     </div>
 </section>
 
-    <section class="company-story position-relative z-0  pt-120 pb-120 ">
+    <section class="company-story position-relative z-0  pt-120 pb-120 " style="background-color: #000;">
         <div class="animation position-absolute w-100 h-100 z-n1">
             <img src="assets/images/star3.png" alt="vector" class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
         </div>
@@ -39,7 +51,7 @@
                     </div>
                 </div>
                 <div class="col-sm-10 col-lg-6 col-xxl-4 order-2 order-lg-0">
-                    <div class="company-story__thumbs offers-content d-center">
+                    <div class="company-story__thumbs offers-content d-center mtn">
                       
                         <div>
                         <h2>Open an <br> Account</h2>
@@ -71,7 +83,7 @@
         </div>
     </section>
 
-    <section class="company-story position-relative z-0  pt-120 pb-120 ">
+    <section class="company-story position-relative z-0  pt-120 pb-120 " >
         <div class="animation position-absolute w-100 h-100 z-n1">
             <img src="assets/images/star3.png" alt="vector" class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
         </div>
@@ -86,7 +98,7 @@
                     </div>
                 </div>
                 <div class="col-sm-10 col-lg-6 col-xxl-4 order-2 order-lg-0">
-                    <div class="company-story__thumbs offers-content d-center">
+                    <div class="company-story__thumbs offers-content d-center mtn">
                       
                         <div>
                         <h2>Make a deposit in your account</h2>
@@ -97,22 +109,30 @@
                 <div class="col-lg-6 col-xxl-6">
                     <div class="row ms-xl-3 ms-xxl-10">
                         <div class="col-md-6 col-xxl-12">
-                            <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 px-4 px-lg-9">
+                            <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 px-4 px-lg-9 py-lg-10">
                            <div class="row">
                             <div class="col-xxl-2">
 <img src="assets/images/icon/a. visa white _logo.png" alt="">
                             </div>
                             <div class="col-xxl-2">
-                                <img src="assets/images/icon/a. mastercard.png" alt="">
+                                <img src="assets/images/icon/a. mastercard.png" alt="" style="height: 30px;">
                             </div>
                             <div class="col-xxl-2">
-                                <img src="assets/images/icon/a. Wire Transfer white logo.png" alt="">
+                                <img src="assets/images/icon/a.bitcoin-logo.png" alt="" style="height: 30px;">
                             </div>
                             <div class="col-xxl-2">
-                                <img src="assets/images/icon/a.bitcoin-logo.png" alt="">
+                                <img src="assets/images/icon/Tether.png" alt="" style="height: 30px;">
+                            </div>
+                        </div>
+                            <div class="row mt-10">
+                            <div class="col-xxl-2">
+                                <img src="assets/images/icon/Perfect-Money- white logo.png" alt="" style="height: 30px;">
                             </div>
                             <div class="col-xxl-2">
-                                <img src="assets/images/icon/a.bitcoin-logo.png" alt="">
+                                <img src="assets/images/icon/a. Wire Transfer white logo.png" alt="" style="height: 30px;">
+                            </div>
+                            <div class="col-xxl-2">
+                                <img src="assets/images/icon/Upi-Payment.png" alt="" style="height: 30px;">
                             </div>
                            </div>
                             </div>
@@ -123,37 +143,32 @@
         </div>
     </section>
 
-    <section class="company-story position-relative z-0  pt-120 pb-120 ">
+    <section class="company-story position-relative z-0  pt-120 pb-120 " style="background-color: #000;">
         <div class="animation position-absolute w-100 h-100 z-n1">
             <img src="assets/images/star3.png" alt="vector" class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
         </div>
         <div class="container">
             <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
-                <div class="col-sm-10 col-lg-6 col-xxl-2 order-2 order-lg-0">
-                    <div class="company-story__thumbs offers-content d-center">
-                        <h4>3</h4>
-                        <div>
-                  
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-10 col-lg-6 col-xxl-4 order-2 order-lg-0">
-                    <div class="company-story__thumbs offers-content d-center">
-                      
-                        <div>
-                        </div>
-                    </div>
-                </div>
+               
+              
                 <div class="col-lg-6 col-xxl-6">
                     <div class="row ms-xl-3 ms-xxl-10">
                         <div class="col-md-6 col-xxl-12">
-                            <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 px-4 px-lg-9">
-                               <h4 class="mt-5 mb-5 offers-title">Increase your deposit by half with our bonus</h4>
+                            <div class="provide-world__card text-start cus-rounded-1 py-5 px-4 px-lg-9">
+                               <h2 class="mt-5 mb-5 offers-title">Increase your deposit by half with our bonus</h2>
                                <hr>
                                <p>Activate your free 50% bonus on the amount you deposit.</p>
                             </div>
                         </div> 
                     </div>  
+                </div>
+                <div class="col-sm-10 col-lg-6 col-xxl-2 order-2 order-lg-0">
+                    <div class="company-story__thumbs offers-content offers-content3  d-center">
+                        <h4></h4>
+                        <div>
+                  
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
