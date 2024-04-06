@@ -16,13 +16,27 @@
     </div>
 </section>
 
+<style>
+    .pt-120 {
+    padding-top: 60px;
+}
+
+.pb-120{
+    padding-bottom: 60px;
+}
+
+.tradingview-widget-container {
+    margin-top: 50px;
+   
+}
+</style>
 
 
 <section class="pt-60 pb-60">
     <div class="container">
-        <section class="provide-world pt-120 pb-120  position-relative z-0" style="padding-bottom: 25px;">
+        <section class="provide-world   position-relative z-0">
             <div class="container">
-                <div class="row gy-6 gy-xxl-0">
+                <div class="row gy-6 gy-xxl-0  pt-120">
                     <h3 class=" mb-lg-5 d-flex justify-content-center">Forex Market Updates</h3>
                     <center>
                         <h5 class="mb-7"> Stay Ahead of Market Trends and Opportunities with Regular, Timely Updates on Forex Developments.</h5>
@@ -69,7 +83,7 @@
       
         <!-- TradingView Widget BEGIN -->
         <!-- TradingView Widget BEGIN -->
-        <div class="tradingview-widget-container">
+        <div class="tradingview-widget-container pb-120">
             <div class="tradingview-widget-container__widget"></div>
             <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/" rel="noopener nofollow"
                     target="_blank"><span class="blue-text"></span></a></div>
@@ -98,7 +112,7 @@
         </div>
         <!-- TradingView Widget END -->
 </section>
-<section class="trade_on trade_on--secondary pt-120 pb-60 position-relative z-0">
+<!-- <section class="trade_on trade_on--secondary pt-120 pb-60 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="vector"
             class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
@@ -129,11 +143,11 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
 <!--Our Mission start-->
-<section class="provide-world our_mission pt-120 pb-120 position-relative z-0">
+<!-- <section class="provide-world our_mission pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/vector7.png" alt="vector"
             class="position-absolute bottom-0 pt-6 pt-xl-15 d-none d-lg-flex push_animat">
@@ -141,7 +155,7 @@
     <div class="container">
         <div class="row justify-content-between align-items-center mb-10 mb-lg-15">
             <div class="col-xl-12">
-                <!-- <span class="heading s1-color fs-five mb-5">Our Mission</span> -->
+               
                 <h3>Empower Your Trading Journey with TradersEra's News & Research Hub!
                 </h3>
             </div>
@@ -190,14 +204,7 @@
 
         <div class="container">
             <div class="row justify-content-between align-items-center mb-10 mb-lg-15">
-                <!-- <div class="col-xl-5">
-                    <span class="heading s1-color fs-five mb-5">Our Mission</span>
-                    <h3>Empowering Success How We're Making a Difference</h3>
-                </div>
-                <div class="col-xl-4">
-                    <p class="fs-six-up mx-ch text-xl-end mt-3 mt-xl-0">we believe that success is not reserved for the
-                        privileged few. It's a journey that anyone can embark upon with right guidance</p>
-                </div> -->
+               
             </div>
             <div class="row gy-6 gy-xxl-0">
                 <div class="col-md-6 col-xxl-4">
@@ -241,12 +248,12 @@
 
             </div>
 
-</section>
+</section> -->
 <!-- Our Mission end -->
 
 
 <!--Customers start-->
-<section class="customers position-relative z-0">
+<!-- <section class="customers position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/vector6.png" alt="vector"
             class="position-absolute rotate d-none d-xxxl-flex start-0 top-0 pt-20 mt-5 ps-20 ms-5">
@@ -278,6 +285,6 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <?php include("includes/footer.php"); ?>
