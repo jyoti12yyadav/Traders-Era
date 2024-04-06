@@ -4,6 +4,7 @@
     .pt-120 {
         padding-top: 60px;
     }
+
     .pb-120 {
         padding-top: 60px;
     }
@@ -45,12 +46,15 @@
             <div class="col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
                     <h3 class="mb-4 mb-lg-5">TradersEra</h3>
-                    <p class="fs-six mx-ch">Welcome to TradersEra , your premier forex and commodities broker. We
-                        provide transparent access to global markets, offer the dominant MT5 trading platform, ensure
-                        lightning-fast execution, and deliver dedicated technical support. Trade under optimal
-                        conditions with us, featuring competitive spreads, deep liquidity, and tailored trading options.
-                        Join TradersEra today and pursue your financial goals with confidence.</p>
+                    <p class="fs-six mx-ch">TradersEra has been recognized for its excellence in online forex trading.
+                        Our top-notch FX service is now available in the US, giving knowledgeable, decisive, and daring
+                        individuals the opportunity to trade over 80 currency pairs at competitive rates.</p>
+                        <br>
                 </div>
+                <a href="#" class="cmn-btn fs-five nb4-xxl-bg align-items-center py-3 px-6 py-lg-3 px-lg-8 mx-2"
+                            style="--top: 26px; --left: 113.203125px;">Create live account  </a>
+                            <a href="#" class="cmn-btn fs-five nb4-xxl-bg align-items-center py-3 px-6 py-lg-3 px-lg-8"
+                            style="--top: 26px; --left: 113.203125px;">   Create demo account</a>
             </div>
         </div>
     </div>
@@ -64,7 +68,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-7 col-xxl-6">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h3 class="mb-5 mb-lg-6"> Your Trusted Partner in Regulatory Compliance, Expertise, and Security
+                    <h3 class="mb-5 mb-lg-6">  Why TradersEra stands out from the rest.
                     </h3>
                     <!-- <p class="fs-six-up mx-ch mx-auto">We're constantly improving our trading platform, trying to make it the best on the market. such as stocks</p> -->
                 </div>
@@ -76,11 +80,8 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/regulation.png" alt="Strong">
                     </span>
-                    <h4 class="mt-5 mb-5"> Regulatory Compliance</h4>
-                    <p> TradersEra guarantees compliance with established financial authorities by closely adhering to
-                        regulatory norms. Our dedication to operating with integrity and openness, giving clients peace
-                        of mind and the assurance of fair business practices, is exemplified by our commitment to
-                        regulatory compliance</p>
+                    <h4 class="mt-5 mb-5"> Credible</h4>
+                    <p> With a solid reputation built over years of successful trading, TradersEra has earned the trust of traders worldwide.</p>
                     <br>
                 </div>
             </div>
@@ -89,12 +90,10 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/quality.png" alt="Strong">
                     </span>
-                    <h4 class="mt-5 mb-5">Expert Group</h4>
-                    <p>TradersEra provides expertise you can rely on, with a team of seasoned individuals boasting years
-                        of experience in the financial business. Our team, which consists of qualified support employees
-                        and talented traders, is prepared to offer professional advice and assistance, building our
-                        clients' trust and confidence.</p>
-                    <br>
+                    <h4 class="mt-5 mb-5">Devoted to Our Valued Clients.</h4>
+                    <p>Our business is centered on supporting our clients with cutting-edge tools and assistance.
+                        We are available every day, all day.
+                        </p>
                 </div>
             </div>
             <div class="col-md-6 col-xxl-4">
@@ -102,11 +101,9 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/strong-box.png" alt="Strong">
                     </span>
-                    <h4 class="mt-5 mb-5">Strong Security Procedures</h4>
-                    <p>At TradersEra , the protection of our clients' money and private data is of highest priority. We
-                        use advanced safety methods, such as secure payment gateways and encryption protocols, to guard
-                        against unwanted access and preserve the assets of our clients.</p>
-                        <br><br>
+                    <h4 class="mt-5 mb-5">Global Legacy</h4>
+                    <p>We are dedicated to regulatory compliance and innovation in Forex trading, shaping the industry's future and helping traders worldwide reach their financial goals.</p>
+                 
                     <!-- <a href="signup.html" class="cmn-btn link third-link fs-five  gap-2 gap-lg-3 align-items-center mt-5">Learn More<i class="ti ti-arrow-narrow-right"></i></a> -->
                 </div>
             </div>
@@ -124,31 +121,30 @@
     </div>
     <div class="container">
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
-            <div class="col-lg-6 col-xxl-5">
+            <div class="col-lg-7 col-xxl-6">
                 <div class="trade_on__content">
                     <!-- <span class="heading s1-color fs-five mb-5">Trade On Our</span> -->
-                    <h3 class="mb-4 mb-lg-5">Your Friendly All-in-One Binary Trade and Forex Trading Platform!
+                    <h3 class="mb-4 mb-lg-5">Simple account registration.
                     </h3>
-                    <p class="fs-six mx-ch">We are dedicated to providing a user platform that combines binary options
-                        and forex trading seamlessly ensuring a convenient and rewarding trading experience, for traders
-                        at any skill level.
-
-                    </p>
+                    <ul class="d-flex gap-4 flex-column mt-6">
+                        <li class="d-flex align-items-center gap-3 fs-six-up" style="font-weight: 900;"><i class="ti ti-circle-check s1-color fs-four"></i>Swift execution across an extensive range of markets</li>
+                        <p style="margin-left:35px;">Enjoy Rewards of low spreads and efficient execution.</p>
+                      
+                        <li class="d-flex align-items-center gap-3 fs-six-up" style="font-weight: 900;"><i class="ti ti-circle-check s1-color fs-four"></i>Trade smoothly, no matter where you're located.</li>
+                        <p style="margin-left:35px;">Enjoy a smooth trading experience from anywhere with our trading app</p>
+                        <li class="d-flex align-items-center gap-3 fs-six-up"  style="font-weight: 900;"><i class="ti ti-circle-check s1-color fs-four" style="font-weight: 900;"></i>Feel Secure with a reliable provider</li>
+                        <p style="margin-left:35px;">Feel secure knowing you're trading with a reliable provider committed to your success.</p>
+                        
+                    </ul>
                     <br>
-                    <p class="fs-six mx-ch">
-                        Here, at TradersEra we recognize the value of keeping things simple and effective in today's
-                        moving landscape. That's why our system is crafted to offer a trading journey removing the
-                        requirement for downloads or setups. 
-                    </p>
-                    <br>
-                    <p>
-                        Whether you're at home or in your workplace or out and
-                        about, you can reach our platform from any device connected to the internet granting you the
-                        freedom to trade at your convenience and location of your choice.
-                    </p>
+                    <a href="#" class="cmn-btn fs-five nb4-xxl-bg align-items-center py-3 px-6 py-lg-3 px-lg-8 mx-2"
+                            style="--top: 26px; --left: 113.203125px;">Create live account  </a>
+                            <a href="#" class="cmn-btn fs-five nb4-xxl-bg align-items-center py-3 px-6 py-lg-3 px-lg-8"
+                            style="--top: 26px; --left: 113.203125px;">   Create demo account</a>
+                           
                 </div>
             </div>
-            <div class="col-md-8 col-lg-6">
+            <div class="col-md-6 col-lg-6">
                 <div class="trade_on__thumbs d-flex justify-content-end">
                     <img src="assets/images/traders- last.png" alt="Imgae">
                 </div>
@@ -165,7 +161,7 @@
     </div>
     <div class="container">
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
-        
+
             <div class="col-md-8 col-lg-6">
                 <div class="trade_on__thumbs d-flex justify-content-end">
                     <img src="assets/images/traders-capamanion.png" alt="Imgae">
@@ -186,13 +182,14 @@
                     <p class="fs-six mx-ch">Here, at TradersEra our goal is to support traders by providing them with
                         the tools and resources to thrive in the changing world of financial markets. Come onboard
                         today. Discover the offerings of TradersEra – </p>
-                        <br>
-                        <p>where trading is simplified, accessible and a
-                            pleasant experience, for all.Start your trading journey with TradersEra!</p>
-                        <div class="col-12 mt-10 mt-lg-15  d-flex ">
-                            <a href="#" class="cmn-btn fs-five nb4-xxl-bg align-items-center py-3 px-6 py-lg-3 px-lg-8" style="--top: 26px; --left: 113.203125px;">Sign Up Now</a>
-                        </div>
-                       
+                    <br>
+                    <p>where trading is simplified, accessible and a
+                        pleasant experience, for all.Start your trading journey with TradersEra!</p>
+                    <div class="col-12 mt-10 mt-lg-15  d-flex ">
+                        <a href="#" class="cmn-btn fs-five nb4-xxl-bg align-items-center py-3 px-6 py-lg-3 px-lg-8"
+                            style="--top: 26px; --left: 113.203125px;">Sign Up Now</a>
+                    </div>
+
                 </div>
             </div>
         </div>
