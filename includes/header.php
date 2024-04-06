@@ -149,6 +149,7 @@
                                 <li><a class="dropdown-item" href="news-research.php">News & Research</a></li>
                                 <li><a class="dropdown-item" href="glossary.php">Glossary</a></li>
                                 <li><a class="dropdown-item " href="#">Academy</a></li>
+                                <li><a class="dropdown-item " href="interest-rate.php">Interest-Rate</a></li>
                             </ul>
                         </li>
 
@@ -159,7 +160,6 @@
                                 class="dropdown-toggle dropdown-nav">Partners</button>
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item" href="become-an-iB.php">Become An Partner</a></li>
-                                <li><a class="dropdown-item" href="commission.php">Commission</a></li>
                                 <li><a class="dropdown-item" href="faq.php">FAQ</a></li>
                             </ul>
                         </li>
