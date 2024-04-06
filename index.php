@@ -357,8 +357,25 @@
 </style>
 
 
-<iframe src="https://fxpricing.com/fx-widget/ticker-tape-widget.php?id=1,2,3,5,14,20&border=show&speed=50&click_target=blank&theme=dark&tm-cr=212529&hr-cr=FFFFFF13&by-cr=28A745&sl-cr=DC3545&flags=circle&d_mode=regular&column=&lang=en&font=Arial, sans-serif" width="100%" height="85" style="border: unset;margin-top:150px"></iframe>
-<style type="text/css">#fx-pricing-widget-copyright{text-align: center; font-size: 13px; font-family: sans-serif; margin-top: 10px; margin-bottom: 10px; color: #9db2bd;} #fx-pricing-widget-copyright a{text-decoration: unset; color: #bb3534; font-weight: 600;}</style> 
+<iframe
+    src="https://fxpricing.com/fx-widget/ticker-tape-widget.php?id=1,2,3,5,14,20&border=show&speed=50&click_target=blank&theme=dark&tm-cr=212529&hr-cr=FFFFFF13&by-cr=28A745&sl-cr=DC3545&flags=circle&d_mode=regular&column=&lang=en&font=Arial, sans-serif"
+    width="100%" height="85" style="border: unset;margin-top:150px"></iframe>
+<style type="text/css">
+    #fx-pricing-widget-copyright {
+        text-align: center;
+        font-size: 13px;
+        font-family: sans-serif;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        color: #9db2bd;
+    }
+
+    #fx-pricing-widget-copyright a {
+        text-decoration: unset;
+        color: #bb3534;
+        font-weight: 600;
+    }
+</style>
 <!-- slider -->
 <div class="slider">
     <div class="slide_viewer">
@@ -415,7 +432,8 @@
                         class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX">
                 </div>
                 <div class="container">
-                    <div class="row pt-4 pt-lg-10 gy-12 gy-lg-0 justify-content-center justify-content-lg-between align-items-center row-reverse">
+                    <div
+                        class="row pt-4 pt-lg-10 gy-12 gy-lg-0 justify-content-center justify-content-lg-between align-items-center row-reverse">
                         <div class="col-sm-10 col-lg-6 col-xxl-5">
                             <div class="hero-section__thumbs hero-section-2 pb-xxl-10">
                                 <img src="assets/images/banner two.png" class="max-auto max-xxl-un" alt="img">
@@ -439,8 +457,7 @@
                                     <p class="fs-six-up fw_500 nb4-xxl-color" style="transform: scaleX(-1);">Trade
                                         smarter with TradingEra's insights,
                                         maximizing your financial potential.</p>
-                                    <div
-                                        class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8
+                                    <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8
                                         mt-lg-10">
                                         <a href="signup.html"
                                             class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6"
@@ -466,46 +483,77 @@
 <div class="client_company_section py-10 p1-bg align-items-center justify-content-center">
     <!-- Swiper -->
     <div class="swiper client_company swiper-initialized swiper-horizontal swiper-pointer-events">
-        <div class="swiper-wrapper align-items-center" id="swiper-wrapper-103fd5d41f551ce67" aria-live="off" style="transition-duration: 6000ms; transform: translate3d(-1964px, 0px, 0px);"><div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="0" role="group" aria-label="1 / 7" style="width: 230.571px; margin-right: 50px;">
+        <div class="swiper-wrapper align-items-center" id="swiper-wrapper-103fd5d41f551ce67" aria-live="off"
+            style="transition-duration: 6000ms; transform: translate3d(-1964px, 0px, 0px);">
+            <div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="0" role="group"
+                aria-label="1 / 7" style="width: 230.571px; margin-right: 50px;">
                 <img src="assets/images/icon/logo equinix logo black.png" alt="Client Logo">
-            </div><div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="1" role="group" aria-label="2 / 7" style="width: 230.571px; margin-right: 50px;">
+            </div>
+            <div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="1" role="group"
+                aria-label="2 / 7" style="width: 230.571px; margin-right: 50px;">
                 <img src="assets/images/icon/logo FX . edge logo black.png" alt="Client Logo">
-            </div><div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="2" role="group" aria-label="3 / 7" style="width: 230.571px; margin-right: 50px;">
+            </div>
+            <div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-prev"
+                data-swiper-slide-index="2" role="group" aria-label="3 / 7"
+                style="width: 230.571px; margin-right: 50px;">
                 <img src="assets/images/icon/logo GEO trust  logo black.png" alt="Client Logo">
-            </div><div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="3" role="group" aria-label="4 / 7" style="width: 230.571px; margin-right: 50px;">
+            </div>
+            <div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-active"
+                data-swiper-slide-index="3" role="group" aria-label="4 / 7"
+                style="width: 230.571px; margin-right: 50px;">
                 <img src="assets/images/icon/logo investor in people logo black.png" alt="Client Logo">
-            </div><div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="4" role="group" aria-label="5 / 7" style="width: 230.571px; margin-right: 50px;">
+            </div>
+            <div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-next"
+                data-swiper-slide-index="4" role="group" aria-label="5 / 7"
+                style="width: 230.571px; margin-right: 50px;">
                 <img src="assets/images/icon/logo trading view logo black.png" alt="Client Logo">
             </div>
-            <div class="swiper-slide text-center" data-swiper-slide-index="0" role="group" aria-label="1 / 7" style="width: 230.571px; margin-right: 50px;">
+            <div class="swiper-slide text-center" data-swiper-slide-index="0" role="group" aria-label="1 / 7"
+                style="width: 230.571px; margin-right: 50px;">
                 <img src="assets/images/icon/logo equinix logo black.png" alt="Client Logo">
             </div>
-            <div class="swiper-slide text-center" data-swiper-slide-index="1" role="group" aria-label="2 / 7" style="width: 230.571px; margin-right: 50px;">
+            <div class="swiper-slide text-center" data-swiper-slide-index="1" role="group" aria-label="2 / 7"
+                style="width: 230.571px; margin-right: 50px;">
                 <img src="assets/images/icon/logo FX . edge logo black.png" alt="Client Logo">
             </div>
-            <div class="swiper-slide text-center swiper-slide-prev" data-swiper-slide-index="2" role="group" aria-label="3 / 7" style="width: 230.571px; margin-right: 50px;">
+            <div class="swiper-slide text-center swiper-slide-prev" data-swiper-slide-index="2" role="group"
+                aria-label="3 / 7" style="width: 230.571px; margin-right: 50px;">
                 <img src="assets/images/icon/logo GEO trust  logo black.png" alt="Client Logo">
             </div>
-            <div class="swiper-slide text-center swiper-slide-active" data-swiper-slide-index="3" role="group" aria-label="4 / 7" style="width: 230.571px; margin-right: 50px;">
+            <div class="swiper-slide text-center swiper-slide-active" data-swiper-slide-index="3" role="group"
+                aria-label="4 / 7" style="width: 230.571px; margin-right: 50px;">
                 <img src="assets/images/icon/logo investor in people logo black.png" alt="Client Logo">
             </div>
-            <div class="swiper-slide text-center swiper-slide-next" data-swiper-slide-index="4" role="group" aria-label="5 / 7" style="width: 230.571px; margin-right: 50px;">
+            <div class="swiper-slide text-center swiper-slide-next" data-swiper-slide-index="4" role="group"
+                aria-label="5 / 7" style="width: 230.571px; margin-right: 50px;">
                 <img src="assets/images/icon/logo trading view logo black.png" alt="Client Logo">
             </div>
-        <div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="0" role="group" aria-label="1 / 7" style="width: 230.571px; margin-right: 50px;">
+            <div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="0" role="group"
+                aria-label="1 / 7" style="width: 230.571px; margin-right: 50px;">
                 <img src="assets/images/icon/logo equinix logo black.png" alt="Client Logo">
-            </div><div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="1" role="group" aria-label="2 / 7" style="width: 230.571px; margin-right: 50px;">
+            </div>
+            <div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="1" role="group"
+                aria-label="2 / 7" style="width: 230.571px; margin-right: 50px;">
                 <img src="assets/images/icon/logo FX . edge logo black.png" alt="Client Logo">
-            </div><div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="2" role="group" aria-label="3 / 7" style="width: 230.571px; margin-right: 50px;">
+            </div>
+            <div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-prev"
+                data-swiper-slide-index="2" role="group" aria-label="3 / 7"
+                style="width: 230.571px; margin-right: 50px;">
                 <img src="assets/images/icon/logo GEO trust  logo black.png" alt="Client Logo">
-            </div><div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="3" role="group" aria-label="4 / 7" style="width: 230.571px; margin-right: 50px;">
+            </div>
+            <div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-active"
+                data-swiper-slide-index="3" role="group" aria-label="4 / 7"
+                style="width: 230.571px; margin-right: 50px;">
                 <img src="assets/images/icon/logo investor in people logo black.png" alt="Client Logo">
             </div>
-            <div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="4" role="group" aria-label="5 / 7" style="width: 230.571px; margin-right: 50px;">
+            <div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-next"
+                data-swiper-slide-index="4" role="group" aria-label="5 / 7"
+                style="width: 230.571px; margin-right: 50px;">
                 <img src="assets/images/icon/logo trading view logo black.png" alt="Client Logo">
             </div>
         </div>
-    <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+    </div>
 </div>
 
 
@@ -607,7 +655,8 @@
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
                                         <h3 class="">Safety of Funds Assured</h3>
-                                        <span>Safeguarding you and all peers with top security and regulatory frameworks practices.</span>
+                                        <span>Safeguarding you and all peers with top security and regulatory frameworks
+                                            practices.</span>
                                     </div>
 
 
@@ -705,38 +754,44 @@
                 <div class="trade_on__content">
                     <h2 class="mb-4 mb-lg-5" style="font-size:35px;">TradersEra - Trading Platform
                     </h2>
-                    <p class="mx-ch">Web trading platforms are safer since they use a remote server or cloud for calculations. Users only need to focus on their internet connection and routing speed.  No need to download or install anything.</p>
+                    <p class="mx-ch">Web trading platforms are safer since they use a remote server or cloud for
+                        calculations. Users only need to focus on their internet connection and routing speed. No need
+                        to download or install anything.</p>
 
                 </div>
 
 
                 <h5 class="mt-4 mb-lg-5">
-                Benefits of Web Based Trading Platforms:
+                    Benefits of Web Based Trading Platforms:
                 </h5>
                 <ul class="d-flex gap-4 flex-column mt-6">
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Accessible anytime and anywhere, no need for installation.
+                            class="ti ti-circle-check s1-color fs-four"></i>Accessible anytime and anywhere, no need for
+                        installation.
 
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Cross-Device Compatibility, Works across multiple devices.
+                            class="ti ti-circle-check s1-color fs-four"></i>Cross-Device Compatibility, Works across
+                        multiple devices.
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>Platform updates are hassle-free.
 
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>No need for high-end hardware, suitable for various devices.</li>
+                            class="ti ti-circle-check s1-color fs-four"></i>No need for high-end hardware, suitable for
+                        various devices.</li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>Compatible across various operating systems.
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Requires minimal disk space as data is stored in the cloud.
+                            class="ti ti-circle-check s1-color fs-four"></i>Requires minimal disk space as data is
+                        stored in the cloud.
 
                     </li>
-                <br>
+                    <br>
                     <h5>Platforms Supported:</h5>
-                    <ul class=" d-flex  gap-md-3 " >
+                    <ul class=" d-flex  gap-md-3 ">
                         <li><img style=" height:35px;" src="assets/images/icon/icon IE.png"></li>
                         <li><img style=" height:35px;" src="assets/images/icon/icon opera.png"></li>
                         <li><img style=" height:35px;" src="assets/images/icon/icon safari.png"></li>
@@ -751,313 +806,85 @@
         </div>
 </section>
 <section class="provide-world pt-120 position-relative z-0 mb-10 pb-120" style="background-color: #000;">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-lg-12 col-xxl-10">
-                        <div class="heading__content mb-10 mb-lg-15 text-center">
-                            <h2 class="mb-5 mb-lg-6">Open an account in 4 simple steps</h2>
-                        </div>
-                    </div>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-12 col-xxl-10">
+                <div class="heading__content mb-10 mb-lg-15 text-center">
+                    <h2 class="mb-5 mb-lg-6">Open an account in 4 simple steps</h2>
                 </div>
-                <div class="row gy-6 gy-xxl-0">
-                    <div class="col-md-6 col-xxl-3">
-                        <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                            <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                                <img src="assets/images/icon/number-1.png" alt="time">
-                            </span>
-                            <h4 class="mt-5 mb-5">Register</h4>
-                            <p>Choose an account type and complete our fast and secure application fast and secure
-                                application
-                                form</p>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-xxl-3">
-                        <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                            <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                                <img src="assets/images/icon/two.png" alt="wallet">
-                            </span>
-                            <h4 class="mt-5 mb-5">Verify</h4>
-                            <p>use our digital onboarding system for fast verification</p>
-                            <br>
-                            <br>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-xxl-3">
-                        <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                            <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                                <img src="assets/images/icon/number-3.png" alt="low-price">
-                            </span>
-                            <h4 class="mt-5 mb-5">Fund</h4>
-                            <p>Fund your trading account using a wide range of funding methods</p>
-                            <br>
-                            <br>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-xxl-3">
-                        <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                            <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                                <img src="assets/images/icon/number-4.png" alt="customer">
-                            </span>
-                            <h4 class="mt-5 mb-5">Trade</h4>
-                            <p>Start trading on your live account and access +2,100 instruments</p>
-                            <br>
-                            <br>
-                        </div>
+            </div>
+        </div>
+        <div class="row gy-6 gy-xxl-0">
+            <div class="col-md-6 col-xxl-3">
+                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/number-1.png" alt="time">
+                    </span>
+                    <h4 class="mt-5 mb-5">Register</h4>
+                    <p>Sign up using your bank details and login to dashboard.</p>
+                    <br>
+                </div>
+            </div>
+            <div class="col-md-6 col-xxl-3">
+                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/two.png" alt="wallet">
+                    </span>
+                    <h4 class="mt-5 mb-5">Verify</h4>
+                    <p>Use our online verification tool and submit your details and document.</p>
+                   
+                </div>
+            </div>
+            <div class="col-md-6 col-xxl-3">
+                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/number-3.png" alt="low-price">
+                    </span>
+                    <h4 class="mt-5 mb-5">Fund</h4>
+                    <p>Fund your trading account using a wide range of funding methods.</p>
+                </div>
+            </div>
+            <div class="col-md-6 col-xxl-3">
+                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/number-4.png" alt="customer">
+                    </span>
+                    <h4 class="mt-5 mb-5">Trade</h4>
+                    <p>Start trading with binary,spot and AI trading platform.</p>
+                    <br>
+                </div>
 
-                    </div>
-                </div>
-                <br>
-                <div class="container ">
-        <div class="start-earning nb3-bg cus-rounded-2 d-flex align-items-center p-4 p-sm-6 p-md-10 p-lg-15 p-xl-20 pe-lg-6 pe-xl-16 overflow-hidden position-relative">
+            </div>
+        </div>
+        <br>
+        <br>
+        <div class="container ">
+            <div
+                class="start-earning nb3-bg cus-rounded-2 d-flex align-items-center p-4 p-sm-6 p-md-10 p-lg-15 p-xl-20 pe-lg-6 pe-xl-16 overflow-hidden position-relative">
                 <div class="vector_effect position-absolute d-center justify-content-end end-0  d-flex gap-20">
                     <img src="assets/images/star2.png" alt="vector" class="d-none d-xxl-flex push_animat">
-                    <img src="assets/images/star_focus.png" alt="vector" class="d-none d-sm-flex rotate time_dur ms-auto ms-lg-0 me-md-5">
+                    <img src="assets/images/star_focus.png" alt="vector"
+                        class="d-none d-sm-flex rotate time_dur ms-auto ms-lg-0 me-md-5">
                 </div>
                 <div class="row gy-6 w-100 text-center text-sm-start align-items-center justify-content-sm-between">
                     <div class="col-sm-8">
                         <h4>Start Trading today with TradersEra with $10</h4>
                         <p class="fs-six-up fw_500 mt-5">Trade crypto, binary, forex and use AI for Investments.
-</p>    
+                        </p>
                     </div>
                     <div class="col-sm-4 text-sm-end">
-                        <a href="signup.html" class="cmn-btn secondary-alt ms-auto fs-five nb4-xxl-bg gap-2 align-items-center  py-2 px-4 py-lg-3 px-lg-5">Open An
-                        Account <i class="ti ti-arrow-right fs-four"></i></a>
-                    </div>
-                </div>
-            </div>  
-
-        <div class="row gy-8 gy-sm-12 gy-lg-0 pt-120 ">
-            <div class="col-6 col-lg-3">
-
-
-                <div class="footer__part">
-
-                    <a href="index.html" class="navbar-brand m-0 p-0 d-flex align-items-center gap-5 gap-xl-5 me-2">
-                        <img src="assets/images/fav.png" class="logo small_logo d-sm-none" alt="logo">
-                        <img src="assets/images/logo.png" class="logo d-none d-sm-flex" alt="logo">
-                    </a>
-                    <ul class="social-area d-center gap-2 gap-md-3">
-                        <li>
-                            <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-facebook"></i></a>
-                        </li>
-                        <li>
-                            <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-twitch"></i></a>
-                        </li>
-                        <li>
-                            <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-instagram"></i></a>
-                        </li>
-                        <li>
-                            <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-discord-filled"></i></a>
-                        </li>
-                        <li>
-                            <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-youtube"></i></a>
-                        </li>
-                        <li>
-
-                        </li>
-                        <li>
-
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-
-            <div class="col-6 col-lg-2">
-                <div class="footer__part">
-                    <h4 class="mb-6 mb-lg-8">Trading</h4>
-                    <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
-                        <li>
-                            <a class="n2-color d-flex align-items-center" href="account-types.php">Account Types</a>
-                        </li>
-                        <li>
-                            <a class="n2-color" href="deposit.php">Deposit</a>
-                        </li>
-                        <li>
-                            <a class="n2-color" href="withdrawal.php">Withdrawal</a>
-                        </li>
-                        <li>
-                            <a class="n2-color" href="offers.php">Offers</a>
-                        </li>
-                        <li>
-                            <a class="n2-color" href="contests.php">Contests</a>
-                        </li>
-
-                    </ul>
-                </div>
-            </div>
-            <div class="col-6 col-lg-2">
-                <div class="footer__part">
-                    <h4 class="mb-6 mb-lg-8">Markets</h4>
-                    <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
-                        <li>
-                            <a class="n2-color" href="crypto.php">Crypto</a>
-                        </li>
-                        <li>
-                            <a class="n2-color" href="indices.php">Indices</a>
-                        </li>
-                        <li>
-                            <a class="n2-color" href="stocks.php">Stocks</a>
-                        </li>
-                        <li>
-                            <a class="n2-color" href="forex.php">Forex</a>
-                        </li>
-                        <li>
-                            <a class="n2-color" href="commodity.php">Commodity</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-
-
-
-
-
-            <div class="col-6 col-lg-2">
-                <div class="footer__part">
-                    <h4 class="mb-6 mb-lg-8">Tools</h4>
-
-                    <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
-                        <li>
-                            <a class="n2-color" href="economic-calendar.php">Economic Calendar</a>
-                        </li>
-                        <li>
-                            <a class="n2-color" href="news-research.php">News &amp; Research</a>
-                        </li>
-
-
-                        <li>
-                            <a class="n2-color" href="academy.php">Academy</a>
-                        </li>
-                    </ul>
-                    <br>
-                    <h4 class="mb-6 mb-lg-8 mt-4">Partners</h4>
-
-                    <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4 mb-4">
-                        <li>
-                            <a class="n2-color" href="become-an-iB.php">Become An IB</a>
-                        </li>
-                        <li>
-                            <a class="n2-color" href="faq.php">FAQ</a>
-                        </li>
-
-
-                    </ul>
-                </div>
-            </div>
-
-            <div class="col-6 col-lg-2">
-                <div class="footer__part">
-
-                    <h4 class="mb-6 mb-lg-8">About Us</h4>
-                    <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
-                        <li>
-                            <a class="n2-color" href="tradersera.php">Tradersera</a>
-                        </li>
-                        <li>
-                            <a class="n2-color" href="safety-of-funds.php">Safety of Funds</a>
-                        </li>
-
-                        <li>
-                            <a class="n2-color" href="regulatory.php">Regulatory</a>
-                        </li>
-                        <li>
-                            <a class="n2-color" href="help-center.php">Help Center</a>
-                        </li>
-
-
-                    </ul>
-                </div>
-            </div>
-
-
-            <!-- <div class="col-6 col-lg-3">
-                    <div class="footer__part">
-                        <h4 class="mb-6 mb-lg-8">Contact Us</h4>
-                        <div class="d-flex flex-column gap-2 gap-sm-3 gap-md-4">
-                            <a href="https://pixner.net/cdn-cgi/l/email-protection#f39a9d959cb3968b929e839f96dd909c9e"><span class="__cf_email__" data-cfemail="ed84838b82ad88958c809d8188c38e8280">[email&#160;protected]</span></a>
-                            <a href="tel:+123456789">+0123 456 789</a>
-                        </div>
-                    </div>
-                </div> 
-            </div> -->
-
-
-            <!--Privacy & Policy start-->
-            <section class="privacy-policy pt-20 ">
-                <div class="container">
-                    <div class="row justify-content-center">
-                        <div class="col-lg-10 col-xxl-8">
-                            <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
-                                <h3 class="text-center ">Disclaimer</h3>
-                                <div class="privacy-policy__card d-flex flex-column ">
-                                    <div class="privacy-policy__part">
-                                        <h6 class="mb-4">Risk Warning :</h6>
-                                        <p class="mt-4 mb-5" style="font-size: 15px;">Please note that foreign exchange,
-                                            cryptocurrency and other leveraged trading &amp;
-                                            investments involve significant risk of loss. It is not suitable for all
-                                            investors and
-                                            you should make sure you understand the risks involved, seeking independent
-                                            advice if
-                                            necessary.
-                                        </p>
-                                    </div>
-                                    <div class="privacy-policy__part">
-                                        <h6 class="mb-4">Regional Restrictions:</h6>
-                                        <p class="mt-4 mb-5" style="font-size: 15px;"> It is the responsibility of the
-                                            Client to ascertain whether he/she is
-                                            permitted to use the services of TradersEra based on the legal requirements
-                                            in his/her
-                                            country of residence.
-                                        </p>
-                                        <p class="mt-4 mb-5" style="font-size: 15px;">TradersEra does not provide
-                                            services to residents of the USA, Japan,
-                                            Canada, Australia, the Democratic Republic of Korea, European Union, United
-                                            Kingdom.
-                                        </p>
-
-                                    </div>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <div class="container-fluid">
-                <br><br>
-                <div class="row">
-                    <div class="col-12 border-top border-color opac-20 py-7 py-xxl-8">
-                        <div class="footer__copyright d-center gap-15 flex-wrap justify-content-md-between">
-                            <ul class=" d-center gap-2 gap-md-3">
-                                <li><a class="n2-color" href="terms-condition.php">Terms &amp; Conditions</a></li>
-                                <li><a class="n2-color" href="risk-disclaimer.php">Risk Disclaimer</a></li>
-                                <li><a class="n2-color" href="privacy-policy.php">Privacy Policy</a></li>
-                                <li><a class="n2-color" href="aml-kyc.php">AML &amp; KYC Policy</a></li>
-                            </ul>
-
-                            <ul class="social-area d-center gap-2 gap-md-3">
-                                <li><img style="border:1px solid white; border-radius:17px;  height:35px;" src="assets/images/_app store.png"></li>
-                                <li><img style="border:1px solid white; border-radius:17px;  height:35px;" src="assets/images/_google play store.png"></li>
-                                <li><img style="border:1px solid white; border-radius:17px;  height:35px;" src="assets/images/_download APK.png"></li>
-                            </ul>
-                            <ul class="social-area d-center gap-2 gap-md-3">
-                                <li><a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-facebook"></i></a></li>
-                                <li><a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-twitch"></i></a></li>
-                                <li><a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-instagram"></i></a></li>
-                                <li><a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-discord-filled"></i></a></li>
-                                <li><a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-youtube"></i></a></li>
-                            </ul>
-                        </div>
+                        <a href="signup.html"
+                            class="cmn-btn secondary-alt ms-auto fs-five nb4-xxl-bg gap-2 align-items-center  py-2 px-4 py-lg-3 px-lg-5">Open
+                            An
+                            Account <i class="ti ti-arrow-right fs-four"></i></a>
                     </div>
                 </div>
             </div>
-</div></div>
-            </div>
 
-        </section>
-        
+        </div>
+
+</section>
+
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="vector"
@@ -1101,9 +928,12 @@
 
 <section class="provide-world pt-120 pb-120  position-relative z-0" style="background-color: #000;">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-        <img src="assets/images/vector.png" alt="vector" class="position-absolute top-0 pt-120 ms-20 ps-xxl-20 jello d-none d-xl-flex">
-        <img src="assets/images/vector9.png" alt="vector" class="position-absolute rotate top-0 end-0 p-20 mt-5 me-7 d-none d-xxxl-flex">
-        <img src="assets/images/vector_rocket1.png" alt="vector" class="position-absolute bottom-0 start-0 d-none d-xxxl-flex pb-120 mb-10 ms-20 fadeInTopRight">
+        <img src="assets/images/vector.png" alt="vector"
+            class="position-absolute top-0 pt-120 ms-20 ps-xxl-20 jello d-none d-xl-flex">
+        <img src="assets/images/vector9.png" alt="vector"
+            class="position-absolute rotate top-0 end-0 p-20 mt-5 me-7 d-none d-xxxl-flex">
+        <img src="assets/images/vector_rocket1.png" alt="vector"
+            class="position-absolute bottom-0 start-0 d-none d-xxxl-flex pb-120 mb-10 ms-20 fadeInTopRight">
     </div>
     <div class="container">
         <div class="row justify-content-center">
@@ -1111,191 +941,193 @@
                 <div class="heading__content mb-10 mb-lg-15 text-center">
                     <h2 class="">Markets Data</h2>
                     <br>
-                    <span class="heading p1-color fs-six mb-5 mt-2">Learn and understand markets with our available market table.</span>
-                    
+                    <span class="heading p1-color fs-six mb-5 mt-2">Learn and understand markets with our available
+                        market table.</span>
+
                 </div>
             </div>
         </div>
         <div class="row gy-6 gy-xxl-0">
             <div class="col-12">
-        <!-- TradingView Widget BEGIN -->
-        <div class="tradingview-widget-container" style="margin-top: 0px;">
-            <div class="tradingview-widget-container__widget"></div>
-            <script type="text/javascript"
-                src="https://s3.tradingview.com/external-embedding/embed-widget-market-quotes.js" async>
-                    {
-                        "width": 1250,
-                            "height": 800,
-                                "symbolsGroups": [
-                                    {
-                                        "name": "Forex",
-                                        "originalName": "Forex",
-                                        "symbols": [
+                <!-- TradingView Widget BEGIN -->
+                <div class="tradingview-widget-container" style="margin-top: 0px;">
+                    <div class="tradingview-widget-container__widget"></div>
+                    <script type="text/javascript"
+                        src="https://s3.tradingview.com/external-embedding/embed-widget-market-quotes.js" async>
+                            {
+                                "width": 1250,
+                                    "height": 800,
+                                        "symbolsGroups": [
                                             {
-                                                "name": "FX:EURUSD",
-                                                "displayName": "EUR to USD"
+                                                "name": "Forex",
+                                                "originalName": "Forex",
+                                                "symbols": [
+                                                    {
+                                                        "name": "FX:EURUSD",
+                                                        "displayName": "EUR to USD"
+                                                    },
+                                                    {
+                                                        "name": "FX:GBPUSD",
+                                                        "displayName": "GBP to USD"
+                                                    },
+                                                    {
+                                                        "name": "FX:USDJPY",
+                                                        "displayName": "USD to JPY"
+                                                    },
+                                                    {
+                                                        "name": "FX:USDCHF",
+                                                        "displayName": "USD to CHF"
+                                                    },
+                                                    {
+                                                        "name": "FX:AUDUSD",
+                                                        "displayName": "AUD to USD"
+                                                    },
+                                                    {
+                                                        "name": "FX:USDCAD",
+                                                        "displayName": "USD to CAD"
+                                                    },
+                                                    {
+                                                        "name": "FX:USDCHF",
+                                                        "displayName": "USD to CHF"
+                                                    }
+                                                ]
                                             },
                                             {
-                                                "name": "FX:GBPUSD",
-                                                "displayName": "GBP to USD"
+                                                "name": "Commodity",
+                                                "symbols": [
+                                                    {
+                                                        "name": "OANDA:XAUUSD",
+                                                        "displayName": "GOLD"
+                                                    },
+                                                    {
+                                                        "name": "OANDA:XAGUSD",
+                                                        "displayName": "SILVER"
+                                                    },
+                                                    {
+                                                        "name": "TVC:USOIL",
+                                                        "displayName": "USOIL"
+                                                    },
+                                                    {
+                                                        "name": "TVC:UKOIL",
+                                                        "displayName": "UKOIL"
+                                                    },
+                                                    {
+                                                        "name": "FOREXCOM:NATURALGAS",
+                                                        "displayName": "NGAS"
+                                                    },
+                                                    {
+                                                        "name": "ACTIVTRADES:COCOAK2024",
+                                                        "displayName": "COCOA"
+                                                    },
+                                                    {
+                                                        "name": "ACTIVTRADES:COTTONK2024",
+                                                        "displayName": "COTTON"
+                                                    }
+                                                ]
                                             },
                                             {
-                                                "name": "FX:USDJPY",
-                                                "displayName": "USD to JPY"
+                                                "name": "Indices",
+                                                "symbols": [
+                                                    {
+                                                        "name": "CAPITALCOM:US100",
+                                                        "displayName": "US100"
+                                                    },
+                                                    {
+                                                        "name": "PEPPERSTONE:US500",
+                                                        "displayName": "US500"
+                                                    },
+                                                    {
+                                                        "name": "TVC:UKX",
+                                                        "displayName": "UK 100"
+                                                    },
+                                                    {
+                                                        "name": "PEPPERSTONE:JPN225",
+                                                        "displayName": "JPN225"
+                                                    },
+                                                    {
+                                                        "name": "PEPPERSTONE:HK50",
+                                                        "displayName": "HONGKONG"
+                                                    },
+                                                    {
+                                                        "name": "NSE:NIFTY",
+                                                        "displayName": "INDIA NSE"
+                                                    },
+                                                    {
+                                                        "name": "PEPPERSTONE:US30",
+                                                        "displayName": "US30"
+                                                    },
+                                                    {
+                                                        "name": "TVC:VIX",
+                                                        "displayName": "GLOBAL VIX"
+                                                    }
+                                                ]
                                             },
                                             {
-                                                "name": "FX:USDCHF",
-                                                "displayName": "USD to CHF"
+                                                "name": "Stocks",
+                                                "symbols": [
+                                                    {
+                                                        "name": "NASDAQ:AAPL",
+                                                        "displayName": "APPLE"
+                                                    },
+                                                    {
+                                                        "name": "NASDAQ:GOOGL",
+                                                        "displayName": "GOOGLE"
+                                                    },
+                                                    {
+                                                        "name": "NASDAQ:TSLA",
+                                                        "displayName": "TESLA"
+                                                    },
+                                                    {
+                                                        "name": "NASDAQ:AMZN",
+                                                        "displayName": "AMAZON"
+                                                    },
+                                                    {
+                                                        "name": "NASDAQ:MSFT",
+                                                        "displayName": "MICROSOFT"
+                                                    },
+                                                    {
+                                                        "name": "NASDAQ:NFLX",
+                                                        "displayName": "NETFLIX"
+                                                    }
+                                                ]
                                             },
                                             {
-                                                "name": "FX:AUDUSD",
-                                                "displayName": "AUD to USD"
-                                            },
-                                            {
-                                                "name": "FX:USDCAD",
-                                                "displayName": "USD to CAD"
-                                            },
-                                            {
-                                                "name": "FX:USDCHF",
-                                                "displayName": "USD to CHF"
+                                                "name": "Crypto",
+                                                "symbols": [
+                                                    {
+                                                        "name": "BINANCE:BTCUSDT"
+                                                    },
+                                                    {
+                                                        "name": "BITSTAMP:BTCUSD"
+                                                    },
+                                                    {
+                                                        "name": "BINANCE:DOGEUSDT"
+                                                    },
+                                                    {
+                                                        "name": "BITSTAMP:ETHUSD"
+                                                    },
+                                                    {
+                                                        "name": "COINBASE:SOLUSD"
+                                                    },
+                                                    {
+                                                        "name": "BINANCE:XRPUSDT"
+                                                    },
+                                                    {
+                                                        "name": "BINANCE:NEARUSDT"
+                                                    }
+                                                ]
                                             }
-                                        ]
-                                    },
-                                    {
-                                        "name": "Commodity",
-                                        "symbols": [
-                                            {
-                                                "name": "OANDA:XAUUSD",
-                                                "displayName": "GOLD"
-                                            },
-                                            {
-                                                "name": "OANDA:XAGUSD",
-                                                "displayName": "SILVER"
-                                            },
-                                            {
-                                                "name": "TVC:USOIL",
-                                                "displayName": "USOIL"
-                                            },
-                                            {
-                                                "name": "TVC:UKOIL",
-                                                "displayName": "UKOIL"
-                                            },
-                                            {
-                                                "name": "FOREXCOM:NATURALGAS",
-                                                "displayName": "NGAS"
-                                            },
-                                            {
-                                                "name": "ACTIVTRADES:COCOAK2024",
-                                                "displayName": "COCOA"
-                                            },
-                                            {
-                                                "name": "ACTIVTRADES:COTTONK2024",
-                                                "displayName": "COTTON"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "name": "Indices",
-                                        "symbols": [
-                                            {
-                                                "name": "CAPITALCOM:US100",
-                                                "displayName": "US100"
-                                            },
-                                            {
-                                                "name": "PEPPERSTONE:US500",
-                                                "displayName": "US500"
-                                            },
-                                            {
-                                                "name": "TVC:UKX",
-                                                "displayName": "UK 100"
-                                            },
-                                            {
-                                                "name": "PEPPERSTONE:JPN225",
-                                                "displayName": "JPN225"
-                                            },
-                                            {
-                                                "name": "PEPPERSTONE:HK50",
-                                                "displayName": "HONGKONG"
-                                            },
-                                            {
-                                                "name": "NSE:NIFTY",
-                                                "displayName": "INDIA NSE"
-                                            },
-                                            {
-                                                "name": "PEPPERSTONE:US30",
-                                                "displayName": "US30"
-                                            },
-                                            {
-                                                "name": "TVC:VIX",
-                                                "displayName": "GLOBAL VIX"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "name": "Stocks",
-                                        "symbols": [
-                                            {
-                                                "name": "NASDAQ:AAPL",
-                                                "displayName": "APPLE"
-                                            },
-                                            {
-                                                "name": "NASDAQ:GOOGL",
-                                                "displayName": "GOOGLE"
-                                            },
-                                            {
-                                                "name": "NASDAQ:TSLA",
-                                                "displayName": "TESLA"
-                                            },
-                                            {
-                                                "name": "NASDAQ:AMZN",
-                                                "displayName": "AMAZON"
-                                            },
-                                            {
-                                                "name": "NASDAQ:MSFT",
-                                                "displayName": "MICROSOFT"
-                                            },
-                                            {
-                                                "name": "NASDAQ:NFLX",
-                                                "displayName": "NETFLIX"
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "name": "Crypto",
-                                        "symbols": [
-                                            {
-                                                "name": "BINANCE:BTCUSDT"
-                                            },
-                                            {
-                                                "name": "BITSTAMP:BTCUSD"
-                                            },
-                                            {
-                                                "name": "BINANCE:DOGEUSDT"
-                                            },
-                                            {
-                                                "name": "BITSTAMP:ETHUSD"
-                                            },
-                                            {
-                                                "name": "COINBASE:SOLUSD"
-                                            },
-                                            {
-                                                "name": "BINANCE:XRPUSDT"
-                                            },
-                                            {
-                                                "name": "BINANCE:NEARUSDT"
-                                            }
-                                        ]
-                                    }
-                                ],
-                                    "showSymbolLogo": true,
-                                        "isTransparent": false,
-                                            "colorTheme": "dark",
-                                                "locale": "en",
-                                                    "backgroundColor": "#131722"
-                    }
-                </script>
-        </div>
-        <!-- TradingView Widget END -->            </div>
+                                        ],
+                                            "showSymbolLogo": true,
+                                                "isTransparent": false,
+                                                    "colorTheme": "dark",
+                                                        "locale": "en",
+                                                            "backgroundColor": "#131722"
+                            }
+                        </script>
+                </div>
+                <!-- TradingView Widget END -->
+            </div>
         </div>
     </div>
 </section>
@@ -1324,12 +1156,15 @@
                             <br>
                         </div>
                     </div>
-                    
-                    <ul class=" d-flex   gap-md-3 mt-4" >
+
+                    <ul class=" d-flex   gap-md-3 mt-4">
                         <li><img style=" height:35px;" src="assets/images/icon/a. visa white _logo.png"></li>
                         <li><img style=" height:35px;" src="assets/images/icon/a. mastercard.png"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/a.bitcoin-logo.png"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/Tether.png"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/Perfect-Money- white logo.png"></li>
                         <li><img style=" height:35px;" src="assets/images/icon/a. Wire Transfer white logo.png"></li>
-                        <li><img style=" height:35px;" src="assets/images/icon/a .crypto logo.png"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/Upi-Payment.png"></li>
                     </ul>
                 </div>
             </div>
