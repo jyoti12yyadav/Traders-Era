@@ -175,11 +175,11 @@
                     </span>
                     <h4 class="mt-5 mb-5">Live monitoring and payment
                     </h4>
-
+<br>
                     <p>Launch, manage, and track earnings and payouts effortlessly through our dedicated partners'
                         portal.
                     </p>
-                    <br><br>
+               <br>
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
@@ -192,7 +192,7 @@
                     <p>Access a wide range of trading resources and tools suitable for traders of all levels.
 
                     </p>
-                    <br><br>
+                <br><br>
                 </div>
             </div>
 
@@ -203,18 +203,17 @@
                     </span>
                     <h4 class="mt-5 mb-5">Team dedicated to Partner Success
                     </h4>
+                    <br>
                     <p>Get professional assistance for on-boarding, tutorials, and a dedicated manager who can
                         communicate in multiple languages.
 
                     </p>
-                    <br>
+               
                 </div>
 
             </div>
         </div>
-        <br>
-        <br>
-
+ 
 
 </section>
 
@@ -244,11 +243,12 @@
                 <div class="apply-card nb3-bg cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <h3 class="mb-4"> Live monitoring and payment
                     </h3>
+                    <br>
                     <p>Launch, manage, and track earnings and payouts effortlessly through our dedicated partners'
                         portal
 
                     </p>
-                    <br>
+                  
                 </div>
             </div>
             <div class="col-lg-6 col-xxl-6">
@@ -274,7 +274,7 @@
     </div>
 </section>
 <!-- Apply Today end -->
-
+<br><br><br>
 
 <section class="provide-world pt-120 position-relative z-0 mb-10 " style="background-color: #000;">
     <div class="container">
