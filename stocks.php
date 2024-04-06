@@ -36,15 +36,10 @@
             <table id="Record" class="table table-striped table-dark my-3">
                 <thead>
                 <tr>
-                    <th>Platform Name</th>
-                <th>Platform</th>
-<th>RIC</th>
+<th>Platform Name</th>
 <th>Currency</th>
 <th>Description</th>
-<th>Asset Type</th>
 <th>Country</th>
-<th>Leverage</th>
-<th>Limit</th>
 </tr>
                     </thead>
 <tr>
@@ -52,1105 +47,506 @@
 </tr>
 </thead>
 <tbody>
-    <td>AADIBIO</td><td>TT </td>
-    <td>AADI.O</td>
+    <td>AADIBIO</td>
     <td>USD</td>
     <td>Aadi Bioscience Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <td>1:1</td>
-    
-    <td>10000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>AAON</td><td>TT </td>
-    <td>AAON.N</td>
+    </tr>
+    <td>AAON</td>
     <td>USD</td>
     <td>Aaon Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>2500</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>AAP</td><td>TT &amp; MT5</td>
-    <td>AAP.N</td>
+    </tr>
+    <td>AAP</td>
     <td>USD</td>
     <td>Advance Auto Parts Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>6.66:1</td>
-    
-    <td>1000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>AARONS</td><td>TT &amp; MT5</td>
-    <td>AAN.N</td>
+    </tr>
+    <td>AARONS</td>
     <td>USD</td>
     <td>Aaron's Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>2500</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>AAXJ</td><td>TT </td>
-    <td>AAXJ.N</td>
+    </tr>
+    <td>AAXJ</td>
     <td>USD</td>
     <td>iShares MSCI All Country Asia ex Japan ETF</td>
-    <td>ETF</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>2500</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>ABBOTT</td><td>TT &amp; MT5</td>
+    </tr>
     <td>ABT.N</td>
     <td>USD</td>
     <td>Abbott Laboratories</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>10:1</td>
-    
-    <td>1000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>ABBVIE</td><td>TT &amp; MT5</td>
-    <td>ABBV.N</td>
+    </tr>
+    <td>ABBVIE</td>
     <td>USD</td>
     <td>AbbVie Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>10:1</td>
-    
-    <td>2500</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>ABERCROMBIEFITCH</td><td>TT </td>
-    <td>ANF.N</td>
+    </tr>
+    <td>ABERCROMBIEFITCH</td>
     <td>USD</td>
     <td>Abercrombie &amp; Fitch Co</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>5000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>ABIOMED</td><td>TT &amp; MT5</td>
-    <td>ABMD.O</td>
+    </tr>
+    <td>ABIOMED</td>
     <td>USD</td>
     <td>Abiomed Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>3.33:1</td>
-    
-    <td>1000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>ABMINDUSTRIES</td><td>TT </td>
-    <td>ABM.N</td>
+    </tr>
+    <td>ABMINDUSTRIES</td>
     <td>USD</td>
     <td>ABM Industries Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>2500</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>ACACIARESEARCH</td><td>TT </td>
-    <td>ACTG.N</td>
+    </tr>
+    <td>ACACIARESEARCH</td>
     <td>USD</td>
     <td>Acacia Research Corp</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>50000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>ACADIAREALTY</td><td>TT </td>
-    <td>AKR.N</td>
+    </tr>
+    <td>ACADIAREALTY</td>
     <td>USD</td>
     <td>Acadia Realty Trust</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>5000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>ACCELENT</td><td>TT </td>
-    <td>ACEL.N</td>
+    </tr>
+    <td>ACCELENT</td>
     <td>USD</td>
     <td>Accel Entertainment Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>10000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>ACCELERATEDIAGNOSTICS</td><td>TT </td>
-    <td>AXDX.N</td>
+    </tr>
+    <td>ACCELERATEDIAGNOSTICS</td>
     <td>USD</td>
     <td>Accelerate Diagnostics Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>50000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>ACCENTURE</td><td>TT &amp; MT5</td>
-    <td>ACN.N</td>
+    </tr>
+    <td>ACCENTURE</td>
     <td>USD</td>
     <td>Accenture PLC</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>1000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>ACCOBRANDS</td><td>TT </td>
-    <td>ACCO.N</td>
+    </tr>
+    <td>ACCOBRANDS</td>
     <td>USD</td>
     <td>ACCO Brands Corp</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>20000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>ACCURAY</td><td>TT </td>
-    <td>ARAY.N</td>
+    </tr>
+    <td>ACCURAY</td>
     <td>USD</td>
     <td>Accuray Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>50000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>ACIMMUNE</td><td>TT </td>
-    <td>ACIU.N</td>
+    </tr>
+    <td>ACIMMUNE</td>
     <td>USD</td>
     <td>AC Immune SA</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>50000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>ACIWORLDWIDE</td><td>TT </td>
-    <td>ACIW.N</td>
+    </tr>
+    <td>ACIWORLDWIDE</td>
     <td>USD</td>
     <td>ACI Worldwide Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>5000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>ACMEUNITED</td><td>TT </td>
-    <td>ACU.N</td>
+    </tr>
+    <td>ACMEUNITED</td>
     <td>USD</td>
     <td>Acme United Corp</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>5000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>ACMRESEARCH</td><td>TT </td>
-    <td>ACMR.N</td>
+    </tr>
+    <td>ACMRESEARCH</td>
     <td>USD</td>
     <td>ACM Research Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>1000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>ACNBCORP</td><td>TT </td>
-    <td>ACNB.N</td>
+    </tr>
+    <td>ACNBCORP</td>
     <td>USD</td>
     <td>ACNB Corp</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>5000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>ACRESCOMM</td><td>TT </td>
-    <td>ACR</td>
+    </tr>
+    <td>ACRESCOMM</td>
     <td>USD</td>
     <td>Acres Commercial Realty Corp</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>10000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>ACTIVISION</td><td>TT &amp; MT5</td>
-    <td>ATVI.O</td>
+    </tr>
+    <td>ACTIVISION</td>
     <td>USD</td>
     <td>Activision Blizzard Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>3.33:1</td>
-    
-    <td>2500</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>ACUITY</td><td>TT &amp; MT5</td>
-    <td>AYI.N</td>
+    </tr>
+    <td>ACUITY</td>
     <td>USD</td>
     <td>Acuity Brands Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>3.33:1</td>
-    
-    <td>1000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>ACUSHNETHOLDING</td><td>TT </td>
-    <td>GOLF.N</td>
+    </tr>
+    <td>ACUSHNETHOLDING</td>
     <td>USD</td>
     <td>Acushnet Holdings Corp</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>2500</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>ACWI</td><td>TT &amp; MT5</td>
-    <td>ACWI.O</td>
+    </tr>
+    <td>ACWI</td>
     <td>USD</td>
     <td>iShares MSCI ACWI ETF</td>
-    <td>ETF</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>10:1</td>
-    
-    <td>2500</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>ACWV</td><td>TT &amp; MT5</td>
-    <td>ACWV.P</td>
+    </tr>
+    <td>ACWV</td>
     <td>USD</td>
     <td>iShares Edge MSCI Min Vol Global ETF</td>
-    <td>ETF</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>10:1</td>
-    
-    <td>1000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>ACWX</td><td>TT &amp; MT5</td>
-    <td>ACWX.O</td>
+    </tr>
+    <td>ACWX</td>
     <td>USD</td>
     <td>iShares MSCI ACWI ex US ETF</td>
-    <td>ETF</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>6.66:1</td>
-    
-    <td>5000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>ADAMRESOURCES</td><td>TT </td>
-    <td>AE.N</td>
+    </tr>
+    <td>ADAMRESOURCES</td>
     <td>USD</td>
     <td>Adams Resources &amp; Energy Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>5000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>ADAPTHEALTHCORP</td><td>TT </td>
-    <td>AHCO.N</td>
+    </tr>
+    <td>ADAPTHEALTHCORP</td>
     <td>USD</td>
     <td>Adapthealth Corp</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>10000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>ADDUSHOMECARE</td><td>TT </td>
-    <td>ADUS.N</td>
+    </tr>
+    <td>ADDUSHOMECARE</td>
     <td>USD</td>
     <td>Addus Homecare Corp</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>1000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>ADECOAGRO</td><td>TT </td>
-    <td>AGRO.N</td>
+    </tr>
+    <td>ADECOAGRO</td>
     <td>USD</td>
     <td>Adecoagro SA</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>10000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>ADI</td><td>TT &amp; MT5</td>
-    <td>ADI.O</td>
+    </tr>
+    <td>ADI</td>
     <td>USD</td>
     <td>Analog Devices Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>10:1</td>
-    
-    <td>1000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>ADIENT</td><td>TT </td>
-    <td>ADNT.N</td>
+    </tr>
+    <td>ADIENT</td>
     <td>USD</td>
     <td>Adient PLC</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>5000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>ADM</td><td>TT &amp; MT5</td>
-    <td>ADM.N</td>
+    </tr>
+    <td>ADM</td>
     <td>USD</td>
     <td>Archer-Daniels-Midland Company</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>3.33:1</td>
-    
-    <td>5000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>ADOBE</td><td>TT &amp; MT5</td>
-    <td>ADBE.O</td>
+    </tr>
+    <td>ADOBE</td>
     <td>USD</td>
     <td>Adobe Systems Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>10:1</td>
-    
-    <td>500</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>ADP</td><td>TT &amp; MT5</td>
-    <td>ADP.O</td>
+    </tr>
+    <td>ADP</td>
     <td>USD</td>
     <td>Automatic Data Processing Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>10:1</td>
-    
-    <td>1000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>ADT</td><td>TT </td>
-    <td>ADT.N</td>
+    </tr>
+    <td>ADT</td>
     <td>USD</td>
     <td>ADT Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>20000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>ADTALEMGLOBAL</td><td>TT </td>
-    <td>ATGE.N</td>
+    </tr>
+    <td>ADTALEMGLOBAL</td>
     <td>USD</td>
     <td>Adtalem Global Education Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>5000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>ADTRAN</td><td>TT </td>
-    <td>ADTN.N</td>
+    </tr>
+    <td>ADTRAN</td>
     <td>USD</td>
     <td>ADTRAN Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>10000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>ADVANCEDDRAINAGE</td><td>TT </td>
-    <td>WMS.N</td>
+    </tr>
+    <td>ADVANCEDDRAINAGE</td>
     <td>USD</td>
     <td>Advanced Drainage Systems Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>1000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>ADVANCEDEMISSIONS</td><td>TT </td>
-    <td>ADES.N</td>
+    </tr>
+    <td>ADVANCEDEMISSIONS</td>
     <td>USD</td>
     <td>Advanced Emissions Solutions Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>20000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>ADVANCEDENERGY</td><td>TT </td>
-    <td>AEIS.N</td>
+    </tr>
+    <td>ADVANCEDENERGY</td>
     <td>USD</td>
     <td>Advanced Energy Industries Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>1000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>ADVANSIX</td><td>TT </td>
-    <td>ASIX.N</td>
+    </tr>
+    <td>ADVANSIX</td>
     <td>USD</td>
     <td>AdvanSix Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>2500</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>AECOM</td><td>TT &amp; MT5</td>
-    <td>ACM.N</td>
+    </tr>
+    <td>AECOM</td>
     <td>USD</td>
     <td>AECOM Engineering</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>3.33:1</td>
-    
-    <td>5000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>AEHRTEST</td><td>TT </td>
-    <td>AEHR.N</td>
+    </tr>
+    <td>AEHRTEST</td>
     <td>USD</td>
     <td>Aehr Test Systems</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>10000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>AEMETIS</td><td>TT </td>
-    <td>AMTX.N</td>
+    </tr>
+    <td>AEMETIS</td>
     <td>USD</td>
     <td>Aemetis Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>10000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>AERCAPHOLDING</td><td>TT </td>
-    <td>AER.N</td>
+    </tr>
+    <td>AERCAPHOLDING</td>
     <td>USD</td>
     <td>AerCap Holdings NV</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>2500</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>AEROJETROCKETDYNE</td><td>TT </td>
-    <td>AJRD.N</td>
+    </tr>
+    <td>AEROJETROCKETDYNE</td>
     <td>USD</td>
     <td>Aerojet Rocketdyne Holdings Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>5000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>AEROVIRONMENT</td><td>TT </td>
-    <td>AVAV.N</td>
+    </tr>
+    <td>AEROVIRONMENT</td>
     <td>USD</td>
     <td>AeroVironment Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>2500</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>AERSALE</td><td>TT </td>
-    <td>ASLE.O</td>
+    </tr>
+    <td>AERSALE</td>
     <td>USD</td>
     <td>AerSale Corp</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>10000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>AES</td><td>TT &amp; MT5</td>
-    <td>AES.N</td>
+    </tr>
+    <td>AES</td>
     <td>USD</td>
     <td>The AES Corporation</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>3.33:1</td>
-    
-    <td>10000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>AEVATECH</td><td>TT </td>
-    <td>AEVA.K</td>
+    </tr>
+    <td>AEVATECH</td>
     <td>USD</td>
     <td>Aeva Technologies Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>20000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>AFFINITYBANC</td><td>TT </td>
-    <td>AFBI.O</td>
+    </tr>
+    <td>AFFINITYBANC</td>
     <td>USD</td>
     <td>Affinity Bancshares Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>10000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>AFLAC</td><td>TT &amp; MT5</td>
-    <td>AFL.N</td>
+    </tr>
+    <td>AFLAC</td>
     <td>USD</td>
     <td>Aflac Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>5000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>AFYA</td><td>TT </td>
-    <td>AFYA.N</td>
+    </tr>
+    <td>AFYA</td>
     <td>USD</td>
     <td>Afya Ltd</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>10000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>AGCOCORP</td><td>TT &amp; MT5</td>
-    <td>AGCO.N</td>
+    </tr>
+    <td>AGCOCORP</td>
     <td>USD</td>
     <td>AGCO Corp</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>3.33:1</td>
-    
-    <td>2500</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>AGG</td><td>TT &amp; MT5</td>
-    <td>AGG.P</td>
+    </tr>
+    <td>AGG</td>
     <td>USD</td>
     <td>iShares Core US Aggregate Bond ETF</td>
-    <td>ETF</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>3.33:1</td>
-    
-    <td>1000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>AGILENT</td><td>TT &amp; MT5</td>
-    <td>A.N</td>
+    </tr>
+    <td>AGILENT</td>
     <td>USD</td>
     <td>Agilent Technologies Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>10:1</td>
-    
-    <td>2500</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>AGILETHUOGHT</td><td>TT </td>
-    <td>AGIL.O</td>
+    </tr>
+    <td>AGILETHUOGHT</td>
     <td>USD</td>
     <td>AgileThought Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>20000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>AGILYSYS</td><td>TT </td>
-    <td>AGYS.N</td>
+    </tr>
+    <td>AGILYSYS</td>
     <td>USD</td>
     <td>Agilysys Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>2500</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>AGMGROUPHOLDNGS</td><td>TT </td>
-    <td>AGMH.N</td>
+    </tr>
+    <td>AGMGROUPHOLDNGS</td>
     <td>USD</td>
     <td>AGM Group Holdings Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>50000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>AGMORTAGEINVEST</td><td>TT </td>
-    <td>MITT.N</td>
+    </tr>
+    <td>AGMORTAGEINVEST</td>
     <td>USD</td>
     <td>AG Mortgage Investment Trust Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>20000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>AGNC</td><td>TT &amp; MT5</td>
-    <td>AGNC.O</td>
+    </tr>
+    <td>AGNC</td>
     <td>USD</td>
     <td>AGNC Investment Corp</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>10:1</td>
-    
-    <td>10000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>AGNICOEAGLE</td><td>TT &amp; MT5</td>
-    <td>AEM.N</td>
+    </tr>
+    <td>AGNICOEAGLE</td>
     <td>USD</td>
     <td>Agnico Eagle Mines Limited</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>6.66:1</td>
-    
-    <td>2500</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>AGREEREALTY</td><td>TT </td>
-    <td>ADC.N</td>
+    </tr>
+    <td>AGREEREALTY</td>
     <td>USD</td>
     <td>Agree Realty Corp</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>2500</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>AGROGROUP</td><td>TT </td>
-    <td>ARGO.N</td>
+    </tr>
+    <td>AGROGROUP</td>
     <td>USD</td>
     <td>Argo Group International Holdings Ltd</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>2500</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>AIA</td><td>TT </td>
-    <td>AIA.N</td>
+    </tr>
+    <td>AIA</td>
     <td>USD</td>
     <td>iShares Asia 50 ETF</td>
-    <td>ETF</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>2500</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>AIG</td><td>TT &amp; MT5</td>
-    <td>AIG.N</td>
+    </tr>
+    <td>AIG</td>
     <td>USD</td>
     <td>American International Group Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>3.33:1</td>
-    
-    <td>5000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>AIMCO</td><td>TT &amp; MT5</td>
-    <td>AIV.N</td>
+    </tr>
+    <td>AIMCO</td>
     <td>USD</td>
     <td>Apartment Investment and Management Company</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>5000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>AIRBNB</td><td>TT &amp; MT5</td>
-    <td>ABNB.O</td>
+    </tr>
+    <td>AIRBNB</td>
     <td>USD</td>
     <td>Airbnb Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>10:1</td>
-    
-    <td>20000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>AIRLEASE</td><td>TT &amp; MT5</td>
-    <td>AL.N</td>
+    </tr>
+    <td>AIRLEASE</td>
     <td>USD</td>
     <td>Air Lease Corp</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>10:1</td>
-    
-    <td>5000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>AIRPRODUCTS</td><td>TT &amp; MT5</td>
-    <td>APD.N</td>
+    </tr>
+    <td>AIRPRODUCTS</td>
     <td>USD</td>
     <td>Air Products and Chemicals Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>6.66:1</td>
-    
-    <td>500</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>AIRTRANSPORT</td><td>TT </td>
-    <td>ATSG.N</td>
+    </tr>
+    <td>AIRTRANSPORT</td>
     <td>USD</td>
     <td>Air Transport Services Group Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>5000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>AJGALLAGHER</td><td>TT &amp; MT5</td>
-    <td>AJG.N</td>
+    </tr>
+    <td>AJGALLAGHER</td>
     <td>USD</td>
     <td>Arthur J. Gallagher &amp; Company</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>10:1</td>
-    
-    <td>1000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>AKAMAI</td><td>TT &amp; MT5</td>
-    <td>AKAM.O</td>
+    </tr>
+    <td>AKAMAI</td>
     <td>USD</td>
     <td>Akamai Technologies Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>6.66:1</td>
-    
-    <td>1000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>AKOUSTISTECH</td><td>TT </td>
-    <td>AKTS.N</td>
+    </tr>
+    <td>AKOUSTISTECH</td>
     <td>USD</td>
     <td>Akoustis Technologies Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>20000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>ALAMOGROUP</td><td>TT </td>
-    <td>ALG.N</td>
+    </tr>
+    <td>ALAMOGROUP</td>
     <td>USD</td>
     <td>Alamo Group Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>1000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>ALAMOSGOLD</td><td>TT </td>
-    <td>AGI.N</td>
+    </tr>
+    <td>ALAMOSGOLD</td>
     <td>USD</td>
     <td>Alamos Gold Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>20000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>ALARMCOM</td><td>TT </td>
-    <td>ALRM.N</td>
+    </tr>
+    <td>ALARMCOM</td>
     <td>USD</td>
     <td>Alarm.com Holdings Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>2500</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>ALASKAAIR</td><td>TT &amp; MT5</td>
-    <td>ALK.N</td>
+    </tr>
+    <td>ALASKAAIR</td>
     <td>USD</td>
     <td>Alaska Air Group Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>5000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>ALBANY</td><td>TT </td>
-    <td>AIN.N</td>
+    </tr>
+    <td>ALBANY</td>
     <td>USD</td>
     <td>Albany International Corp</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>1000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>ALBEMARLE</td><td>TT &amp; MT5</td>
-    <td>ALB.N</td>
+    </tr>
+    <td>ALBEMARLE</td>
     <td>USD</td>
     <td>Albemarle Corporation</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>2500</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>ALBIREOPHARMA</td><td>TT </td>
-    <td>ALBO.N</td>
+    </tr>
+    <td>ALBIREOPHARMA</td>
     <td>USD</td>
     <td>Albireo Pharma Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>5000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>ALCOA</td><td>TT &amp; MT5</td>
-    <td>AA.N</td>
+    </tr>
+    <td>ALCOA</td>
     <td>USD</td>
     <td>Alcoa</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>3.33:1</td>
-    
-    <td>20000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>ALCON</td><td>TT </td>
-    <td>ALC.N</td>
+    </tr>
+    <td>ALCON</td>
     <td>USD</td>
     <td>Alcon Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>2500</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>ALERUSFINANCIAL</td><td>TT </td>
-    <td>ALRS.N</td>
+    </tr>
+    <td>ALERUSFINANCIAL</td>
     <td>USD</td>
     <td>Alerus Financial Corp</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>5000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>ALEXANDRIA</td><td>TT &amp; MT5</td>
-    <td>ARE.N</td>
+    </tr>
+    <td>ALEXANDRIA</td>
     <td>USD</td>
     <td>Alexandria Real Estate Equity Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>10:1</td>
-    
-    <td>1000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>ALEXCANDERBALDWIN</td><td>TT </td>
-    <td>ALEX.N</td>
+    </tr>
+    <td>ALEXCANDERBALDWIN</td>
     <td>USD</td>
     <td>Alexander &amp; Baldwin Inc (Hawaii)</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>5000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>ALGONQUINPOWER</td><td>TT </td>
-    <td>AQN.N</td>
+    </tr>
+    <td>ALGONQUINPOWER</td>
     <td>USD</td>
     <td>Algonquin Power &amp; Utilities Corp</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>10000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>ALICO</td><td>TT </td>
-    <td>ALCO.N</td>
+    </tr>
+    <td>ALICO</td>
     <td>USD</td>
     <td>Alico Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>5000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>ALIGN</td><td>TT &amp; MT5</td>
-    <td>ALGN.O</td>
+    </tr>
+    <td>ALIGN</td>
     <td>USD</td>
     <td>Align Technology Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>3.33:1</td>
-    
-    <td>1000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>ALLEGHANY</td><td>TT &amp; MT5</td>
-    <td>Y.N</td>
+    </tr>
+    <td>ALLEGHANY</td>
     <td>USD</td>
     <td>Alleghany Corp</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>10:1</td>
-    
-    <td>250</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>ALLEGHENYTECH</td><td>TT </td>
-    <td>ATI.N</td>
+    </tr>
+    <td>ALLEGHENYTECH</td>
     <td>USD</td>
     <td>Allegheny Technologies Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>5000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>ALLEGIANCBANSHARES</td><td>TT </td>
-    <td>ABTX.N</td>
+    </tr>
+    <td>ALLEGIANCBANSHARES</td>
     <td>USD</td>
     <td>Allegiance Bancshares Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>2500</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>ALLEGIANTTRAVEL</td><td>TT </td>
-    <td>ALGT.N</td>
+    </tr>
+    <td>ALLEGIANTTRAVEL</td>
     <td>USD</td>
     <td>Allegiant Travel Co</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>5:1</td>
-    
-    <td>1000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>ALLEGION</td><td>TT &amp; MT5</td>
-    <td>ALLE.N</td>
+    </tr>
+    <td>ALLEGION</td>
     <td>USD</td>
     <td>Allegion PLC</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>10:1</td>
-    
-    <td>1000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="tm-table-even-entry">
-    <td>ALLETE</td><td>TT &amp; MT5</td>
-    <td>ALE.N</td>
+    </tr>
+    <td>ALLETE</td>
     <td>USD</td>
     <td>ALLETE Inc</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>3.33:1</td>
-    
-    <td>2500</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' --><tr ng-class="{'tm-table-even-entry': 0 === $index % 2 }" ng-repeat="entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' " class="">
-    <td>ALLIANCEDATA</td><td>TT &amp; MT5</td>
-    <td>ADS.N</td>
+    </tr>
+    <td>ALLIANCEDATA</td>
     <td>USD</td>
     <td>Alliance Data Systems Corporation</td>
-    <td>Equity</td>
     <td>US</td>
-    <!-- ngIf: -1 === ['en', 'za', 'pt', 'id', 'th', 'ar', 'latam', 'my', 'cn', 'tw', 'vn'].indexOf( tableCtrl.model.cultureData.cultureId ) -->
-    <td>10:1</td>
-    
-    <td>5000</td>
-    </tr><!-- end ngRepeat: entry in tableCtrl.model.data.entriesToShow | orderBy : 'name' -->
+    </tr>
     </tbody>
 </table>
             </div>
