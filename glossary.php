@@ -27,10 +27,11 @@
 <!-- a section -->
 <section class="privacy-policy mt-20 pb-10 ">
     <div class="container">
+    <h2 class="text-center mb-10 mb-lg-15">Forex Glossary</h2>
         <div class="row justify-content-center">
             <div class="col-lg-10 col-xxl-10">
                 <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
-                    <h2 class="text-center mb-10 mb-lg-15">Forex Glossary</h2>
+                    
                     <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
                         <div class="privacy-policy__part">
 

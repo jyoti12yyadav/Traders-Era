@@ -228,5 +228,72 @@
             </div>
         </div>
     </section>
+    <section class="privacy-policy  ">
+        <div class="container">
+            <div class="row justify-content-center">
+                
+                <div class="col-lg-10 col-xxl-10">
+                    <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 mb-10 p-lg-15 cus-rounded-2">
 
+                        <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
+                            <h2 class="text-center">Promotion rules</h2>
+                            <ul style="list-style-type: circle;">
+                                <li dir="ltr" aria-level="1">
+                                <div dir="ltr" role="presentation" style="text-align: justify;"><span>Limited time events may suggest higher bonus amounts up to 100% deposit bonus.</span></div>
+                                </li>
+                                <li dir="ltr" aria-level="1" style="text-align: justify;">
+                                <div dir="ltr" role="presentation"><span>The bonus cannot be added to internal transfer deposits and to deposits from contests/promotions, etc. unless stated otherwise.</span></div>
+                                </li>
+                                <li dir="ltr" aria-level="1" style="text-align: justify;">
+                                <div dir="ltr" role="presentation"><span>The Client can only claim a new bonus if the sum of this bonus and the amount of all other bonus funds in the relevant trading account is less than the amount of the Client’s funds (excluding bonuses) in this account’s free margin.</span></div>
+                                </li>
+                                <li dir="ltr" aria-level="1" style="text-align: justify;">
+                                <div dir="ltr" role="presentation"><span>It is advised to claim a bonus right after your deposit is credited to your trading account.</span></div>
+                                </li>
+                                <li dir="ltr" aria-level="1" style="text-align: justify;">
+                                <div dir="ltr" role="presentation"><span>The bonus shall be credited into your account and locked until the volume requirements are met. After the required volume is completed, the bonus will be deducted from your MT4 | MT5 credit and simultaneously deposited into your balance. The operation will be processed every hour on a daily basis.</span></div>
+                                </li>
+                                <li dir="ltr" aria-level="1" style="text-align: justify;">
+                                <div dir="ltr" role="presentation"><span>The bonus for each deposit is considered a separate bonus.</span></div>
+                                </li>
+                                <li dir="ltr" aria-level="1" style="text-align: justify;">
+                                <div dir="ltr" role="presentation"><span>It is required to trade (bonus amount)/2 (bonus amount divided by two) standard lots to be able to withdraw a bonus.</span></div>
+                                </li>
+                                <li dir="ltr" aria-level="1" style="text-align: justify;">
+                                <div dir="ltr" role="presentation"><span>Volume calculation starts from the first bonus and continues consecutively. This means that you can't withdraw later bonuses before you trade the required volume for the first bonus, and so on. The volume calculation starts from the moment the bonus is requested. The volume for each deposit is calculated separately.</span><span><br></span><span>E.g. You made a $100 deposit on Monday and started trading. On Wednesday you claimed $50 bonus. Volume calculation for your bonus starts from Wednesday, any volume traded before Wednesday will not be included. It is advised to claim a bonus right after your deposit is credited to your trading account.</span></div>
+                                </li>
+                                <li dir="ltr" aria-level="1" style="text-align: justify;">
+                                <div dir="ltr" role="presentation"><span>The bonus can be withdrawn </span><span>only</span><span> if by the moment of lots calculation the bonus is still present in the account. If a Client had traded the required volume, but the bonus has already been canceled, it would not be added or compensated.</span></div>
+                                </li>
+                                <li dir="ltr" aria-level="1" style="text-align: justify;">
+                                <div dir="ltr" role="presentation"><span>If the equity of your account becomes less than your bonus amount or equal to it, the bonus will be cancelled.</span></div>
+                                </li>
+                                <li dir="ltr" aria-level="1" style="text-align: justify;">
+                                <div dir="ltr" role="presentation"><span>If the amount of the client's personal funds in the trading account upon withdrawal/internal transfer becomes less than or equal to the bonus(es) amount, the bonus(es) will be canceled starting from the latest one until the amount of personal funds in such account becomes higher than the bonus(es) amount.</span></div>
+                                </li>
+                                <li dir="ltr" aria-level="1" style="text-align: justify;">
+                                <div dir="ltr" role="presentation"><span>If the trader's own funds are withdrawn after the bonus has been claimed, the bonus will be canceled.</span><span><br></span><span>E.g. If you deposit $100 to your account, receive $50 bonus and then withdraw $100, bonus will be cancelled. However, if you make profit you can withdraw the profit made anytime and it will not affect your bonus.&nbsp;</span></div>
+                                </li>
+                                <li dir="ltr" aria-level="1" style="text-align: justify;">
+                                <div dir="ltr" role="presentation"><span>A client can cancel deposit bonus at any time. Once deposit bonus is cancelled, it can't be reinstated.</span></div>
+                                </li>
+                                <li dir="ltr" aria-level="1" style="text-align: justify;">
+                                <div dir="ltr" role="presentation"><span>Octa may reject client's bonus application(s) at any time without prior notification or providing reasons for such decision.</span></div>
+                                </li>
+                                <li dir="ltr" aria-level="1" style="text-align: justify;">
+                                <div dir="ltr" role="presentation"><span>Octa may cancel a client's bonus at any time without prior notification.</span></div>
+                                </li>
+                                <li dir="ltr" aria-level="1" style="text-align: justify;">
+                                <div dir="ltr" role="presentation"><span>Any situation not described in these rules shall be subject to the Company's decision.</span></div>
+                                </li>
+                                <li dir="ltr" aria-level="1">
+                                <div dir="ltr" role="presentation" style="text-align: justify;"><span>Octa reserves the right to change, update or cancel this promotion with notification in the </span><a href="#"><span>Company news</span></a><span>.</span></div>
+                                </li>
+                                </ul>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </div></section>
 <?php include("includes/footer.php"); ?>
