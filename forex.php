@@ -25,6 +25,364 @@
     </div>
 </section>
 
+<section class="company-story position-relative z-0  pt-120 pb-120 ">
+    <div class="animation position-absolute w-100 h-100 z-n1">
+        <img src="assets/images/star3.png" alt="vector" class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
+    </div>
+    <div class="container">
+        <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
+            <div class="container my-5">
+            <table id="Record" class="table table-striped table-dark my-3">
+            <thead>
+            <th>Instrument</th>
+<th>Contract size</th>
+<th>Min trade size</th>
+<th>Max trade size</th>
+<th>Max trade size<br>
+(ThinkZero)</th>
+</tr>
+</thead>
+<thead>
+<tr>
+
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>EUR/USD</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>USD/JPY</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>GBP/USD</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>USD/CHF</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>AUD/CAD</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>USD/CAD</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>AUD/CHF</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>AUD/JPY</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>AUD/NZD</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>AUD/USD</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>CAD/CHF</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>CAD/JPY</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>CHF/JPY</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>EUR/AUD</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>EUR/CAD</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>EUR/CHF</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>EUR/GBP</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>EUR/JPY</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>EUR/NOK</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>EUR/NZD</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>GBP/AUD</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>GBP/CAD</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>GBP/ CHF</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>GBP/JPY</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>GBP/NZD</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>NZD/CAD</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>NZD/CHF</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>NZD/JPY</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>NZD/USD</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>USD/NOK</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>USD/SGD</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>USD/MXN</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>EUR/SEK</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>EUR/SGD</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>USD/SEK</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>EUR/HUF</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>GBP/HUF</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>USD/HUF</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>USD/CNH</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>USD/ZAR</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>USD/TRY</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>10</td>
+<td>10</td>
+</tr>
+<tr>
+<td>USD/BRL</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>5</td>
+<td>5</td>
+</tr>
+<tr>
+<td>EUR/TRY</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>10</td>
+<td>10</td>
+</tr>
+<tr>
+<td>EUR/ZAR</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>GBP/ZAR</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>EUR/PLN</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+<tr>
+<td>EUR/CZK</td>
+<td>100 000</td>
+<td>0.01</td>
+<td>50</td>
+<td>100</td>
+</tr>
+</tbody>
+</table>
+            </div>
+    </div>
+    </div>
+
 <section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/coin.png" alt="vector" class="position-absolute d-none d-md-flex previewShapeRevX">

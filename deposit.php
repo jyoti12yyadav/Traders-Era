@@ -52,6 +52,7 @@
                             <th scope="col">COMMISSION</th>
                             <th scope="col">FIXED RATE</th>
                             <th scope="col">EXECUTION TIME</th>
+                            <th scope="col">EXECUTION TIME</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -59,6 +60,7 @@
                             <th scope="row"><img src="assets/images/icon/a. mastercard.png" alt="mastercard" class="icon-table"></th>
                             <td>Mark</td>
                             <td>Otto</td>
+                            <td>@mdo</td>
                             <td>@mdo</td>
                             <td>@mdo</td>
                         </tr>
@@ -91,6 +93,8 @@
                             <td>Larry</td>
                             <td>the Bird</td>
                             <td>@twitter</td>
+                            <td>3-30 minutes</td>
+                            <td>Instant</td>
                         </tr>
                         <tr>
                             <th scope="row"><img src="assets/images/icon/Upi-Payment.png" alt="mastercard" class="icon-table"></th>
@@ -105,6 +109,8 @@
                             <td>Larry</td>
                             <td>the Bird</td>
                             <td>@twitter</td>
+                            <td>3-30 minutes</td>
+                            <td>Instant</td>
                         </tr>
                     </tbody>
                 </table>
