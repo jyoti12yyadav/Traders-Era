@@ -59,7 +59,7 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <th scope="row"><img src="assets/images/icon/a. visa white _logo.png" alt="mastercard" class="icon-table"></th>
+                            <th scope="row"><img src="assets/images/icon/a. visa white _logo.png" alt="mastercard" style="height: 25px;"></th>
                             <td>Mark</td>
                             <td>Otto</td>
                             <td>@mdo</td>
@@ -91,7 +91,7 @@
                             <td>instant</td>
                         </tr>
                         <tr>
-                            <th scope="row"><img src="assets/images/icon/a. mastercard.png" alt="mastercard" class="icon-table"></th>
+                            <th scope="row"><img src="assets/images/icon/Perfect-Money- white logo.png" alt="mastercard" style="height: 45px;"></th>
                             <td>Larry</td>
                             <td>the Bird</td>
                             <td>@twitter</td>
