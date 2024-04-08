@@ -222,7 +222,7 @@
                             <a class="n2-color" href="regulatory.php">Regulatory</a>
                         </li>
                         <li>
-                            <a class="n2-color" href="https://tradersera.tawk.help/">Help Center</a>
+                            <a class="n2-color" target="blank" href="https://tradersera.tawk.help/">Help Center</a>
                         </li>
 
 
