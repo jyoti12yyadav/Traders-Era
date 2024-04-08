@@ -20,7 +20,7 @@
         margin-top: -74px;
     }
     .provide-world__card_1:hover{
-        background-color:#9ad953;
+        background-color:#9AD953;
     }
 
     .provide-world__card_1>h4:hover{
