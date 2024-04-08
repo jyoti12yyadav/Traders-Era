@@ -57,7 +57,7 @@
                             "isTransparent": false,
                                 "displayMode": "regular",
                                     "width": "1250",
-                                        "height": "550",
+                                        "height": "1000",
                                             "colorTheme": "dark",
                                                 "locale": "en"
                     }
@@ -91,7 +91,7 @@
                 src="https://s3.tradingview.com/external-embedding/embed-widget-forex-heat-map.js" async>
                     {
                         "width": 1250,
-                            "height": 700,
+                            "height": 1000,
                                 "currencies": [
                                     "EUR",
                                     "USD",

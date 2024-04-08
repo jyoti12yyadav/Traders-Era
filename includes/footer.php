@@ -116,6 +116,7 @@
                 </div>
                 <br>
             <div class="trading-img" class="mt-10;">
+            <h5 class="mb-6 ">Powered By</h5>
                     <img  style="height:50px; border:1px solid white; border-radius:14px; "
                         src="assets/images/icon/trading-view.png" alt="">
                 </div>
