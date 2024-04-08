@@ -21,12 +21,17 @@
     }
     .provide-world__card_1:hover{
         background-color:#9ad953;
+        transition:ease 
     }
-
-    .provide-world__card_1>h4:hover{
-        color: black !important; 
-    }
-
+    
+    .provide-world__card_1:hover .offers-title-use {
+        transition: color 0.3s ease-in-out;
+    color: black;
+}
+.title-border{
+    border-bottom: 1px solid #353535;
+    padding-bottom: 30px;
+}
 </style>
 <section class="banner-section pt-120 pb-120">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
@@ -70,10 +75,10 @@
                 <div class="col-lg-6 col-xxl-6">
                     <div class="row ms-xl-3 ms-xxl-10">
                         <div class="col-md-6 col-xxl-12">
-                            <div class="provide-world__card_1 nb3-bg text-center cus-rounded-1 py-5 px-4 px-lg-9">
-                               <h4 class="mt-5 mb-5 offers-title-use">Use Our TradersEra Web Platform</h4>
-                               <hr>
-                               <h5><span>With AI & Binary Option</span></h5>
+                            <div class="provide-world__card_1 nb3-bg text-center cus-rounded-1 py-lg-10 px-4 px-lg-9">
+                               <h4 class="mt-5 mb-5 offers-title-use title-border">Use Our TradersEra Web Platform</h4>
+                               
+                               <h5><span class="offers-title-use">With AI & Binary Option</span></h5>
                             </div>
                         </div> 
                         <div class="col-xxl-12 mt-8 mt-md-10 mt-xxl-13">
@@ -204,6 +209,7 @@
                         <p>Privileged conditions for users with higher statuses</p>
                         <br>
                         <p>Keep trading and you’ll be able to withdraw the bonus amount. You’ll need to trade the following number of lots to withdraw your bonus:</p>
+                        <br>
                         <br>
                         <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 px-4 px-lg-9">
                             <div class="row">
