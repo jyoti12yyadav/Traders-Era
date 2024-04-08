@@ -4,6 +4,7 @@
     .pt-120 {
         padding-top: 60px;
     }
+
     .pb-120 {
         padding-top: 60px;
     }
@@ -117,531 +118,542 @@
 
 <section class="company-story position-relative z-0  pt-120 pb-120 ">
     <div class="animation position-absolute w-100 h-100 z-n1">
-        <img src="assets/images/star3.png" alt="vector" class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
+        <img src="assets/images/star3.png" alt="vector"
+            class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
     </div>
 
 
     <div class="container">
         <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
             <div class="container my-5">
-            <table id="Record" class="table table-striped table-dark my-3">
-                <thead>
-                <tr>
-<th>Platform Name</th>
-<th>Currency</th>
-<th>Description</th>
-<th>Country</th>
-</tr>
+                <table id="Record" class="table table-striped table-dark my-3">
+                    <thead>
+                        <tr class="odd">
+                            <th>Symbol</th>
+                            <th>Full name</th>
+                            <th>Trading time<br><small>GMT+3</small></th>
+                            <th>Exchange</th>
+                        </tr>
                     </thead>
-<tr>
-
-</tr>
-</thead>
-<tbody>
-    <td>AADIBIO</td>
-    <td>USD</td>
-    <td>Aadi Bioscience Inc</td>
-    <td>US</td>
-    </tr>
-    <td>AAON</td>
-    <td>USD</td>
-    <td>Aaon Inc</td>
-    <td>US</td>
-    </tr>
-    <td>AAP</td>
-    <td>USD</td>
-    <td>Advance Auto Parts Inc</td>
-    <td>US</td>
-    </tr>
-    <td>AARONS</td>
-    <td>USD</td>
-    <td>Aaron's Inc</td>
-    <td>US</td>
-    </tr>
-    <td>AAXJ</td>
-    <td>USD</td>
-    <td>iShares MSCI All Country Asia ex Japan ETF</td>
-    <td>US</td>
-    </tr>
-    <td>ABT.N</td>
-    <td>USD</td>
-    <td>Abbott Laboratories</td>
-    <td>US</td>
-    </tr>
-    <td>ABBVIE</td>
-    <td>USD</td>
-    <td>AbbVie Inc</td>
-    <td>US</td>
-    </tr>
-    <td>ABERCROMBIEFITCH</td>
-    <td>USD</td>
-    <td>Abercrombie &amp; Fitch Co</td>
-    <td>US</td>
-    </tr>
-    <td>ABIOMED</td>
-    <td>USD</td>
-    <td>Abiomed Inc</td>
-    <td>US</td>
-    </tr>
-    <td>ABMINDUSTRIES</td>
-    <td>USD</td>
-    <td>ABM Industries Inc</td>
-    <td>US</td>
-    </tr>
-    <td>ACACIARESEARCH</td>
-    <td>USD</td>
-    <td>Acacia Research Corp</td>
-    <td>US</td>
-    </tr>
-    <td>ACADIAREALTY</td>
-    <td>USD</td>
-    <td>Acadia Realty Trust</td>
-    <td>US</td>
-    </tr>
-    <td>ACCELENT</td>
-    <td>USD</td>
-    <td>Accel Entertainment Inc</td>
-    <td>US</td>
-    </tr>
-    <td>ACCELERATEDIAGNOSTICS</td>
-    <td>USD</td>
-    <td>Accelerate Diagnostics Inc</td>
-    <td>US</td>
-    </tr>
-    <td>ACCENTURE</td>
-    <td>USD</td>
-    <td>Accenture PLC</td>
-    <td>US</td>
-    </tr>
-    <td>ACCOBRANDS</td>
-    <td>USD</td>
-    <td>ACCO Brands Corp</td>
-    <td>US</td>
-    </tr>
-    <td>ACCURAY</td>
-    <td>USD</td>
-    <td>Accuray Inc</td>
-    <td>US</td>
-    </tr>
-    <td>ACIMMUNE</td>
-    <td>USD</td>
-    <td>AC Immune SA</td>
-    <td>US</td>
-    </tr>
-    <td>ACIWORLDWIDE</td>
-    <td>USD</td>
-    <td>ACI Worldwide Inc</td>
-    <td>US</td>
-    </tr>
-    <td>ACMEUNITED</td>
-    <td>USD</td>
-    <td>Acme United Corp</td>
-    <td>US</td>
-    </tr>
-    <td>ACMRESEARCH</td>
-    <td>USD</td>
-    <td>ACM Research Inc</td>
-    <td>US</td>
-    </tr>
-    <td>ACNBCORP</td>
-    <td>USD</td>
-    <td>ACNB Corp</td>
-    <td>US</td>
-    </tr>
-    <td>ACRESCOMM</td>
-    <td>USD</td>
-    <td>Acres Commercial Realty Corp</td>
-    <td>US</td>
-    </tr>
-    <td>ACTIVISION</td>
-    <td>USD</td>
-    <td>Activision Blizzard Inc</td>
-    <td>US</td>
-    </tr>
-    <td>ACUITY</td>
-    <td>USD</td>
-    <td>Acuity Brands Inc</td>
-    <td>US</td>
-    </tr>
-    <td>ACUSHNETHOLDING</td>
-    <td>USD</td>
-    <td>Acushnet Holdings Corp</td>
-    <td>US</td>
-    </tr>
-    <td>ACWI</td>
-    <td>USD</td>
-    <td>iShares MSCI ACWI ETF</td>
-    <td>US</td>
-    </tr>
-    <td>ACWV</td>
-    <td>USD</td>
-    <td>iShares Edge MSCI Min Vol Global ETF</td>
-    <td>US</td>
-    </tr>
-    <td>ACWX</td>
-    <td>USD</td>
-    <td>iShares MSCI ACWI ex US ETF</td>
-    <td>US</td>
-    </tr>
-    <td>ADAMRESOURCES</td>
-    <td>USD</td>
-    <td>Adams Resources &amp; Energy Inc</td>
-    <td>US</td>
-    </tr>
-    <td>ADAPTHEALTHCORP</td>
-    <td>USD</td>
-    <td>Adapthealth Corp</td>
-    <td>US</td>
-    </tr>
-    <td>ADDUSHOMECARE</td>
-    <td>USD</td>
-    <td>Addus Homecare Corp</td>
-    <td>US</td>
-    </tr>
-    <td>ADECOAGRO</td>
-    <td>USD</td>
-    <td>Adecoagro SA</td>
-    <td>US</td>
-    </tr>
-    <td>ADI</td>
-    <td>USD</td>
-    <td>Analog Devices Inc</td>
-    <td>US</td>
-    </tr>
-    <td>ADIENT</td>
-    <td>USD</td>
-    <td>Adient PLC</td>
-    <td>US</td>
-    </tr>
-    <td>ADM</td>
-    <td>USD</td>
-    <td>Archer-Daniels-Midland Company</td>
-    <td>US</td>
-    </tr>
-    <td>ADOBE</td>
-    <td>USD</td>
-    <td>Adobe Systems Inc</td>
-    <td>US</td>
-    </tr>
-    <td>ADP</td>
-    <td>USD</td>
-    <td>Automatic Data Processing Inc</td>
-    <td>US</td>
-    </tr>
-    <td>ADT</td>
-    <td>USD</td>
-    <td>ADT Inc</td>
-    <td>US</td>
-    </tr>
-    <td>ADTALEMGLOBAL</td>
-    <td>USD</td>
-    <td>Adtalem Global Education Inc</td>
-    <td>US</td>
-    </tr>
-    <td>ADTRAN</td>
-    <td>USD</td>
-    <td>ADTRAN Inc</td>
-    <td>US</td>
-    </tr>
-    <td>ADVANCEDDRAINAGE</td>
-    <td>USD</td>
-    <td>Advanced Drainage Systems Inc</td>
-    <td>US</td>
-    </tr>
-    <td>ADVANCEDEMISSIONS</td>
-    <td>USD</td>
-    <td>Advanced Emissions Solutions Inc</td>
-    <td>US</td>
-    </tr>
-    <td>ADVANCEDENERGY</td>
-    <td>USD</td>
-    <td>Advanced Energy Industries Inc</td>
-    <td>US</td>
-    </tr>
-    <td>ADVANSIX</td>
-    <td>USD</td>
-    <td>AdvanSix Inc</td>
-    <td>US</td>
-    </tr>
-    <td>AECOM</td>
-    <td>USD</td>
-    <td>AECOM Engineering</td>
-    <td>US</td>
-    </tr>
-    <td>AEHRTEST</td>
-    <td>USD</td>
-    <td>Aehr Test Systems</td>
-    <td>US</td>
-    </tr>
-    <td>AEMETIS</td>
-    <td>USD</td>
-    <td>Aemetis Inc</td>
-    <td>US</td>
-    </tr>
-    <td>AERCAPHOLDING</td>
-    <td>USD</td>
-    <td>AerCap Holdings NV</td>
-    <td>US</td>
-    </tr>
-    <td>AEROJETROCKETDYNE</td>
-    <td>USD</td>
-    <td>Aerojet Rocketdyne Holdings Inc</td>
-    <td>US</td>
-    </tr>
-    <td>AEROVIRONMENT</td>
-    <td>USD</td>
-    <td>AeroVironment Inc</td>
-    <td>US</td>
-    </tr>
-    <td>AERSALE</td>
-    <td>USD</td>
-    <td>AerSale Corp</td>
-    <td>US</td>
-    </tr>
-    <td>AES</td>
-    <td>USD</td>
-    <td>The AES Corporation</td>
-    <td>US</td>
-    </tr>
-    <td>AEVATECH</td>
-    <td>USD</td>
-    <td>Aeva Technologies Inc</td>
-    <td>US</td>
-    </tr>
-    <td>AFFINITYBANC</td>
-    <td>USD</td>
-    <td>Affinity Bancshares Inc</td>
-    <td>US</td>
-    </tr>
-    <td>AFLAC</td>
-    <td>USD</td>
-    <td>Aflac Inc</td>
-    <td>US</td>
-    </tr>
-    <td>AFYA</td>
-    <td>USD</td>
-    <td>Afya Ltd</td>
-    <td>US</td>
-    </tr>
-    <td>AGCOCORP</td>
-    <td>USD</td>
-    <td>AGCO Corp</td>
-    <td>US</td>
-    </tr>
-    <td>AGG</td>
-    <td>USD</td>
-    <td>iShares Core US Aggregate Bond ETF</td>
-    <td>US</td>
-    </tr>
-    <td>AGILENT</td>
-    <td>USD</td>
-    <td>Agilent Technologies Inc</td>
-    <td>US</td>
-    </tr>
-    <td>AGILETHUOGHT</td>
-    <td>USD</td>
-    <td>AgileThought Inc</td>
-    <td>US</td>
-    </tr>
-    <td>AGILYSYS</td>
-    <td>USD</td>
-    <td>Agilysys Inc</td>
-    <td>US</td>
-    </tr>
-    <td>AGMGROUPHOLDNGS</td>
-    <td>USD</td>
-    <td>AGM Group Holdings Inc</td>
-    <td>US</td>
-    </tr>
-    <td>AGMORTAGEINVEST</td>
-    <td>USD</td>
-    <td>AG Mortgage Investment Trust Inc</td>
-    <td>US</td>
-    </tr>
-    <td>AGNC</td>
-    <td>USD</td>
-    <td>AGNC Investment Corp</td>
-    <td>US</td>
-    </tr>
-    <td>AGNICOEAGLE</td>
-    <td>USD</td>
-    <td>Agnico Eagle Mines Limited</td>
-    <td>US</td>
-    </tr>
-    <td>AGREEREALTY</td>
-    <td>USD</td>
-    <td>Agree Realty Corp</td>
-    <td>US</td>
-    </tr>
-    <td>AGROGROUP</td>
-    <td>USD</td>
-    <td>Argo Group International Holdings Ltd</td>
-    <td>US</td>
-    </tr>
-    <td>AIA</td>
-    <td>USD</td>
-    <td>iShares Asia 50 ETF</td>
-    <td>US</td>
-    </tr>
-    <td>AIG</td>
-    <td>USD</td>
-    <td>American International Group Inc</td>
-    <td>US</td>
-    </tr>
-    <td>AIMCO</td>
-    <td>USD</td>
-    <td>Apartment Investment and Management Company</td>
-    <td>US</td>
-    </tr>
-    <td>AIRBNB</td>
-    <td>USD</td>
-    <td>Airbnb Inc</td>
-    <td>US</td>
-    </tr>
-    <td>AIRLEASE</td>
-    <td>USD</td>
-    <td>Air Lease Corp</td>
-    <td>US</td>
-    </tr>
-    <td>AIRPRODUCTS</td>
-    <td>USD</td>
-    <td>Air Products and Chemicals Inc</td>
-    <td>US</td>
-    </tr>
-    <td>AIRTRANSPORT</td>
-    <td>USD</td>
-    <td>Air Transport Services Group Inc</td>
-    <td>US</td>
-    </tr>
-    <td>AJGALLAGHER</td>
-    <td>USD</td>
-    <td>Arthur J. Gallagher &amp; Company</td>
-    <td>US</td>
-    </tr>
-    <td>AKAMAI</td>
-    <td>USD</td>
-    <td>Akamai Technologies Inc</td>
-    <td>US</td>
-    </tr>
-    <td>AKOUSTISTECH</td>
-    <td>USD</td>
-    <td>Akoustis Technologies Inc</td>
-    <td>US</td>
-    </tr>
-    <td>ALAMOGROUP</td>
-    <td>USD</td>
-    <td>Alamo Group Inc</td>
-    <td>US</td>
-    </tr>
-    <td>ALAMOSGOLD</td>
-    <td>USD</td>
-    <td>Alamos Gold Inc</td>
-    <td>US</td>
-    </tr>
-    <td>ALARMCOM</td>
-    <td>USD</td>
-    <td>Alarm.com Holdings Inc</td>
-    <td>US</td>
-    </tr>
-    <td>ALASKAAIR</td>
-    <td>USD</td>
-    <td>Alaska Air Group Inc</td>
-    <td>US</td>
-    </tr>
-    <td>ALBANY</td>
-    <td>USD</td>
-    <td>Albany International Corp</td>
-    <td>US</td>
-    </tr>
-    <td>ALBEMARLE</td>
-    <td>USD</td>
-    <td>Albemarle Corporation</td>
-    <td>US</td>
-    </tr>
-    <td>ALBIREOPHARMA</td>
-    <td>USD</td>
-    <td>Albireo Pharma Inc</td>
-    <td>US</td>
-    </tr>
-    <td>ALCOA</td>
-    <td>USD</td>
-    <td>Alcoa</td>
-    <td>US</td>
-    </tr>
-    <td>ALCON</td>
-    <td>USD</td>
-    <td>Alcon Inc</td>
-    <td>US</td>
-    </tr>
-    <td>ALERUSFINANCIAL</td>
-    <td>USD</td>
-    <td>Alerus Financial Corp</td>
-    <td>US</td>
-    </tr>
-    <td>ALEXANDRIA</td>
-    <td>USD</td>
-    <td>Alexandria Real Estate Equity Inc</td>
-    <td>US</td>
-    </tr>
-    <td>ALEXCANDERBALDWIN</td>
-    <td>USD</td>
-    <td>Alexander &amp; Baldwin Inc (Hawaii)</td>
-    <td>US</td>
-    </tr>
-    <td>ALGONQUINPOWER</td>
-    <td>USD</td>
-    <td>Algonquin Power &amp; Utilities Corp</td>
-    <td>US</td>
-    </tr>
-    <td>ALICO</td>
-    <td>USD</td>
-    <td>Alico Inc</td>
-    <td>US</td>
-    </tr>
-    <td>ALIGN</td>
-    <td>USD</td>
-    <td>Align Technology Inc</td>
-    <td>US</td>
-    </tr>
-    <td>ALLEGHANY</td>
-    <td>USD</td>
-    <td>Alleghany Corp</td>
-    <td>US</td>
-    </tr>
-    <td>ALLEGHENYTECH</td>
-    <td>USD</td>
-    <td>Allegheny Technologies Inc</td>
-    <td>US</td>
-    </tr>
-    <td>ALLEGIANCBANSHARES</td>
-    <td>USD</td>
-    <td>Allegiance Bancshares Inc</td>
-    <td>US</td>
-    </tr>
-    <td>ALLEGIANTTRAVEL</td>
-    <td>USD</td>
-    <td>Allegiant Travel Co</td>
-    <td>US</td>
-    </tr>
-    <td>ALLEGION</td>
-    <td>USD</td>
-    <td>Allegion PLC</td>
-    <td>US</td>
-    </tr>
-    <td>ALLETE</td>
-    <td>USD</td>
-    <td>ALLETE Inc</td>
-    <td>US</td>
-    </tr>
-    <td>ALLIANCEDATA</td>
-    <td>USD</td>
-    <td>Alliance Data Systems Corporation</td>
-    <td>US</td>
-    </tr>
-    </tbody>
-</table>
+                    <tbody class="row-hover">
+                        <tr class="even">
+                            <td>A</td>
+                            <td>Agilent Technologies, Inc.</td>
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                        </tr>
+                        <tr class="odd">
+                            <td>AAL</td>
+                            <td>American Airlines Group</td>
+                          
+                            <td>16:30 - 23:00</td>
+                            <td>NASDAQ</td>
+                        </tr>
+                        <tr class="even">
+                            <td>AAPL</td>
+                            <td>Apple</td>
+                            <td>16:30 - 23:00</td>
+                            <td>NASDAQ</td>
+                        </tr>
+                        <tr class="odd">
+                            <td>AIG</td>
+                            <td>American International Group</td>
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                        </tr>
+                        <tr class="even">
+                            <td>AMZN</td>
+                            <td>Amazon</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NASDAQ</td>
+                        </tr>
+                        <tr class="odd">
+                            <td>BA</td>
+                            <td>Boeing Company</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="even">
+                            <td>BABA</td>
+                            <td>Alibaba Group Holding Limited</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="odd">
+                            <td>BAC</td>
+                            <td>Bank of America Corporation</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="even">
+                            <td>C</td>
+                            <td>Citigroup</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="odd">
+                            <td>CSCO</td>
+                            <td>Cisco Systems</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NASDAQ</td>
+                            
+                        </tr>
+                        <tr class="even">
+                            <td>DLPN</td>
+                            <td>Dolphin Entertainment, Inc. </td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NASDAQ</td>
+                            
+                        </tr>
+                        <tr class="odd">
+                            <td>CVX</td>
+                            <td>Chevron Corporation</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="even">
+                            <td>DIS</td>
+                            <td>Walt Disney Company</td>
+                          
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="odd">
+                            <td>F</td>
+                            <td>Ford Motor Company</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="even">
+                            <td>FDX</td>
+                            <td>FedEx Corporation</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="odd">
+                            <td>FNKO</td>
+                            <td>Funko, Inc</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NASDAQ</td>
+                            
+                        </tr>
+                        <tr class="even">
+                            <td>GE</td>
+                            <td>General Electric Inc.</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="odd">
+                            <td>GOOGL</td>
+                            <td>Alphabet Class A</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NASDAQ</td>
+                            
+                        </tr>
+                        <tr class="even">
+                            <td>GS</td>
+                            <td>Goldman Sachs Group Inc</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="odd">
+                            <td>H</td>
+                            <td>Hyatt Hotels Corporation</td>
+                          
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="even">
+                            <td>HD</td>
+                            <td>Home Depot</td>
+                         
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="odd">
+                            <td>HPQ</td>
+                            <td>Hewlett-Packard Company</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="even">
+                            <td>IBM</td>
+                            <td>International Business Machines</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="odd">
+                            <td>ING</td>
+                            <td>ING Group</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="even">
+                            <td>INTC</td>
+                            <td>Intel</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NASDAQ</td>
+                            
+                        </tr>
+                        <tr class="odd">
+                            <td>JNJ</td>
+                            <td>Johnson &amp; Johnson</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="even">
+                            <td>JPM</td>
+                            <td>JPMorgan Chase &amp; Co</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="odd">
+                            <td>KO</td>
+                            <td>Coca-Cola Company</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="even">
+                            <td>MA</td>
+                            <td>Mastercard</td>
+                          
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="odd">
+                            <td>MAR</td>
+                            <td>Marriott International</td>
+                            
+                            <td>16:30 - 23:00</td>
+                            <td>NASDAQ</td>
+                            
+                        </tr>
+                        <tr class="even">
+                            <td>MAT</td>
+                            <td>Mattel, Inc.</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NASDAQ</td>
+                            
+                        </tr>
+                        <tr class="odd">
+                            <td>MCD</td>
+                            <td>McDonald`s</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="even">
+                            <td>MMM</td>
+                            <td>3M Company</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="odd">
+                            <td>MRK</td>
+                            <td>Merck &amp; Company</td>
+                          
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="even">
+                            <td>MSFT</td>
+                            <td>Microsoft Corporation</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NASDAQ</td>
+                            
+                        </tr>
+                        <tr class="odd">
+                            <td>META</td>
+                            <td>Meta Platforms</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NASDAQ</td>
+                            
+                        </tr>
+                        <tr class="even">
+                            <td>NDAQ</td>
+                            <td>NASDAQ OMX Group</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NASDAQ</td>
+                            
+                        </tr>
+                        <tr class="odd">
+                            <td>NET</td>
+                            <td>CloudFlare</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NASDAQ</td>
+                            
+                        </tr>
+                        <tr class="even">
+                            <td>NFLX</td>
+                            <td>Netflix</td>
+                            
+                            <td>16:30 - 23:00</td>
+                            <td>NASDAQ</td>
+                            
+                        </tr>
+                        <tr class="odd">
+                            <td>NKE</td>
+                            <td>Nike</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="even">
+                            <td>ORCL</td>
+                            <td>Oracle Corporation</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="odd">
+                            <td>PEP</td>
+                            <td>Pepsico</td>
+                            
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="even">
+                            <td>PG</td>
+                            <td>Procter &amp; Gamble Company</td>
+                            
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="odd">
+                            <td>T</td>
+                            <td>AT&amp;T</td>
+                            
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="even">
+                            <td>TSLA</td>
+                            <td>Tesla</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="odd">
+                            <td>UAL</td>
+                            <td>United Continental Holdings</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NASDAQ</td>
+                            
+                        </tr>
+                        <tr class="even">
+                            <td>UNH</td>
+                            <td>UnitedHealth Group</td>
+                            
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="odd">
+                            <td>V</td>
+                            <td>Visa</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="even">
+                            <td>VZ</td>
+                            <td>Verizon Communications</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="odd">
+                            <td>WFC</td>
+                            <td>Wells Fargo &amp; Company</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="even">
+                            <td>WKHS</td>
+                            <td>Workhorse Group</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NASDAQ</td>
+                            
+                        </tr>
+                        <tr class="odd">
+                            <td>WMT</td>
+                            <td>Wal-Mart Stores</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="even">
+                            <td>XOM</td>
+                            <td>Exxon Mobil Corporation</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="odd">
+                            <td>NVDA</td>
+                            <td>Nvidia</td>
+                          
+                            <td>16:30 - 23:00</td>
+                            <td>NASDAQ</td>
+                            
+                        </tr>
+                        <tr class="even">
+                            <td>PLBY</td>
+                            <td>Mountain Crest Acquisition Corp</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NASDAQ</td>
+                            
+                        </tr>
+                        <tr class="odd">
+                            <td>TKAT</td>
+                            <td>Takung Art Co. Ltd. Common Stock</td>
+                            
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="even">
+                            <td>GLD</td>
+                            <td>SPDR Gold Trust</td>
+                         
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="odd">
+                            <td>IWM</td>
+                            <td>iShares Russell 2000</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="even">
+                            <td>QQQ</td>
+                            <td>Invesco QQQ</td>
+                            
+                            <td>16:30 - 23:00</td>
+                            <td>NASDAQ</td>
+                            
+                        </tr>
+                        <tr class="odd">
+                            <td>SCHD</td>
+                            <td>Schwab US Dividend equity</td>
+                          
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="even">
+                            <td>TQQQ</td>
+                            <td>ProShares UltraPro QQQ</td>
+                          
+                            <td>16:30 - 23:00</td>
+                            <td>NASDAQ</td>
+                            
+                        </tr>
+                        <tr class="odd">
+                            <td>USO</td>
+                            <td>United States Oil Fund</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="even">
+                            <td>VEA</td>
+                            <td>Vanguard FTSE DM</td>
+                           
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                        <tr class="odd">
+                            <td>VOO</td>
+                            <td>Vanguard S&amp;P500</td>
+                         
+                            <td>16:30 - 23:00</td>
+                            <td>NYSE</td>
+                            
+                        </tr>
+                    </tbody>
+                </table>
+                <div>
+                    <ul class="contract_specifications_desc_text border-bottom">
+                        <li class="contract_specifications_desc_heading"><strong>Notes:</strong></li>
+                        <li>All systems may have a restart time without execution and prices up to 10 minutes everyday at 00:00 GMT+3.</li>
+                        <li>Swap charges are subject to change without prior notice.</li>
+                        <li>Swap charges are tripled on Wednesdays.</li>
+                        <!-- <li>Access the leverage/margin values &amp; unlock the potential for maximizing returns by <a href="https://capitalxtend.com/leverage-and-margin-requirements" target="_blank" style="color: #0D68F9;">clicking here</a>.</li> -->
+                        </ul>
+                </div>
+               
             </div>
-    </div>
+        </div>
     </div>
 </section>
 <?php include("includes/footer.php"); ?>
