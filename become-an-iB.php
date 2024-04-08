@@ -379,6 +379,66 @@
 
 
 
+<section class="provide-world pt-120 position-relative z-0 mb-10 ">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-12 col-xxl-10">
+                <div class="heading__content mb-10 mb-lg-15 text-center">
+                    <h2 class="mb-5 mb-lg-6">Important Aspects Of The IB Program
+
+                    </h2>
+                    <!-- <h4 class="mb-5 mb-lg-6">Where to begin
+                    </h4> -->
+                </div>
+            </div>
+        </div>
+        <div class="row gy-6 gy-xxl-0">
+            <div class="col-md-6 col-xxl-4">
+                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/number-1.png" alt="time">
+                    </span>
+                    <h4 class="mt-5 mb-5">Recruiting </h4>
+
+                    <p>As per the marketing structure of TradersEra, you will receive a portion of the sales made by
+                        your recruits if you accomplish this.
+                    </p>
+
+                </div>
+            </div>
+            <div class="col-md-6 col-xxl-4">
+                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/two.png" alt="wallet">
+                    </span>
+                    <h4 class="mt-5 mb-5">Events</h4>
+                    <p>TradersEra offers a variety of trading competitions that let traders make the most money
+                        possible.
+
+                    </p>
+
+                </div>
+            </div>
+
+            <div class="col-md-6 col-xxl-4">
+                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/number-3.png" alt="customer">
+                    </span>
+                    <h4 class="mt-5 mb-5">Financing</h4>
+                    <p>TradersEra's global sponsorship initiatives help a variety of communities and organizations.
+                    </p>
+                    <br>
+                </div>
+
+            </div>
+        </div>
+        <br>
+        <br>
+
+</section>
+
+
 
 
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
@@ -398,35 +458,41 @@
                 <div class="trade_on__content">
                     <h4 class="mb-4 mb-lg-5" style="font-size:35px;">The advantages of an IB Partnership
                     </h4>
-                
+                    <p>Presenting Broker TradersEra IB Program, which aims to increase partners' revenue through
+                        recommendations. Each active customer you introduce to TradersEra will boost your income.</p>
                 </div>
 
 
-                
+
                 <ul class="d-flex gap-4 flex-column mt-6">
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Monitoring and reporting of client accounts with flexible payouts and attractive real-time rebate payments.
+                            class="ti ti-circle-check s1-color fs-four"></i>Monitoring and reporting of client accounts
+                        with flexible payouts and attractive real-time rebate payments.
 
 
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Advantage of Simple revenue generating with no initial outlay of funds.
+                            class="ti ti-circle-check s1-color fs-four"></i>Advantage of Simple revenue generating with
+                        no initial outlay of funds.
 
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Advantages Simple and effective account setup.
+                            class="ti ti-circle-check s1-color fs-four"></i>Advantages Simple and effective account
+                        setup.
 
 
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Advantages to Managers that are committed to all traders.</li>
+                            class="ti ti-circle-check s1-color fs-four"></i>Advantages to Managers that are committed to
+                        all traders.</li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Get round-the-clock assistance from the TradersEra  staff with your questions and comments.
+                            class="ti ti-circle-check s1-color fs-four"></i>Get round-the-clock assistance from the
+                        TradersEra staff with your questions and comments.
 
                     </li>
-                   
+
                     <br>
-                   
+
                 </ul>
 
             </div>
@@ -442,7 +508,8 @@
 
 
 
-<section class="pt-120 pb-120 ">
+
+<section class="">
 
     <div class="container">
         <div class="row justify-content-center">
@@ -452,6 +519,7 @@
                     <h2 class="mb-6 mb-lg-7">Steps To Become a IB Partners With TradersEra
 
                     </h2>
+
                 </div>
             </div>
         </div>
@@ -468,35 +536,16 @@
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
                                         <h3 class="">Encourage
-</h3>
+                                        </h3>
                                         <span>Tell your clients about the TradersEra platform.
-</span>
+                                        </span>
                                     </div>
 
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-xxl-12 mt-8 mt-md-10 mt-xxl-13">
-                        <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
-                            <div class="row">
-                                <div class="col-lg-2 d-flex align-items-center">
-                                    <img src="assets/images/icon/candlestick-chart.png" alt="">
-                                </div>
-                                <div class="col-lg-10 d-flex align-items-center">
-                                    <div class="row">
-                                        <h3 class="">Present
-</h3>
-                                        <span>Promote TradersEra to the customers you serve.
-</span>
-                                    </div>
-
-
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
+                  
                     <div class="col-xxl-12 mt-8 mt-md-10 mt-xxl-13">
                         <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
                             <div class="row">
@@ -505,10 +554,12 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class=""> Get
-</h3>
+                                        <h3 class="">Get
+
+                                        </h3>
                                         <span>You will receive benefits when your recommendations sign up for TradersEra.
-</span>
+
+                                        </span>
                                     </div>
 
                                 </div>
@@ -528,9 +579,11 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">Track</h3>
-                                        <span>Utilize the partner portal to keep an eye on your sales.
-</span>
+                                        <h3 class="">Present
+                                        </h3>
+                                        <span>Promote TradersEra to the customers you serve.
+
+                                        </span>
                                     </div>
 
                                 </div>
@@ -546,9 +599,11 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">Safety of Funds Assured</h3>
-                                        <span>Safeguarding you and all peers with top security and regulatory frameworks
-                                            practices.</span>
+                                        <h3 class="">Track
+                                        </h3>
+                                        <span>Utilize the partner portal to keep an eye on your sales.
+
+                                        </span>
                                     </div>
 
 
@@ -556,28 +611,26 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xxl-12 mt-8 mt-md-10 mt-xxl-13">
-                        <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
-                            <div class="row">
-                                <div class="col-lg-2 d-flex align-items-center">
-                                    <img src="assets/images/icon/24-hours-support.png" alt="">
-                                </div>
-                                <div class="col-lg-10 d-flex align-items-center">
-                                    <div class="row">
-                                        <h3 class="">24/7 Customer Support</h3>
-                                        <span>Speak to us and resolve your questions round the clock.</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    
                 </div>
             </div>
         </div>
     </div>
 </section>
+<br><br>
 
-
+<div class="row justify-content-center">
+    <div class="col-lg-12 col-xxl-10">
+        <div class="heading__content mb-10 mb-lg-15 text-center">
+            <h5 class="mb-5 mb-lg-6">
+                TradersEra has made deposits and withdrawals from your trading accounts extremely convenient. One of our driving forces is constant improvement and we are working every day to provide you with even more options to deposit and withdraw and have an improved online trading experience.
+                
+            </h5>
+            <!-- <h4 class="mb-5 mb-lg-6">Where to begin
+            </h4> -->
+        </div>
+    </div>
+</div>
 
 <!-- 
 <section class="provide-world pt-120 position-relative z-0 mb-10 " style="background-color: #000;">
@@ -771,121 +824,8 @@
  
 
 </section>
+-->
 
-<br><br>
-<!--Apply Today start-->
-<section class="provide-world  position-relative z-0 pt-120" style="background-color: #000;">
-    <div class="container">
-        <div class="row justify-content-center text-center mb-10 mb-lg-15">
-            <div class="col-md-8 col-xl-8">
-                <h3>How can partnering with us benefit you?
-                </h3>
-
-            </div>
-        </div>
-        <div class="row gy-6">
-            <div class="col-lg-6 col-xxl-6">
-                <div class="apply-card nb3-bg cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <h3 class="mb-4"> All clients are viewed as our preferred clients.
-                    </h3>
-                    <p>At TradersEra, we offer a top-notch trading environment for our clients, allowing them to focus
-                        on trading while we handle the rest
-                    </p>
-                   
-                </div>
-            </div>
-            <div class="col-lg-6 col-xxl-6">
-                <div class="apply-card nb3-bg cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <h3 class="mb-4"> Live monitoring and payment
-                    </h3>
-                    <br>
-                    <p>Launch, manage, and track earnings and payouts effortlessly through our dedicated partners'
-                        portal
-
-                    </p>
-                  
-                </div>
-            </div>
-            <div class="col-lg-6 col-xxl-6">
-                <div class="apply-card nb3-bg cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <h3 class="mb-4">State of the art tools and resources
-                    </h3>
-                    <p>Access a wide range of trading resources and tools suitable for traders of all levels
-                    </p>
-                   <br> 
-                </div>
-            </div>
-            <div class="col-lg-6 col-xxl-6">
-                <div class="apply-card nb3-bg cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <h3 class="mb-4">Team dedicated to Partner Success
-                    </h3>
-                    <p>Get professional assistance for on-boarding, tutorials, and a dedicated manager who can
-                        communicate in multiple languages
-                    </p>
-                   <br>
-                </div>
-            </div>
-        </div>
-    </div>
-    <br><br><br>
-</section>
-
-<!-- Apply Today end -->
 <br><br><br>
-
-<section class="provide-world  position-relative z-0 mb-10 ">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-12 col-xxl-10">
-                <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h2 class="mb-5 mb-lg-6">Three steps to achieve success
-                    </h2>
-                    <h4 class="mb-5 mb-lg-6">Where to begin
-                    </h4>
-                </div>
-            </div>
-        </div>
-        <div class="row gy-6 gy-xxl-0">
-            <div class="col-md-6 col-xxl-4">
-                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/number-1.png" alt="time">
-                    </span>
-                    <h4 class="mt-5 mb-5">Sign-Up</h4>
-
-                    <p>Complete the inquiry form and Submit
-                    </p>
-                    <br>
-                </div>
-            </div>
-            <div class="col-md-6 col-xxl-4">
-                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/two.png" alt="wallet">
-                    </span>
-                    <h4 class="mt-5 mb-5">Get the required permission</h4>
-                    <p>Application approval process can take up to 1-3 business days
-                    </p>
-
-                </div>
-            </div>
-
-            <div class="col-md-6 col-xxl-4">
-                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/number-4.png" alt="customer">
-                    </span>
-                    <h4 class="mt-5 mb-5">Begin your journey now</h4>
-                    <p>Your client portal is now live! Log in and begin using it!
-                    </p>
-
-                </div>
-
-            </div>
-        </div>
-        <br>
-        <br>
-
-</section> -->
 
 <?php include("includes/footer.php"); ?>
