@@ -78,37 +78,46 @@
 
 
                 </section>
+
+
+
+
                 <section class="provide-world a2-bg">
+
                     <div class="container">
+
                         <div class="row justify-content-center">
 
-                        <!-- TradingView Widget BEGIN -->
-                        <div class="tradingview-widget-container">
-                            <div class="tradingview-widget-container__widget"></div>
-                            <!-- <div class="tradingview-widget-copyright"><a href="https://in.tradingview.com/"
+                            <!-- TradingView Widget BEGIN -->
+                            <div class="tradingview-widget-container">
+                                <div class="tradingview-widget-container__widget"></div>
+                                <!-- <div class="tradingview-widget-copyright"><a href="https://in.tradingview.com/"
                                     rel="noopener nofollow" target="_blank"><span class="blue-text">Track all markets on
                                         TradingView</span></a></div> -->
-                            <script type="text/javascript"
-                                src="https://s3.tradingview.com/external-embedding/embed-widget-events.js" async>
-                                    {
-                                        "colorTheme": "dark",
-                                            "isTransparent": false,
-                                                "width": "1000",
-                                                    "height": "750",
-                                                        "locale": "in",
-                                                            "importanceFilter": "-1,0,1",
-                                                                "countryFilter": "ar,au,br,ca,cn,fr,de,in,id,it,jp,kr,mx,ru,sa,za,tr,gb,us,eu"
-                                    }
-                                </script>
-                        </div>
+                                <script type="text/javascript"
+                                    src="https://s3.tradingview.com/external-embedding/embed-widget-events.js" async>
+                                        {
+                                            "colorTheme": "dark",
+                                                "isTransparent": false,
+                                                    "width": "1000",
+                                                        "height": "1200",
+                                                            "locale": "in",
+                                                                "importanceFilter": "-1,0,1",
+                                                                    "countryFilter": "ar,au,br,ca,cn,fr,de,in,id,it,jp,kr,mx,ru,sa,za,tr,gb,us,eu"
+                                        }
+                                    </script>
+                            </div>
 
-                        <!-- TradingView Widget END -->
+                            <!-- TradingView Widget END -->
                         </div>
                     </div>
-                        <!-- TradingView Widget END -->
+                    <!-- TradingView Widget END -->
 
 
                 </section>
+
+
+
                 <section class="privacy-policy  ">
                     <div class="container">
                         <div class="row justify-content-center">

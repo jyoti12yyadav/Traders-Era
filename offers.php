@@ -19,6 +19,14 @@
     .mtn{
         margin-top: -74px;
     }
+    .provide-world__card_1:hover{
+        background-color:#9ad953;
+    }
+
+    .provide-world__card_1>h4:hover{
+        color: black !important; 
+    }
+
 </style>
 <section class="banner-section pt-120 pb-120">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
@@ -62,20 +70,20 @@
                 <div class="col-lg-6 col-xxl-6">
                     <div class="row ms-xl-3 ms-xxl-10">
                         <div class="col-md-6 col-xxl-12">
-                            <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 px-4 px-lg-9">
-                               <h4 class="mt-5 mb-5 offers-title">MetaTrader <span>5</span></h4>
+                            <div class="provide-world__card_1 nb3-bg text-center cus-rounded-1 py-5 px-4 px-lg-9">
+                               <h4 class="mt-5 mb-5 offers-title-use">Use Our TradersEra Web Platform</h4>
                                <hr>
-                               <p>For smart tech trading</p>
+                               <h5><span>With AI & Binary Option</span></h5>
                             </div>
                         </div> 
                         <div class="col-xxl-12 mt-8 mt-md-10 mt-xxl-13">
-                            <div class="col-md-6 col-xxl-12">
+                            <!-- <div class="col-md-6 col-xxl-12">
                                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 px-4 px-lg-9">
                                    <h4 class="mt-5 mb-5 offers-title">MetaTrader <span>4</span></h4>
                                    <hr>
                                    <p>For an easy start</p>
                                 </div>
-                            </div>  
+                            </div>   -->
                         </div>
                     </div>  
                 </div>

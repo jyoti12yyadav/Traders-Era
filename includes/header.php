@@ -172,8 +172,9 @@
                                 <li><a class="dropdown-item" href="tradersera.php">TradersEra</a></li>
                                 <li><a class="dropdown-item" href="safety-of-funds.php">Safety of Funds</a></li>
                                 <li><a class="dropdown-item" href="regulatory.php">Regulatory</a></li>
+                                <li><a class="dropdown-item" href="our-servers.php">Our Servers</a></li>
                                 <li><a class="dropdown-item" href="https://tradersera.tawk.help/">Help Center</a></li>
-                                <li><a class="dropdown-item" href="our servers.php">Our Servers</a></li>
+                                
                             </ul>
                         </li>
                         <!-- <li class="dropdown show-dropdown">
