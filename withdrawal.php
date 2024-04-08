@@ -41,7 +41,14 @@
         font-size: 15px;
         font-weight: 600;
     }
-
+    th{
+        display: table-cell;
+        justify-content:center;
+        align-items:center;
+    }
+    tr{
+      text-align:center;
+    }
 </style>
 
 <section class="banner-section pt-120 pb-120">
@@ -73,11 +80,26 @@
                 <table id="Record" class="table table-striped table-dark my-3">
                     <thead>
                         <tr>
-                            <th scope="col">PAYMENT METHOD</th>
-                            <th scope="col">MINIMUM AMOUNT</th>
-                            <th scope="col">COMMISSION</th>
-                            <th scope="col">EXECUTION TIME</th>
-                            <th scope="col"></th>
+                            <th scope="col" style="    background-color: #9ad953;
+    color: black;
+    text-align: center;
+    font-size: 16px;padding:20px;display: table-cell;">PAYMENT METHOD</th>
+                            <th scope="col" style="    background-color: #9ad953;
+    color: black;
+    text-align: center;
+    font-size: 16px;padding:20px;display: table-cell;">MINIMUM AMOUNT</th>
+                            <th scope="col" style="    background-color: #9ad953;
+    color: black;
+    text-align: center;
+    font-size: 16px;padding:20px;display: table-cell;">COMMISSION</th>
+                            <th scope="col" style="    background-color: #9ad953;
+    color: black;
+    text-align: center;
+    font-size: 16px;padding:20px;display: table-cell;">EXECUTION TIME</th>
+                            <th scope="col" style="    background-color: #9ad953;
+    color: black;
+    text-align: center;
+    font-size: 16px;padding:20px;display: table-cell;"></th>
                         </tr>
                     </thead>
                     <tbody>
