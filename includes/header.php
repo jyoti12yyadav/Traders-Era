@@ -120,6 +120,16 @@
                         </li>
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
+                                class="dropdown-toggle dropdown-nav">Products</button>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="fx-cfd.php">Fx CFD</a></li>
+                                <li><a class="dropdown-item" href="crypto-cfd.php">Crypto CFD </a></li>
+                                <li><a class="dropdown-item" href="binary.php">Binary </a></li>
+                                <li><a class="dropdown-item" href="ai-Invest.php">AI Invest </a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown show-dropdown">
+                            <button type="button" aria-label="Navbar Dropdown Button"
                                 class="dropdown-toggle dropdown-nav">Trading</button>
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item" href="account-types.php">Account Types</a></li>
@@ -172,9 +182,9 @@
                                 <li><a class="dropdown-item" href="tradersera.php">TradersEra</a></li>
                                 <li><a class="dropdown-item" href="safety-of-funds.php">Safety of Funds</a></li>
                                 <li><a class="dropdown-item" href="regulatory.php">Regulatory</a></li>
+                                <li><a class="dropdown-item" target="_blank" href="https://tradersera.tawk.help/">Help Center</a></li>
                                 <li><a class="dropdown-item" href="our-servers.php">Our Servers</a></li>
-                                <li><a class="dropdown-item" href="https://tradersera.tawk.help/">Help Center</a></li>
-                                
+                                <li><a class="dropdown-item" href="kyc-checks.php">KYC Checks</a></li>
                             </ul>
                         </li>
                         <!-- <li class="dropdown show-dropdown">
