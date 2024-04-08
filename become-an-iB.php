@@ -141,7 +141,7 @@
 
 
 
-<section class="provide-world pt-120 position-relative z-0 mb-10 style=" >
+<section class="provide-world position-relative z-0 mb-10 style=" >
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-12 col-xxl-10">
@@ -278,7 +278,7 @@
 <!-- Apply Today end -->
 <br><br><br>
 
-<section class="provide-world pt-120 position-relative z-0 mb-10 ">
+<section class="provide-world  position-relative z-0 mb-10 ">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-12 col-xxl-10">

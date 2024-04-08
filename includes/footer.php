@@ -86,9 +86,8 @@
                         <img src="assets/images/fav.png" class="logo small_logo d-sm-none" alt="logo">
                         <img src="assets/images/logo.png" class="logo d-none d-sm-flex" alt="logo">
                     </a>
-                    <p>Your all-in-one online platform for binary and Forex trading. Say goodbye to cumbersome downloads
-                        and installations. With our user interface and wide range of tools you'll have all the support
-                        to make informed decisions and maximize your profits. Trade Smarter, Not Harder.</p>
+                    <p>Your all-in-one online platform for binary and Forex trading. With our user interface and wide range of tools you'll have all the support
+                        to make informed decisions and maximize your profits. </p>
                         <br>
                     <ul class="social-area d-center gap-2 gap-md-3" style="margin-left:-20px" >
                         <li>
