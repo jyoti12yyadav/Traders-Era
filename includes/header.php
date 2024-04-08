@@ -138,6 +138,7 @@
                                 <li><a class="dropdown-item" href="stocks.php">Stocks</a></li>
                                 <li><a class="dropdown-item" href="forex.php">Forex</a></li>
                                 <li><a class="dropdown-item" href="commodity.php">Commodity</a></li>
+                                <li><a class="dropdown-item" href="faq.php">FAQ</a></li>
                             </ul>
                         </li>
 
@@ -148,8 +149,8 @@
                                 <li><a class="dropdown-item" href="economic-calendar.php">Economic Calender</a></li>
                                 <li><a class="dropdown-item" href="news-research.php">News & Research</a></li>
                                 <li><a class="dropdown-item" href="glossary.php">Glossary</a></li>
-                                <li><a class="dropdown-item " href="#">Academy</a></li>
-                                <li><a class="dropdown-item " href="interest-rate.php">Interest-Rate</a></li>
+                                <li><a class="dropdown-item " href="academy.php">Academy</a></li>
+                                <li><a class="dropdown-item " href="interest-rate.php">Interest Rate</a></li>
                             </ul>
                         </li>
 
@@ -160,7 +161,7 @@
                                 class="dropdown-toggle dropdown-nav">Partners</button>
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item" href="become-an-iB.php">Become An Partner</a></li>
-                                <li><a class="dropdown-item" href="faq.php">FAQ</a></li>
+                               
                             </ul>
                         </li>
 
@@ -173,7 +174,11 @@
                                 <li><a class="dropdown-item" href="regulatory.php">Regulatory</a></li>
                                 <li><a class="dropdown-item" href="our-servers.php">Our Servers</a></li>
                                 <li><a class="dropdown-item" href="https://tradersera.tawk.help/">Help Center</a></li>
+<<<<<<< HEAD
                                 
+=======
+                                <li><a class="dropdown-item" href="our servers.php">Our Servers</a></li>
+>>>>>>> af5524d829f56db1d8b69c615d8f119e08763904
                             </ul>
                         </li>
                         <!-- <li class="dropdown show-dropdown">
