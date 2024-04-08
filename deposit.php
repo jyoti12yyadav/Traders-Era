@@ -19,6 +19,28 @@
     .icon-table {
         height: 35px;
     }
+    .button-deposit{
+        background-color: #F5C06D;
+        height: 30px;
+        width: 165px;
+        border-radius: 7px;
+    }
+    .button-deposit>a{
+        color: black;
+        font-size: 15px;
+        font-weight: 600;
+    }
+    .button-deposit-get{
+        background-color: #F5C06D;
+        height: 30px;
+        width: 175px;
+        border-radius: 7px;
+            }
+    .button-deposit-get>a{
+        color: black;
+        font-size: 15px;
+        font-weight: 600;
+    }
 </style>
 
 <section class="banner-section pt-120 pb-120">
@@ -54,65 +76,144 @@
                             <th scope="col">COMMISSION</th>
                             <th scope="col">FIXED RATE</th>
                             <th scope="col">EXECUTION TIME</th>
-                            <th scope="col">EXECUTION TIME</th>
+                            <th scope="col"></th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
-                            <th scope="row"><img src="assets/images/icon/a. visa white _logo.png" alt="mastercard" style="height: 25px;"></th>
-                            <td>Mark</td>
-                            <td>Otto</td>
-                            <td>@mdo</td>
-                            <td>@mdo</td>
-                            <td>@mdo</td>
-                        </tr>
-                        <tr>
-                            <td scope="row"><img src="assets/images/icon/a. mastercard.png" alt="mastercard" class="icon-table"></td>
+                            <th scope="row"><img src="assets/images/icon-dw/a  logo neteller.png" alt="mastercard"
+                                class="icon-table"></th>
                             <td>50.00 EUR</td>
                             <td>Free</td>
                             <td>Not applied</td>
                             <td>Instant</td>
-                            <td>instant</td>
+                            <td><button class="button-deposit"><a href=""> MAKE A DEPOSIT </a></button></td>
                         </tr>
                         <tr>
-                            <th scope="row"><img src="assets/images/icon/Tether.png" alt="mastercard" class="icon-table"></th>
+                            <th scope="row"><img src="assets/images/icon-dw/a  logo skrill.png" alt="mastercard"
+                                class="icon-table"></th>
+                            <td>50.00 USD</td>
+                            <td>Free</td>
+                            <td>Not applied</td>
+                            <td>Instant</td>
+                            <td><button class="button-deposit"><a href=""> MAKE A DEPOSIT </a></button></td>
+                        </tr>
+                        <tr>
+                            <th scope="row"><img src="assets/images/icon-dw/a  logo liotecoin.png" alt="mastercard"
+                                class="icon-table"></th>
+                            <td>0.30000000 LTC</td>
+                            <td>Free</td>
+                            <td>Not applied</td>
+                            <td>3-30 minutes</td>
+                            <td><button class="button-deposit"><a href=""> MAKE A DEPOSIT </a></button></td>
+                        </tr>
+                        <tr>
+                            <th scope="row"><img src="assets/images/icon-dw/a  logo Dogecoin.png" alt="mastercard"
+                                class="icon-table"></th>
+                            <td>230.00000000 DOGE</td>
+                            <td>Free</td>
+                            <td>Not applied</td>
+                            <td>3-30 minutes</td>
+                            <td><button class="button-deposit"><a href=""> MAKE A DEPOSIT </a></button></td>
+                        </tr>
+                        <tr>
+                            <th scope="row"><img src="assets/images/icon-dw/a  logo Tether ERC-20.png" alt="mastercard"
+                                    class="icon-table"></th>
                             <td>50.00000000 USDTE</td>
                             <td>Free</td>
                             <td>Not applied</td>
                             <td>3-30 minutes</td>
-                            <td>instant</td>
+                            <td><button class="button-deposit"><a href=""> MAKE A DEPOSIT </a></button></td>
                         </tr>
                         <tr>
-                            <th scope="row"><img src="assets/images/icon/Tether.png" alt="mastercard" class="icon-table"></th>
+                            <th scope="row"><img src="assets/images/icon-dw/a  logo Tether ERC-20.png" alt="mastercard"
+                                    class="icon-table"></th>
                             <td>50.00000000 USDTT</td>
                             <td>Free</td>
                             <td>Not applied</td>
                             <td>3-30 minutes</td>
-                            <td>instant</td>
+                            <td><button class="button-deposit"><a href=""> MAKE A DEPOSIT </a></button></td>
                         </tr>
                         <tr>
-                            <th scope="row"><img src="assets/images/icon/Perfect-Money- white logo.png" alt="mastercard" style="height: 45px;"></th>
-                            <td>Larry</td>
-                            <td>the Bird</td>
-                            <td>@twitter</td>
+                            <th scope="row"><img src="assets/images/icon-dw/a  logo Ethereum 2.png" alt="mastercard"
+                                class="icon-table"></th>
+                            <td>0.02000000 ETH</td>
+                            <td>Free</td>
+                            <td>Not applied</td>
                             <td>3-30 minutes</td>
-                            <td>Instant</td>
+                            <td><button class="button-deposit"><a href=""> MAKE A DEPOSIT </a></button></td>
                         </tr>
                         <tr>
-                            <th scope="row"><img src="assets/images/icon/Upi-Payment.png" alt="mastercard" class="icon-table"></th>
+                            <th scope="row"><img src="assets/images/icon-dw/a  logo bitcoin.png" alt="mastercard"
+                                class="icon-table"></th>
+                            <td>0.00037000 BTC</td>
+                            <td>Free</td>
+                            <td>Not applied</td>
+                            <td>3-30 minutes</td>
+                            <td><button class="button-deposit"><a href=""> MAKE A DEPOSIT </a></button></td>
+                        </tr>
+                        <tr>
+                            <th scope="row"><img src="assets/images/icon-dw/a  logo master card.png" alt="mastercard"
+                                class="icon-table"></th>
+                            <td>50.00 EUR</td>
+                            <td>Free</td>
+                            <td>Not applied</td>
+                            <td>Instant</td>
+                            <td><button class="button-deposit-get"><a href=""> GET VERIFIED FIRST </a></button></td>
+                        </tr>
+                        <tr>
+                            <th scope="row"><img src="assets/images/icon-dw/a  logo India Cash.png" alt="mastercard"
+                                class="icon-table"></th>
+                            <td>2000000.00 INR</td>
+                            <td>Free</td>
+                            <td>Available</td>
+                            <td>1-3 hours</td>
+                            <td><button class="button-deposit-get"><a href=""> GET VERIFIED FIRST </a></button></td>
+                        </tr>
+                        <tr>
+                            <th scope="row"><img src="assets/images/icon-dw/a  logo Tether ERC-20.png" alt="mastercard"
+                                    class="icon-table"></th>
+                            <td>50.00000000 USDTE</td>
+                            <td>Free</td>
+                            <td>Not applied</td>
+                            <td>3-30 minutes</td>
+                            <td><button class="button-deposit"><a href=""> MAKE A DEPOSIT </a></button></td>
+                        </tr>
+                        <tr>
+                            <th scope="row"><img src="assets/images/icon-dw/a  logo Tether ERC-20.png" alt="mastercard"
+                                    class="icon-table"></th>
+                            <td>50.00000000 USDTT</td>
+                            <td>Free</td>
+                            <td>Not applied</td>
+                            <td>3-30 minutes</td>
+                            <td><button class="button-deposit"><a href=""> MAKE A DEPOSIT </a></button></td>
+                        </tr>
+                        <tr>
+                            <th scope="row"><img src="assets/images/icon-dw/a  logo india net banking.png" alt="mastercard"
+                                    class="icon-table"></th>
                             <td>1500.00 INR</td>
                             <td>Free</td>
                             <td>Available</td>
-                            <td>3-30 minutes</td>
-                            <td>Instant</td>
+                            <td>1-5 minutes</td>
+                            <td><button class="button-deposit-get"><a href=""> GET VERIFIED FIRST </a></button></td>
                         </tr>
                         <tr>
-                            <th scope="row"><img src="assets/images/icon/a. Wire Transfer white logo.png" alt="mastercard" class="icon-table"></th>
-                            <td>Larry</td>
-                            <td>the Bird</td>
-                            <td>@twitter</td>
-                            <td>3-30 minutes</td>
+                            <th scope="row"><img src="assets/images/icon-dw/a  logo UPI.png" alt="mastercard"
+                                    class="icon-table"></th>
+                            <td>1500.00 INR</td>
+                            <td>Free</td>
+                            <td>Available</td>
                             <td>Instant</td>
+                            <td><button class="button-deposit-get"><a href=""> GET VERIFIED FIRST </a></button></td>
+                        </tr>
+                        <tr>
+                            <th scope="row"><img src="assets/images/icon-dw/a  logo Tether ERC-20.png"
+                                    alt="mastercard" class="icon-table"></th>
+                            <td>50.00000000 USDTT</td>
+                            <td>Free</td>
+                            <td>Not applied</td>
+                            <td>3-30 minutes</td>
+                            <td><button class="button-deposit"><a href=""> MAKE A DEPOSIT </a></button></td>
                         </tr>
                     </tbody>
                 </table>
