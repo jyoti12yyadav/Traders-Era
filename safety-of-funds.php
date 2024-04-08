@@ -79,9 +79,9 @@
 
 </section>
 
-<section class="provide-world pt-90 mb-90 position-relative z-0" style="padding-bottom: 25px;">
+<section class="provide-world pt-90 mb-90 position-relative z-0" style="padding-bottom: 25px; margin-bottom: 90px;">
     <div class="container">
-        <div class="row gy-6 gy-xxl-6">
+        <div class="row gy-6 gy-xxl-0">
 
             <div class="col-md-6 col-xxl-6">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
