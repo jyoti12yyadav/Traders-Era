@@ -17,6 +17,23 @@
     .icon-table {
         height: 35px;
     }
+    .table-para{
+        background-color: #292929;
+    padding: 35px;
+    border: 1px solid #838383;
+    border-radius: 14px;
+    margin: 10px 0px;
+    }
+    .table-para-2{
+        background-color: #292929;
+    padding: 35px;
+    border: 1px solid #838383;
+    border-radius: 14px;
+    margin: 10px 0px;
+    }
+    tr{
+        text-align: center;
+    }
 </style>
 
     <section class="banner-section  pt-120 pb-120">
@@ -132,10 +149,22 @@
                     <table id="Record" class="table table-striped table-dark my-3">
                     <thead>
     <tr height="73">
-    <th height="73" width="108">Instrument</th>
-    <th width="78">Ticker</th>
-    <th width="78">Contract size</th>
-    <th width="156">Trading times* (GMT+3)</th>
+    <th height="73" width="108" style="    background-color: #9ad953;
+    color: black;
+    text-align: center;
+    font-size: 16px;">Instrument</th>
+    <th width="78" style="    background-color: #9ad953;
+    color: black;
+    text-align: center;
+    font-size: 16px;">Ticker</th>
+    <th width="78" style="    background-color: #9ad953;
+    color: black;
+    text-align: center;
+    font-size: 16px;">Contract size</th>
+    <th width="156" style="    background-color: #9ad953;
+    color: black;
+    text-align: center;
+    font-size: 16px;">Trading times* (GMT+3)</th>
     </tr>
     </thead>
                         <tbody>
@@ -298,6 +327,26 @@
     </tbody>
                     </table>
                 </div>
+            </div>
+            <div>
+                <div class="table-para">
+                    <p>All cryptocurrencies have two breaks on Saturday. The first break is from 00:00 to 01:00 (GMT+2) and the second break is from 12:00 - 16:00 (GMT+2).</p> 
+                    <p>On the MT4 and the MT5 platforms the required margin is blocked for both legs of the hedged positions.</p>
+                    <p>To account for positions held over the weekend, 3-Day swaps are applied at market close on Friday.</p>
+                </div>
+
+<div class="table-para-2">
+    <b>Maximum exposure is subject to underlying market conditions</b><br>
+    <br>
+    <strong>Negative Pricing on Instruments:</strong><br>
+    In the unlikely event where an Instrument is priced in negative (minus), then TradersEra will take the following actions:<br>
+    - The instrument will be priced statically at 0.01 as an indicative price<br>
+    - The instrument will be set to close-only<br>
+    - All open positions will closed-out at 0.01<br>
+    </div>
+
+
+
             </div>
         </div>
     </section>

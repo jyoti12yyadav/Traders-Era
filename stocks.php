@@ -8,6 +8,23 @@
     .pb-120 {
         padding-top: 60px;
     }
+    .table-para{
+        background-color: #292929;
+    padding: 35px;
+    border: 1px solid #838383;
+    border-radius: 14px;
+    margin: 10px 0px;
+    }
+    .table-para-2{
+        background-color: #292929;
+    padding: 35px;
+    border: 1px solid #838383;
+    border-radius: 14px;
+    margin: 10px 0px;
+    }
+    tr{
+        text-align: center;
+    }
 </style>
 
 <section class="banner-section  pt-120 pb-120">
@@ -129,10 +146,22 @@
                 <table id="Record" class="table table-striped table-dark my-3">
                     <thead>
                         <tr class="odd">
-                            <th>Symbol</th>
-                            <th>Full name</th>
-                            <th>Trading time<br><small>GMT+3</small></th>
-                            <th>Exchange</th>
+                            <th style="    background-color: #9ad953;
+    color: black;
+    text-align: center;
+    font-size: 16px;">Symbol</th>
+                            <th style="    background-color: #9ad953;
+    color: black;
+    text-align: center;
+    font-size: 16px;">Full name</th>
+                            <th style="    background-color: #9ad953;
+    color: black;
+    text-align: center;
+    font-size: 16px;">Trading time<br><small>GMT+3</small></th>
+                            <th style="    background-color: #9ad953;
+    color: black;
+    text-align: center;
+    font-size: 16px;">Exchange</th>
                         </tr>
                     </thead>
                     <tbody class="row-hover">
@@ -642,7 +671,7 @@
                         </tr>
                     </tbody>
                 </table>
-                <div>
+                <div class="table-para">
                     <ul class="contract_specifications_desc_text border-bottom">
                         <li class="contract_specifications_desc_heading"><strong>Notes:</strong></li>
                         <li>All systems may have a restart time without execution and prices up to 10 minutes everyday at 00:00 GMT+3.</li>
