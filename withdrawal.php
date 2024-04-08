@@ -18,6 +18,30 @@
     .icon-table {
         height: 35px;
     }
+
+    .button-deposit{
+        background-color: #F5C06D;
+        height: 30px;
+        width: 165px;
+        border-radius: 7px;
+    }
+    .button-deposit>a{
+        color: black;
+        font-size: 15px;
+        font-weight: 600;
+    }
+    .button-deposit-get{
+        background-color: #F5C06D;
+        height: 30px;
+        width: 175px;
+        border-radius: 7px;
+    }
+    .button-deposit-get>a{
+        color: black;
+        font-size: 15px;
+        font-weight: 600;
+    }
+
 </style>
 
 <section class="banner-section pt-120 pb-120">
@@ -53,58 +77,105 @@
                             <th scope="col">MINIMUM AMOUNT</th>
                             <th scope="col">COMMISSION</th>
                             <th scope="col">EXECUTION TIME</th>
-                            <th scope="col">EXECUTION TIME</th>
+                            <th scope="col"></th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
-                            <th scope="row"><img src="assets/images/icon/a. visa white _logo.png" alt="mastercard" style="height: 25px;"></th>
-                            <td>Mark</td>
-                            <td>Otto</td>
-                            <td>@mdo</td>
-                            <td>@mdo</td>
-                        </tr>
-                        <tr>
-                            <td scope="row"><img src="assets/images/icon/a. mastercard.png" alt="mastercard" class="icon-table"></td>
-                            <td>50.00 EUR</td>
+                            <th scope="row"><img src="assets/images/icon-dw/a  logo neteller.png" alt="mastercard"
+                                class="icon-table"></th>
+                            <td>5.00 USD</td>
                             <td>Free</td>
-                            <td>Instant</td>
-                            <td>instant</td>
+                            <td>1-3 hours to approve the withdrawal and up to 5 minutes to transfer the funds.</td>
+                            <td><button class="button-deposit"><a href=""> WITHDRAW </a></button></td>
                         </tr>
                         <tr>
-                            <th scope="row"><img src="assets/images/icon/Tether.png" alt="mastercard" class="icon-table"></th>
+                            <th scope="row"><img src="assets/images/icon-dw/a  logo skrill.png" alt="mastercard"
+                                class="icon-table"></th>
+                            <td>5.00 USD</td>
+                            <td>Free</td>
+                            <td>1-3 hours to approve the withdrawal and up to 5 minutes to transfer the funds.</td>
+                            <td><button class="button-deposit"><a href=""> WITHDRAW </a></button></td>
+                        </tr>
+                        <tr>
+                            <th scope="row"><img src="assets/images/icon-dw/a  logo India Cash.png" alt="mastercard"
+                                class="icon-table"></th>
+                            <td>350.00 INR</td>
+                            <td>Free</td>
+                            <td>1-3 hours to approve the withdrawal and up to 1 hour to transfer the funds.</td>
+                            <td><button class="button-deposit"><a href=""> WITHDRAW </a></button></td>
+                        </tr>
+                        <tr>
+                            <th scope="row"><img src="assets/images/icon-dw/a  logo liotecoin.png" alt="mastercard"
+                                class="icon-table"></th>
+                            <td>0.11000000 LTC  </td>
+                            <td>Free</td>
+                            <td>1-3 hours to approve the withdrawal and up to 30 minutes to transfer the funds.</td>
+                            <td><button class="button-deposit"><a href=""> WITHDRAW </a></button></td>
+                        </tr>
+                        <tr>
+                            <th scope="row"><img src="assets/images/icon-dw/a  logo Dogecoin.png" alt="mastercard"
+                                class="icon-table"></th>
+                            <td>75.00000000 DOGE</td>
+                            <td>Free</td>
+                            <td>1-3 hours to approve the withdrawal and up to 30 minutes to transfer the funds.</td>
+                            <td><button class="button-deposit"><a href=""> WITHDRAW </a></button></td>
+                        </tr>
+                        <tr>
+                            <th scope="row"><img src="assets/images/icon-dw/a  logo Tether ERC-20.png" alt="mastercard"
+                                class="icon-table"></th>
                             <td>10.00000000 USDTE</td>
                             <td>Free</td>
-                            <td>1-3 hours to approve and up to 30 minutes to transfer</td>
-                            <td>instant</td>
+                            <td>1-3 hours to approve the withdrawal and up to 30 minutes to transfer the funds.</td>
+                            <td><button class="button-deposit"><a href=""> WITHDRAW </a></button></td>
                         </tr>
                         <tr>
-                            <th scope="row"><img src="assets/images/icon/Tether.png" alt="mastercard" class="icon-table"></th>
+                            <th scope="row"><img src="assets/images/icon-dw/a  logo Tether ERC-20.png" alt="mastercard"
+                                class="icon-table"></th>
                             <td>10.00000000 USDTT</td>
                             <td>Free</td>
-                            <td>1-3 hours to approve and up to 30 minutes to transfer</td>
-                            <td>instant</td>
+                            <td>1-3 hours to approve the withdrawal and up to 30 minutes to transfer the funds.</td>
+                            <td><button class="button-deposit"><a href=""> WITHDRAW </a></button></td>
                         </tr>
                         <tr>
-                            <th scope="row"><img src="assets/images/icon/Perfect-Money- white logo.png" alt="mastercard" style="height: 45px;"></th>
-                            <td>Larry</td>
-                            <td>the Bird</td>
-                            <td>@twitter</td>
-                            <td>instant</td>
-                        </tr>
-                        <tr>
-                            <th scope="row"><img src="assets/images/icon/Upi-Payment.png" alt="mastercard" class="icon-table"></th>
-                            <td>1500.00 INR</td>
+                            <th scope="row"><img src="assets/images/icon-dw/a  logo Ethereum 2.png" alt="mastercard"
+                                class="icon-table"></th>
+                            <td>0.00500000 ETH</td>
                             <td>Free</td>
-                            <td>3-30 minutes</td>
-                            <td>Instant</td>
+                            <td>1-3 hours to approve the withdrawal and up to 30 minutes to transfer the funds.</td>
+                            <td><button class="button-deposit"><a href=""> WITHDRAW </a></button></td>
                         </tr>
                         <tr>
-                            <th scope="row"><img src="assets/images/icon/a. mastercard.png" alt="mastercard" class="icon-table"></th>
-                            <td>Larry</td>
-                            <td>the Bird</td>
-                            <td>@twitter</td>
-                            <td>instant</td>
+                            <th scope="row"><img src="assets/images/icon-dw/a  logo bitcoin.png" alt="mastercard"
+                                class="icon-table"></th>
+                            <td>0.00009000 BTC</td>
+                            <td>Free</td>
+                            <td>1-3 hours to approve the withdrawal and up to 30 minutes to transfer the funds.</td>
+                            <td><button class="button-deposit-get"><a href=""> WITHDRAW </a></button></td>
+                        </tr>
+                        <tr>
+                            <th scope="row"><img src="assets/images/icon-dw/a  logo India Cash.png" alt="mastercard"
+                                class="icon-table"></th>
+                            <td>2000000.00 INR</td>
+                            <td>Free</td>
+                            <td>1-3 hours to approve the withdrawal and up to 1 hour to transfer the funds.</td>
+                            <td><button class="button-deposit-get"><a href=""> WITHDRAW </a></button></td>
+                        </tr>
+                        <tr>
+                            <th scope="row"><img src="assets/images/icon-dw/a  logo Tether ERC-20.png" alt="mastercard"
+                                    class="icon-table"></th>
+                            <td>10.00000000 USDTE</td>
+                            <td>Free</td>
+                            <td>1-3 hours to approve the withdrawal and up to 30 minutes to transfer the funds.</td>
+                            <td><button class="button-deposit"><a href=""> WITHDRAW </a></button></td>
+                        </tr>
+                        <tr>
+                            <th scope="row"><img src="assets/images/icon-dw/a  logo Tether ERC-20.png" alt="mastercard"
+                                    class="icon-table"></th>
+                            <td>50.00000000 USDTT</td>
+                            <td>Free</td>
+                            <td>1-3 hours to approve the withdrawal and up to 30 minutes to transfer the funds.</td>
+                            <td><button class="button-deposit"><a href=""> WITHDRAW </a></button></td>
                         </tr>
                     </tbody>
                 </table>

@@ -123,62 +123,6 @@ color: #000000;
 </section>
 
 
-
-<section class="provide-world position-relative z-0">
-    <div class="container">
-        <div class="row gy-6 gy-xxl-0">
-
-
-            <div class="col-md-6 col-xxl-4">
-                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/profits.png" alt="stock-market">
-                    </span>
-                    <h4 class="mt-5 mb-5">High Leverage
-
-                    </h4>
-                    <p>Utilize leverage of up to 1:1000 for trading
-
-                    </p>
-                    <br>
-                    <br>
-                </div>
-            </div>
-            <div class="col-md-6 col-xxl-4">
-                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/sales-marketing.png" alt="stock-market">
-                    </span>
-                    <h4 class="mt-5 mb-5">Fast order execution
-
-                    </h4>
-                    <p>Trades are typically executed within milliseconds, with minimal slippage
-
-                    </p>
-                    <br>
-
-                </div>
-            </div>
-            <div class="col-md-6 col-xxl-4">
-                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/growth.png" alt="stock-market">
-                    </span>
-                    <h4 class="mt-5 mb-5">
-                        Micro lot trading
-
-                    </h4>
-                    <p>Begin trading from just $0.10 per pip, perfect for smaller accounts and improved risk management.
-
-                    </p>
-                </div>
-            </div>
-
-
-        </div>
-    </div>
-
-</section>
 <section class="provide-world pt-120 pb-120  position-relative z-0">
     <div class="container">
         <div class="row gy-6 gy-xxl-0">
@@ -249,10 +193,66 @@ color: #000000;
             </div>
         </div>
     </div>
-    <center><a href="signup.html"
-        class="cmn-btn fs-six-up nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 py-lg-3 px-lg-5 mt-7 mt-xxl-8"
-        style="--top: 38.796875px; font-weight: bold;">Open an account</a></center>
 </section>
+
+
+<section class="provide-world position-relative z-0 pb-120">
+    <div class="container">
+        <div class="row gy-6 gy-xxl-0">
+
+
+            <div class="col-md-6 col-xxl-4">
+                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/profits.png" alt="stock-market">
+                    </span>
+                    <h4 class="mt-5 mb-5">High Leverage
+
+                    </h4>
+                    <p>Utilize leverage of up to 1:1000 for trading
+
+                    </p>
+                    <br>
+                    <br>
+                </div>
+            </div>
+            <div class="col-md-6 col-xxl-4">
+                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/sales-marketing.png" alt="stock-market">
+                    </span>
+                    <h4 class="mt-5 mb-5">Fast order execution
+
+                    </h4>
+                    <p>Trades are typically executed within milliseconds, with minimal slippage
+
+                    </p>
+                    <br>
+
+                </div>
+            </div>
+            <div class="col-md-6 col-xxl-4">
+                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/growth.png" alt="stock-market">
+                    </span>
+                    <h4 class="mt-5 mb-5">
+                        Micro lot trading
+
+                    </h4>
+                    <p>Begin trading from just $0.10 per pip, perfect for smaller accounts and improved risk management.
+
+                    </p>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+
+</section>
+
+
 
 
 
