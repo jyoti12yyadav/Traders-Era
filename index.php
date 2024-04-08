@@ -1199,6 +1199,85 @@
 
 
 
+
+
+
+<section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
+    <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
+        <img src="assets/images/star3.png" alt="vector"
+            class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
+    </div>
+    <div class="container">
+        <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
+            <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
+                <div class="trade_on__thumbs d-flex justify-content-end">
+                    <img src="assets/images/tradersera.png" alt="Imgae">
+                </div>
+            </div>
+
+            <div class="col-md-10 col-lg-6 col-xxl-5">
+                <div class="trade_on__content">
+                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;"> Boost your earnings with the help of AI.
+
+                    </h2>
+                    <p class="mx-ch">By utilizing artificial intelligence in forex trading, you can benefit from a multitude of advantages.</p>
+
+                </div>
+
+
+              
+                <ul class="d-flex gap-4 flex-column mt-6">
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>With lightning-fast trade execution, you'll never miss a trade opportunity.
+
+
+                    </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>Save time and reduce operational costs with efficient and fast processing.
+
+                    </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>Within seconds, data from multiple sources can be processed and analyzed.
+
+
+                    </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>AI risk management tools have the capability to automatically evaluate and reduce potential harm.
+</li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>AI has the ability to recognize patterns with greater speed and accuracy.
+
+                    </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>Decisions are made purely based on logic, without any influence from intense emotions.
+
+
+                    </li>
+
+
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>An AI has the ability to carry out numerous forex trades at the same time.
+ </li>
+                    <br>
+                    <h5>Platforms Supported:</h5>
+                    <ul class=" d-flex  gap-md-3 ">
+                        <li><img style=" height:35px;" src="assets/images/icon/icon IE.png"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/icon opera.png"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/icon safari.png"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/icon fire fox.png"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/icon CROME.png"></li>
+
+                    </ul>
+                </ul>
+
+            </div>
+
+        </div>
+</section>
+
+
+
+
 <script>
 
     $('.slider').each(function () {

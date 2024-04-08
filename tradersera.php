@@ -49,10 +49,10 @@
                     <p class="fs-six mx-ch">TradersEra has been recognized for its excellence in online forex trading.
                         Our top-notch FX service is now available in the US, giving knowledgeable, decisive, and daring
                         individuals the opportunity to trade over 80 currency pairs at competitive rates.</p>
-                        <br>
+                    <br>
                 </div>
                 <a href="#" class="cmn-btn fs-five nb4-xxl-bg align-items-center py-3 px-6 py-lg-3 px-lg-8"
-                            style="--top: 26px; --left: 113.203125px;">Open An Account</a>
+                    style="--top: 26px; --left: 113.203125px;">Open An Account</a>
             </div>
         </div>
     </div>
@@ -66,7 +66,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-7 col-xxl-6">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h3 class="mb-5 mb-lg-6">  Why TradersEra stands out from the rest.
+                    <h3 class="mb-5 mb-lg-6"> Why TradersEra stands out from the rest.
                     </h3>
                     <!-- <p class="fs-six-up mx-ch mx-auto">We're constantly improving our trading platform, trying to make it the best on the market. such as stocks</p> -->
                 </div>
@@ -79,7 +79,8 @@
                         <img src="assets/images/icon/regulation.png" alt="Strong">
                     </span>
                     <h4 class="mt-5 mb-5"> Credible</h4>
-                    <p> With a solid reputation built over years of successful trading, TradersEra has earned the trust of traders worldwide.</p>
+                    <p> With a solid reputation built over years of successful trading, TradersEra has earned the trust
+                        of traders worldwide.</p>
                     <br>
                 </div>
             </div>
@@ -91,7 +92,7 @@
                     <h4 class="mt-5 mb-5">Devoted to Our Valued Clients.</h4>
                     <p>Our business is centered on supporting our clients with cutting-edge tools and assistance.
                         We are available every day, all day.
-                        </p>
+                    </p>
                 </div>
             </div>
             <div class="col-md-6 col-xxl-4">
@@ -100,8 +101,9 @@
                         <img src="assets/images/icon/strong-box.png" alt="Strong">
                     </span>
                     <h4 class="mt-5 mb-5">Global Legacy</h4>
-                    <p>We are dedicated to regulatory compliance and innovation in Forex trading, shaping the industry's future and helping traders worldwide reach their financial goals.</p>
-                 
+                    <p>We are dedicated to regulatory compliance and innovation in Forex trading, shaping the industry's
+                        future and helping traders worldwide reach their financial goals.</p>
+
                     <!-- <a href="signup.html" class="cmn-btn link third-link fs-five  gap-2 gap-lg-3 align-items-center mt-5">Learn More<i class="ti ti-arrow-narrow-right"></i></a> -->
                 </div>
             </div>
@@ -125,19 +127,27 @@
                     <h3 class="mb-4 mb-lg-5">Simple account registration.
                     </h3>
                     <ul class="d-flex gap-4 flex-column mt-6">
-                        <li class="d-flex align-items-center gap-3 fs-six-up" style="font-weight: 900;"><i class="ti ti-circle-check s1-color fs-four"></i>Swift execution across an extensive range of markets</li>
+                        <li class="d-flex align-items-center gap-3 fs-six-up" style="font-weight: 900;"><i
+                                class="ti ti-circle-check s1-color fs-four"></i>Swift execution across an extensive
+                            range of markets</li>
                         <p style="margin-left:35px;">Enjoy Rewards of low spreads and efficient execution.</p>
-                      
-                        <li class="d-flex align-items-center gap-3 fs-six-up" style="font-weight: 900;"><i class="ti ti-circle-check s1-color fs-four"></i>Trade smoothly, no matter where you're located.</li>
-                        <p style="margin-left:35px;">Enjoy a smooth trading experience from anywhere with our trading app</p>
-                        <li class="d-flex align-items-center gap-3 fs-six-up"  style="font-weight: 900;"><i class="ti ti-circle-check s1-color fs-four" style="font-weight: 900;"></i>Feel Secure with a reliable provider</li>
-                        <p style="margin-left:35px;">Feel secure knowing you're trading with a reliable provider committed to your success.</p>
-                        
+
+                        <li class="d-flex align-items-center gap-3 fs-six-up" style="font-weight: 900;"><i
+                                class="ti ti-circle-check s1-color fs-four"></i>Trade smoothly, no matter where you're
+                            located.</li>
+                        <p style="margin-left:35px;">Enjoy a smooth trading experience from anywhere with our trading
+                            app</p>
+                        <li class="d-flex align-items-center gap-3 fs-six-up" style="font-weight: 900;"><i
+                                class="ti ti-circle-check s1-color fs-four" style="font-weight: 900;"></i>Feel Secure
+                            with a reliable provider</li>
+                        <p style="margin-left:35px;">Feel secure knowing you're trading with a reliable provider
+                            committed to your success.</p>
+
                     </ul>
                     <br>
                     <a href="#" class="cmn-btn fs-five nb4-xxl-bg align-items-center py-3 px-6 py-lg-3 px-lg-8"
-                            style="--top: 26px; --left: 113.203125px;">Open An Account</a>
-                           
+                        style="--top: 26px; --left: 113.203125px;">Open An Account</a>
+
                 </div>
             </div>
             <div class="col-md-6 col-lg-6">
@@ -191,5 +201,200 @@
         </div>
     </div>
 </section>
+
+
+
+
+
+<section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
+    <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
+        <img src="assets/images/star3.png" alt="vector"
+            class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
+    </div>
+    <div class="container">
+        <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
+
+
+            <div class="col-md-10 col-lg-6 col-xxl-5">
+                <div class="trade_on__content">
+                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;"> Boost your earnings with the help of AI
+
+                    </h2>
+                    <p class="mx-ch">By utilizing artificial intelligence in forex trading, you can benefit from a
+                        multitude of advantages.</p>
+
+                </div>
+
+
+
+                <ul class="d-flex gap-4 flex-column mt-6">
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>With lightning-fast trade execution, you'll
+                        never miss a trade opportunity.
+
+
+                    </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>Save time and reduce operational costs with
+                        efficient and fast processing.
+
+                    </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>Within seconds, data from multiple sources
+                        can be processed and analyzed.
+
+
+                    </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>AI risk management tools have the capability
+                        to automatically evaluate and reduce potential harm.
+                    </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>AI has the ability to recognize patterns
+                        with greater speed and accuracy.
+
+                    </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>Decisions are made purely based on logic,
+                        without any influence from intense emotions.
+
+
+                    </li>
+
+
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>An AI has the ability to carry out numerous
+                        forex trades at the same time.
+                    </li>
+                    <br>
+
+                </ul>
+
+            </div>
+            <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
+                <div class="trade_on__thumbs d-flex justify-content-end">
+                    <img src="assets/images/tradersera.png" alt="Imgae">
+                </div>
+            </div>
+
+        </div>
+</section>
+
+
+
+
+
+<section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
+    <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
+        <img src="assets/images/star3.png" alt="vector"
+            class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
+    </div>
+    <div class="container">
+        <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
+            <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
+                <div class="trade_on__thumbs d-flex justify-content-end">
+                    <img src="assets/images/tradersera.png" alt="Imgae">
+                </div>
+            </div>
+
+            <div class="col-md-10 col-lg-6 col-xxl-5">
+                <div class="trade_on__content">
+                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;"> Our Binary Options
+
+                    </h2>
+                    <p class="mx-ch">Binary Options are financial tools enabling speculation on market price movements,
+                        such as gold, oil, dollar, euro, etc.
+                    </p>
+
+                </div>
+                <h5 class="mt-4 mb-lg-5">
+                    Simplified to two possibilities:
+
+                </h5>
+
+
+                <ul class="d-flex gap-4 flex-column mt-6">
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>
+                        Settles at 0: You risk only what you invest; no further loss.
+
+
+                    </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>Settles at 100: Earn a $100 payout per
+                        contract, plus your profit (subtracting your trade's cost) remains yours.
+
+
+                    </li>
+
+                    <br>
+
+                </ul>
+
+            </div>
+
+        </div>
+</section>
+
+
+
+<section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
+    <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
+        <img src="assets/images/star3.png" alt="vector"
+            class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
+    </div>
+    <div class="container">
+        <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
+         
+
+            <div class="col-md-10 col-lg-6 col-xxl-5">
+                <div class="trade_on__content">
+                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;"> Local Deposits
+
+                    </h2>
+                    <p class="mx-ch">At TradersEra, we prioritize the security and efficiency of all financial
+                        transactions, ensuring a seamless deposit process for our traders. If you have any questions or
+                        need assistance with depositing funds, our dedicated support team is available to help you every
+                        step of the way.
+
+                    </p>
+
+                </div>
+
+
+
+                <ul class="d-flex gap-4 flex-column mt-6">
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>
+                        We store your funds in high-quality banks, ensuring they are completely separate from our own.
+
+
+                    </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>We follow regulations in different places.
+                        We keep your money in the best banks.
+
+
+                    </li>
+
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>
+                        Choose from a range of payment methods, including local banks.
+
+                    </li>
+
+                    <br>
+
+                </ul>
+
+            </div>
+            <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
+                <div class="trade_on__thumbs d-flex justify-content-end">
+                    <img src="assets/images/tradersera.png" alt="Imgae">
+                </div>
+            </div>
+        </div>
+</section>
+
 
 <?php include("includes/footer.php"); ?>
