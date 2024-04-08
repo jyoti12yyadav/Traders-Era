@@ -380,9 +380,7 @@
 <div class="slider">
     <div class="slide_viewer">
         <div class="slide_group">
-
             <div class="slide hero-section--secondary hero-section position-relative z-0 ">
-
                 <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
                     <img src="assets/images/hero_vector.png" alt="vector"
                         class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX">
@@ -1291,6 +1289,8 @@
 
         advance();
     });
+
+
 
 
 
