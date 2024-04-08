@@ -174,11 +174,7 @@
                                 <li><a class="dropdown-item" href="regulatory.php">Regulatory</a></li>
                                 <li><a class="dropdown-item" href="our-servers.php">Our Servers</a></li>
                                 <li><a class="dropdown-item" href="https://tradersera.tawk.help/">Help Center</a></li>
-<<<<<<< HEAD
                                 
-=======
-                                <li><a class="dropdown-item" href="our servers.php">Our Servers</a></li>
->>>>>>> af5524d829f56db1d8b69c615d8f119e08763904
                             </ul>
                         </li>
                         <!-- <li class="dropdown show-dropdown">
