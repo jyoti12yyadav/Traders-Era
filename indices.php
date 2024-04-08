@@ -7,6 +7,22 @@
     .pb-120 {
         padding-top: 60px;
     }
+    .table-para{
+        background-color: #292929;
+    padding: 35px !important;
+    border: 1px solid #838383;
+    margin: 10px 0px;
+    }
+    .table-para-2{
+        background-color: #292929;
+    padding: 35px;
+    border: 1px solid #838383;
+    border-radius: 14px;
+    margin: 10px 0px;
+    }
+    tr{
+        text-align: center;
+    }
 </style>
 
 <section class="banner-section  pt-120 pb-120">
@@ -109,10 +125,22 @@
             <table id="Record" class="table table-striped table-dark my-3">
                 <thead>
                     <tr>
-                    <th>Instrument</th>
-                    <th>Ticker</th>
-                    <th>Contract size</th>
-                    <th>Trading&nbsp;hours (GMT+3)</th>
+                    <th style="    background-color: #9ad953;
+                    color: black;
+                    text-align: center;
+                    font-size: 16px;padding: 20px;">Instrument</th>
+                    <th style="    background-color: #9ad953;
+                    color: black;
+                    text-align: center;
+                    font-size: 16px;padding: 20px;">Ticker</th>
+                    <th style="    background-color: #9ad953;
+                    color: black;
+                    text-align: center;
+                    font-size: 16px;padding: 20px;">Contract size</th>
+                    <th style="    background-color: #9ad953;
+                    color: black;
+                    text-align: center;
+                    font-size: 16px;padding: 20px;">Trading&nbsp;hours (GMT+3)</th>
                     </tr>
                     </thead>
 <tr>
@@ -256,10 +284,31 @@
    
     <td>01:00 - 24:00&nbsp;</td>
     </tr>
+    <tr >
+        <td class="text-start table-para" colspan="10" ><br>
+        <strong>Margin Call Policy:</strong> The forced liquidation level is 50%. Please review the TradersEra for complete details.<br>
+        <br>
+        <strong>Dividend adjustments</strong> are applied (credited or debited) to CFD positions you hold open in an Index that announces a dividend. <strong>For dividend payments in long positions a brokerage adjustment of 5% is applied (except for UK100 indices).</strong><br>
+        <br>
+        Dividend adjustments are applied at rollover 1 day prior to the Ex-div date.&nbsp;<br>
+        Adjustments will be displayed as a separate journal entry (deposit or withdrawal) in the client trading account.<br>
+        ¹ Typical spread in the active trading hours. During out of hours (OOH) sessions spread may widen, depending on the market conditions.<br>
+        <br>
+        To account for positions held over the weekend, 3-Day swaps are applied at market close on Friday.</td>
+        </tr>
     </tbody>
 </table>
             </div>
     </div>
+    <div class="table-para-2">
+        <b>Maximum exposure is subject to underlying market conditions</b><br>
+        <br>
+        <strong>Negative Pricing on Instruments:</strong><br>
+        In the unlikely event where an Instrument is priced in negative (minus), then TradersEra will take the following actions:<br>
+        - The instrument will be priced statically at 0.01 as an indicative price<br>
+        - The instrument will be set to close-only<br>
+        - All open positions will closed-out at 0.01
+        </div>
     </div>
 </section>
 <?php include("includes/footer.php"); ?>
