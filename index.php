@@ -359,7 +359,7 @@
 
 <iframe
     src="https://fxpricing.com/fx-widget/ticker-tape-widget.php?id=1,2,3,5,14,20&border=show&speed=50&click_target=blank&theme=dark&tm-cr=212529&hr-cr=FFFFFF13&by-cr=28A745&sl-cr=DC3545&flags=circle&d_mode=regular&column=&lang=en&font=Arial, sans-serif"
-    width="100%" height="85" style="border: unset;margin-top:150px"></iframe>
+    width="100%" height="85" style="border: unset;margin-top:132px"></iframe>
 <style type="text/css">
     #fx-pricing-widget-copyright {
         text-align: center;
@@ -1278,100 +1278,101 @@
 
 <script>
 
-    $('.slider').each(function () {
-        var $this = $(this);
-        var $group = $this.find('.slide_group');
-        var $slides = $this.find('.slide');
-        var bulletArray = [];
-        var currentIndex = 0;
-        var timeout;
-        var animationDuration = 1200; // Adjust this value to control the animation speed
+$('.slider').each(function () {
+    var $this = $(this);
+    var $group = $this.find('.slide_group');
+    var $slides = $this.find('.slide');
+    var bulletArray = [];
+    var currentIndex = 0;
+    var timeout;
+    var animationDuration = 1200; // Adjust this value to control the animation speed
 
-        function move(newIndex) {
-            var animateLeft, slideLeft;
+    function move(newIndex) {
+        var animateLeftFirst, slideLeftFirst, animateLeftSecond, slideLeftSecond;
 
-            advance();
+        advance();
 
-            if ($group.is(':animated') || currentIndex === newIndex) {
-                return;
-            }
-
-            bulletArray[currentIndex].removeClass('active');
-            bulletArray[newIndex].addClass('active');
-
-            if (newIndex > currentIndex) {
-                slideLeft = '100%';
-                animateLeft = '-100%';
-            } else {
-                slideLeft = '-100%';
-                animateLeft = '100%';
-            }
-
-            $slides.eq(newIndex).css({
-                display: 'block',
-                left: slideLeft
-            });
-            $group.animate({
-                left: animateLeft
-            }, animationDuration, function () {
-                $slides.eq(currentIndex).css({
-                    display: 'none'
-                });
-                $slides.eq(newIndex).css({
-                    left: 0
-                });
-                $group.css({
-                    left: 0
-                });
-                currentIndex = newIndex;
-            });
+        if ($group.is(':animated') || currentIndex === newIndex) {
+            return;
         }
 
-        function advance() {
-            clearTimeout(timeout);
-            timeout = setTimeout(function () {
-                if (currentIndex < ($slides.length - 1)) {
-                    move(currentIndex + 1);
-                } else {
-                    move(0);
-                }
-            }, 7000); // Timeout between slides
+        bulletArray[currentIndex].removeClass('active');
+        bulletArray[newIndex].addClass('active');
+
+        if (newIndex > currentIndex) {
+            slideLeftFirst = '50%';
+            animateLeftFirst = '0%';
+            slideLeftSecond = '50%';
+            animateLeftSecond = '0%';
+        } else {
+            slideLeftFirst = '-100%';
+            animateLeftFirst = '0%';
+            slideLeftSecond = '-50%';
+            animateLeftSecond = '0%';
         }
 
-        $('.next_btn').on('click', function () {
+        $slides.eq(newIndex).css({
+            display: 'block',
+            left: slideLeftSecond
+        });
+
+        $group.animate({
+            left: animateLeftFirst
+        }, animationDuration);
+
+        $slides.eq(newIndex).animate({
+            left: 0
+        }, animationDuration);
+
+        $slides.eq(currentIndex).css({
+            display: 'none',
+            left: 0
+        });
+
+        currentIndex = newIndex;
+    }
+
+    function advance() {
+        clearTimeout(timeout);
+        timeout = setTimeout(function () {
             if (currentIndex < ($slides.length - 1)) {
                 move(currentIndex + 1);
             } else {
                 move(0);
             }
-        });
+        }, 7000); // Timeout between slides
+    }
 
-        $('.previous_btn').on('click', function () {
-            if (currentIndex !== 0) {
-                move(currentIndex - 1);
-            } else {
-                move($slides.length - 1);
-            }
-        });
-
-        $.each($slides, function (index) {
-            var $button = $('<a class="slide_btn">&bull;</a>');
-
-            if (index === currentIndex) {
-                $button.addClass('active');
-            }
-            $button.on('click', function () {
-                move(index);
-            }).appendTo('.slide_buttons');
-            bulletArray.push($button);
-        });
-
-        advance();
+    $('.next_btn').on('click', function () {
+        if (currentIndex < ($slides.length - 1)) {
+            move(currentIndex + 1);
+        } else {
+            move(0);
+        }
     });
 
+    $('.previous_btn').on('click', function () {
+        if (currentIndex !== 0) {
+            move(currentIndex - 1);
+        } else {
+            move($slides.length - 1);
+        }
+    });
 
+    $.each($slides, function (index) {
+        var $button = $('<a class="slide_btn">&bull;</a>');
 
+        if (index === currentIndex) {
+            $button.addClass('active');
+        }
+        $button.on('click', function () {
+            move(index);
+        }).appendTo('.slide_buttons');
+        bulletArray.push($button);
+    });
 
+    advance();
+});
 
     /**This is just a demo to add the process classes**/
     $(document).ready(function ($) {

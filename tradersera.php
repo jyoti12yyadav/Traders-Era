@@ -217,9 +217,7 @@
 
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
-                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;"> Boost your earnings with the help of AI
-
-                    </h2>
+                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;">Boost your earnings with the help of AI</h2>
                     <p class="mx-ch">By utilizing artificial intelligence in forex trading, you can benefit from a
                         multitude of advantages.</p>
 
@@ -273,14 +271,12 @@
             </div>
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/tradersera.png" alt="Imgae">
+                    <img src="assets/images/Boost your earnings with the help of AI.png" alt="Imgae">
                 </div>
             </div>
 
         </div>
 </section>
-
-
 
 
 
@@ -293,7 +289,7 @@
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/tradersera.png" alt="Imgae">
+                    <img src="assets/images/Our Binary Options.png" alt="Imgae">
                 </div>
             </div>
 
@@ -390,7 +386,7 @@
             </div>
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/tradersera.png" alt="Imgae">
+                    <img src="assets/images/Local Deposits.png" alt="Imgae">
                 </div>
             </div>
         </div>
