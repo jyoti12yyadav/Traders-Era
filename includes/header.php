@@ -54,11 +54,10 @@
                 <div class="upper-header-content">
                     <div class="col col-lg-8 col-md-12 d-none d-lg-block">
                         <div class="contact-details ">
-                            <ul class="contact" style="display: flex;position: absolute;margin-top: 12px;">
-                                <li><img src="assets/images/icon/mail icon png.png" alt=""><a
+                            <ul class="contact" style="display: flex;position: absolute;margin-top: 4px;">
+                                <li><img class="mx-2" src="assets/images/icon/mail icon png.png" alt=""><a
                                         href="mailto:support@tradersera.com">support@tradersera.com</a></li>
-                                <li><img src="assets/images/icon/call icon png.png" alt=""><a href="tel:+ 44203758865">+
-                                        44203758865</a></li>
+                                <li><img class="mx-2" src="assets/images/icon/call icon png.png" alt=""><a href="tel:+ 44203758865">+44203758865</a></li>
                             </ul>
 
                         </div>
@@ -73,12 +72,12 @@
                         <a  href="javascript:void(Tawk_API.toggle())" class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button" > Support </a>
                         </div>
                         <div class="single-item" style="  margin-right: 10px; ">
-                            <a href="signin.html"
+                            <a href="https://trading.tradersera.com/register"
                                 class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button">
                                 Open an Account </a>
                         </div>
                         <div class="single-item">
-                            <a href="signin.html"
+                            <a href="https://trading.tradersera.com/login"
                                 class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button">
                                 Login</a>
                         </div>

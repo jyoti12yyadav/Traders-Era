@@ -63,7 +63,7 @@
             </div>
             <div class="row gy-6 w-100 text-center text-sm-start align-items-center justify-content-sm-between">
                 <div class="col-sm-8">
-                    <h4>Start Trading today with TradersEra with $10</h4>
+                    <h4>Deposit $10 at TradersEra and Start Trading.</h4>
                     <p class="fs-six-up fw_500 mt-5">Trade crypto, binary, forex and use AI for Investments.
                     </p>
                 </div>
@@ -272,8 +272,7 @@
                                         </p>
                                         <p class="mt-4 mb-5" style="font-size: 15px;">TradersEra does not provide
                                             services to residents of the USA, Japan,
-                                            Canada, Australia, the Democratic Republic of Korea, European Union, United
-                                            Kingdom.
+                                            Canada, Australia, United Kingdom, Iran, North Korea, Pakistan, New Zealand, Afghanistan, Saint Vincent and the Grenadines.
                                         </p>
 
                                     </div>
