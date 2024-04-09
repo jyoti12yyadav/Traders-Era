@@ -15,12 +15,43 @@
     </div>
 </section>
 
+<section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
+    <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
+        <img src="assets/images/star3.png" alt="vector"
+            class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
+        <img src="assets/images/sun2.png" alt="vector"
+            class="sun2 position-absolute push_animat d-none d-xxl-flex bottom-0 pb-120">
+    </div>
+    <div class="container">
+        <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
+            <div class="col-md-10 col-lg-6 col-xxl-5">
+                <div class="trade_on__content">
+                    <span class="heading p1-color fs-six mb-5"></span>
+                    <h4 class="mb-4 mb-lg-5" style="font-size: 32px;">What is Binary Trading?
+                    </h4>
+                    </p>
+                    <p>Binary trading involves predicting whether the value of an asset will rise or fall within a
+                        specified time frame. Predicting the direction of prices is the main goal of binary options
+                        trading, which provides a simple method that is ideal for novices. Access a variety of assets to
+                        diversify your portfolio, such as indexes, stocks, currencies, and commodities.</p>
+                    <br>
+                </div>
+            </div>
+            <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
+                <div class="trade_on__thumbs d-flex justify-content-end">
+                    <img src="assets/images/Binary Trading At TradersEra.png" alt="Imgae">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 <section class="provide-world a2-bg pt-120 pb-120  position-relative z-0">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-8 col-xxl-6">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
-                  
+                    <h2>Deep Dive In Binary Trading And Earn Profit</h2>
                 </div>
             </div>
         </div>
@@ -37,7 +68,6 @@
                     </p>
                     <hr>
                     <p style="font-weight:bold"> Limited Risk: Defined risk with predetermined investment amounts.</p>
-                    <br>
                     <br>
                     <br>
                     <br>
@@ -59,7 +89,6 @@
 
                     <p style="font-weight:bold"> Place Trade: Enter the amount to invest and execute the trade.
                     </p>
-                    <br>
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
@@ -76,7 +105,6 @@
                     <hr>
                     <p style="font-weight:bold"> Boundary: Determine if the asset's price will stay within a predefined
                         range.</p>
-                    <br>
                     <br>
                 </div>
             </div>
@@ -95,7 +123,6 @@
                     <p style="font-weight:bold">Scams: Risks associated with unregulated brokers and fraudulent
                         platforms.
                     </p>
-                    <br>
                     <br>
                     <br>
                 </div>
@@ -117,56 +144,29 @@
                     <span class="heading p1-color fs-six mb-5"></span>
                     <h4 class="mb-4 mb-lg-5" style="font-size: 32px;">Binary Trading At TradersEra
                     </h4>
-                        </p>
-                        <p>  Binary trading simplifies investment by allowing traders to predict whether an asset's value
-                            will rise or fall within a specified timeframe. This trading method offers several benefits,
-                            including simplicity, potential high returns, and limited risk due to fixed payouts and
-                            predetermined investment amounts.</p>
-                        <br>
-                        <p class="mx-ch">To participate in binary trading, traders select an asset, predict its market
-                            direction, set an expiry time, and place their trade. Common strategies include High/Low,
-                            One-Touch, and Boundary options, each offering unique opportunities for profit. However,
-                            binary trading also involves risks, such as potential losses, market volatility, and the
-                            presence of scams.</p>
-                        <br>
-                        <p>Traders should exercise caution, conduct thorough research, and choose reputable brokers to
-                            mitigate these risks and maximize their chances of success.</p>
+                    </p>
+                    <p> Binary trading simplifies investment by allowing traders to predict whether an asset's value
+                        will rise or fall within a specified timeframe. This trading method offers several benefits,
+                        including simplicity, potential high returns, and limited risk due to fixed payouts and
+                        predetermined investment amounts.</p>
+                    <br>
+                    <p class="mx-ch">To participate in binary trading, traders select an asset, predict its market
+                        direction, set an expiry time, and place their trade. Common strategies include High/Low,
+                        One-Touch, and Boundary options, each offering unique opportunities for profit. However,
+                        binary trading also involves risks, such as potential losses, market volatility, and the
+                        presence of scams.</p>
+                    <br>
+                    <p>Traders should exercise caution, conduct thorough research, and choose reputable brokers to
+                        mitigate these risks and maximize their chances of success.</p>
                 </div>
             </div>
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/trading_ecosystem.png" alt="Imgae">
+                    <img src="assets/images/What is Binary Trading.png" alt="Imgae">
                 </div>
             </div>
         </div>
     </div>
 </section>
-<section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
-    <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-        <img src="assets/images/star3.png" alt="vector"
-            class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
-        <img src="assets/images/sun2.png" alt="vector"
-            class="sun2 position-absolute push_animat d-none d-xxl-flex bottom-0 pb-120">
-    </div>
-    <div class="container">
-        <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
-            <div class="col-md-10 col-lg-6 col-xxl-5">
-                <div class="trade_on__content">
-                    <span class="heading p1-color fs-six mb-5"></span>
-                    <h4 class="mb-4 mb-lg-5" style="font-size: 32px;">What is Binary Trading?
-                    </h4>
-                        </p>
-                        <p>  Binary trading involves predicting whether the value of an asset will rise or fall within a specified time frame.</p>
-                        <br>
-                       
-                </div>
-            </div>
-            <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
-                <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/trading_ecosystem.png" alt="Imgae">
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+
 <?php include("includes/footer.php"); ?>
