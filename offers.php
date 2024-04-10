@@ -82,13 +82,6 @@
                             </div>
                         </div> 
                         <div class="col-xxl-12 mt-8 mt-md-10 mt-xxl-13">
-                            <!-- <div class="col-md-6 col-xxl-12">
-                                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 px-4 px-lg-9">
-                                   <h4 class="mt-5 mb-5 offers-title">MetaTrader <span>4</span></h4>
-                                   <hr>
-                                   <p>For an easy start</p>
-                                </div>
-                            </div>   -->
                         </div>
                     </div>  
                 </div>
