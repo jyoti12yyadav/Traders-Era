@@ -109,7 +109,7 @@
                             <td>5.00 USD</td>
                             <td>Free</td>
                             <td>1-3 hours to approve the withdrawal and up to 5 minutes to transfer the funds.</td>
-                            <td><button class="button-deposit"><a href=""> WITHDRAW </a></button></td>
+                            <td><button class="button-deposit"><a href="https://trading.tradersera.com/login"> WITHDRAW </a></button></td>
                         </tr>
                         <tr>
                             <th scope="row"><img src="assets/images/icon-dw/a  logo skrill.png" alt="mastercard"
@@ -117,7 +117,7 @@
                             <td>5.00 USD</td>
                             <td>Free</td>
                             <td>1-3 hours to approve the withdrawal and up to 5 minutes to transfer the funds.</td>
-                            <td><button class="button-deposit"><a href=""> WITHDRAW </a></button></td>
+                            <td><button class="button-deposit"><a href="https://trading.tradersera.com/login"> WITHDRAW </a></button></td>
                         </tr>
                         <tr>
                             <th scope="row"><img src="assets/images/icon-dw/a  logo India Cash.png" alt="mastercard"
@@ -125,7 +125,7 @@
                             <td>350.00 INR</td>
                             <td>Free</td>
                             <td>1-3 hours to approve the withdrawal and up to 1 hour to transfer the funds.</td>
-                            <td><button class="button-deposit"><a href=""> WITHDRAW </a></button></td>
+                            <td><button class="button-deposit"><a href="https://trading.tradersera.com/login"> WITHDRAW </a></button></td>
                         </tr>
                         <tr>
                             <th scope="row"><img src="assets/images/icon-dw/a  logo liotecoin.png" alt="mastercard"
@@ -133,7 +133,7 @@
                             <td>0.11000000 LTC  </td>
                             <td>Free</td>
                             <td>1-3 hours to approve the withdrawal and up to 30 minutes to transfer the funds.</td>
-                            <td><button class="button-deposit"><a href=""> WITHDRAW </a></button></td>
+                            <td><button class="button-deposit"><a href="https://trading.tradersera.com/login"> WITHDRAW </a></button></td>
                         </tr>
                         <tr>
                             <th scope="row"><img src="assets/images/icon-dw/a  logo Dogecoin.png" alt="mastercard"
@@ -141,7 +141,7 @@
                             <td>75.00000000 DOGE</td>
                             <td>Free</td>
                             <td>1-3 hours to approve the withdrawal and up to 30 minutes to transfer the funds.</td>
-                            <td><button class="button-deposit"><a href=""> WITHDRAW </a></button></td>
+                            <td><button class="button-deposit"><a href="https://trading.tradersera.com/login"> WITHDRAW </a></button></td>
                         </tr>
                         <tr>
                             <th scope="row"><img src="assets/images/icon-dw/a  logo Tether ERC-20.png" alt="mastercard"
@@ -149,7 +149,7 @@
                             <td>10.00000000 USDTE</td>
                             <td>Free</td>
                             <td>1-3 hours to approve the withdrawal and up to 30 minutes to transfer the funds.</td>
-                            <td><button class="button-deposit"><a href=""> WITHDRAW </a></button></td>
+                            <td><button class="button-deposit"><a href="https://trading.tradersera.com/login"> WITHDRAW </a></button></td>
                         </tr>
                         <tr>
                             <th scope="row"><img src="assets/images/icon-dw/a  logo Tether ERC-20.png" alt="mastercard"
@@ -157,7 +157,7 @@
                             <td>10.00000000 USDTT</td>
                             <td>Free</td>
                             <td>1-3 hours to approve the withdrawal and up to 30 minutes to transfer the funds.</td>
-                            <td><button class="button-deposit"><a href=""> WITHDRAW </a></button></td>
+                            <td><button class="button-deposit"><a href="https://trading.tradersera.com/login"> WITHDRAW </a></button></td>
                         </tr>
                         <tr>
                             <th scope="row"><img src="assets/images/icon-dw/a  logo Ethereum 2.png" alt="mastercard"
@@ -165,7 +165,7 @@
                             <td>0.00500000 ETH</td>
                             <td>Free</td>
                             <td>1-3 hours to approve the withdrawal and up to 30 minutes to transfer the funds.</td>
-                            <td><button class="button-deposit"><a href=""> WITHDRAW </a></button></td>
+                            <td><button class="button-deposit"><a href="https://trading.tradersera.com/login"> WITHDRAW </a></button></td>
                         </tr>
                         <tr>
                             <th scope="row"><img src="assets/images/icon-dw/a  logo bitcoin.png" alt="mastercard"
@@ -173,7 +173,7 @@
                             <td>0.00009000 BTC</td>
                             <td>Free</td>
                             <td>1-3 hours to approve the withdrawal and up to 30 minutes to transfer the funds.</td>
-                            <td><button class="button-deposit-get"><a href=""> WITHDRAW </a></button></td>
+                            <td><button class="button-deposit-get"><a href="https://trading.tradersera.com/login"> WITHDRAW </a></button></td>
                         </tr>
                         <tr>
                             <th scope="row"><img src="assets/images/icon-dw/a  logo India Cash.png" alt="mastercard"
@@ -181,7 +181,7 @@
                             <td>2000000.00 INR</td>
                             <td>Free</td>
                             <td>1-3 hours to approve the withdrawal and up to 1 hour to transfer the funds.</td>
-                            <td><button class="button-deposit-get"><a href=""> WITHDRAW </a></button></td>
+                            <td><button class="button-deposit-get"><a href="https://trading.tradersera.com/login"> WITHDRAW </a></button></td>
                         </tr>
                         <tr>
                             <th scope="row"><img src="assets/images/icon-dw/a  logo Tether ERC-20.png" alt="mastercard"
@@ -189,7 +189,7 @@
                             <td>10.00000000 USDTE</td>
                             <td>Free</td>
                             <td>1-3 hours to approve the withdrawal and up to 30 minutes to transfer the funds.</td>
-                            <td><button class="button-deposit"><a href=""> WITHDRAW </a></button></td>
+                            <td><button class="button-deposit"><a href="https://trading.tradersera.com/login"> WITHDRAW </a></button></td>
                         </tr>
                         <tr>
                             <th scope="row"><img src="assets/images/icon-dw/a  logo Tether ERC-20.png" alt="mastercard"
@@ -197,7 +197,7 @@
                             <td>50.00000000 USDTT</td>
                             <td>Free</td>
                             <td>1-3 hours to approve the withdrawal and up to 30 minutes to transfer the funds.</td>
-                            <td><button class="button-deposit"><a href=""> WITHDRAW </a></button></td>
+                            <td><button class="button-deposit"><a href="https://trading.tradersera.com/login"> WITHDRAW </a></button></td>
                         </tr>
                     </tbody>
                 </table>

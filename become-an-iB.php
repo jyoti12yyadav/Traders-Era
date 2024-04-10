@@ -456,40 +456,33 @@
 
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
-                    <h4 class="mb-4 mb-lg-5" style="font-size:35px;">The advantages of an IB Partnership
+                    <h4 class="mb-4 mb-lg-5" style="font-size:35px;">Advantages for your clientele
                     </h4>
-                    <p>Presenting Broker TradersEra IB Program, which aims to increase partners' revenue through
-                        recommendations. Each active customer you introduce to TradersEra will boost your income.</p>
+
                 </div>
 
 
 
                 <ul class="d-flex gap-4 flex-column mt-6">
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Monitoring and reporting of client accounts
-                        with flexible payouts and attractive real-time rebate payments.
+                            class="ti ti-circle-check s1-color fs-four"></i>MetaTrader5, the award-winning trading
+                        platform, provides a range of advanced features to enhance
+                        your trading experience. With its Strategy Tester, OrderBook, Built-in technical indicators, and
+                        graphics tools, you have everything you need to make informed trading decisions.
 
 
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Advantage of Simple revenue generating with
-                        no initial outlay of funds.
+                            class="ti ti-circle-check s1-color fs-four"></i>Explore a wide range of global markets with
+                        CFDs: trade shares, stocks, commodities, gold, oil, forex, cryptocurrencies, and much more.
 
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Advantages Simple and effective account
-                        setup.
-
-
-                    </li>
-                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Advantages to Managers that are committed to
-                        all traders.</li>
-                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Get round-the-clock assistance from the
-                        TradersEra staff with your questions and comments.
+                            class="ti ti-circle-check s1-color fs-four"></i>Our full range of global markets offers your
+                        customers exceptional liquidity, low spreads, and swap-free conditions for their benefit.
 
                     </li>
+
 
                     <br>
 
@@ -509,111 +502,58 @@
 
 
 
-<section class="">
-
+<section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
+    <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
+        <img src="assets/images/star3.png" alt="vector"
+            class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
+    </div>
     <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-8 col-xxl-7">
-                <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <!-- <span class="heading p1-color fs-five mb-5">Global Trust, Unbeatable Rates</span> -->
-                    <h2 class="mb-6 mb-lg-7">Steps To Become a IB Partners With TradersEra
+        <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
 
-                    </h2>
+
+            <div class="col-md-10 col-lg-6 col-xxl-5">
+                <div class="trade_on__content">
+                    <h4 class="mb-4 mb-lg-5" style="font-size:35px;">Advantages for introducing brokers
+                    </h4>
 
                 </div>
+
+
+
+                <ul class="d-flex gap-4 flex-column mt-6">
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>Collaborate with a reputable company that
+                        you can rely on. We are committed to transparency at the highest level.
+
+
+                    </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>Stay updated on your commission payments and
+                        your customers' trading activity with our real-time monitoring and reporting feature in your
+                        personalized area within our system.
+
+
+                    </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>When you become an Introducing Broker,
+                        you'll have a dedicated IB manager who will offer you personalized assistance.
+
+                    </li>
+
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>Attractive earning potential for IBs – earn
+                        up to 5% of the FTD and 20% of RevShare.
+
+                    </li>
+                </ul>
+
             </div>
-        </div>
-        <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
-
-            <div class="col-sm-10 col-lg-6 col-xxl-6">
-                <div class="row d-flex justify-content-end">
-                    <div class="col-xxl-12">
-                        <div class="company-story__part">
-                            <div class="row">
-                                <div class="col-lg-2 d-flex align-items-center">
-                                    <img src="assets/images/icon/seesaw.png" alt="">
-                                </div>
-                                <div class="col-lg-10 d-flex align-items-center">
-                                    <div class="row">
-                                        <h3 class="">Encourage
-                                        </h3>
-                                        <span>Tell your clients about the TradersEra platform.
-                                        </span>
-                                    </div>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                  
-                    <div class="col-xxl-12 mt-8 mt-md-10 mt-xxl-13">
-                        <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
-                            <div class="row">
-                                <div class="col-lg-2 d-flex align-items-center">
-                                    <img src="assets/images/icon/Web-Platform.png" alt="">
-                                </div>
-                                <div class="col-lg-10 d-flex align-items-center">
-                                    <div class="row">
-                                        <h3 class="">Get
-
-                                        </h3>
-                                        <span>You will receive benefits when your recommendations sign up for TradersEra.
-
-                                        </span>
-                                    </div>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+            <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
+                <div class="trade_on__thumbs d-flex justify-content-end">
+                    <img src="assets/images/tradersera.png" alt="Imgae">
                 </div>
             </div>
-            <div class="col-sm-10 col-lg-6 col-xxl-6 ">
-                <div class="row d-flex justify-content-end">
-                    <div class="col-xxl-12 ">
-                        <div class="company-story__part">
 
-                            <div class="row">
-                                <div class="col-lg-2 d-flex align-items-center">
-                                    <img src="assets/images/icon/Multiple Funding.png" alt="">
-                                </div>
-                                <div class="col-lg-10 d-flex align-items-center">
-                                    <div class="row">
-                                        <h3 class="">Present
-                                        </h3>
-                                        <span>Promote TradersEra to the customers you serve.
-
-                                        </span>
-                                    </div>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xxl-12 mt-md-10 mt-xxl-13">
-                        <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
-                            <div class="row">
-                                <div class="col-lg-2 d-flex align-items-center">
-                                    <img src="assets/images/icon/active-user.png" alt="">
-
-                                </div>
-                                <div class="col-lg-10 d-flex align-items-center">
-                                    <div class="row">
-                                        <h3 class="">Track
-                                        </h3>
-                                        <span>Utilize the partner portal to keep an eye on your sales.
-
-                                        </span>
-                                    </div>
-
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-                </div>
-            </div>
         </div>
     </div>
 </section>
@@ -623,8 +563,10 @@
     <div class="col-lg-12 col-xxl-10">
         <div class="heading__content mb-10 mb-lg-15 text-center">
             <h5 class="mb-5 mb-lg-6">
-                TradersEra has made deposits and withdrawals from your trading accounts extremely convenient. One of our driving forces is constant improvement and we are working every day to provide you with even more options to deposit and withdraw and have an improved online trading experience.
-                
+                TradersEra has made deposits and withdrawals from your trading accounts extremely convenient. One of our
+                driving forces is constant improvement and we are working every day to provide you with even more
+                options to deposit and withdraw and have an improved online trading experience.
+
             </h5>
             <!-- <h4 class="mb-5 mb-lg-6">Where to begin
             </h4> -->
@@ -825,6 +767,116 @@
 
 </section>
 -->
+
+<section class="contact nb4-bg pt-120 pb-120">
+    <div class="container ">
+        <div class="row gy-18 justify-content-between">
+            <div class="col-12 col-lg-5 col-xl-5">
+                <div class="submissions-area d-flex flex-column gap-8 gap-lg-10">
+                    <div class="submissions">
+                        <h3>
+                            Joining TradersEra's introducing broker program is an easy way to generate a consistent income, without increasing your expenses.
+                            </h3>
+                        
+                    </div>
+                    
+                </div>
+            </div>
+            <div class="col-12 col-lg-7 col-xl-6">
+                <form method="POST" autocomplete="off" id="frmContactus" class="contact__form alt_form px-4 px-lg-8">
+                    <h3 class="contact__title mb-7 mb-md-10 mb-lg-15">Sign Up Today</h3>
+                    <div class="d-flex gap-3 gap-sm-5 gap-lg-8 flex-column">
+                        <div class="row gap-3 gap-sm-0">
+                            <div class="col-sm-6 ">
+                                <div class="single-input">
+                                    <input type="text" class="fs-six-up" name="fname" placeholder="Fast Name"
+                                        required="">
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="single-input">
+                                    <input type="text" class="fs-six-up" name="lname" placeholder="Last Name"
+                                        required="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row gap-3 gap-sm-0">
+                            <div class="col-sm-6 ">
+                                <div class="single-input">
+                                    <input type="text" class="fs-six-up" name="fname" placeholder="Email"
+                                        required="">
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="single-input">
+                                    <input type="number" class="fs-six-up" name="lname" placeholder="Phone Number"
+                                        required="">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row gap-3 gap-sm-0 d-flex">
+                            <center>
+                                <span style="font-weight: bold;">Are you an Introducing Broker with any other brokers?</span>
+                            </center>
+                            <br>
+
+                            <label>
+                                <input type="radio" name="option" value="option1"> Option 1
+                                <input type="radio" name="option" value="option1"> Option 1
+                            </label>
+
+                            
+
+                        </div>
+                        <center>
+                            <span style="font-weight: bold;">Which countries will most of your clients come from?</span>
+                        </center>
+                        <div class="row gap-3 gap-sm-0">
+                            <div class="col-sm-6 ">
+                                <div class="single-input">
+                                    <input type="text" class="fs-six-up" name="fname" placeholder="Average deposit per client"
+                                        required="">
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="single-input">
+                                    <input type="text" class="fs-six-up" name="lname" placeholder="Average deposit per client"
+                                        required="">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row gap-3 gap-sm-0 ">
+                            <div class="col-sm-6">
+                                <div class="single-input">
+                                    <input type="email" class="fs-six-up" name="email" placeholder="client average volume" required="">
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="single-input">
+                                    <input type="text" class="fs-six-up" name="Phone" placeholder="How do you intent to promote legacyfx?" required="">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="input-single">
+                            <textarea class="fs-six-up" name="message" rows="4" placeholder="Message(Freetext)"
+                                required=""></textarea>
+                        </div>
+                    </div>
+                    <span id="msg"></span>
+                    <button type="submit" class="cmn-btn py-3 px-5 px-lg-6 mt-8 mt-lg-10 d-flex ms-auto" name="submit"
+                        id="submit">Become An IB Now<i class="bi bi-arrow-up-right"></i><span></span></button>
+                </form>
+            </div>
+            <div class="col-12">
+                <iframe class="cus-rounded-1 cus_map"
+                    src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d5156.793422135061!2d-105.02171047857397!3d39.77899593135569!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1699354709950!5m2!1sen!2sbd"
+                    allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+        </div>
+    </div>
+</section>
 
 <br><br><br>
 

@@ -62,7 +62,7 @@
                 <div class="heading__content mb-10 mb-lg-15 text-center">
                     <!-- <span class="heading p1-color fs-five mb-5">Global Trust, Unbeatable Rates</span> -->
                     <h2 class="mb-5 mb-lg-6">
-                        Contact Online
+                        Contact Our Team
                     </h2>
                     <span class="heading p1-color fs-six mb-5 mt-2">Get in touch with our 24/5 customer services team. We are always glad to help!</span>
                 </div>
@@ -76,11 +76,11 @@
                         <div class="company-story__part">
                             <div class="row">
                                 <div class="col-lg-2 d-flex align-items-center">
-                                    <img src="assets/images/icon/seesaw.png" alt="">
+                                    <img src="assets/images/icon/chat.png" alt="">
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">Live Chat</h3>
+                                        <h3 class=""><a href="javascript:void(Tawk_API.toggle())">Live Chat</a></h3>
                                         <br>
                                         <span>Click here to chat with us.</span>
                                     </div>
@@ -93,11 +93,11 @@
                         <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
                             <div class="row">
                                 <div class="col-lg-2 d-flex align-items-center">
-                                    <img src="assets/images/icon/candlestick-chart.png" alt="">
+                                    <img src="assets/images/icon/support-ticket.png" alt="">
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">Send a Support Ticket</h3>
+                                        <h3 class=""><a href="https://tradersera.tawk.help/">Send a Support Ticket</a></h3>
                                         <br>
                                         <span>Click here to send us a message</span>
                                     </div>
@@ -118,7 +118,7 @@
 
                             <div class="row">
                                 <div class="col-lg-2 d-flex align-items-center">
-                                    <img src="assets/images/icon/Multiple Funding.png" alt="">
+                                    <img src="assets/images/icon/email_us.png" alt="">
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
@@ -135,7 +135,7 @@
                         <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
                             <div class="row">
                                 <div class="col-lg-2 d-flex align-items-center">
-                                    <img src="assets/images/icon/active-user.png" alt="">
+                                    <img src="assets/images/icon/contact.png" alt="">
 
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
@@ -222,7 +222,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-8 col-xxl-7">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h3 class="mb-5 mb-lg-6">Call Us for Assistance
+                    <h3 class="mb-5 mb-lg-6">Call Us On Below Details
                     </h3>
                  
                 </div>
@@ -242,7 +242,7 @@
             <div class="col-md-6 col-xxl-6">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <i class="ti ti-tool fs-three p1-color"></i>
+                    <img src="assets/images/icon/contact.png" alt="">
                     </span>
                    <h4 class="mt-5 mb-5">Call Us</h4>
                    <!-- <span>General <b>+ 248 467 19 76</b></span>
@@ -254,7 +254,7 @@
             <div class="col-md-6 col-xxl-6">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <i class="ti ti-brand-stackshare fs-three p1-color"></i>
+                    <img src="assets/images/icon/email_us.png" alt="">
                     </span>
                    <h4 class="mt-5 mb-5">Email Enquiries</h4>
                    <p>support@tradersera.com</p>

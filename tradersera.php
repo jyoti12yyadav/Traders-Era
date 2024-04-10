@@ -51,7 +51,7 @@
                         individuals the opportunity to trade over 80 currency pairs at competitive rates.</p>
                     <br>
                 </div>
-                <a href="#" class="cmn-btn fs-five nb4-xxl-bg align-items-center py-3 px-6 py-lg-3 px-lg-8"
+                <a href="https://trading.tradersera.com/register" class="cmn-btn fs-five nb4-xxl-bg align-items-center py-3 px-6 py-lg-3 px-lg-8"
                     style="--top: 26px; --left: 113.203125px;">Open An Account</a>
             </div>
         </div>
@@ -145,7 +145,7 @@
 
                     </ul>
                     <br>
-                    <a href="#" class="cmn-btn fs-five nb4-xxl-bg align-items-center py-3 px-6 py-lg-3 px-lg-8"
+                    <a href="https://trading.tradersera.com/register" class="cmn-btn fs-five nb4-xxl-bg align-items-center py-3 px-6 py-lg-3 px-lg-8"
                         style="--top: 26px; --left: 113.203125px;">Open An Account</a>
 
                 </div>
@@ -192,7 +192,7 @@
                     <p>where trading is simplified, accessible and a
                         pleasant experience, for all.Start your trading journey with TradersEra!</p>
                     <div class="col-12 mt-10 mt-lg-15  d-flex ">
-                        <a href="#" class="cmn-btn fs-five nb4-xxl-bg align-items-center py-3 px-6 py-lg-3 px-lg-8"
+                        <a href="https://trading.tradersera.com/register" class="cmn-btn fs-five nb4-xxl-bg align-items-center py-3 px-6 py-lg-3 px-lg-8"
                             style="--top: 26px; --left: 113.203125px;">Sign Up Now</a>
                     </div>
 

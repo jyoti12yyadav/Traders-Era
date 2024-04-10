@@ -113,7 +113,7 @@
                             <td>Free</td>
                             <td>Not applied</td>
                             <td>Instant</td>
-                            <td><button class="button-deposit"><a href=""> MAKE A DEPOSIT </a></button></td>
+                            <td><button class="button-deposit"><a href="https://trading.tradersera.com/login"> MAKE A DEPOSIT </a></button></td>
                         </tr>
                         <tr>
                             <th scope="row"><img src="assets/images/icon-dw/a  logo skrill.png" alt="mastercard"
@@ -122,7 +122,7 @@
                             <td>Free</td>
                             <td>Not applied</td>
                             <td>Instant</td>
-                            <td><button class="button-deposit"><a href=""> MAKE A DEPOSIT </a></button></td>
+                            <td><button class="button-deposit"><a href="https://trading.tradersera.com/login"> MAKE A DEPOSIT </a></button></td>
                         </tr>
                         <tr>
                             <th scope="row"><img src="assets/images/icon-dw/a  logo liotecoin.png" alt="mastercard"
@@ -131,7 +131,7 @@
                             <td>Free</td>
                             <td>Not applied</td>
                             <td>3-30 minutes</td>
-                            <td><button class="button-deposit"><a href=""> MAKE A DEPOSIT </a></button></td>
+                            <td><button class="button-deposit"><a href="https://trading.tradersera.com/login"> MAKE A DEPOSIT </a></button></td>
                         </tr>
                         <tr>
                             <th scope="row"><img src="assets/images/icon-dw/a  logo Dogecoin.png" alt="mastercard"
@@ -140,7 +140,7 @@
                             <td>Free</td>
                             <td>Not applied</td>
                             <td>3-30 minutes</td>
-                            <td><button class="button-deposit"><a href=""> MAKE A DEPOSIT </a></button></td>
+                            <td><button class="button-deposit"><a href="https://trading.tradersera.com/login"> MAKE A DEPOSIT </a></button></td>
                         </tr>
                         <tr>
                             <th scope="row"><img src="assets/images/icon-dw/a  logo Tether ERC-20.png" alt="mastercard"
@@ -149,7 +149,7 @@
                             <td>Free</td>
                             <td>Not applied</td>
                             <td>3-30 minutes</td>
-                            <td><button class="button-deposit"><a href=""> MAKE A DEPOSIT </a></button></td>
+                            <td><button class="button-deposit"><a href="https://trading.tradersera.com/login"> MAKE A DEPOSIT </a></button></td>
                         </tr>
                         <tr>
                             <th scope="row"><img src="assets/images/icon-dw/a  logo Tether ERC-20.png" alt="mastercard"
@@ -158,7 +158,7 @@
                             <td>Free</td>
                             <td>Not applied</td>
                             <td>3-30 minutes</td>
-                            <td><button class="button-deposit"><a href=""> MAKE A DEPOSIT </a></button></td>
+                            <td><button class="button-deposit"><a href="https://trading.tradersera.com/login"> MAKE A DEPOSIT </a></button></td>
                         </tr>
                         <tr>
                             <th scope="row"><img src="assets/images/icon-dw/a  logo Ethereum 2.png" alt="mastercard"
@@ -167,7 +167,7 @@
                             <td>Free</td>
                             <td>Not applied</td>
                             <td>3-30 minutes</td>
-                            <td><button class="button-deposit"><a href=""> MAKE A DEPOSIT </a></button></td>
+                            <td><button class="button-deposit"><a href="https://trading.tradersera.com/login"> MAKE A DEPOSIT </a></button></td>
                         </tr>
                         <tr>
                             <th scope="row"><img src="assets/images/icon-dw/a  logo bitcoin.png" alt="mastercard"
@@ -176,7 +176,7 @@
                             <td>Free</td>
                             <td>Not applied</td>
                             <td>3-30 minutes</td>
-                            <td><button class="button-deposit"><a href=""> MAKE A DEPOSIT </a></button></td>
+                            <td><button class="button-deposit"><a href="https://trading.tradersera.com/login"> MAKE A DEPOSIT </a></button></td>
                         </tr>
                         <tr>
                             <th scope="row"><img src="assets/images/icon-dw/a  logo master card.png" alt="mastercard"
@@ -185,7 +185,7 @@
                             <td>Free</td>
                             <td>Not applied</td>
                             <td>Instant</td>
-                            <td><button class="button-deposit-get"><a href=""> GET VERIFIED FIRST </a></button></td>
+                            <td><button class="button-deposit-get"><a href="https://trading.tradersera.com/login"> GET VERIFIED FIRST </a></button></td>
                         </tr>
                         <tr>
                             <th scope="row"><img src="assets/images/icon-dw/a  logo India Cash.png" alt="mastercard"
@@ -194,7 +194,7 @@
                             <td>Free</td>
                             <td>Available</td>
                             <td>1-3 hours</td>
-                            <td><button class="button-deposit-get"><a href=""> GET VERIFIED FIRST </a></button></td>
+                            <td><button class="button-deposit-get"><a href="https://trading.tradersera.com/login"> GET VERIFIED FIRST </a></button></td>
                         </tr>
                         <tr>
                             <th scope="row"><img src="assets/images/icon-dw/a  logo Tether ERC-20.png" alt="mastercard"
@@ -203,7 +203,7 @@
                             <td>Free</td>
                             <td>Not applied</td>
                             <td>3-30 minutes</td>
-                            <td><button class="button-deposit"><a href=""> MAKE A DEPOSIT </a></button></td>
+                            <td><button class="button-deposit"><a href="https://trading.tradersera.com/login"> MAKE A DEPOSIT </a></button></td>
                         </tr>
                         <tr>
                             <th scope="row"><img src="assets/images/icon-dw/a  logo Tether ERC-20.png" alt="mastercard"
@@ -212,7 +212,7 @@
                             <td>Free</td>
                             <td>Not applied</td>
                             <td>3-30 minutes</td>
-                            <td><button class="button-deposit"><a href=""> MAKE A DEPOSIT </a></button></td>
+                            <td><button class="button-deposit"><a href="https://trading.tradersera.com/login"> MAKE A DEPOSIT </a></button></td>
                         </tr>
                         <tr>
                             <th scope="row"><img src="assets/images/icon-dw/a  logo india net banking.png" alt="mastercard"
@@ -221,7 +221,7 @@
                             <td>Free</td>
                             <td>Available</td>
                             <td>1-5 minutes</td>
-                            <td><button class="button-deposit-get"><a href=""> GET VERIFIED FIRST </a></button></td>
+                            <td><button class="button-deposit-get"><a href="https://trading.tradersera.com/login"> GET VERIFIED FIRST </a></button></td>
                         </tr>
                         <tr>
                             <th scope="row"><img src="assets/images/icon-dw/a  logo UPI.png" alt="mastercard"
@@ -230,7 +230,7 @@
                             <td>Free</td>
                             <td>Available</td>
                             <td>Instant</td>
-                            <td><button class="button-deposit-get"><a href=""> GET VERIFIED FIRST </a></button></td>
+                            <td><button class="button-deposit-get"><a href="https://trading.tradersera.com/login" GET VERIFIED FIRST </a></button></td>
                         </tr>
                         <tr>
                             <th scope="row"><img src="assets/images/icon-dw/a  logo Tether ERC-20.png"
@@ -239,7 +239,7 @@
                             <td>Free</td>
                             <td>Not applied</td>
                             <td>3-30 minutes</td>
-                            <td><button class="button-deposit"><a href=""> MAKE A DEPOSIT </a></button></td>
+                            <td><button class="button-deposit"><a href="https://trading.tradersera.com/login"> MAKE A DEPOSIT </a></button></td>
                         </tr>
                     </tbody>
                 </table>
