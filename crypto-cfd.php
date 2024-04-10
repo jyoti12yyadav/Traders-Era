@@ -1,8 +1,11 @@
 <?php include("includes/header.php"); ?>
 
 <style>
-     tr{
-      text-align:center;
+    tr {
+        text-align: center;
+    }
+    .widgets{
+        height: 500px;
     }
 </style>
 
@@ -50,6 +53,12 @@
     </div>
 </section>
 
+<section>
+    <div class="container widgets pb-60 pt-60">
+        <iframe src="https://in.widgets.investing.com/top-cryptocurrencies?theme=darkTheme&roundedCorners=true" width="100%" height="100%" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe><div class="poweredBy" style="font-family: Arial, Helvetica, sans-serif;">Powered by <a href="https://in.investing.com?utm_source=WMT&amp;utm_medium=referral&amp;utm_campaign=TOP_CRYPTOCURRENCIES&amp;utm_content=Footer%20Link" target="_blank" rel="nofollow">Investing.com</a></div>
+    </div>
+</section>
+
 <section class="company-story position-relative z-0  pt-120 pb-120 ">
     <div class="animation position-absolute w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="vector"
@@ -57,11 +66,13 @@
     </div>
     <div class="container">
         <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
-            <h3 class=" mb-lg-5 d-flex justify-content-center">Margin Requirements and Leverage for Top Cryptocurrencies</h3>
-                    <center>
-                        <h5 class="mb-7">Start trading Crypto CFDs today and explore new opportunities in the digital asset space!</h5>
-                    </center>
-            
+            <h3 class=" mb-lg-5 d-flex justify-content-center">Margin Requirements and Leverage for Top Cryptocurrencies
+            </h3>
+            <center>
+                <h5 class="mb-7">Start trading Crypto CFDs today and explore new opportunities in the digital asset
+                    space!</h5>
+            </center>
+
             <div class="container my-5">
                 <table id="Record" class="table table-striped table-dark my-3">
                     <thead>
@@ -179,7 +190,7 @@
                     </span>
                     <h4 class="mt-5 mb-5">Risk Management Tools</h4>
                     <p>Access advanced risk management features to protect your capital while trading crypto CFDs</p>
-                   
+
                 </div>
             </div>
         </div>
