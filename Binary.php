@@ -39,7 +39,7 @@
             </div>
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/Binary Trading At TradersEra.png" alt="Imgae">
+                    <img src="assets/images/binary trading (2).png" alt="Imgae">
                 </div>
             </div>
         </div>

@@ -372,6 +372,13 @@
         left: 80px;
         color: #9ad953;
     }
+    .nice-select:focus, .nice-select:hover {
+    background-color: transparent;
+    box-shadow: none;
+}
+.nice-select .list{
+    background-color:#000;
+}
 </style>
 
 
@@ -816,22 +823,30 @@
                         </div>
 
                         <div class="row gap-3 gap-sm-0 d-flex">
-                            <center>
-                                <span style="font-weight: bold;">Are you an Introducing Broker with any other brokers?</span>
-                            </center>
-                            <br>
-
-                            <label>
-                                <input type="radio" name="option" value="option1"> Option 1
-                                <input type="radio" name="option" value="option1"> Option 1
-                            </label>
+                            <div class="col-sm-6">
+                                <div class="single-input">
+                                    <label for="introducing-broker">Are you an Introducing Broker with any other brokers?</label>
+                                    <select id="introducing-broker" name="introducing-broker">
+                                        <option value="yes">Yes</option>
+                                        <option value="no">No</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="single-input">
+                                    <label for="monthly-traders">Number of monthly new traders:</label>
+<select id="monthly-traders" name="monthly-traders">
+    <option value="1-5">1-5</option>
+    <option value="6-20">6-20</option>
+    <option value="21-50">21-50</option>
+    <option value="51+">51 and more</option>
+</select>
+                                </div>
+                            </div>
 
                             
 
                         </div>
-                        <center>
-                            <span style="font-weight: bold;">Which countries will most of your clients come from?</span>
-                        </center>
                         <div class="row gap-3 gap-sm-0">
                             <div class="col-sm-6 ">
                                 <div class="single-input">

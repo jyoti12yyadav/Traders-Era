@@ -403,6 +403,11 @@
                                     </h1>
                                     <p class="fs-six-up fw_500 nb4-xxl-color">TradingEra helps you trade smarter with
                                         tools and insights, making navigating financial markets easier.</p>
+                                        <div class="d-flex mt-8">
+                                            <img  class="mx-4" src="assets/images/icon/openai.png" alt="" style="height: 35px;">
+                                            <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png" alt="" style="height: 35px;">
+                                        </div>
+                                       
                                     <div
                                         class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8 mt-lg-10">
                                         <a href="signup.html"
@@ -411,6 +416,7 @@
                                         <a href="signin.html"
                                             class="cmn-btn link link-xxl-color fs-five  gap-2 gap-lg-3 align-items-center "><i
                                                 class="ti ti-arrow-narrow-right fs-four"></i> Try demo account</a>
+                                               
                                     </div>
                                 </div>
                             </div>
@@ -455,6 +461,10 @@
                                     <p class="fs-six-up fw_500 nb4-xxl-color" style="transform: scaleX(-1);">Trade
                                         smarter with TradingEra's insights,
                                         maximizing your financial potential.</p>
+                                        <div class="d-flex mt-8" style="transform: scaleX(-1);">
+                                            <img  class="mx-4" src="assets/images/icon/openai.png" alt="" style="height: 35px;">
+                                            <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png" alt="" style="height: 35px;">
+                                        </div>
                                     <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8
                                         mt-lg-10">
                                         <a href="signup.html"
@@ -465,6 +475,7 @@
                                             class="cmn-btn link link-xxl-color fs-five  gap-2 gap-lg-3 align-items-center "
                                             style="transform: scaleX(-1);"><i
                                                 class="ti ti-arrow-narrow-right fs-four"></i> Try demo account</a>
+                                                
                                     </div>
                                 </div>
                             </div>
