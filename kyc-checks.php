@@ -308,32 +308,93 @@
 <section class="provide-world  pt-120 pb-120  position-relative z-0">
 <div class="container">
     <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
-
         <div class="col-sm-10 col-lg-6 col-xxl-12">
             <div class="row d-flex justify-content-end">
-                <div class="col-xxl-12">
-                    <div class="company-story__part">
-                        <div class="row">
-                            <div class="col-lg-2 d-flex align-items-center">
-                                <img src="assets/images/icon/chat.png" alt="">
-                            </div>
-                            <div class="col-lg-10 d-flex align-items-center">
-                                <div class="row">
-                                    <h3 class=""><a href="javascript:void(Tawk_API.toggle())">Address Proof</a></h3>
-                                    <br>
-                                    <span>Experience the seamless, secure, and swift integration of address verification.</span>
-                                    <span>Embrace the future of digital identity verification by taking the next step. Our Address Verification integration offers more than just technology - it promises excellence, efficiency, and top-notch security.</span>
-                                </div>
-    
-                            </div>
-                        </div>
+                <div class="col-md-6 col-xxl-12">
+                    <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                        <h4>Address Proof</h4>
+                        <br>
+                        <p><b>Experience the seamless, secure, and swift integration of address verification.</b> </p>
+                        <p><b>Embrace the future of digital identity verification by taking the next step. Our Address Verification integration offers more than just technology - it promises excellence, efficiency, and top-notch security.</b> </p>
                     </div>
                 </div>
            
             </div>
         </div>
-    
-        
+    </div>
+</div>
+</section>
+        <section class="provide-world  pt-120 pb-120  position-relative z-0">
+            <div class="container">
+                <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
+        <div class="container text-center pt-10 pb-120">
+            <h4>Our Address Verification integration ensures</h4>
+
+        </div>
+        <div class="col-xxl-5 mt-4">
+            <div class="company-story__part">
+                <div class="row">
+                  
+                    <div class="col-lg-10 d-flex align-items-center">
+                        <div class="row">
+                            <h5 class="">Instant sync</h5>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-xxl-5 mt-4">
+            <div class="company-story__part">
+                <div class="row">
+                  
+                    <div class="col-lg-10 d-flex align-items-center">
+                        <div class="row">
+                            <h5 class="">High security</h5>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-xxl-5 mt-4">
+            <div class="company-story__part">
+                <div class="row">
+                    <div class="col-lg-10 d-flex align-items-center">
+                        <div class="row">
+                            <h5 class="">Trusted support team</h5>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-xxl-5 mt-4">
+            <div class="company-story__part">
+                <div class="row">
+                    
+                    <div class="col-lg-10 d-flex align-items-center">
+                        <div class="row">
+                            <h5 class="">Easily integrate with systems</h5>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-xxl-5 mt-4">
+            <div class="company-story__part">
+                <div class="row">
+                    
+                    <div class="col-lg-10 d-flex align-items-center">
+                        <div class="row">
+                            <h5 class="">Compatible on all platforms</h5>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 </section>
