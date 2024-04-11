@@ -212,7 +212,7 @@
         <div class="row gy-6 gy-xxl-0">
             <div class="col-md-6 col-xxl-3">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <h4>  1.Capture</h4>
+                    <h4>  Capture</h4>
                     <hr>
                     <span class="">
                         <img style="height:100px;" src="assets/images/id card nn.png" alt="idcard">
@@ -226,7 +226,7 @@
             </div>
             <div class="col-md-6 col-xxl-3">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <h4>  2.Extraction</h4>
+                    <h4>  Extraction</h4>
                     <hr>
                     <span class="">
                         <img style="height:100px;" src="assets/images/idextract.png" alt="idcard">
@@ -241,7 +241,7 @@
             </div>
             <div class="col-md-6 col-xxl-3">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <h4>  3.
+                    <h4>
                         Verification
                         </h4>
                     <hr>
@@ -257,7 +257,7 @@
             </div>
             <div class="col-md-6 col-xxl-3">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <h4>  4.Results</h4>
+                    <h4> Results</h4>
                     <hr>
                     <span class="">
                         <img style="height:100px;" src="assets/images/verifydone.png" alt="idcard">
