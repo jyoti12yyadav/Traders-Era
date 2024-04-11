@@ -17,6 +17,40 @@
         font-weight: 700;
         color:white;
     }
+    .company-story__part {
+    border: solid 1px white;
+    padding: 30px;
+    border-radius: 19px;
+}
+.alt_form select{
+    border-bottom:rgb(52 56 57);
+    
+}
+
+.single-input{
+    margin-top: 27px !important;
+    border-bottom: 2px solid #3a3939;
+
+}
+.nice-select{
+    padding-top:10px;
+    padding-bottom: 14px;
+}
+.nice-select:focus, .nice-select:hover {
+    background-color: transparent;
+    box-shadow: none;
+}
+.nice-select .list{
+    background-color:#000;
+}
+
+.pb-120 {
+    padding-bottom: 40px;
+}
+
+.pt-120 {
+    padding-top: 40px;
+}
 </style>
 
 <section class="banner-section  pt-120 pb-120">
@@ -270,6 +304,38 @@
             </div>
         </div>
     </div>
+</section>
+<section class="provide-world  pt-120 pb-120  position-relative z-0">
+<div class="container">
+    <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
+
+        <div class="col-sm-10 col-lg-6 col-xxl-12">
+            <div class="row d-flex justify-content-end">
+                <div class="col-xxl-12">
+                    <div class="company-story__part">
+                        <div class="row">
+                            <div class="col-lg-2 d-flex align-items-center">
+                                <img src="assets/images/icon/chat.png" alt="">
+                            </div>
+                            <div class="col-lg-10 d-flex align-items-center">
+                                <div class="row">
+                                    <h3 class=""><a href="javascript:void(Tawk_API.toggle())">Address Proof</a></h3>
+                                    <br>
+                                    <span>Experience the seamless, secure, and swift integration of address verification.</span>
+                                    <span>Embrace the future of digital identity verification by taking the next step. Our Address Verification integration offers more than just technology - it promises excellence, efficiency, and top-notch security.</span>
+                                </div>
+    
+                            </div>
+                        </div>
+                    </div>
+                </div>
+           
+            </div>
+        </div>
+    
+        
+    </div>
+</div>
 </section>
 
 <?php include("includes/footer.php"); ?>
