@@ -1,4 +1,11 @@
 <?php include("includes/header.php"); ?>
+<style>
+    .company-story__part {
+    border: solid 1px white;
+    padding: 30px;
+    border-radius: 19px;
+}
+</style>
 <section class="banner-section  pt-120 pb-120">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
@@ -43,7 +50,7 @@
     </div>
 </section>
 
-<section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
+<section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0" style="background-color: #000;">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="vector" class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
     </div>
@@ -90,43 +97,61 @@
 
         </div>
 </div></section>
-<section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
+<section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0" style="background-color: #000;">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-        <img src="assets/images/star3.png" alt="vector"
-            class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
-        <img src="assets/images/sun2.png" alt="vector"
-            class="sun2 position-absolute push_animat d-none d-xxl-flex bottom-0 pb-120">
+        <img src="assets/images/star3.png" alt="vector" class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
     </div>
     <div class="container">
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
-            <div class="col-md-10 col-lg-6 col-xxl-5">
-                <div class="trade_on__content">
-                    <span class="heading p1-color fs-six mb-5"></span>
-                    <h4 class="mb-4 mb-lg-5" style="font-size: 32px;">Binary Trading At TradersEra
-                    </h4>
-                    </p>
-                    <p> Binary trading simplifies investment by allowing traders to predict whether an asset's value
-                        will rise or fall within a specified timeframe. This trading method offers several benefits,
-                        including simplicity, potential high returns, and limited risk due to fixed payouts and
-                        predetermined investment amounts.</p>
-                    <br>
-                    <p class="mx-ch">To participate in binary trading, traders select an asset, predict its market
-                        direction, set an expiry time, and place their trade. Common strategies include High/Low,
-                        One-Touch, and Boundary options, each offering unique opportunities for profit. However,
-                        binary trading also involves risks, such as potential losses, market volatility, and the
-                        presence of scams.</p>
-                    <br>
-                    <p>Traders should exercise caution, conduct thorough research, and choose reputable brokers to
-                        mitigate these risks and maximize their chances of success.</p>
+            <div class="col-10 col-sm-8 col-md-7 col-lg-6 col-xxl-5 order-2 order-lg-0">
+                <div class="trade_on__thumbs d-flex justify-content-end">
+                    <img src="assets/images/tradersera.png" alt="Imgae">
                 </div>
             </div>
-            <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
+
+            <div class="col-lg-6 col-xxl-6">
+                <div class="trade_on__content">
+                  
+                    <h3 class="mb-4 mb-lg-5">Example of binary options trading </h3>
+                    <p class="fs-six ">Let's take an illustration of trading binary option contracts with the EUR/USD currency pair</p> 
+                    <br> 
+                    <p class="fs-six ">At 3 a.m., the EUR/USD is valued at 1.1600. This is the expiration time for the trade. Essentially, this binary option is questioning whether the EUR/USD currency pair will surpass 1.1600 at 3 a.m.</p>  
+                    <br>
+                    <p class="fs-six ">If you believe it will, you can choose to buy. On the other hand, if you think it won't, you can opt to sell.</p>
+                    <br>
+                    <p class="fs-six ">For this scenario, let's assume you decide to buy.</p>
+                    <br>
+                   
+                </div>
+            </div>
+
+        </div>
+</div></section>
+<section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
+    <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
+        <img src="assets/images/star3.png" alt="vector" class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
+    </div>
+    <div class="container">
+        <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
+
+
+            <div class="col-lg-6 col-xxl-6">
+                <div class="trade_on__content">
+                    <p class="fs-six">If that's the case, there are two potential results</p>
+                    <ul class="d-flex gap-4 flex-column mt-6">
+                        <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>If the indicative index price is at or below 1.1600 at 3 a.m., there will be no payout and you will lose the capital you invested in the trade. The seller will receive the payout instead.</li>
+                        <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>If the indicative index price is one tick or more above 1.1600, you will receive the $100 payout. </li>
+
+                    </ul>
+                    <br>
+                    <p class="fs-six">If you prefer not to wait until it expires, you can also choose to close your position at the current market price. In this scenario, your profit or loss will be determined by the difference between your entry and exit prices.</p>
+                </div>
+            </div>
+            <div class="col-10 col-sm-8 col-md-7 col-lg-6 col-xxl-5 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/What is Binary Trading.png" alt="Imgae">
+                    <img src="assets/images/tradersera.png" alt="Imgae">
                 </div>
             </div>
         </div>
-    </div>
-</section>
-
+</div></section>
 <?php include("includes/footer.php"); ?>

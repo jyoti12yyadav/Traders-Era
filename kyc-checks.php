@@ -12,6 +12,45 @@
     tr {
         text-align: center;
     }
+
+    .idverify {
+        font-weight: 700;
+        color:white;
+    }
+    .company-story__part {
+    border: solid 1px white;
+    padding: 30px;
+    border-radius: 19px;
+}
+.alt_form select{
+    border-bottom:rgb(52 56 57);
+    
+}
+
+.single-input{
+    margin-top: 27px !important;
+    border-bottom: 2px solid #3a3939;
+
+}
+.nice-select{
+    padding-top:10px;
+    padding-bottom: 14px;
+}
+.nice-select:focus, .nice-select:hover {
+    background-color: transparent;
+    box-shadow: none;
+}
+.nice-select .list{
+    background-color:#000;
+}
+
+.pb-120 {
+    padding-bottom: 40px;
+}
+
+.pt-120 {
+    padding-top: 40px;
+}
 </style>
 
 <section class="banner-section  pt-120 pb-120">
@@ -61,14 +100,19 @@
                         compliance with regulatory requirements and prevent fraud.
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Validate the residential address of customers by cross-referencing their identification documents with bank statements, or other official documents.
+                            class="ti ti-circle-check s1-color fs-four"></i>Validate the residential address of
+                        customers by cross-referencing their identification documents with bank statements, or other
+                        official documents.
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Screen customers against global watchlists and sanctions databases to ensure they are not involved in any illegal activities.
+                            class="ti ti-circle-check s1-color fs-four"></i>Screen customers against global watchlists
+                        and sanctions databases to ensure they are not involved in any illegal activities.
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                        class="ti ti-circle-check s1-color fs-four"></i>Conduct enhanced due diligence for high-risk customers or transactions, which may involve gathering additional information, performing background checks, or seeking approval from senior management.
-                </li>
+                            class="ti ti-circle-check s1-color fs-four"></i>Conduct enhanced due diligence for high-risk
+                        customers or transactions, which may involve gathering additional information, performing
+                        background checks, or seeking approval from senior management.
+                    </li>
                 </ul>
 
             </div>
@@ -130,83 +174,229 @@
     </div>
 </section>
 
-<section class="provide-world pt-120 position-relative z-0  pb-60" style="background-color: #000;">
+
+
+
+
+
+
+<section class="provide-world a2-bg pt-120 pb-120  position-relative z-0">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-lg-12 col-xxl-10">
+            <div class="col-lg-8 col-xxl-6">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h2 class="mb-5 mb-lg-6">Documents Required</h2>
+                    <h2>Documents Required</h2>
+                    <br>
                     <p>Kindly provide a copy of ONE of the following papers proving your identity:</p>
                 </div>
             </div>
         </div>
         <div class="row gy-6 gy-xxl-0">
-            <div class="col-md-6 col-xxl-4">
+            <div class="col-md-6 col-xxl-3">
+            </div>
+            <div class="col-md-6 col-xxl-3">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/number-1.png" alt="time">
+                        <img src="assets/images/icon/file.png" alt="stock-market">
                     </span>
-                    <h5 class="mt-5 mb-5">ID doc arrow ico Passport (must to be valid right now)</h5>
+
+                    <p style="font-weight:bold">Passport (must to be valid right now)</p>
+                    <hr>
+                    <p style="font-weight:bold">a current driver's license
+                    </p>
+                    <hr>
+                    <p style="font-weight:bold"> Authentic Proof of Age card.</p>
+                    <br>
+                    <br>
+                    <br>
+
                 </div>
             </div>
-            <div class="col-md-6 col-xxl-4">
+            <div class="col-md-6 col-xxl-3">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/two.png" alt="wallet">
+                        <img src="assets/images/icon/bill.png" alt="stock-market">
                     </span>
-                    <h5 class="mt-5 mb-5">a current driver's license</h5>
+                    <p style="font-weight:bold"> Utility Bill (Phone, Electricity, Gas) id doc arrow ico</p>
+                    <hr>
+                    <p style="font-weight:bold"> Statement from a bank or credit card </p>
+                    <hr>
+
+                    <p style="font-weight:bold">Tax Document Issued by the Government
+                    </p>
                     <br>
                 </div>
             </div>
-            <div class="col-md-6 col-xxl-4">
-                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/number-3.png" alt="low-price">
-                    </span>
-                    <h5 class="mt-5 mb-5">Authentic Proof of Age card</h5>
-                    <br>
-                </div>
+            <div class="col-md-6 col-xxl-3">
             </div>
-        </div>  
+        </div>
+    </div>
 </section>
 
-<section class="provide-world pt-120 position-relative z-0 pb-120" style="background-color: #000;">
+
+<section class="provide-world  pt-120 pb-120  position-relative z-0">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-lg-12 col-xxl-10">
+            <div class="col-lg-8 col-xxl-6">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h2 class="mb-5 mb-lg-6">Documents Required</h2>
-                    <p>To confirm your address, kindly include a copy of ONE of the following papers as well:</p>
+                    <h2>Identity Verification</h2>
                 </div>
             </div>
         </div>
         <div class="row gy-6 gy-xxl-0">
-            <div class="col-md-6 col-xxl-4">
+            <div class="col-md-6 col-xxl-3">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/number-1.png" alt="time">
+                    <h4>  Capture</h4>
+                    <hr>
+                    <span class="">
+                        <img style="height:100px;" src="assets/images/id card nn.png" alt="idcard">
                     </span>
-                    <h5 class="mt-5 mb-5">Utility Bill (Phone, Electricity, Gas) id doc arrow ico</h5>
+                    <hr>
+                    <!-- <span class="idverify">Capturing Id</span> -->
+                   <br>
+                   <p class="idverify">The user can capture or upload a photo of their government-issued identity document instantly.</p>
+                   <br>
                 </div>
             </div>
-            <div class="col-md-6 col-xxl-4">
+            <div class="col-md-6 col-xxl-3">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/two.png" alt="wallet">
+                    <h4>  Extraction</h4>
+                    <hr>
+                    <span class="">
+                        <img style="height:100px;" src="assets/images/idextract.png" alt="idcard">
                     </span>
-                    <h5 class="mt-5 mb-5">Statement from a bank or credit card</h5>
+                    <hr>
+                    <!-- <span class="idverify">Capturing Id</span> -->
+                   <br>
+                   <p class="idverify">Our smart system utilizes OCR technology to automatically extract data from the document.</p>
+                   <br>
+                   
                 </div>
             </div>
-            <div class="col-md-6 col-xxl-4">
+            <div class="col-md-6 col-xxl-3">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/number-3.png" alt="low-price">
+                    <h4>
+                        Verification
+                        </h4>
+                    <hr>
+                    <span class="">
+                        <img style="height:100px;" src="assets/images/idverify.png" alt="idcard">
                     </span>
-                    <h5 class="mt-5 mb-5">Tax Document Issued by the Government</h5>
+                    <hr>
+                    <!-- <span class="idverify">Capturing Id</span> -->
+                   <br>
+                   <p class="idverify">Our advanced AI verification technology confirms the format and details of identity documents.</p>
+                   <br>
                 </div>
             </div>
-        </div>  
+            <div class="col-md-6 col-xxl-3">
+                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <h4> Results</h4>
+                    <hr>
+                    <span class="">
+                        <img style="height:100px;" src="assets/images/verifydone.png" alt="idcard">
+                    </span>
+                    <hr>
+                    <!-- <span class="idverify">Capturing Id</span> -->
+                   <br>
+                   <p class="idverify">The user will receive a clear 'Yes' or 'No' response for their verification, and all the results will be securely stored in the back-office.</p>
+                </div>
+            </div>
+        </div>
+    </div>
 </section>
+<section class="provide-world  pt-120 pb-120  position-relative z-0">
+<div class="container">
+    <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
+        <div class="col-sm-10 col-lg-6 col-xxl-12">
+            <div class="row d-flex justify-content-end">
+                <div class="col-md-6 col-xxl-12">
+                    <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                        <h4>Address Proof</h4>
+                        <br>
+                        <p><b>Experience the seamless, secure, and swift integration of address verification.</b> </p>
+                        <p><b>Embrace the future of digital identity verification by taking the next step. Our Address Verification integration offers more than just technology - it promises excellence, efficiency, and top-notch security.</b> </p>
+                    </div>
+                </div>
+           
+            </div>
+        </div>
+    </div>
+</div>
+</section>
+        <section class="provide-world  pt-120 pb-120  position-relative z-0">
+            <div class="container">
+                <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
+        <div class="container text-center pt-10 pb-120">
+            <h4>Our Address Verification integration ensures</h4>
 
+        </div>
+        <div class="col-xxl-5 mt-4">
+            <div class="company-story__part">
+                <div class="row">
+                  
+                    <div class="col-lg-10 d-flex align-items-center">
+                        <div class="row">
+                            <h5 class="">Instant sync</h5>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-xxl-5 mt-4">
+            <div class="company-story__part">
+                <div class="row">
+                  
+                    <div class="col-lg-10 d-flex align-items-center">
+                        <div class="row">
+                            <h5 class="">High security</h5>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-xxl-5 mt-4">
+            <div class="company-story__part">
+                <div class="row">
+                    <div class="col-lg-10 d-flex align-items-center">
+                        <div class="row">
+                            <h5 class="">Trusted support team</h5>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-xxl-5 mt-4">
+            <div class="company-story__part">
+                <div class="row">
+                    
+                    <div class="col-lg-10 d-flex align-items-center">
+                        <div class="row">
+                            <h5 class="">Easily integrate with systems</h5>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-xxl-5 mt-4">
+            <div class="company-story__part">
+                <div class="row">
+                    
+                    <div class="col-lg-10 d-flex align-items-center">
+                        <div class="row">
+                            <h5 class="">Compatible on all platforms</h5>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</section>
 
 <?php include("includes/footer.php"); ?>
