@@ -309,7 +309,7 @@
                         information, including trial accounts for practice, offers prospects for learning and
                         advancement, enticing those seeking financial independence and the potential to engage in a
                         dynamic global market.</p>
-                    <h3 class="mb-4 mb-lg-5 mt-3">Main Reson Why Prople In Forex Trading Is As Following :</h3>
+                    <h3 class="mb-4 mb-lg-5 mt-3">Main Reason Why People In Forex Trading Is As Following:</h3>
                     <h5 class="fs-six  mb-2 mt-2">Opportunities for Learning and Growth :</h5>
                     <p class="fs-six ">Forex trading provides opportunities for continuous learning and personal
                         growth. As you gain experience and knowledge, you can develop your trading skills, refine your

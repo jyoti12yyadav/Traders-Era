@@ -124,7 +124,7 @@
             <div class="col-lg-7 col-xxl-6">
                 <div class="trade_on__content">
                     <!-- <span class="heading s1-color fs-five mb-5">Trade On Our</span> -->
-                    <h3 class="mb-4 mb-lg-5">Simple account registration.
+                    <h3 class="mb-4 mb-lg-5">Simple account registration
                     </h3>
                     <ul class="d-flex gap-4 flex-column mt-6">
                         <li class="d-flex align-items-center gap-3 fs-six-up" style="font-weight: 900;"><i
