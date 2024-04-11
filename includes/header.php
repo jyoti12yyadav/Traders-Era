@@ -158,7 +158,7 @@
                                 <li><a class="dropdown-item" href="economic-calendar.php">Economic Calender</a></li>
                                 <li><a class="dropdown-item" href="news-research.php">News & Research</a></li>
                                 <li><a class="dropdown-item" href="glossary.php">Glossary</a></li>
-                                <li><a class="dropdown-item " href="academy.php">Learn</a></li>
+                                <li><a class="dropdown-item " href="learn.php">Learn</a></li>
                                 <li><a class="dropdown-item " href="interest-rate.php">Interest Rate</a></li>
                             </ul>
                         </li>

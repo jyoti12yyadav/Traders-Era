@@ -51,7 +51,7 @@
 </section>
 
 
-<section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
+<section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0" style="background-color:#000;">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="vector"
             class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
@@ -69,15 +69,10 @@
                 <div class="trade_on__content">
                     <span class="heading p1-color fs-six mb-5"></span>
                     <h4 class="mb-4 mb-lg-5" style="font-size: 32px;">
-                        Fastest Execution Speeds for Automated Trading
+                    Gain quick and reliable entry to international markets
                     </h4>
                  
-                        <p>Less than 11 miles from the City of London are the Equinix London metro International
-                            Business data centers. They host over 1,000 companies, which include exchanges, liquidity
-                            providers, buy-side and sell-side firms, and market data vendors.</p>
-                            <br>
-                        <p class="mx-ch">With their advanced technology, they maintain a 99.99% uptime record, giving
-                            traders the fastest execution speeds for automated trades.</p>
+                        <p>Get access to the most competitive prices and deepest liquidity for every trade! Thanks to our high trading volume with liquidity providers, we can offer you the best prices available.</p>
                         <br>
                 </div>
             </div>
@@ -100,13 +95,12 @@
                 <div class="trade_on__content">
                     <span class="heading p1-color fs-six mb-5"></span>
                     <h4 class="mb-4 mb-lg-5" style="font-size: 32px;">
-                    Transform Your Operations with Equinix Data Center
+                    Get Quicker Trade Execution Today!
 
                     </h4>
-                    <p class="mx-ch">We have chosen Equinix in New York to ensure our clients receive speedy and dependable data center services. With over 495 companies in this financial hub, it offers unmatched global reach. </p>
-                    <br>
-                    <p class="mx-ch">Clients can access 18.5 MW of power and connect directly to major financial services and electronic trading systems.</p>
-                    <br>
+                    <p>Gain access to the deepest liquidity pools with our cutting-edge pricing engine for lightning-fast trade execution!</p>
+
+                    <p>Experience lightning-fast trade execution with our Equinix data centers. By connecting trading servers globally through fiber optics to Tier 1 liquidity providers, your orders are swiftly sent to the nearest center, ensuring instant execution.</p>
                 </div>
             </div>
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
@@ -118,7 +112,35 @@
     </div>
 </section>
 
+<section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
+    <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
+        <img src="assets/images/star3.png" alt="vector"
+            class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
+        <img src="assets/images/sun2.png" alt="vector"
+            class="sun2 position-absolute push_animat d-none d-xxl-flex bottom-0 pb-120">
+    </div>
+    <div class="container">
+        <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
+            <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
+                <div class="trade_on__thumbs d-flex justify-content-end">
+                    <img src="assets/images/automated_trading.png" alt="Imgae">
+                </div>
+            </div>
+            <div class="col-md-10 col-lg-6 col-xxl-5">
+                <div class="trade_on__content">
+                    <span class="heading p1-color fs-six mb-5"></span>
+                    <h4 class="mb-4 mb-lg-5" style="font-size: 32px;">
+                    Fintech pioneers leading the way with innovative solutions
+                    </h4>
+                 
+                        <p>We collaborate with top tech companies to provide you with access to the latest trading infrastructure.</p>
+                        <br>
+                </div>
+            </div>
 
+        </div>
+    </div>
+</section>
 
 
 
