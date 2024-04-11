@@ -9,9 +9,8 @@
     }
      .offers-content3::before{
         position: relative;
-    top: -80px;
-    content: "3";
-    font-size: 466px;
+    content: "";
+    font-size: 300px;
     color: white;
     font-weight: 700;
     left: 130px;
@@ -170,7 +169,7 @@
                 </div>
                 <div class="col-sm-10 col-lg-6 col-xxl-2 order-2 order-lg-0">
                     <div class="company-story__thumbs offers-content offers-content3  d-center">
-                        <h4></h4>
+                        <h4>3</h4>
                         <div>
                   
                         </div>

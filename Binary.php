@@ -27,13 +27,10 @@
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
                     <span class="heading p1-color fs-six mb-5"></span>
-                    <h4 class="mb-4 mb-lg-5" style="font-size: 32px;">What is Binary Trading?
+                    <h4 class="mb-4 mb-lg-5" style="font-size: 32px;">Concept of binary options and their operational mechanics?
                     </h4>
                     </p>
-                    <p>Binary trading involves predicting whether the value of an asset will rise or fall within a
-                        specified time frame. Predicting the direction of prices is the main goal of binary options
-                        trading, which provides a simple method that is ideal for novices. Access a variety of assets to
-                        diversify your portfolio, such as indexes, stocks, currencies, and commodities.</p>
+                    <p>Binary option contracts provide a clear and straightforward trading experience. These contracts are called 'binary' because they offer only two possible outcomes: a predetermined profit or the loss of the initial investment. This simplicity allows you to make informed decisions, knowing exactly how much you stand to lose if the market goes against you. On the other hand, if the market moves in your favor, you can anticipate the exact amount of profit you could make. It's a controlled and thrilling approach to trading.</p>
                     <br>
                 </div>
             </div>
@@ -46,90 +43,53 @@
     </div>
 </section>
 
-<section class="provide-world a2-bg pt-120 pb-120  position-relative z-0">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-8 col-xxl-6">
-                <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h2>Deep Dive In Binary Trading And Earn Profit</h2>
-                </div>
-            </div>
-        </div>
-        <div class="row gy-6 gy-xxl-0">
-            <div class="col-md-6 col-xxl-3">
-                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/time.png" alt="stock-market">
-                    </span>
-                    <h4 class="mt-5 mb-5">Benefits</h4>
-                    <p style="font-weight:bold">Simplicity: Easy-to-understand trading concept.</p>
-                    <hr>
-                    <p style="font-weight:bold"> Potential High Returns: Profitable opportunities with fixed payouts.
-                    </p>
-                    <hr>
-                    <p style="font-weight:bold"> Limited Risk: Defined risk with predetermined investment amounts.</p>
-                    <br>
-                    <br>
-                    <br>
-
-                </div>
-            </div>
-            <div class="col-md-6 col-xxl-3">
-                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/customer-service.png" alt="stock-market">
-                    </span>
-                    <h4 class="mt-5 mb-5">How it Works</h4>
-                    <p style="font-weight:bold"> Choose an Asset: Select from various assets such as currencies,
-                        commodities, stocks, or indices.</p>
-                    <hr>
-                    <p style="font-weight:bold"> Predict Market Direction: Decide whether the asset's value will
-                        increase or decrease </p>
-                    <hr>
-
-                    <p style="font-weight:bold"> Place Trade: Enter the amount to invest and execute the trade.
-                    </p>
-                </div>
-            </div>
-            <div class="col-md-6 col-xxl-3">
-                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/investment-insurance.png" alt="stock-market">
-                    </span>
-                    <h4 class="mt-5 mb-5">Strategies</h4>
-                    <p style="font-weight:bold"> High/Low: Predict whether the asset's value will be higher or lower
-                        than the current price at expiry.</p>
-                    <hr>
-                    <p style="font-weight:bold">One-Touch: Speculate if the asset's price will reach a specific level
-                        before expiry.</p>
-                    <hr>
-                    <p style="font-weight:bold"> Boundary: Determine if the asset's price will stay within a predefined
-                        range.</p>
-                    <br>
-                </div>
-            </div>
-            <div class="col-md-6 col-xxl-3">
-                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/discount.png" alt="stock-market">
-                    </span>
-                    <h4 class="mt-5 mb-5">Risks</h4>
-                    <p style="font-weight:bold"> Potential Losses: Loss of invested capital if the prediction is
-                        incorrect.</p>
-                    <hr>
-                    <p style="font-weight:bold"> Market Volatility: Fluctuations in asset prices may impact trade
-                        outcomes.</p>
-                    <hr>
-                    <p style="font-weight:bold">Scams: Risks associated with unregulated brokers and fraudulent
-                        platforms.
-                    </p>
-                    <br>
-                    <br>
-                </div>
-            </div>
-        </div>
+<section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
+    <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
+        <img src="assets/images/star3.png" alt="vector" class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
     </div>
-</section>
+    <div class="container">
+        <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
+            <div class="col-10 col-sm-8 col-md-7 col-lg-6 col-xxl-5 order-2 order-lg-0">
+                <div class="trade_on__thumbs d-flex justify-content-end">
+                    <img src="assets/images/tradersera.png" alt="Imgae">
+                </div>
+            </div>
+
+            <div class="col-md-10 col-lg-6 col-xxl-7">
+                <div class="trade_on__content">
+                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;">Understanding the mechanics of binary options trading
+                    </h2>
+                    <!-- <p class="mx-ch">Web trading platforms are safer since they use a remote server or cloud for
+                        calculations. Users only need to focus on their internet connection and routing speed. No need
+                        to download or install anything.</p> -->
+
+                </div>
+
+
+                <h5 class="mt-4 mb-lg-5">
+                    <!-- Benefits of Web Based Trading Platforms: -->
+                </h5>
+                <ul class="d-flex gap-4 flex-column mt-6">
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>
+                        Binary options trading is a simple concept: predict if the market will be above a certain price at a specific time. If you believe it will, you buy; if not, you sell.
+                    </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Binary options have a price range of $0 to $100, allowing you to control the amount of money you're willing to risk. Each contract clearly outlines the potential gains and losses, ensuring you make informed decisions.
+                    </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>A successful trade results in a $100 payout, with your profit being $100 minus your initial investment. If the trade is unsuccessful, you won't receive a payout, limiting your loss to the capital you put in.
+
+                    </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Should you decide to exit a contract before it expires, you can do so by placing a closing order. This helps manage losses or secure profits.</li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Compatible across various operating systems.
+                    </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Trading binary options involves predicting market movements based on price levels. If you anticipate the market will be above a certain price at a specific time, you buy; if not, you sell.
+
+                    </li>
+                </ul>
+
+            </div>
+
+        </div>
+</div></section>
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="vector"
