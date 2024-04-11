@@ -127,7 +127,7 @@
 
         </div>
 </div></section>
-<section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
+<section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0" style="background-color: #000;">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="vector" class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
     </div>
@@ -152,6 +152,32 @@
                     <img src="assets/images/tradersera.png" alt="Imgae">
                 </div>
             </div>
+        </div>
+</div></section>
+
+<section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
+    <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
+        <img src="assets/images/star3.png" alt="vector" class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
+    </div>
+    <div class="container">
+        <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
+            <div class="col-10 col-sm-8 col-md-7 col-lg-6 col-xxl-5 order-2 order-lg-0">
+                <div class="trade_on__thumbs d-flex justify-content-end">
+                    <img src="assets/images/tradersera.png" alt="Imgae">
+                </div>
+            </div>
+            <div class="col-lg-6 col-xxl-6">
+                <div class="trade_on__content">
+                    <h2>Key insights from binary options trading</h2>
+                    <ul class="d-flex gap-4 flex-column mt-6">
+                        <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Looking to get some practice in? Join TradersEra and sign up for a demo account! With this account, you'll receive practice funds to help you sharpen your trading skills before diving into the real deal.</li>
+                        <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Always keep in mind the significance of sticking to your trading strategy and effectively controlling your risk. By doing so, you can safeguard yourself from putting too much capital at stake and prevent losing more than you are able to handle.</li>
+                        <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Start trading binary option contracts without any risk by using a TradersEra demo account. With $10,000 in virtual funds, you have nothing to lose. Practicing for free is the perfect way to gain knowledge about binary option contracts.</li>
+                        <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Ready to start trading binary option contracts? Sign up with TradersEra now and create a demo account! Practice with virtual funds to enhance your trading abilities before getting started with real trading.</li>
+                    </ul>
+                </div>
+            </div>
+          
         </div>
 </div></section>
 <?php include("includes/footer.php"); ?>

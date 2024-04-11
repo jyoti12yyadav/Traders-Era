@@ -230,7 +230,7 @@
                             <td>Free</td>
                             <td>Available</td>
                             <td>Instant</td>
-                            <td><button class="button-deposit-get"><a href="https://trading.tradersera.com/login" GET VERIFIED FIRST </a></button></td>
+                            <td><button class="button-deposit-get"><a href="https://trading.tradersera.com/login"> GET VERIFIED FIRST </a></button></td>
                         </tr>
                         <tr>
                             <th scope="row"><img src="assets/images/icon-dw/a  logo Tether ERC-20.png"

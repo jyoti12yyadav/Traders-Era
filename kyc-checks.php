@@ -331,20 +331,19 @@
             <h4>Our Address Verification integration ensures</h4>
 
         </div>
-        <div class="col-xxl-5 mt-4">
+        <div class="col-xxl-4 mt-4">
             <div class="company-story__part">
                 <div class="row">
-                  
-                    <div class="col-lg-10 d-flex align-items-center">
-                        <div class="row">
-                            <h5 class="">Instant sync</h5>
+                    <div class="col-lg-10 d-flex align-items-center text-center">
+                        <div class="row text-center">
+                            <h5 class="text-center">Instant sync</h5>
                         </div>
 
                     </div>
                 </div>
             </div>
         </div>
-        <div class="col-xxl-5 mt-4">
+        <div class="col-xxl-4 mt-4">
             <div class="company-story__part">
                 <div class="row">
                   
@@ -357,7 +356,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-xxl-5 mt-4">
+        <div class="col-xxl-4 mt-4">
             <div class="company-story__part">
                 <div class="row">
                     <div class="col-lg-10 d-flex align-items-center">
@@ -369,7 +368,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-xxl-5 mt-4">
+        <div class="col-xxl-6 mt-4">
             <div class="company-story__part">
                 <div class="row">
                     
@@ -382,7 +381,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-xxl-5 mt-4">
+        <div class="col-xxl-6 mt-4">
             <div class="company-story__part">
                 <div class="row">
                     
