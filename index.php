@@ -288,7 +288,10 @@
     .active-step4 .col-3:nth-child(-n+4):before {
         background: #f89828 !important;
     }
-
+    @media (min-width: 991px){
+.pb-lg-120 {
+    padding-bottom: 180px !important;
+}}
     @media screen and (max-width: 640px) {
         .process-main {
             flex-wrap: wrap;
@@ -405,7 +408,7 @@
                                         tools and insights, making navigating financial markets easier.</p>
                                         <div class="d-flex mt-8">
                                             <img  class="mx-4" src="assets/images/icon/openai.png" alt="" style="height: 35px;">
-                                            <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png" alt="" style="height: 35px;">
+                                            <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png" alt="" style="height: 40px;">
                                         </div>
                                        
                                     <div
@@ -894,7 +897,7 @@
         </div>
 
 </section>
-
+<!-- 
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="vector"
@@ -932,11 +935,11 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <!-- Trade On end -->
 
-<section class="provide-world pt-120 pb-120  position-relative z-0" style="background-color: #000;">
+<section class="provide-world pt-120 pb-120  position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/vector.png" alt="vector"
             class="position-absolute top-0 pt-120 ms-20 ps-xxl-20 jello d-none d-xl-flex">
@@ -1142,7 +1145,45 @@
     </div>
 </section>
 <!--People Trust start-->
+<section class="worldwide alt-color p1-bg pseudo_element_after">
+    <div class="animation vector position-absolute top-0 left-0 w-100 h-100 z-n1">
+        <img src="assets/images/cross.png" alt="vector" class="position-absolute push_animat ms-lg-20 ps-4 top-0 pt-120 mt-20 start-0 d-none d-xxxl-flex">
+        <img src="assets/images/star.png" alt="vector" class="position-absolute push_animat end-0 top-0 mt-20 pt-xl-15 me-xl-20 pe-10 d-none d-md-flex">
+        <img src="assets/images/vector2.png" alt="vector" class="position-absolute bottom-0 start-0 d-none d-xxxl-flex">
+        <img src="assets/images/vector_rocket2.png" alt="vector" class="position-absolute d-none d-xxxl-flex bottom-0 end-0  pe-12 pb-10 fadeInTopLeft">
+        <img src="assets/images/cross2.png" alt="vector" class="position-absolute push_animat ms-lg-20 ps-4 top-0 start-50 pt-120 mt-20 d-none d-xxxl-flex">
+    </div>
+    <div class="container position-relative">
+        <div class="row gy-10 gy-lg-0 justify-content-center justify-content-lg-between align-items-end">
+            <div class="col-lg-6 col-xxl-5 pt-xl-20">
+                <div class="trade_on__content me-xl-10 pt-120 pb-0 pb-lg-120">
+                    <span class="heading p1-color fs-six mb-5"></span>
+                    <h4 class="mb-4 mb-lg-5" style="font-size: 32px;">Trade Anywhere, Anytime with TradersEra App</h4>
+                    <p class="mx-ch">Don't let trading opportunities slip away.</p>
+                    <br>
+                    <p class="mx-ch">Download the TradersEra Trader app for commission-free trading and ultra-low
+                        spreads on major FX pairs and gold.</p>
+                    <br>
+                    <p class="mx-ch">All you require in a single app.</p>
+                    <br>
 
+                    <div class="col-4 mt-4" style="display: flex; justify-content: space-evenly; ">
+                        <img style="border:1px solid white; border-radius:10px;" src="assets/images/_app store.png">
+                        <img style="border:1px solid white; border-radius:10px; margin-left:20px;"
+                            src="assets/images/_google play store.png">
+                        <img style="border:1px solid white; border-radius:10px; margin-left:20px;"
+                            src="assets/images/_download APK.png">
+                    </div>
+                </div>
+            </div>
+            <div class="col-8 col-sm-7 col-lg-6 col-xxl-5">
+                <div class="worldwide_thumb d-flex ms-lg-15 ms-xl-0">
+                    <img src="assets/images/tradersera logo on phone.png" class="max-xl-un" alt="Image">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 <section>
     <div class="container pb-120" style="margin-top: 70px; ">
         <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
