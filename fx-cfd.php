@@ -92,16 +92,33 @@
                         <tr>
                             <th scope="col"
                                 style="background-color: #9ad953;color: black;text-align: center;font-size: 16px;padding:20px;display: table-cell;">
-                                FEATURES</th>
+                                Currency</th>
                             <th scope="col"
                                 style="background-color: #F5C06D;color: black;text-align: center;font-size: 16px;padding:20px;display: table-cell;">
-                                FX CFDs</th>
+                                Value Of Pip</th>
+                                <th scope="col"
+                                style="background-color: #F5C06D;color: black;text-align: center;font-size: 16px;padding:20px;display: table-cell;">
+                                Best Spread</th>
+                                <th scope="col"
+                                style="background-color: #F5C06D;color: black;text-align: center;font-size: 16px;padding:20px;display: table-cell;">
+                                Contract Size</th>
+                                <th scope="col"
+                                style="background-color: #F5C06D;color: black;text-align: center;font-size: 16px;padding:20px;display: table-cell;">
+                                Margin Requirements</th>
+                                <th scope="col"
+                                style="background-color: #F5C06D;color: black;text-align: center;font-size: 16px;padding:20px;display: table-cell;">
+                                Market Trading Hours (24 hrs)</th>
                         </tr>
                     </thead>
                     <tbody class="justify-content-center text-start">
                         <tr>
-                            <td>Instrument Type</td>
-                            <td>Contracts for Difference (CFDs)</td>
+                            <td>AUD/CAD</td>
+                            <td>C$1</td>
+                            <td>1.4 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+06:00 (Monday) – 06:00 (Saturday) (Non-DS)  </td>
                         </tr>
                         <tr>
                             <td>Asset Class </td>
