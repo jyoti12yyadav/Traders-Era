@@ -17,12 +17,12 @@
 </section>
 
 <style>
-    .pt-120 {
-    padding-top: 60px;
-}
 
-.pb-120{
-    padding-bottom: 60px;
+.pb-120 {
+    padding-bottom: 60px !important;
+}
+.pt-120 {
+    padding-top: 60px !important;
 }
 
 .tradingview-widget-container {

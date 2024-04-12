@@ -1,13 +1,14 @@
 <?php include("includes/header.php"); ?>
 
 <style>
-    .pt-120 {
-        padding-top: 60px;
-    }
+  
+.pb-120 {
+    padding-bottom: 60px !important;
+}
+.pt-120 {
+    padding-top: 60px !important;
+}
 
-    .pb-120 {
-        padding-top: 60px;
-    }
 </style>
 
 <section class="banner-section  pt-120 pb-120">

@@ -18,9 +18,14 @@
 
 
 <style>
-    .pb-120 {
-        padding-bottom: 50px;
-    }
+   
+.pb-120 {
+    padding-bottom: 60px !important;
+}
+.pt-120 {
+    padding-top: 60px !important;
+}
+
 </style>
 
 

@@ -1,6 +1,16 @@
 <?php include("includes/header.php"); ?>
 
 <style>
+
+
+.pb-120 {
+    padding-bottom: 60px !important;
+}
+.pt-120 {
+    padding-top: 60px !important;
+}
+
+
     .table-para {
         background-color: #292929;
         padding: 35px;

@@ -44,13 +44,14 @@
     background-color:#000;
 }
 
+
 .pb-120 {
-    padding-bottom: 40px;
+    padding-bottom: 60px !important;
+}
+.pt-120 {
+    padding-top: 60px !important;
 }
 
-.pt-120 {
-    padding-top: 40px;
-}
 </style>
 
 <section class="banner-section  pt-120 pb-120">
