@@ -948,7 +948,7 @@
 
 <!-- Trade On end -->
 
-<section class="provide-world pt-120 pb-120  position-relative z-0">
+<section class="provide-world pt-120 pb-120  position-relative z-0" >
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/vector.png" alt="vector"
             class="position-absolute top-0 pt-120 ms-20 ps-xxl-20 jello d-none d-xl-flex">
@@ -977,7 +977,7 @@
                     <script type="text/javascript"
                         src="https://s3.tradingview.com/external-embedding/embed-widget-market-quotes.js" async>
                             {
-                                "width": 1250,
+                                "width": "100%",
                                     "height": 800,
                                         "symbolsGroups": [
                                             {

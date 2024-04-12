@@ -144,7 +144,7 @@
     <div class="container">
         <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
             <h2 class=" mb-lg-5 d-flex justify-content-center">Energy</h2>
-            <div class="container my-5">
+            <div class="container my-5 table-div">
             <table id="Record" class="table table-striped table-dark my-3">
             <thead>
             <tr>
@@ -241,8 +241,8 @@
     <div class="container">
         <h2 class=" mb-lg-5 d-flex justify-content-center">Metal</h2>
         <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
-            <div class="container my-5">
-            <table id="Record" class="table table-striped table-dark my-3">
+            <div class="container my-5 table-div">
+            <table id="Record" class="table table-striped table-dark my-3 ">
             <thead>
             <tr>
 <th style="    background-color: #9ad953;

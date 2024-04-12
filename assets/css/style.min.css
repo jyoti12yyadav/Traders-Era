@@ -80,3 +80,7 @@ font-size: 25px;
     height: 74px;
 }
 }
+
+.table-div{
+    overflow-x: auto;
+}

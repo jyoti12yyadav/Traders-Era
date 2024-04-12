@@ -1,12 +1,7 @@
 <?php include("includes/header.php"); ?>
 
 <style>
-    .pt-120 {
-        padding-top: 60px;
-    }
-    .pb-120 {
-        padding-top: 60px;
-    }
+ 
     .table-para{
         background-color: #292929;
     padding: 35px !important;
@@ -165,8 +160,8 @@
     </div>
     <div class="container">
         <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
-            <div class="container my-5">
-            <table id="Record" class="table table-striped table-dark my-3">
+            <div class="container my-5 table-div">
+            <table id="Record" class="table table-striped table-dark my-3 ">
             <thead>
             <th style="    background-color: #9ad953;
     color: black;

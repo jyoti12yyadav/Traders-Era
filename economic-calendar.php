@@ -108,7 +108,7 @@
                                         {
                                             "colorTheme": "dark",
                                                 "isTransparent": false,
-                                                    "width": "1000",
+                                                    "width": "100%",
                                                         "height": "1200",
                                                             "locale": "in",
                                                                 "importanceFilter": "-1,0,1",

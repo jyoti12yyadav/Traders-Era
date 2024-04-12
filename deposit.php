@@ -75,7 +75,7 @@
     </div>
     <div class="container">
         <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
-            <div class="container my-5">
+            <div class="container my-5 table-div">
                 <table id="Record" class="table table-striped table-dark my-3">
                     <thead>
                         <tr>

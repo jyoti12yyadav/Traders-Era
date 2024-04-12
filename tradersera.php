@@ -65,9 +65,9 @@
 <section class="provide-world pt-120 position-relative z-0">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-lg-7 col-xxl-6">
+            <div class="col-lg-7 col-xxl-7">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h3 class="mb-5 mb-lg-6"> Why TradersEra stands out from the rest.
+                    <h3 class="mb-5 mb-lg-6"> Why TradersEra stands out from the rest
                     </h3>
                     <!-- <p class="fs-six-up mx-ch mx-auto">We're constantly improving our trading platform, trying to make it the best on the market. such as stocks</p> -->
                 </div>

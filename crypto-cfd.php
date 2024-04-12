@@ -66,7 +66,7 @@
 </section>
 
 <section>
-    <div class="container widgets pb-60 pt-60">
+    <div class="container widgets  pt-120">
         <iframe src="https://in.widgets.investing.com/top-cryptocurrencies?theme=darkTheme&roundedCorners=true" width="100%" height="100%" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe><div class="poweredBy" style="font-family: Arial, Helvetica, sans-serif;">Powered by <a href="https://in.investing.com?utm_source=WMT&amp;utm_medium=referral&amp;utm_campaign=TOP_CRYPTOCURRENCIES&amp;utm_content=Footer%20Link" target="_blank" rel="nofollow">Investing.com</a></div>
     </div>
 </section>
@@ -85,7 +85,7 @@
                     space!</h5>
             </center>
 
-            <div class="container my-5">
+            <div class="container my-5 table-div">
                 <table id="Record" class="table table-striped table-dark my-3">
                     <thead>
                         <tr>

@@ -86,7 +86,7 @@
     </div>
     <div class="container">
         <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
-            <div class="container my-5">
+            <div class="container my-5 table-div" >
                 <table id="Record" class="table table-striped table-dark my-3">
                     <thead>
                         <tr>
@@ -478,7 +478,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-12 col-xxl-10">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h2 class="mb-5 mb-lg-6">you can amplify your trades with</h2>
+                    <h2 class="mb-5 mb-lg-6">You can amplify your trades with</h2>
                 </div>
             </div>
         </div>
