@@ -372,24 +372,37 @@
         left: 80px;
         color: #9ad953;
     }
-    .nice-select:focus, .nice-select:hover {
-    background-color: transparent;
-    box-shadow: none;
-}
-.nice-select .list{
-    background-color:#000;
-}
+
+    .nice-select:focus,
+    .nice-select:hover {
+        background-color: transparent;
+        box-shadow: none;
+    }
+
+    .nice-select .list {
+        background-color: #000;
+    }
 
 
 
-.pb-120 {
-    padding-bottom: 60px !important;
-}
-.pt-120 {
-    padding-top: 60px !important;
-}
+    .pb-120 {
+        padding-bottom: 60px !important;
+    }
 
+    .pt-120 {
+        padding-top: 60px !important;
+    }
 
+    .nice-select {
+        background-color: black;
+        padding: 6px 10px;
+    }
+
+    .nice-select:focus,
+    .nice-select:hover {
+        background-color: black;
+        box-shadow: none;
+    }
 </style>
 
 
@@ -786,23 +799,25 @@
 </section>
 -->
 
-<section class="contact nb4-bg pt-120 pb-120">
+<section class=" pt-120 pb-120">
     <div class="container ">
         <div class="row gy-18 justify-content-between">
             <div class="col-12 col-lg-5 col-xl-5">
                 <div class="submissions-area d-flex flex-column gap-8 gap-lg-10">
                     <div class="submissions">
-                        <h3>
-                            Joining TradersEra's introducing broker program is an easy way to generate a consistent income, without increasing your expenses.
-                            </h3>
                         
+                        <img src="assets/images/tradersera contact us image.png">
                     </div>
-                    
+
                 </div>
             </div>
-            <div class="col-12 col-lg-7 col-xl-6">
+            <div class="col-12 col-lg-7 col-xl-6 nb3-bg">
                 <form method="POST" autocomplete="off" id="frmContactus" class="contact__form alt_form px-4 px-lg-8">
-                    <h3 class="contact__title mb-7 mb-md-10 mb-lg-15">Sign Up Today</h3>
+                    <h3 class="contact__title  mb-lg-7 mt-8">Sign Up Today</h3>
+                    <h6 class="mb-lg-7">
+                        Joining TradersEra's introducing broker program is an easy way to generate a consistent
+                        income, without increasing your expenses.
+                    </h6>
                     <div class="d-flex gap-3 gap-sm-5 gap-lg-8 flex-column">
                         <div class="row gap-3 gap-sm-0">
                             <div class="col-sm-6 ">
@@ -821,8 +836,7 @@
                         <div class="row gap-3 gap-sm-0">
                             <div class="col-sm-6 ">
                                 <div class="single-input">
-                                    <input type="text" class="fs-six-up" name="fname" placeholder="Email"
-                                        required="">
+                                    <input type="text" class="fs-six-up" name="fname" placeholder="Email" required="">
                                 </div>
                             </div>
                             <div class="col-sm-6">
@@ -836,8 +850,10 @@
                         <div class="row gap-3 gap-sm-0 d-flex">
                             <div class="col-sm-6">
                                 <div class="single-input">
-                                    <label for="introducing-broker">Are you an Introducing Broker with any other brokers?</label>
-                                    <select id="introducing-broker" name="introducing-broker">
+                                    <label for="introducing-broker"><b>Are you an Introducing Broker with any other
+                                            brokers?</b></label>
+
+                                    <select id="introducing-broker" name="introducing-broker" class="mt-4">
                                         <option value="yes">Yes</option>
                                         <option value="no">No</option>
                                     </select>
@@ -845,30 +861,33 @@
                             </div>
                             <div class="col-sm-6">
                                 <div class="single-input">
-                                    <label for="monthly-traders">Number of monthly new traders:</label>
-<select id="monthly-traders" name="monthly-traders">
-    <option value="1-5">1-5</option>
-    <option value="6-20">6-20</option>
-    <option value="21-50">21-50</option>
-    <option value="51+">51 and more</option>
-</select>
+                                    <label for="monthly-traders"><b>Number of monthly new traders:
+                                            <br>
+                                            <br>
+                                        </b></label>
+                                    <select id="monthly-traders" name="monthly-traders" class="mt-4">
+                                        <option value="1-5">1-5</option>
+                                        <option value="6-20">6-20</option>
+                                        <option value="21-50">21-50</option>
+                                        <option value="51+">51 and more</option>
+                                    </select>
                                 </div>
                             </div>
 
-                            
+
 
                         </div>
                         <div class="row gap-3 gap-sm-0">
                             <div class="col-sm-6 ">
                                 <div class="single-input">
-                                    <input type="text" class="fs-six-up" name="fname" placeholder="Average deposit per client"
-                                        required="">
+                                    <input type="text" class="fs-six-up" name="fname"
+                                        placeholder="Average deposit per client" required="">
                                 </div>
                             </div>
                             <div class="col-sm-6">
                                 <div class="single-input">
-                                    <input type="text" class="fs-six-up" name="lname" placeholder="Average deposit per client"
-                                        required="">
+                                    <input type="text" class="fs-six-up" name="lname"
+                                        placeholder="Average deposit per client" required="">
                                 </div>
                             </div>
                         </div>
@@ -876,12 +895,14 @@
                         <div class="row gap-3 gap-sm-0 ">
                             <div class="col-sm-6">
                                 <div class="single-input">
-                                    <input type="email" class="fs-six-up" name="email" placeholder="client average volume" required="">
+                                    <input type="email" class="fs-six-up" name="email"
+                                        placeholder="client average volume" required="">
                                 </div>
                             </div>
                             <div class="col-sm-6">
                                 <div class="single-input">
-                                    <input type="text" class="fs-six-up" name="Phone" placeholder="How do you intent to promote legacyfx?" required="">
+                                    <input type="text" class="fs-six-up" name="Phone"
+                                        placeholder="How do you intent to promote legacyfx?" required="">
                                 </div>
                             </div>
                         </div>
@@ -891,15 +912,17 @@
                         </div>
                     </div>
                     <span id="msg"></span>
-                    <button type="submit" class="cmn-btn py-3 px-5 px-lg-6 mt-8 mt-lg-10 d-flex ms-auto" name="submit"
+                    <button type="submit" class="cmn-btn py-3 px-5 px-lg-6  d-flex ms-auto" name="submit"
                         id="submit">Become An IB Now<i class="bi bi-arrow-up-right"></i><span></span></button>
+                    <br>
+                    <br>
                 </form>
             </div>
-            <div class="col-12">
+            <!-- <div class="col-12">
                 <iframe class="cus-rounded-1 cus_map"
                     src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d5156.793422135061!2d-105.02171047857397!3d39.77899593135569!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1699354709950!5m2!1sen!2sbd"
                     allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>

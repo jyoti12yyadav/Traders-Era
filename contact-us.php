@@ -271,7 +271,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-8 col-xxl-7">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h3 class="mb-5 mb-lg-6">Contact Us via Postal Mail
+                    <h3 class="mb-5 mb-lg-6">Our Office Locations
                     </h3>
                  
                 </div>
