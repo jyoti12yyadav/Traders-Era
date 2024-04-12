@@ -32,7 +32,10 @@
 .pt-120 {
     padding-top: 60px !important;
 }
+.pt-150{
+    padding-top: 150px;
 
+}
 
 </style>
 
@@ -123,42 +126,21 @@
                     </h3>
                     <ul class="d-flex gap-4 flex-column mt-6">
                         <li class="d-flex align-items-center gap-3 fs-six-up" style="font-weight: 600;"><i
-                                class="ti ti-circle-check s1-color fs-four"></i>Essentials of forex trading for
-                            beginners</li>
+                                class="ti ti-circle-check s1-color fs-four"></i><a href="#question1">Essentials of forex trading for
+                            beginners</a> </li>
 
                         <li class="d-flex align-items-center gap-3 fs-six-up" style="font-weight: 600;"><i
-                                class="ti ti-circle-check s1-color fs-four"></i>What is the process of trading forex?
+                                class="ti ti-circle-check s1-color fs-four"></i><a href="#question2">What is the process of trading forex?</a>
                         </li>
                         <li class="d-flex align-items-center gap-3 fs-six-up" style="font-weight: 600;"><i
-                                class="ti ti-circle-check s1-color fs-four" style="font-weight: 600;"></i>Why do people
-                            engage in forex trading?</li>
+                                class="ti ti-circle-check s1-color fs-four" style="font-weight: 600;"></i><a href="#question3">Why do people
+                                    engage in forex trading?</a> </li>
                         <li class="d-flex align-items-center gap-3 fs-six-up" style="font-weight: 600;"><i
-                                class="ti ti-circle-check s1-color fs-four" style="font-weight: 600;"></i>Discover how
-                            the currency markets operate.</li>
+                                class="ti ti-circle-check s1-color fs-four" style="font-weight: 600;"></i><a href="#question4">Discover how
+                                    the currency markets operate.</a></li>
                         <li class="d-flex align-items-center gap-3 fs-six-up" style="font-weight: 600;"><i
-                                class="ti ti-circle-check s1-color fs-four" style="font-weight: 600;"></i>How to start
-                            trading forex</li>
-                        <li class="d-flex align-items-center gap-3 fs-six-up" style="font-weight: 600;"><i
-                                class="ti ti-circle-check s1-color fs-four" style="font-weight: 600;"></i>Free webinars
-                            and seminars on forex trading</li>
-                        <li class="d-flex align-items-center gap-3 fs-six-up" style="font-weight: 600;"><i
-                                class="ti ti-circle-check s1-color fs-four" style="font-weight: 600;"></i>Essentials of
-                            forex trading for beginners</li>
-                        <li class="d-flex align-items-center gap-3 fs-six-up" style="font-weight: 600;"><i
-                                class="ti ti-circle-check s1-color fs-four" style="font-weight: 600;"></i>What is a pair
-                            in forex?</li>
-                        <li class="d-flex align-items-center gap-3 fs-six-up" style="font-weight: 600;"><i
-                                class="ti ti-circle-check s1-color fs-four" style="font-weight: 600;"></i>Which
-                            currencies are the base and quote?</li>
-                        <li class="d-flex align-items-center gap-3 fs-six-up" style="font-weight: 600;"><i
-                                class="ti ti-circle-check s1-color fs-four" style="font-weight: 600;"></i>What does a
-                            forex pip mean?</li>
-                        <li class="d-flex align-items-center gap-3 fs-six-up" style="font-weight: 600;"><i
-                                class="ti ti-circle-check s1-color fs-four" style="font-weight: 600;"></i>When trading
-                            forex, what is a lot?</li>
-                        <li class="d-flex align-items-center gap-3 fs-six-up" style="font-weight: 600;"><i
-                                class="ti ti-circle-check s1-color fs-four" style="font-weight: 600;"></i>What is a pair
-                            in forex?</li>
+                                class="ti ti-circle-check s1-color fs-four" style="font-weight: 600;"></i><a href="#question5">How to start
+                                    trading forex</a></li>
 
                     </ul>
                     <br>
@@ -174,11 +156,11 @@
 </section>
 
 
-<section class="provide-world pt-60 position-relative z-0 pb-60" style="background-color: #000;">
-    <div class="container">
+<section class="provide-world pt-60 position-relative z-0 pb-120">
+    <div  class="container">
         <div class="row justify-content-center">
-            <div class="row gy-6 gy-xxl-0">
-                <div class="table-para mt-5 mb-5">
+            <div id="question1" class=" row gy-6 gy-xxl-0 pt-150">
+                <div  class="table-para mt-5 mb-5 mt-10 ">
                     <h3 class="mb-4 mb-lg-5">1.Essentials of forex trading for beginners</h3>
                     <p class="fs-six">What is a pip in forex?</p>
                     <p class="fs-six">What is a forex pair?</p>
@@ -242,68 +224,71 @@
         </div>
 </section>
 
-<section class="provide-world pt-60 position-relative z-0 pb-60" style="background-color: #000;">
+<section class="provide-world pt-60 position-relative z-0 pb-60">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="row gy-6 gy-xxl-0">
-                <div class="table-para mt-5 mb-5">
-                    <h3 class="mb-4 mb-lg-5">2.What is the process of trading forex?</h3>
-                    <h5 class="mt-2 mb-2 mb-lg-5">As a beginner, understanding how trading in forex works is crucial for
-                        your success. Here's a simplified explanation</h5>
-                    <h5 class="fs-six  mb-2 mt-2">Currency Pairs :</h5>
-                    <p class="fs-six ">Forex trading involves the buying and selling of currency pairs. A currency
-                        pair consists of two currencies, where one currency is being bought while the other is being
-                        sold. For example, in the EUR/USD pair, you're buying euros and selling US dollars.</p>
-                    <h5 class="fs-six  mb-2 mt-2">Bid and Ask Price :</h5>
-                    <p class="fs-six ">Each currency pair has two prices: the bid price (the price at which you can
-                        sell the base currency) and the ask price (the price at which you can buy the base currency).
-                        The difference between these two prices is called the spread, which is how brokers make their
-                        profit.</p>
-                    <h5 class="fs-six mb-2 mt-2">Long and Short Positions :</h5>
-                    <p class="fs-six ">In forex trading, you can either go long (buy) or go short (sell) on a
-                        currency pair. Going long means you expect the base currency to strengthen against the quote
-                        currency, while going short means you expect it to weaken.</p>
-                    <h5 class="fs-six  mb-2 mt-2">Leverage :</h5>
-                    <p class="fs-six ">Forex trading often involves the use of leverage, which allows you to
-                        control a large position with a relatively small amount of capital. Leverage amplifies both
-                        potential profits and losses, so it's essential to use it wisely and manage risk.</p>
-                    <h5 class="fs-six  mb-2 mt-2">Lots and Pip Values :</h5>
-                    <p class="fs-six ">Trades in forex are typically done in standard, mini, or micro lots. The
-                        value of each pip depends on the lot size and the currency pair being traded. It's important to
-                        understand how pip values affect your potential profits and losses. </p>
-                    <h5 class="fs-six  mb-2 mt-2">Analyzing the Market :</h5>
-                    <p class="fs-six">Successful forex trading requires analyzing the market to make informed
-                        trading decisions. This involves technical analysis (studying price charts and indicators) and
-                        fundamental analysis (considering economic factors and news events).</p>
-                    <h5 class="fs-six  mb-2 mt-2">Risk Management :</h5>
-                    <p class="fs-six ">Managing risk is crucial in forex trading. This includes setting stop-loss
-                        orders to limit potential losses, using proper lot sizes, and avoiding overleveraging.</p>
-                    <h5 class="fs-six  mb-2 mt-2">Execution :</h5>
-                    <p class="fs-six ">Once you've analyzed the market and decided on a trade, you execute the
-                        trade through your broker's trading platform. You specify the currency pair, lot size, and
-                        whether you're buying or selling.</p>
-                    <h5 class="fs-six mb-2 mt-2">Monitoring and Exiting Trades :</h5>
-                    <p class="fs-six ">After entering a trade, it's important to monitor it closely. You can set
-                        take-profit and stop-loss orders to automatically exit trades at predetermined levels. It's
-                        essential to stick to your trading plan and avoid emotional decision-making.</p>
-                    <h5 class="fs-six  mb-2 mt-2">Continuous Learning :</h5>
-                    <p class="fs-six">Forex trading is a skill that requires continuous learning and improvement.
-                        Stay updated on market developments, hone your trading strategies, and learn from both successes
-                        and failures.</p>
-                    <p class="fs-six  mt-5">Remember, forex trading carries a high level of risk, and it's possible
-                        to
-                        lose more than your initial investment. Therefore, it's crucial to approach trading with
-                        caution, discipline, and a sound risk management strategy.</p>
+            <div id="question2" class="row gy-6 gy-xxl-0">
+                <div class="pt-150">
+                    <div class="table-para mt-5 mb-5">
+                        <h3 class="mb-4 mb-lg-5">2.What is the process of trading forex?</h3>
+                        <h5 class="mt-2 mb-2 mb-lg-5">As a beginner, understanding how trading in forex works is crucial for
+                            your success. Here's a simplified explanation</h5>
+                        <h5 class="fs-six  mb-2 mt-2">Currency Pairs :</h5>
+                        <p class="fs-six ">Forex trading involves the buying and selling of currency pairs. A currency
+                            pair consists of two currencies, where one currency is being bought while the other is being
+                            sold. For example, in the EUR/USD pair, you're buying euros and selling US dollars.</p>
+                        <h5 class="fs-six  mb-2 mt-2">Bid and Ask Price :</h5>
+                        <p class="fs-six ">Each currency pair has two prices: the bid price (the price at which you can
+                            sell the base currency) and the ask price (the price at which you can buy the base currency).
+                            The difference between these two prices is called the spread, which is how brokers make their
+                            profit.</p>
+                        <h5 class="fs-six mb-2 mt-2">Long and Short Positions :</h5>
+                        <p class="fs-six ">In forex trading, you can either go long (buy) or go short (sell) on a
+                            currency pair. Going long means you expect the base currency to strengthen against the quote
+                            currency, while going short means you expect it to weaken.</p>
+                        <h5 class="fs-six  mb-2 mt-2">Leverage :</h5>
+                        <p class="fs-six ">Forex trading often involves the use of leverage, which allows you to
+                            control a large position with a relatively small amount of capital. Leverage amplifies both
+                            potential profits and losses, so it's essential to use it wisely and manage risk.</p>
+                        <h5 class="fs-six  mb-2 mt-2">Lots and Pip Values :</h5>
+                        <p class="fs-six ">Trades in forex are typically done in standard, mini, or micro lots. The
+                            value of each pip depends on the lot size and the currency pair being traded. It's important to
+                            understand how pip values affect your potential profits and losses. </p>
+                        <h5 class="fs-six  mb-2 mt-2">Analyzing the Market :</h5>
+                        <p class="fs-six">Successful forex trading requires analyzing the market to make informed
+                            trading decisions. This involves technical analysis (studying price charts and indicators) and
+                            fundamental analysis (considering economic factors and news events).</p>
+                        <h5 class="fs-six  mb-2 mt-2">Risk Management :</h5>
+                        <p class="fs-six ">Managing risk is crucial in forex trading. This includes setting stop-loss
+                            orders to limit potential losses, using proper lot sizes, and avoiding overleveraging.</p>
+                        <h5 class="fs-six  mb-2 mt-2">Execution :</h5>
+                        <p class="fs-six ">Once you've analyzed the market and decided on a trade, you execute the
+                            trade through your broker's trading platform. You specify the currency pair, lot size, and
+                            whether you're buying or selling.</p>
+                        <h5 class="fs-six mb-2 mt-2">Monitoring and Exiting Trades :</h5>
+                        <p class="fs-six ">After entering a trade, it's important to monitor it closely. You can set
+                            take-profit and stop-loss orders to automatically exit trades at predetermined levels. It's
+                            essential to stick to your trading plan and avoid emotional decision-making.</p>
+                        <h5 class="fs-six  mb-2 mt-2">Continuous Learning :</h5>
+                        <p class="fs-six">Forex trading is a skill that requires continuous learning and improvement.
+                            Stay updated on market developments, hone your trading strategies, and learn from both successes
+                            and failures.</p>
+                        <p class="fs-six  mt-5">Remember, forex trading carries a high level of risk, and it's possible
+                            to
+                            lose more than your initial investment. Therefore, it's crucial to approach trading with
+                            caution, discipline, and a sound risk management strategy.</p>
+                    </div>
                 </div>
+                
             </div>
         </div>
 </section>
 
-<section class="provide-world pt-60 position-relative z-0 pb-60" style="background-color: #000;">
+<section class="provide-world pt-60 position-relative z-0 pb-60">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="row gy-6 gy-xxl-0">
-                <div class="table-para mt-5 mb-5">
+            <div id="question3" class="row gy-6 gy-xxl-0 pt-150">
+                <div  class="table-para mt-5 mb-5 ">
                     <h3 class="mb-4 mb-lg-5">3.Why do people engage in forex trading?</h3>
                     <p class="fs-six  ">People trade forex for various reasons, including the potential for
                         profits,
@@ -337,10 +322,10 @@
         </div>
 </section>
 
-<section class="provide-world pt-60 position-relative z-0 pb-60" style="background-color: #000;">
+<section class="provide-world pt-60 position-relative z-0 pb-60">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="row gy-6 gy-xxl-0">
+            <div id="question4" class="row gy-6 gy-xxl-0 pt-150">
                 <div class="table-para mt-5 mb-5">
                     <h3 class="mb-4 mb-lg-5">4.Discover how the currency markets operate.</h3>
                     <h5 class="fs-six  mb-2 mt-2">Central Banks :</h5>
@@ -367,10 +352,10 @@
         </div>
 </section>
 
-<section class="provide-world pt-60 position-relative z-0 pb-60" style="background-color: #000;">
+<section class="provide-world pt-60 position-relative z-0 pb-60 pb-120">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="row gy-6 gy-xxl-0">
+            <div id="question5" class="row gy-6 gy-xxl-0 pt-150">
                 <div class="table-para mt-5 mb-5">
                     <h3 class="mb-4 mb-lg-5">5. How To Start Trading Forex</h3>
                     <h5 class="fs-six  mb-2 mt-2">Key Steps for Becoming a Forex Trader :</h5>

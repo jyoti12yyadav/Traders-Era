@@ -10,7 +10,22 @@
 }
 
 </style>
-
+<section class="banner-section  pt-120 pb-120">
+    <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
+        <div class="row">
+            <div class="col-12 breadcrumb-area ">
+                <h2 class="mb-4">Binary</h2>
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb mb-0">
+                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                        <li class="breadcrumb-item ms-2 ps-7 active" aria-current="page"><span>Learn</span></li>
+                        <li class="breadcrumb-item ms-2 ps-7 active" aria-current="page"><span>Binary</span></li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+</section>
 <section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
     <div class="animation vector position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="vector"
