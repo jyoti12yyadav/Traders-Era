@@ -32,6 +32,16 @@
     border-bottom: 1px solid #353535;
     padding-bottom: 30px;
 }
+
+
+.pb-120 {
+    padding-bottom: 60px !important;
+}
+.pt-120 {
+    padding-top: 60px !important;
+}
+
+
 </style>
 <section class="banner-section pt-120 pb-120">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">

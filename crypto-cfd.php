@@ -7,6 +7,18 @@
     .widgets{
         height: 500px;
     }
+
+
+
+    .pb-120 {
+    padding-bottom: 60px !important;
+}
+.pt-120 {
+    padding-top: 60px !important;
+}
+
+
+
 </style>
 
 <section class="banner-section  pt-120 pb-120">

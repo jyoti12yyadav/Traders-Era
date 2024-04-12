@@ -1,5 +1,15 @@
 <?php include("includes/header.php"); ?>
 
+<style>
+    
+.pb-120 {
+    padding-bottom: 60px !important;
+}
+.pt-120 {
+    padding-top: 60px !important;
+}
+
+</style>
 
 <section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
     <div class="animation vector position-absolute top-0 left-0 w-100 h-100 z-n1">

@@ -29,11 +29,11 @@
 }
 
 .pb-120 {
-    padding-bottom: 40px;
+    padding-bottom: 60px;
 }
 
 .pt-120 {
-    padding-top: 40px;
+    padding-top: 60px;
 }
 
 </style>
