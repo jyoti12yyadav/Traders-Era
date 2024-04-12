@@ -174,7 +174,7 @@
     </div>
 </section> -->
 
-<section class="faq a2-bg pb-120 pt-120 position-relative z-0">
+<section class="faq pb-120 pt-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/button.png" alt="vector"
             class="position-absolute pt-6 pt-xl-15 previewShapeRevX d-none d-xl-flex">
