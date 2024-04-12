@@ -1,14 +1,13 @@
 <?php include("includes/header.php"); ?>
 
 <style>
+    .pb-120 {
+        padding-bottom: 60px !important;
+    }
 
-
-.pb-120 {
-    padding-bottom: 60px !important;
-}
-.pt-120 {
-    padding-top: 60px !important;
-}
+    .pt-120 {
+        padding-top: 60px !important;
+    }
 
 
     .table-para {
@@ -24,7 +23,8 @@
         padding: 30px;
         border-radius: 19px;
     }
-    tr{
+
+    tr {
         text-align: center;
     }
 </style>
@@ -96,16 +96,16 @@
                             <th scope="col"
                                 style="background-color: #F5C06D;color: black;text-align: center;font-size: 16px;padding:20px;display: table-cell;">
                                 Value Of Pip</th>
-                                <th scope="col"
+                            <th scope="col"
                                 style="background-color: #F5C06D;color: black;text-align: center;font-size: 16px;padding:20px;display: table-cell;">
                                 Best Spread</th>
-                                <th scope="col"
+                            <th scope="col"
                                 style="background-color: #F5C06D;color: black;text-align: center;font-size: 16px;padding:20px;display: table-cell;">
                                 Contract Size</th>
-                                <th scope="col"
+                            <th scope="col"
                                 style="background-color: #F5C06D;color: black;text-align: center;font-size: 16px;padding:20px;display: table-cell;">
                                 Margin Requirements</th>
-                                <th scope="col"
+                            <th scope="col"
                                 style="background-color: #F5C06D;color: black;text-align: center;font-size: 16px;padding:20px;display: table-cell;">
                                 Market Trading Hours (24 hrs)</th>
                         </tr>
@@ -118,43 +118,349 @@
                             <td>Minimum 10K in base currency</td>
                             <td>5%</td>
                             <td>05:00 (Monday) –05:00 (Saturday) (DS)
-06:00 (Monday) – 06:00 (Saturday) (Non-DS)  </td>
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS) </td>
                         </tr>
                         <tr>
-                            <td>Asset Class </td>
-                            <td>Foreign Exchange (FX)</td>
+                            <td>AUD/CHF </td>
+                            <td>CHF1</td>
+                            <td>1.9 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td> 05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
                         </tr>
                         <tr>
-                            <td>Leverage</td>
-                            <td>Amplify your trades with flexible leverage</td>
+                            <td>AUD/JPY</td>
+                            <td> ¥100</td>
+                            <td>1.2 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
                         </tr>
                         <tr>
-                            <td>Trading Hours</td>
-                            <td>Access the markets 24/5</td>
+                            <td>AUD/NZD</td>
+                            <td> NZ$1</td>
+                            <td>1.7 Pips</td>
+                            <td> Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
                         </tr>
                         <tr>
-                            <td>Variety</td>
-                            <td>Trade a wide range of currency pairs</td>
+                            <td>AUD/SGD</td>
+                            <td> S$1</td>
+                            <td>2.1 Pips</td>
+                            <td> Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
                         </tr>
                         <tr>
-                            <td>Hedging</td>
-                            <td>Utilize hedging strategies for risk management</td>
+                            <td>AUD/USD</td>
+                            <td>US$1</td>
+                            <td>0.3 Pips</td>
+                            <td> Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
                         </tr>
                         <tr>
-                            <td>Accessibility</td>
-                            <td>Trade from anywhere with our user-friendly platform</td>
+                            <td>CAD/CHF</td>
+                            <td>CHF1</td>
+                            <td>1.9 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
                         </tr>
                         <tr>
-                            <td>Risk Management</td>
-                            <td>Set stop-loss orders and manage risk effectively</td>
+                            <td>CAD/JPY</td>
+                            <td>¥100</td>
+                            <td>1.5 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
                         </tr>
                         <tr>
-                            <td>Market Analysis</td>
-                            <td>Access real-time charts and analysis tools</td>
+                            <td>CAD/SGD</td>
+                            <td> S$1</td>
+                            <td>2.3 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
                         </tr>
                         <tr>
-                            <td>Support</td>
-                            <td>Expert support team available for assistance</td>
+                            <td>CHF/JPY</td>
+                            <td> ¥100</td>
+                            <td> 1.7 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
+                        </tr>
+                        <tr>
+                            <td>CHF/SGD</td>
+                            <td> S$1</td>
+                            <td>2.5 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
+                        </tr>
+                        <tr>
+                            <td>EUR/AUD</td>
+                            <td>AUD1</td>
+                            <td>1.9 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
+                        </tr>
+                        <tr>
+                            <td>EUR/CAD</td>
+                            <td>C$1</td>
+                            <td>2.1 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
+                        </tr>
+                        <tr>
+                            <td>EUR/CHF</td>
+                            <td>CHF1</td>
+                            <td>1.5 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
+                        </tr>
+                        <tr>
+                            <td>EUR/GBP</td>
+                            <td>£1</td>
+                            <td>0.6 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
+                        </tr>
+                        <tr>
+                            <td>EUR/JPY</td>
+                            <td>  ¥100</td>
+                            <td>0.5 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
+                        </tr>
+                        <tr>
+                            <td>EUR/NZD</td>
+                            <td>NZ$1</td>
+                            <td>2.7 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
+                        </tr>
+                        <tr>
+                            <td>EUR/SGD</td>
+                            <td>  S$1</td>
+                            <td>2.1 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
+                        </tr>
+                        <tr>
+                            <td>EUR/USD</td>
+                            <td> US$1</td>
+                            <td>0.3 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
+                        </tr>
+                        <tr>
+                            <td>GPB/AUD</td>
+                            <td>AUD1</td>
+                            <td>2.9 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
+                        </tr>
+                        <tr>
+                            <td>GPB/CAD</td>
+                            <td>C$1</td>
+                            <td>2.9 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
+                        </tr>
+                        <tr>
+                            <td>GPB/CHF</td>
+                            <td>CHF1</td>
+                            <td>2.9 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
+                        </tr>
+                        <tr>
+                            <td>GPB/JPY</td>
+                            <td>¥100</td>
+                            <td>1.9 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
+                        </tr>
+                        <tr>
+                            <td>GPB/NZD</td>
+                            <td>NZ$1</td>
+                            <td>1.9 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
+                        </tr>
+                        <tr>
+                            <td>GPB/SGD</td>
+                            <td>  S$1</td>
+                            <td>2.1 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
+                        </tr>
+                        <tr>
+                            <td>GPB/USD</td>
+                            <td>US$1</td>
+                            <td>0.3 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
+                        </tr>
+                        <tr>
+                            <td>NZD/CAD</td>
+                            <td>C$1</td>
+                            <td>2.9 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
+                        </tr>
+                        <tr>
+                            <td>NZD/CHF</td>
+                            <td>CHF1</td>
+                            <td>2.9 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
+                        </tr>
+                        <tr>
+                            <td>NZD/JPY</td>
+                            <td>  ¥100</td>
+                            <td>2.1 Pips</td>
+                            <td>	Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
+                        </tr>
+                        <tr>
+                            <td>NZD/SGD</td>
+                            <td>S$1</td>
+                            <td>2.9 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
+                        </tr>
+                        <tr>
+                            <td>NZD/USD</td>
+                            <td>US$1</td>
+                            <td>1.9 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
+                        </tr>
+                        <tr>
+                            <td>SGD/JPY</td>
+                            <td>  ¥100</td>
+                            <td>1.9 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
+                        </tr>
+                        <tr>
+                            <td>USD/CAD</td>
+                            <td> C$1</td>
+                            <td>1.6 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
+                        </tr>
+                        <tr>
+                            <td>USD/CNH</td>
+                            <td>RMB1</td>
+                            <td>1.5 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
+                        </tr>
+                        <tr>
+                            <td>USD/CHF</td>
+                            <td>CHF1</td>
+                            <td>1.4 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
+                        </tr>
+                        <tr>
+                            <td>USD/HKD</td>
+                            <td>HKD1</td>
+                            <td>1.5 Pips</td>
+                            <td>	Minimum 10K in base currency</td>
+                            <td>10%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
+                        </tr>
+                        <tr>
+                            <td>USD/JPY</td>
+                            <td>¥100</td>
+                            <td>0.4 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
+                        </tr>
+                        <tr>
+                            <td>USD/SGD</td>
+                            <td>S$1</td>
+                            <td>0.4 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
+                        </tr>
+                        <tr>
+                            <td>USD/TBH</td>
+                            <td>THB100</td>
+                            <td>0.5 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            <td>5%</td>
+                            <td>05:00 (Monday) –05:00 (Saturday) (DS)
+                                06:00 (Monday) – 06:00 (Saturday) (Non-DS)</td>
                         </tr>
                     </tbody>
                 </table>
