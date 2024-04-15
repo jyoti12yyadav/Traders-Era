@@ -12,124 +12,231 @@ switch ($menuactive) {
         $canonical ="https://fxbrokerservice.com/";
         break;
 
-    case 'about.php':
-        $title = "About Us | Forex Broker | Forex Grey Label | FXBrokerservice";
-        $description = "Ready to become a Forex Broker? FXBrokerservice offers the best Forex Grey Label and Foex Brokerage Solutions. Experience success in the Forex Market.";
-        $keywords = "Forex Broker, Forex Grey Label, Forex Business, Forex Company, Forex Brokerage Solution, MT4 Grey Label, MT5 Grey Label,  Forex Brokerage Services, Forex Trading, Forex Brokerage Technology, Forex Brokerage Solutions, Start your Forex Brokerage Business, Vision, Mission, Forex Brokerages, Online Forex Trading, FX Broker, Brokerage Business, Forex Trading Platforms, Start Your Own Forex Brokerage, How to Start Forex Trading, About us,";
-        $name="About us";
-        $alternateName="About us";
+    case 'fx-cfd.php':
+        $title = "Forex CFDs | currency CFD | Foreign Exchange Contracts";
+        $description = "Discover the world of foreign exchange contracts and currency CFD trading on our website. Explore the potential of CFD forex trading today! Start now.";
+        $keywords = "FX CFDs, Foreign Exchange Contracts, currency CFD, forex market, trade currency pairs, leverage, quote currency, CFD forex trading, Forex CFDs trade, Spot Markets, Spot Forex, CFD account, Spot FX CFD, CFD FX options, CFD trading, CFD strategy";
+        $name="fx-cfd";
+        $alternateName="fx-cfd";
         $url="https://fxbrokerservice.com/about.php";
         break;
 
 
-    case 'broker-crm.php':
-        $title = "Forex CRM Solution | Forex Trading Platform | FXBrokerService";
-        $description = "Discover the ultimate Forex CRM solution! Elevate your Forex Trading game with our cutting-edge platform and expert Broker CRM services. Contact us today.";
-        $keywords = "Forex CRM, Forex CRM Solution, Forex Trading Platform, FXCRM,  FX Solutions, Forex Brokerage Business, Forex CRM Platform, Advantage of CRM, Forex CRM Provider, Feature of CRM, Forex CRM Software, Best Forex Trading Platform, Forex Brokers, Forex Trader Platform, CRM System, Forex Traders, Forex Brokerage, Forex Website Solutions, Broker Solutions";
-        $name="Broker CRM";
-        $alternateName="Broker CRM";
+    case 'crypto-cfd.php':
+        $title = "Crypto CDFs | CFD Cryptocurrency | Leveraged Trading";
+        $description = "Explore the exciting world of CFD cryptocurrency trading and leverage options. Take advantage of our CFD investment platform to grow your wealth. Start now!";
+        $keywords = "CFD Cryptocurrency, crypto cdfs, CFD trading, leveraged trading, Bitcoin, Ethereum, Ripple, Litecoin, Bitcoin Cash, leverage options, CFD investment, trade cryptocurrencies, digital assets, ";
+        $name="crypto-cfd";
+        $alternateName="crypto-cfd";
         $url="https://fxbrokerservice.com/broker-crm.php";
         break;
 
-    case 'broker-website.php':
-        $title = "Forex Web Design | Broker Website Solutions - FXBrokerService";
-        $description = "Transform your Forex Business with our cutting-edge Web Design and Broker Website Solutions. Take your online presence to the next level. Get started today!";
-        $keywords = "Forex Web Design, Broker Website, Website Solutions, Best Trading Website, Forex Broker, Best Trading Site, Web Design, Website Design, Website Development, Web site, Make Website, Web Developer Companies, Web Design Company, Web Page Design, Website Design Company, Website Broker, Website Services, Forex Broker Website, Forex Website, Online trading Website Design, Forex Signals Website template, Fx Brokers, FX Industry, SEO Integration, Payment Methods, Payment Process, Landing Pages, Forex Website Design, Forex Trading Platforms, Forex Broker Website Template, Free Forex Trading Website Templates, How to create a Forex Trading Website, Trading Website Design, How to create a Broker Website";
-        $name="BrokerWebsite";
-        $alternateName="BrokerWebsite";
+    case 'Binary.php':
+        $title = "Binary Options | Forex Binary Trading |  Binary Trading Platforms";
+        $description = "Unlock the power of Binary Options Trading. Trade binary options and explore a wide range of financial instruments on our website. Start trading now!";
+        $keywords = "Binary Trading, binary options trading, binary options trading strategy, trade binary options, financial instruments, Forex binary options, forex binary trading, Forex binary trading platforms ";
+        $name="Binary";
+        $alternateName="Binary";
         $url="https://fxbrokerservice.com/broker-website.php";
         break;
 
-    case 'corporate-services.php':
-        $title = "FXbroker's Corporate Service | Offshore Bank Account | Forex Solution";
-        $description = "We at FXBrokerservice have a highly Professional Team with an in-depth understanding of each jurisdiction & Help customers build and manage Forex brokerage businesses.";
-        $keywords = "Corporate Services, Offshore Bank Account, Banking Corporation, Business Accounts, Bank Account, Corporate Account, Offshore Banking, Offshore Company, Corporate Bank, Bank Services, Bank Company, Bank Business, Account Company, Offshore Account, Business Bank Account, Company Bank Account, Company Services, Bank Forex, Corporate Services Companies, Comapny Incorporation, Forex Business, Banking Requirements, Virtual Office Services, Online Trading, Online Trading Business, Forex Industry, Brokerage Business, Legal Compliance, Offshore Company Formation, , Forexbroker, Forexbrokerservices, Brokerage Business, Forex Brokerage";
-        $name="Corporate Services";
-        $alternateName="Corporate Services";
+    case 'account-types.php':
+        $title = "Trading Account Types | Forex Trading Accounts  ";
+        $description = "Start trading with confidence on the best Forex trading account. Explore different Forex account types to suit your trading needs. Start trading now!";
+        $keywords = "Trading Account Forex, Binary Options Trading, Forex account types, trading account for Forex, indices, stocks, commodities, forex trading account opening online, MT5 Trading Account, Tight Spreads, Forex Leverage, binary options, financial instruments";
+        $name="Account Types";
+        $alternateName="Account Types";
         $url="https://fxbrokerservice.com/corporate-services.php";
         break;
 
-    case 'forex-seo.php':
-        $title = "Forex SEO | Forex SEO Solutions | SEO For Forex Companies";
-        $description = "Boost your Forex website's visibility and rankings with our Expert Forex SEO Solutions  Trust our proven strategies for success Contact us now today!";
-        $keywords = "Forex SEO, SEO Solutions, Forex SEO Marketing, FX Broker, SEO, SEO Services, FX SEO,  Digital Marketing Services, Marketing Services, SEO Digital Marketing, SEO Agency, SEO Marketing,  SEO Strategy, Forex Company, Forex Brokerage, SEO Provider,  Digital Marketing Company, Digital Marketing Services, SEO and Digital Marketing, Best SEO Marketing Companies, SEO Internet Marketing, SEO Forex, Forex Business, Best SEO Solutions, Forex SEO Company, Forex SEO Agency, Forex SEO Firms, SEO Online Marketing";
-        $name="Forex SEO";
-        $alternateName="Forex SEO";
+    case 'deposit.php':
+        $title = "Forex Trading Deposit | Forex Trading";
+        $description = "Discover the power of Forex Trading Deposit and unlock your financial potential. Join our platform today and start trading with confidence.";
+        $keywords = "Forex Trading Deposit, Forex Trading, ";
+        $name="Deposit";
+        $alternateName="Deposit";
         $url="https://fxbrokerservice.com/forex-seo.php";
         break;
 
-    case 'logo-design.php':
-        $title = "Logo Design Services | Logo Design Firm - FXBrokerService";
-        $description = "Looking for a Logo Design Services? Our Logo Design firm offers top-notch services to create a unique and compelling Logo for your Business. Contact us today.";
-        $keywords = "Logo Design Solutions, Logo Design Company, Logo Maker, Logo Design Agency, Logo Design Firm, Logo Design For Business, Logo Design Online, Company Logo Design, Best Logo Maker, Brand Logo Maker, Logo Design Maker, Forex Logo, Logo Design Website, Name Logo Maker, Best Logo Design, Logo Design Creator, Creative Logo Maker, Best Logo Design Software, Logo Design Tool, Logo Design Services,";
-        $name="Logo Design";
-        $alternateName="Logo Design";
+    case 'withdrawal.php':
+        $title = "Forex Money Withdrawal | Forex Withdrawal Methods";
+        $description = "Withdraw your Forex trading profits with ease using our secure and efficient platform. Learn more about Forex money withdrawal today !";
+        $keywords = "Forex Withdrawal Methods, Forex Money Withdrawal, Forex Trading Wthdrawal, Forex Withdraw Money, Forex Funds Withdrawal Methods ";
+        $name="Withdrawal";
+        $alternateName="Withdrawal";
         $url="https://fxbrokerservice.com/logo-design.php";
         break;
 
-    case 'mt4.php':
-        $title = "MT4 Grey Label | Trading Platform | Forex Grey Label Setup | Low Cost";
-        $description ="Get started MT4 Grey Label Platform with FXBrokerService. Free setup, a FREE Website for CRM, and Free SEO Services for 1 month Get your Demo Now.";
-        $keywords ="MT4 Grey Label, MT4 Grey Label Provider, Forex Grey Label, MT4, MT5, MT4 Trading, MetaTrader 4, MT4 Trading Platform, MT4 Platform, MT4 Grey Label Cost,  Forex Broker Services,  Best Forex Brokerage, Broker Forex, Forex Trading Broker, MT4 Brokers, Forex Broker, Forex Grey Label Solution, MetaTrader Broker, Metaquotes, Forex Market, Trading Platform, Best Forex Trading Platform, Forex Trading Platform, Brokerage Firms, Best Forex Broker, Start a Forex Brokerage, MetaTrader Solution, MT4 Software, MT5 Software";
-        $name="MT4";
-        $alternateName="MT4";
+    case 'offers.php':
+        $title = "Our Forex Offers | Forex Cards | Forex Trading Bonus";
+        $description ="Step into Forex trading with our exceptional offers and bonuses, take advantage of rewarding promotions, and boost your profits. Start exploring now!";
+        $keywords ="forex offers, Forex Offers Online, Forex Cards, Currency Notes, Reload Forex Cards, Forex offers today, forex trading bonus offers, ";
+        $name="Offers";
+        $alternateName="Offers";
         $url="https://fxbrokerservice.com/mt4.php";
         break;
 
-    case 'mt5.php':
-        $title ="MT5 Grey Label | Forex Brokerage Business | MT5 Platform";
-        $description ="Discover the Power of MT5 Grey Label Platform with us. We offer a Quick Setup, a Free Website for PAMM CRM, and Book a Demo Today.";
-        $keywords ="MT5 Grey Label, Forex Broker, MT5 Grey Label Provider, Forex Trading, MetaTrader 5, Forex Grey Label, MT5 Grey Label Cost, Trading Platform, Trading Business, Broker Forex, Trading Software, MT5 Trading, Forex Platform, MT5 Brokers, MT5 Trading Platform, MetaTrader 5 Brokers, MT5 Platform, Forex Marketing, Forex Business, Brokerage Business,  How to Start a Forex Brokerage Firm, How to Start Forex Brokerage Business, Forex Grey Label Provider, Forex Broker Services, MT5 Manager, Forex Grey Label Solution, MT4 Software, MT5 Software, Forex Brokerage Business with MT5 Grey Label, MetaTrader Software,";
-        $name="MT5";
-        $alternateName="MT5";
+    case 'crypto.php':
+        $title ="Crypto Trading | TradersEra Crypto Trading Platform ";
+        $description ="Dive into the world of cryptocurrency with our advanced Crypto Trading Platform. Maximize your profits today.";
+        $keywords ="Crypto Trading, crypto trading platform, crypto trading app, crypto trading strategies ";
+        $name="Crypto";
+        $alternateName="Crypto";
         $url="https://fxbrokerservice.com/mt5.php";
         break;
 
-    case 'our-servers.php':
-        $title = "Forex Trading Servers | Our Servers |  Best Trading Servers";
-        $description = "We offer you High Speed & stable Forex Trading Servers for your Brokerage Business With Our FXBrokerservice, you can experience its technological advantage today";
-        $keywords = "Forex Trading, Forex Server, MT4 Trading, Forex Market, MT5 Trading, Trading FX, MT4 Forex, Best Forex, Best Forex Trading, Forex Business, mt4 mt5, MT5 Market, MT5 Forex, MT4 Market, Best Forex to Trade, Our Server, Forex Trading mt4, MT4 and MT5, MT4 to MT5, Best Forex Trading Company, Forex, and Trading, Best Forex Markets to Trade, MT5 Server, MT4 Server, MT5 Forex Trading, Best Forex Companies, Marketing Liquidity, MET5 Accounts, MET4 Accounts, Trading Servers, Global Trading, Global Trading Platform, Trading Networks, Fibre Optic Network, AWS, AWS Process, Equinix, FXbrokerservice, Forex Broker Regulation";
-        $name="Our Server";
-        $alternateName="Our Server";
+    case 'indices.php':
+        $title = "Indices Trading | Indices Trading Platform | Futures Indices";
+        $description = "Unlock the potential of indices trading with our user-friendly platform. Stay ahead of the game and maximize your profits. Start trading indices today!";
+        $keywords = "trade indices, Indices trading, indices trading platform, CFDs, Equity Indices Spreads, Futures Indices,";
+        $name="Indices";
+        $alternateName="Indices";
         $url="https://fxbrokerservice.com/our-servers.php";
         break;
 
-    case 'psp.php':
-        $title = "Forex Payment | PSP Services | Payment Gateways Solutions";
-        $description = "Discover Seamless Forex Payment Gateways PSP Services for secure transactions. Explore our Payment Gateway Solutions to elevate your Forex Business";
-        $keywords = "Forex Payment, PSP Services, Payment Gateway Solutions, Payment Gateway, Online Payment, Online Payment Gateway, Forex Payment Service Provider, Payment Gateway for Website, PSP Payment, Payment Services, Gateway Services, Payment on Account, Online Payment Services, Payment Account, Payment Gateway Services, Secure Payment Gateway, Payment Website, Payments and Security, Payments Solutions, Online Gateways, Online Payment Solutions, Forex Payment Methods, Online Forex Payment, Forex Brokerage, Forex Merchant Account, International Payment Gateway, Global Payment Gateways, Worldwide Online Payment Gateway,  Best Payment, Payment Gateway Providers, Forex CRM";
-        $name="PSP";
-        $alternateName="PSP";
+    case 'stocks.php':
+        $title = "Stock Trading | Stocks Trading platform | Stock Buy and Sell";
+        $description = "Dive into the world of stock market trading with TradersEra. Stay ahead with our cutting-edge tools. Visit us today!";
+        $keywords = "Stocks Buying and Selling, Stock Trading, buying and selling of shares, buying and selling of stock, stock market trading   ";
+        $name="Stocks";
+        $alternateName="Stocks";
         $url="https://fxbrokerservice.com/psp.php";
         break;
 
-    case 'team.php':
-        $title = "FXBrokerservice| Meet Our Experienced & Professional Team - Leadership";
-        $description = "We are proud to introduce our highly talented Team & Technically sound people with outstanding Leadership qualities. We will provide you with all the Forex Services.";
-        $keywords = "Forex Brokers, Best Forex Broker, Forex Trading Platforms, Best Trading Platform, Forex Market, Trading Platform, Best Trading, trading fx, MT4 Trading, MT5 Trading, Trading FX, MT4 Forex, Best Forex, Best Forex Trading, Forex Business, mt4 mt5, MT5 Market, MT5 Forex, MT4 Market, Best Forex to Trade, Forex Trading mt4, MT4 and MT5, MT4 to MT5, Best Forex Trading Company, Forex and Trading, Forex Brokerage, Forex Business, Forex Brokerage Business, FX Broker, Forex SEO, CRM, Broker Website,  Start a Forex Brokerage Business
-        ";
-        $name="";
-        $alternateName="";
+    case 'forex.php':
+        $title = "Forex Trading | Forex Trading Platform | Online Forex Trade";
+        $description = "Start Forex trading with TraderEra and Unlock your potential and maximize your profits with our top-notch services.";
+        $keywords = "Forex Trading, Trade Online, trade forex, forex market, Online Forex Trade, ";
+        $name="Forex";
+        $alternateName="Forex";
         $url="";
         break;
 
-    case 'standard-mt4-mt5.php':
-            $title = "Standard MT4 and MT5 Software Price, Plans | FXBrokerService";
-            $description = "FXBrokerService offers the Best standard mt4 & mt5 software. Our features include Free Website & Branding, Very Quick Setup, and Free logo, for more info Contact us today.";
-            $keywords = "Forex Brokers, Forex Trading, Best Forex Broker, Best Broker for Trading, Forex Trading Platforms, Best Trading Platform, Trading Platforms, Trading Business, Trading Software, Online Trading Platform, Trading FX, Company Trading, Top Forex Brokers, Forex Trading Brokers, FX Broker, MET5 Greylable, MET4 Greylable, MET5, MET4, MET4 Greylabel, MT5 Pricing, MT4 Pricing, Metatrader Price, trading software, MT4 Fees, MT5 Fees, mt4 and mt5, Standard MT4, Standard MT5";
-            $name="Standard MT4/MT5";
-            $alternateName="Standard MT4/MT5";
+    case 'commodity.php':
+            $title = "Commodity Trading | Trade in Commodities | Commodity Market";
+            $description = "Dive into the world of commodity trading and capitalize on lucrative opportunities for financial success. Trade with us and seize profitable opportunities today!";
+            $keywords = "Commodity Trading, oil and gas, metals, Trade in Commodity Market, Commodity market, commodity trading app, Trade in Commodities";
+            $name="Commodity";
+            $alternateName="Commodity";
             $url="https://fxbrokerservice.com/standard-mt4-mt5.php";
             break;
 
-    case 'advanced-mt4-mt5.php':
-                $title = "Advanced  MT4 Tips and MT5 Software Price, Plans | FXBrokerService";
-                $description ="We offer Advanced MT4 and MT5 Software. Our Features include No setup free, Free Website & Branding, 15 Email Accounts, CRM, 24/5 Support, etc.";
-                $keywords = "Forex Brokers, Forex Trading, Best Forex Broker, Best Broker for Trading, Forex Trading Platforms, Best Trading Platform, Trading Platforms, Trading Business, Trading Software, Online Trading Platform, Trading FX, Company Trading, Top Forex Brokers, Forex Trading Brokers, FX Broker, MET5 Greylable, MET4 Greylable, MET5, MET4, MET4 Greylabel, Brokerage Business, Start Forex Brokerage, Online Forex Trading, Advanced MT4, Advanced MT5, MT5 Pricing, MT4 Pricing, Metatrader Price, trading software, MT4 Fees, MT5 Fees, mt4 and mt5,";
-                $name="Advanced MT4/MT5";
-                $alternateName="Advanced MT4/MT5";
+    case 'faq.php':
+                $title = "Forex Trading FAQ | Forex FAQ | FAQs about Forex Trading";
+                $description ="Our comprehensive Frequently Asked Questions section offers solutions to all your trading questions. Don't miss out, check it out now!";
+                $keywords = "Frequently Asked Question, Forex FAQ, Forex Trading FAQ, FAQs about Forex Trading, TradersEra FAQ,   ";
+                $name="FAQ";
+                $alternateName="FAQ";
                 $url="https://fxbrokerservice.com/advanced-mt4-mt5.php";
                 break;
+
+                case 'economic-calendar.php':
+                    $title = "Forex Economic Calendar | Forex Financial Calendar";
+                    $description = "Stay ahead of the market with TradersEra's Economic Calendar. Get real-time updates on key economic events and make informed trading decisions.";
+                    $keywords = "Forex Economic Calendar, Economic Calendar, TradersEra's Economic Calendar, Forex Financial calendar,   ";
+                    $name="Economic Calender";
+                    $alternateName="Economic Calender";
+                    $url="";
+                    break;
+
+                    case 'news-research.php':
+                        $title = "Latest Forex News | Forex News | Forex Market Updates";
+                        $description = "Stay informed with the latest Forex market updates on our website. Get real-time analysis, news, and trends to make smarter trading decisions.";
+                        $keywords = "Forex News, Forex Market Updates, Forex Market Trends, Forex Heat Map,, Forex live, Forex Market News, Latest Forex News, Forex Tranding, ";
+                        $name="News & Research";
+                        $alternateName="News & Research";
+                        $url="";
+                        break;
+
+                        case 'glossary.php':
+                            $title = "Our Glossary | Forex Glossary | Glossary of Trading Terms";
+                            $description = "Resource for understanding key terms and concepts in forex trading,, binary options. Enhance your trading knowledge and stay ahead ";
+                            $keywords = "TradersEra Forex Glossary, Forex Glossary, forex terms glossary, Forex Glossary of Terms, Glossary of Trading Terms, Forex Trading Glossary, Basic Forex terms";
+                            $name="Glossary";
+                            $alternateName="Glossary";
+                            $url="";
+                            break;
+
+                            case 'interest-rate.php':
+                                $title = "Forex Interest Rates | Forex Trading Interest Rate | Interest Rate";
+                                $description = "Explore the latest Forex interest rates and elevate your trading strategies with our comprehensive platform. Stay ahead of the curve! ";
+                                $keywords = "Forex Interest Rates, World Interest Rates Forex Trading, Interest Rate Trading, Foreign Exchange Interest Rate, forex trading interest rate ";
+                                $name="Interest Rate";
+                                $alternateName="Interest Rate";
+                                $url="";
+                                break;
+
+                                case 'become-an-iB.php':
+                                    $title = " Introducing Broker | Become a Partner | Forex IB Program";
+                                    $description = "Join the TradersEra Partner Program and unlock lucrative opportunities in forex trading, AI forex trading,  Binary Options. Collaborate with us to grow";
+                                    $keywords = "Become a Partner, forex ib program, Forex Introducing Brokers, forex ib commission, Introducing Broker, IB agents, Become an IB,";
+                                    $name="Become an Partner";
+                                    $alternateName="Become an Partner";
+                                    $url="";
+                                    break;
+
+                                    case 'tradersera.php':
+                                        $title = "About Us | Forex Trading Platform | Binary Options Trading";
+                                        $description = "TradersEra's Forex Platform provides a variety of services including online forex trading, AI Forex Trading, Binary Options, and Local Deposit. Sign Up Now ! ";
+                                        $keywords = "About Us, online forex trading, Forex service, Binary options, online forex trading, AI forex trading, Binary Options, Trade crypto, Forex trading, forex market, All in One Forex trading Platform,  ";
+                                        $name="TradersEra";
+                                        $alternateName="TradersEra";
+                                        $url="";
+                                        break;
+
+                                        case 'safety-of-funds.php':
+                                            $title = "Safety of Funds | Forex Funds | High Regulatory Standards";
+                                            $description = "Invest in Forex Funds with TradersEra and enjoy the safety of your funds through segregated accounts. Start trading with peace of mind today!";
+                                            $keywords = "Forex Funds, Safety of Funds, Segregated Accounts, Regulatory Compliance, Forex Secure Payment Gateways, High Regulatory Standards, Segregated Customer Funds";
+                                            $name="Safety of Funds";
+                                            $alternateName="Safety of Funds";
+                                            $url="";
+                                            break;
+
+                                            case 'regulatory.php':
+                                                $title = "Forex Regulatory Compliance | Forex Client Protections";
+                                                $description = "At TradersEra, we follow highest standards of regulatory compliance to protect our clients' funds, Join us for integrity, transparency, and client protection.";
+                                                $keywords = "Forex Regulatory Compliance, Forex Compliance for Trading, Forex Client Protections, Forex Regulatory Requirements, Compliance Requirements for Traders ";
+                                                $name="Regulatory";
+                                                $alternateName="Regulatory";
+                                                $url="";
+                                                break;
+
+                                                case 'help-center.php':
+                                                    $title = "Our Help Page | Forex Help | TradersEra Help";
+                                                    $description = "From navigating the markets to understanding trading strategies, we're here to help you succeed. Explore now and trade with confidence!";
+                                                    $keywords = "Help page, TradersEra Help, ";
+                                                    $name="Help";
+                                                    $alternateName="Help";
+                                                    $url="";
+                                                    break;
+
+                                                    case 'our-servers.php':
+                                                        $title = " Our Server | Equinix Server | Forex Equinix Data Center  ";
+                                                        $description = "Trade with lightning speed with our Equinix data centers. Connect to Tier 1 liquidity providers globally for instant order execution. Experience efficiency today!";
+                                                        $keywords = "Forex Equinix Data Center, Equinix Server, Equinix London, liquidity pool, Forex trading platform";
+                                                        $name="Our Servers";
+                                                        $alternateName="Our Servers";
+                                                        $url="";
+                                                        break;
+
+                                                        case 'kyc-checks.php':
+                                                            $title = " Forex Brokers KYC | Forex KYC Checks | Identity Verification";
+                                                            $description = "Trade confidently with peace of mind on TradersEra. Complete your KYC checks swiftly and securely to unlock full access to our trading platform. Start now!";
+                                                            $keywords = "Forex KYC Checks, Forex Brokers KYC, KYC Compliance for Forex Trading, Identity verification for forex brokers, Automated KYC Compliance, KYC in Forex trading, ";
+                                                            $name="KYC Checks";
+                                                            $alternateName="KYC Checks";
+                                                            $url="";
+                                                            break;
+
+                                                            case 'contact-us.php':
+                                                                $title = "Contact Us | Email Us | TradersEra Contact | Get in Touch";
+                                                                $description = "Contact TradersEra today. Have queries or need assistance? We're here to help. Reach out now !";
+                                                                $keywords = "Contact Us, Contact Us Page, TradersEra Contact, Contact Us Details, Email Us, Call Us, Submit a form, contact with us, contact website, contact us phone, online forex trading, AI forex trading, Binary Options, Trade crypto, Forex trading, forex market,  ";
+                                                                $name="Contact Us";
+                                                                $alternateName="Contact Us";
+                                                                $url="";
+                                                                break;
 
     case 'terms-condition.php':
                 $title = "Terms and Conditions";
