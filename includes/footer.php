@@ -165,6 +165,9 @@
                         <li>
                             <a class="n2-color" href="commodity.php">Commodity</a>
                         </li>
+                        <li>
+                            <a class="n2-color" href="faq.php">Faq</a>
+                        </li>
                     </ul>
                 </div>
             </div>
@@ -184,10 +187,8 @@
                         <li>
                             <a class="n2-color" href="news-research.php">News & Research</a>
                         </li>
-
-
                         <li>
-                            <a class="n2-color" href="academy.php">Academy</a>
+                            <a class="n2-color" href="glossary.php">Glossary</a>
                         </li>
                     </ul>
                     <br>
