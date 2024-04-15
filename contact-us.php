@@ -221,8 +221,8 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-8 col-xxl-7">
-                <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h3 class="mb-5 mb-lg-6">Call Us On Below Details
+                <div class="heading__content mb-2 mb-lg-6 text-center">
+                    <h3 class="mb-2 mb-lg-3">Call Us On Below Details
                     </h3>
                  
                 </div>
@@ -270,8 +270,8 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-8 col-xxl-7">
-                <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h3 class="mb-5 mb-lg-6">Our Office Locations
+                <div class="heading__content  text-center">
+                    <h3 >Our Office Locations
                     </h3>
                  
                 </div>
@@ -280,7 +280,7 @@
         <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
             <div class="col-sm-12 col-lg-12 col-xxl-12">
                 <div class="row d-flex justify-content-end">
-                    <div class="col-xxl-12 mt-8 mt-md-12 mt-xxl-13">
+                    <div class="col-xxl-12 mt-2 mt-md-12 mt-xxl-6">
                         <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
                             <div class="row">
                                 <div class="col-lg-2 d-flex align-items-center">

@@ -82,7 +82,7 @@
 </section>
 
 
-<section class="faq pb-120 pt-120 position-relative z-0">
+<section class="faq pb-60 pt-120 position-relative z-0">
     <div class="container">
         <div class="row gy-6 justify-content-center">
             <div class="col-lg-12">
@@ -143,7 +143,7 @@
     </div>
     <div class="container">
         <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
-            <h2 class=" mb-lg-5 d-flex justify-content-center">Energy</h2>
+            <h2 class=" mb-lg-1 d-flex justify-content-center">Energy</h2>
             <div class="container my-5 table-div">
             <table id="Record" class="table table-striped table-dark my-3">
             <thead>
@@ -239,7 +239,7 @@
         <img src="assets/images/star3.png" alt="vector" class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
     </div>
     <div class="container">
-        <h2 class=" mb-lg-5 d-flex justify-content-center">Metal</h2>
+        <h2 class=" mb-lg-1 d-flex justify-content-center">Metal</h2>
         <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
             <div class="container my-5 table-div">
             <table id="Record" class="table table-striped table-dark my-3 ">

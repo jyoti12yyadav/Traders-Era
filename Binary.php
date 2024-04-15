@@ -33,7 +33,7 @@
     </div>
 </section>
 
-<section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
+<section class="trade_on trade_on--secondary pt-60 pb-60 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="vector"
             class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">

@@ -43,7 +43,7 @@
     </div>
 </section>
 
-<section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
+<section class="trade_on pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/coin.png" alt="vector" class="position-absolute d-none d-md-flex previewShapeRevX">
         <img src="assets/images/star2.png" alt="vector" class="position-absolute d-none d-xl-flex push_animat">
@@ -79,7 +79,7 @@
 </section>
 
 
-<section class="provide-world a2-bg pt-120 pb-120  position-relative z-0">
+<section class="provide-world a2-bg pt-120 pb-60  position-relative z-0">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-8 col-xxl-6">

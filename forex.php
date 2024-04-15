@@ -87,7 +87,7 @@
 </section>
 
 
-<section class="provide-world pt-120 pb-120  position-relative z-0">
+<section class="provide-world pt-120 pb-60  position-relative z-0">
     <div class="container">
         <div class="row gy-6 gy-xxl-0">
             <h3 class="mb-4 mb-lg-5 d-flex justify-content-center" style="margin-bottom: 3.25rem !important;">What is Forex Trading?</h3>
