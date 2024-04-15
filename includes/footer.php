@@ -171,11 +171,7 @@
                     </ul>
                 </div>
             </div>
-
-
-
-
-
+            
             <div class="col-6 col-lg-2">
                 <div class="footer__part">
                     <h4 class="mb-6 mb-lg-8">Tools</h4>
@@ -190,6 +186,12 @@
                         <li>
                             <a class="n2-color" href="glossary.php">Glossary</a>
                         </li>
+                        <li>
+                            <a class="n2-color" href="learn.php">Learn</a>
+                        </li>
+                        <li>
+                            <a class="n2-color" href="interest-rate.php">Interest Rate</a>
+                        </li>
                     </ul>
                     <br>
                     <h4 class="mb-6 mb-lg-8 mt-4">Partners</h4>
@@ -198,11 +200,6 @@
                         <li>
                             <a class="n2-color" href="become-an-iB.php">Become An IB</a>
                         </li>
-                        <li>
-                            <a class="n2-color" href="faq.php">FAQ</a>
-                        </li>
-
-
                     </ul>
                 </div>
             </div>
@@ -225,8 +222,12 @@
                         <li>
                             <a class="n2-color" target="blank" href="https://tradersera.tawk.help/">Help Center</a>
                         </li>
-
-
+                        <li>
+                            <a class="n2-color" href="our-servers.php">Our Servers</a>
+                        </li>
+                        <li>
+                            <a class="n2-color" href="kyc-checks.php">KYC Checks</a>
+                        </li>
                     </ul>
                 </div>
             </div>
