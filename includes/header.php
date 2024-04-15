@@ -1,3 +1,5 @@
+<?php include("dynamic-data.php"); ?>
+
 <!doctype html>
 <html lang="en">
 
@@ -10,11 +12,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- #keywords -->
-    <meta name="keywords" content="boot, Bootstrap, Forex and Stock Broker HTML Template">
-    <!-- #description -->
-    <meta name="description" content="Forex and Stock Broker HTML Template">
-    <!-- #title -->
-    <title>tradez - Forex and Stock Broker HTML Template</title>
+    
+    <title><?php echo $title ?></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="<?php echo $description ?> " />
+    <meta name="keywords" content="<?php echo $keywords ?> " />
     <!-- #favicon -->
     <link rel="shortcut icon" href="assets/images/fav.png" type="image/x-icon">
     <!-- ==== css dependencies start ==== -->
