@@ -15,38 +15,10 @@
     .trad img {
         height: 70px;
     }
+    .mb-lg-8 {
+        margin-bottom: 1rem !important;
+    }
 </style>
-
-<!-- <section class="provide-world pt-120 position-relative z-0 " style="background-color: #000;">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-7 col-xxl-6">
-                <div class="heading__content  mb-lg-15 text-center">
-                    <h2 class="" style="font-size:35px; width:107%">It Is Easy To Start Trading
-                    </h2>
-                    <br>
-                    <div class="trad" >
-                        <img  src="assets/images/logo.png">
-                    </div>
-                     <span class="heading p1-color fs-six mb-5" style="margin-top:12px;">Trade with</span> 
-
-                    <a href="signup.html"
-                        class="cmn-btn fs-six-up nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-4 py-lg-3 px-lg-5 mt-7 mt-xxl-8 "
-                        style="font-weight: bold; --top: 48.609375px; --left: 193px; margin-right:2rem;">Open An New
-                        Account</a>
-                    <a href="signup.html"
-                        class="cmn-btn fs-six-up nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-4 py-lg-3 px-lg-5 mt-7 mt-xxl-8 "
-                        style="font-weight: bold; --top: 48.609375px; --left: 193px;">Open An Demo Account</a>
-                        
-                        <span class="heading p1-color fs-six mb-5 " style="margin-top:30px;">Instant account opening & funding</span>
-                </div>
-               
-            </div>
-        </div>
-
-    </div>
-</section> -->
-
 
 <footer class="footer a2-bg position-relative pt-15 pt-lg-0 z-0 ">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1 d-none d-xxxl-flex">
@@ -142,7 +114,23 @@
                         <li>
                             <a class="n2-color" href="contests.php">Contests</a>
                         </li>
+                    </ul>
+                    <br>
+                    <h4 class="mb-6 mb-lg-8 mt-4">Products</h4>
 
+                    <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4 mb-4">
+                        <li>
+                            <a class="n2-color" href="fx-cfd.php">Fx CFDs</a>
+                        </li>
+                        <li>
+                            <a class="n2-color" href="crypto-cfd.php">Crypto CFD</a>
+                        </li>
+                        <li>
+                            <a class="n2-color" href="Binary.php">Binary</a>
+                        </li>
+                        <li>
+                            <a class="n2-color" href="ai-Invest.php">AI Invest</a>
+                        </li>
                     </ul>
                 </div>
             </div>
