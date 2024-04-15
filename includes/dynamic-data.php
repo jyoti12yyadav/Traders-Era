@@ -113,154 +113,131 @@ switch ($menuactive) {
         break;
 
     case 'commodity.php':
-            $title = "Commodity Trading | Trade in Commodities | Commodity Market";
-            $description = "Dive into the world of commodity trading and capitalize on lucrative opportunities for financial success. Trade with us and seize profitable opportunities today!";
-            $keywords = "Commodity Trading, oil and gas, metals, Trade in Commodity Market, Commodity market, commodity trading app, Trade in Commodities";
-            $name="Commodity";
-            $alternateName="Commodity";
-            $url="https://fxbrokerservice.com/standard-mt4-mt5.php";
-            break;
+        $title = "Commodity Trading | Trade in Commodities | Commodity Market";
+        $description = "Dive into the world of commodity trading and capitalize on lucrative opportunities for financial success. Trade with us and seize profitable opportunities today!";
+        $keywords = "Commodity Trading, oil and gas, metals, Trade in Commodity Market, Commodity market, commodity trading app, Trade in Commodities";
+        $name="Commodity";
+        $alternateName="Commodity";
+        $url="https://fxbrokerservice.com/standard-mt4-mt5.php";
+        break;
 
     case 'faq.php':
-                $title = "Forex Trading FAQ | Forex FAQ | FAQs about Forex Trading";
-                $description ="Our comprehensive Frequently Asked Questions section offers solutions to all your trading questions. Don't miss out, check it out now!";
-                $keywords = "Frequently Asked Question, Forex FAQ, Forex Trading FAQ, FAQs about Forex Trading, TradersEra FAQ,   ";
-                $name="FAQ";
-                $alternateName="FAQ";
-                $url="https://fxbrokerservice.com/advanced-mt4-mt5.php";
-                break;
+        $title = "Forex Trading FAQ | Forex FAQ | FAQs about Forex Trading";
+        $description ="Our comprehensive Frequently Asked Questions section offers solutions to all your trading questions. Don't miss out, check it out now!";
+        $keywords = "Frequently Asked Question, Forex FAQ, Forex Trading FAQ, FAQs about Forex Trading, TradersEra FAQ,   ";
+        $name="FAQ";
+        $alternateName="FAQ";
+        $url="https://fxbrokerservice.com/advanced-mt4-mt5.php";
+        break;
 
-                case 'economic-calendar.php':
-                    $title = "Forex Economic Calendar | Forex Financial Calendar";
-                    $description = "Stay ahead of the market with TradersEra's Economic Calendar. Get real-time updates on key economic events and make informed trading decisions.";
-                    $keywords = "Forex Economic Calendar, Economic Calendar, TradersEra's Economic Calendar, Forex Financial calendar,   ";
-                    $name="Economic Calender";
-                    $alternateName="Economic Calender";
-                    $url="";
-                    break;
+    case 'economic-calendar.php':
+        $title = "Forex Economic Calendar | Forex Financial Calendar";
+        $description = "Stay ahead of the market with TradersEra's Economic Calendar. Get real-time updates on key economic events and make informed trading decisions.";
+        $keywords = "Forex Economic Calendar, Economic Calendar, TradersEra's Economic Calendar, Forex Financial calendar,   ";
+        $name="Economic Calender";
+        $alternateName="Economic Calender";
+        $url="";
+        break;
 
-                    case 'news-research.php':
-                        $title = "Latest Forex News | Forex News | Forex Market Updates";
-                        $description = "Stay informed with the latest Forex market updates on our website. Get real-time analysis, news, and trends to make smarter trading decisions.";
-                        $keywords = "Forex News, Forex Market Updates, Forex Market Trends, Forex Heat Map,, Forex live, Forex Market News, Latest Forex News, Forex Tranding, ";
-                        $name="News & Research";
-                        $alternateName="News & Research";
-                        $url="";
-                        break;
+    case 'news-research.php':
+        $title = "Latest Forex News | Forex News | Forex Market Updates";
+        $description = "Stay informed with the latest Forex market updates on our website. Get real-time analysis, news, and trends to make smarter trading decisions.";
+        $keywords = "Forex News, Forex Market Updates, Forex Market Trends, Forex Heat Map,, Forex live, Forex Market News, Latest Forex News, Forex Tranding, ";
+        $name="News & Research";
+        $alternateName="News & Research";
+        $url="";
+        break;
 
-                        case 'glossary.php':
-                            $title = "Our Glossary | Forex Glossary | Glossary of Trading Terms";
-                            $description = "Resource for understanding key terms and concepts in forex trading,, binary options. Enhance your trading knowledge and stay ahead ";
-                            $keywords = "TradersEra Forex Glossary, Forex Glossary, forex terms glossary, Forex Glossary of Terms, Glossary of Trading Terms, Forex Trading Glossary, Basic Forex terms";
-                            $name="Glossary";
-                            $alternateName="Glossary";
-                            $url="";
-                            break;
+    case 'glossary.php':
+        $title = "Our Glossary | Forex Glossary | Glossary of Trading Terms";
+        $description = "Resource for understanding key terms and concepts in forex trading,, binary options. Enhance your trading knowledge and stay ahead ";
+        $keywords = "TradersEra Forex Glossary, Forex Glossary, forex terms glossary, Forex Glossary of Terms, Glossary of Trading Terms, Forex Trading Glossary, Basic Forex terms";
+        $name="Glossary";
+        $alternateName="Glossary";
+        $url="";
+        break;
 
-                            case 'interest-rate.php':
-                                $title = "Forex Interest Rates | Forex Trading Interest Rate | Interest Rate";
-                                $description = "Explore the latest Forex interest rates and elevate your trading strategies with our comprehensive platform. Stay ahead of the curve! ";
-                                $keywords = "Forex Interest Rates, World Interest Rates Forex Trading, Interest Rate Trading, Foreign Exchange Interest Rate, forex trading interest rate ";
-                                $name="Interest Rate";
-                                $alternateName="Interest Rate";
-                                $url="";
-                                break;
+    case 'interest-rate.php':
+        $title = "Forex Interest Rates | Forex Trading Interest Rate | Interest Rate";
+        $description = "Explore the latest Forex interest rates and elevate your trading strategies with our comprehensive platform. Stay ahead of the curve! ";
+        $keywords = "Forex Interest Rates, World Interest Rates Forex Trading, Interest Rate Trading, Foreign Exchange Interest Rate, forex trading interest rate ";
+        $name="Interest Rate";
+        $alternateName="Interest Rate";
+        $url="";
+        break;
 
-                                case 'become-an-iB.php':
-                                    $title = " Introducing Broker | Become a Partner | Forex IB Program";
-                                    $description = "Join the TradersEra Partner Program and unlock lucrative opportunities in forex trading, AI forex trading,  Binary Options. Collaborate with us to grow";
-                                    $keywords = "Become a Partner, forex ib program, Forex Introducing Brokers, forex ib commission, Introducing Broker, IB agents, Become an IB,";
-                                    $name="Become an Partner";
-                                    $alternateName="Become an Partner";
-                                    $url="";
-                                    break;
+    case 'become-an-iB.php':
+        $title = " Introducing Broker | Become a Partner | Forex IB Program";
+        $description = "Join the TradersEra Partner Program and unlock lucrative opportunities in forex trading, AI forex trading,  Binary Options. Collaborate with us to grow";
+        $keywords = "Become a Partner, forex ib program, Forex Introducing Brokers, forex ib commission, Introducing Broker, IB agents, Become an IB,";
+        $name="Become an Partner";
+        $alternateName="Become an Partner";
+        $url="";
+        break;
 
-                                    case 'tradersera.php':
-                                        $title = "About Us | Forex Trading Platform | Binary Options Trading";
-                                        $description = "TradersEra's Forex Platform provides a variety of services including online forex trading, AI Forex Trading, Binary Options, and Local Deposit. Sign Up Now ! ";
-                                        $keywords = "About Us, online forex trading, Forex service, Binary options, online forex trading, AI forex trading, Binary Options, Trade crypto, Forex trading, forex market, All in One Forex trading Platform,  ";
-                                        $name="TradersEra";
-                                        $alternateName="TradersEra";
-                                        $url="";
-                                        break;
+    case 'tradersera.php':
+        $title = "About Us | Forex Trading Platform | Binary Options Trading";
+        $description = "TradersEra's Forex Platform provides a variety of services including online forex trading, AI Forex Trading, Binary Options, and Local Deposit. Sign Up Now ! ";
+        $keywords = "About Us, online forex trading, Forex service, Binary options, online forex trading, AI forex trading, Binary Options, Trade crypto, Forex trading, forex market, All in One Forex trading Platform,  ";
+        $name="TradersEra";
+        $alternateName="TradersEra";
+        $url="";
+        break;
 
-                                        case 'safety-of-funds.php':
-                                            $title = "Safety of Funds | Forex Funds | High Regulatory Standards";
-                                            $description = "Invest in Forex Funds with TradersEra and enjoy the safety of your funds through segregated accounts. Start trading with peace of mind today!";
-                                            $keywords = "Forex Funds, Safety of Funds, Segregated Accounts, Regulatory Compliance, Forex Secure Payment Gateways, High Regulatory Standards, Segregated Customer Funds";
-                                            $name="Safety of Funds";
-                                            $alternateName="Safety of Funds";
-                                            $url="";
-                                            break;
+    case 'safety-of-funds.php':
+        $title = "Safety of Funds | Forex Funds | High Regulatory Standards";
+        $description = "Invest in Forex Funds with TradersEra and enjoy the safety of your funds through segregated accounts. Start trading with peace of mind today!";
+        $keywords = "Forex Funds, Safety of Funds, Segregated Accounts, Regulatory Compliance, Forex Secure Payment Gateways, High Regulatory Standards, Segregated Customer Funds";
+        $name="Safety of Funds";
+        $alternateName="Safety of Funds";
+        $url="";
+        break;
 
-                                            case 'regulatory.php':
-                                                $title = "Forex Regulatory Compliance | Forex Client Protections";
-                                                $description = "At TradersEra, we follow highest standards of regulatory compliance to protect our clients' funds, Join us for integrity, transparency, and client protection.";
-                                                $keywords = "Forex Regulatory Compliance, Forex Compliance for Trading, Forex Client Protections, Forex Regulatory Requirements, Compliance Requirements for Traders ";
-                                                $name="Regulatory";
-                                                $alternateName="Regulatory";
-                                                $url="";
-                                                break;
+    case 'regulatory.php':
+        $title = "Forex Regulatory Compliance | Forex Client Protections";
+        $description = "At TradersEra, we follow highest standards of regulatory compliance to protect our clients' funds, Join us for integrity, transparency, and client protection.";
+        $keywords = "Forex Regulatory Compliance, Forex Compliance for Trading, Forex Client Protections, Forex Regulatory Requirements, Compliance Requirements for Traders ";
+        $name="Regulatory";
+        $alternateName="Regulatory";
+        $url="";
+        break;
 
-                                                case 'help-center.php':
-                                                    $title = "Our Help Page | Forex Help | TradersEra Help";
-                                                    $description = "From navigating the markets to understanding trading strategies, we're here to help you succeed. Explore now and trade with confidence!";
-                                                    $keywords = "Help page, TradersEra Help, ";
-                                                    $name="Help";
-                                                    $alternateName="Help";
-                                                    $url="";
-                                                    break;
+    case 'help-center.php':
+        $title = "Our Help Page | Forex Help | TradersEra Help";
+        $description = "From navigating the markets to understanding trading strategies, we're here to help you succeed. Explore now and trade with confidence!";
+        $keywords = "Help page, TradersEra Help, ";
+        $name="Help";
+        $alternateName="Help";
+        $url="";
+        break;
 
-                                                    case 'our-servers.php':
-                                                        $title = " Our Server | Equinix Server | Forex Equinix Data Center  ";
-                                                        $description = "Trade with lightning speed with our Equinix data centers. Connect to Tier 1 liquidity providers globally for instant order execution. Experience efficiency today!";
-                                                        $keywords = "Forex Equinix Data Center, Equinix Server, Equinix London, liquidity pool, Forex trading platform";
-                                                        $name="Our Servers";
-                                                        $alternateName="Our Servers";
-                                                        $url="";
-                                                        break;
+    case 'our-servers.php':
+        $title = " Our Server | Equinix Server | Forex Equinix Data Center  ";
+        $description = "Trade with lightning speed with our Equinix data centers. Connect to Tier 1 liquidity providers globally for instant order execution. Experience efficiency today!";
+        $keywords = "Forex Equinix Data Center, Equinix Server, Equinix London, liquidity pool, Forex trading platform";
+        $name="Our Servers";
+        $alternateName="Our Servers";
+        $url="";
+        break;
 
-                                                        case 'kyc-checks.php':
-                                                            $title = " Forex Brokers KYC | Forex KYC Checks | Identity Verification";
-                                                            $description = "Trade confidently with peace of mind on TradersEra. Complete your KYC checks swiftly and securely to unlock full access to our trading platform. Start now!";
-                                                            $keywords = "Forex KYC Checks, Forex Brokers KYC, KYC Compliance for Forex Trading, Identity verification for forex brokers, Automated KYC Compliance, KYC in Forex trading, ";
-                                                            $name="KYC Checks";
-                                                            $alternateName="KYC Checks";
-                                                            $url="";
-                                                            break;
+    case 'kyc-checks.php':
+        $title = " Forex Brokers KYC | Forex KYC Checks | Identity Verification";
+        $description = "Trade confidently with peace of mind on TradersEra. Complete your KYC checks swiftly and securely to unlock full access to our trading platform. Start now!";
+        $keywords = "Forex KYC Checks, Forex Brokers KYC, KYC Compliance for Forex Trading, Identity verification for forex brokers, Automated KYC Compliance, KYC in Forex trading, ";
+        $name="KYC Checks";
+        $alternateName="KYC Checks";
+        $url="";
+        break;
 
-                                                            case 'contact-us.php':
-                                                                $title = "Contact Us | Email Us | TradersEra Contact | Get in Touch";
-                                                                $description = "Contact TradersEra today. Have queries or need assistance? We're here to help. Reach out now !";
-                                                                $keywords = "Contact Us, Contact Us Page, TradersEra Contact, Contact Us Details, Email Us, Call Us, Submit a form, contact with us, contact website, contact us phone, online forex trading, AI forex trading, Binary Options, Trade crypto, Forex trading, forex market,  ";
-                                                                $name="Contact Us";
-                                                                $alternateName="Contact Us";
-                                                                $url="";
-                                                                break;
-
-    case 'terms-condition.php':
-                $title = "Terms and Conditions";
-                $name="Terms and Conditions";
-                $alternateName="Terms and Conditions";
-                $url="https://fxbrokerservice.com/terms-condition.php";
-                break;
-        
-    case 'privacy-policy.php':
-                    $title = "Privacy Policy | FXBrokerservice";
-                    $name="Privacy Policy";
-                    $alternateName="Privacy Policy";
-                    $url="https://fxbrokerservice.com/privacy-policy.php";
-                    break;
-        
     case 'contact-us.php':
-                    $title = "Contact US | Start a Forex Brokerage  | FXBrokerservice";
-                    $description = "Looking for a Forex Brokerage Solution, FXBrokerService is the Best Option. Contact us now to discuss your Trading Needs & Explore our Comprehensive Services";
-                    $keywords = "Contact us, Submit a form,  Forex Brokers, Forex Grey Label, Forex Trading, Best Forex Broker, Start a Forex Brokerage, How to Start a Forex brokerage Firm, FX Solutions, Broker CRM, MT4Grey Label, MT5 Forex trading, Forex Website, How to Start Forex Trading, MT5 Server, MT4 Server, Top Forex Trading Platforms, Online Brokerage Accounts, Best Broker for Trading, Forex Trading Platforms,";
-                    $name="Contact us";
-                    $alternateName="Contact us";
-                    $url="https://fxbrokerservice.com/contact-us.php";
-                    break;
-
+        $title = "Contact Us | Email Us | TradersEra Contact | Get in Touch";
+        $description = "Contact TradersEra today. Have queries or need assistance? We're here to help. Reach out now !";
+        $keywords = "Contact Us, Contact Us Page, TradersEra Contact, Contact Us Details, Email Us, Call Us, Submit a form, contact with us, contact website, contact us phone, online forex trading, AI forex trading, Binary Options, Trade crypto, Forex trading, forex market,  ";
+        $name="Contact Us";
+        $alternateName="Contact Us";
+        $url="";
+        break;
+        
     default:
         $title = "Title Here";
         $description = "Description Here";
