@@ -590,7 +590,7 @@
 </section>
 <br><br>
 
-<div class="row justify-content-center">
+<!-- <div class="row justify-content-center">
     <div class="col-lg-12 col-xxl-10">
         <div class="heading__content mb-10 mb-lg-15 text-center">
             <h5 class="mb-5 mb-lg-6">
@@ -599,11 +599,10 @@
                 options to deposit and withdraw and have an improved online trading experience.
 
             </h5>
-            <!-- <h4 class="mb-5 mb-lg-6">Where to begin
-            </h4> -->
+          
         </div>
     </div>
-</div>
+</div> -->
 
 <!-- 
 <section class="provide-world pt-120 position-relative z-0 mb-10 " style="background-color: #000;">
@@ -815,8 +814,7 @@
                 <form method="POST" autocomplete="off" id="frmContactus" class="contact__form alt_form px-4 px-lg-8">
                     <h3 class="contact__title  mb-lg-7 mt-8">Sign Up Today</h3>
                     <h6 class="mb-lg-7">
-                        Joining TradersEra's introducing broker program is an easy way to generate a consistent
-                        income, without increasing your expenses.
+                      
                     </h6>
                     <div class="d-flex gap-3 gap-sm-5 gap-lg-8 flex-column">
                         <div class="row gap-3 gap-sm-0">
