@@ -42,7 +42,7 @@
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
             <div class="col-12 breadcrumb-area ">
-                <h2 class="mb-1">We are here for you, 24/7.</h2>
+                <h1 class="mb-1">We are here for you, 24/7.</h1>
                 <nav aria-label="breadcrumb">
                     <a href="signup.html"
                         class="cmn-btn fs-six-up nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 py-lg-3 px-lg-5 mt-7 mt-xxl-8"
@@ -60,11 +60,10 @@
         <div class="row justify-content-center">
             <div class="col-lg-8 col-xxl-7">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <!-- <span class="heading p1-color fs-five mb-5">Global Trust, Unbeatable Rates</span> -->
                     <h2 class="mb-5 mb-lg-6">
                         Contact Our Team
                     </h2>
-                    <span class="heading p1-color fs-six mb-5 mt-2">Get in touch with our 24/5 customer services team. We are always glad to help!</span>
+                    <h3 class="heading p1-color fs-six mb-5 mt-2">Get in touch with our 24/5 customer services team. We are always glad to help!</h3>
                 </div>
             </div>
         </div>
@@ -157,64 +156,6 @@
     </div>
 </section>
 
-<!-- <section class="pt-120 pb-120 ">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-8 col-xxl-7">
-                <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h3 class="mb-5 mb-lg-6">Call Us for Assistance
-                    </h3>
-                 
-                </div>
-            </div>
-        </div>
-        <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
-            <div class="col-sm-10 col-lg-6 col-xxl-6">
-                <div class="row d-flex justify-content-end">
-                    <div class="col-xxl-12 mt-8 mt-md-10 mt-xxl-13">
-                        <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
-                            <div class="row">
-                                <div class="col-lg-2 d-flex align-items-center">
-                                    <img src="assets/images/icon/phone.png" alt="">
-                                </div>
-                                <div class="col-lg-10 d-flex align-items-center">
-                                    <div class="row">
-                                        <h3 class="pb-3">Call Us</h3>
-                                        <span>General <b>+ 248 467 19 76</b></span>
-                                        <span class="pb-3">(International charges may apply)</span>
-                                        <br><br>
-                                        <span><b>+1 212 386 5575</b></span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-10 col-lg-6 col-xxl-6 ">
-                <div class="row d-flex justify-content-end">
-                    <div class="col-xxl-12 mt-md-10 mt-xxl-13">
-                        <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
-                            <div class="row">
-                                <div class="col-lg-2 d-flex align-items-center">
-                                    <img src="assets/images/icon/email.png" alt="">
-                                </div>
-                                <div class="col-lg-10 d-flex align-items-center">
-                                    <div class="row">
-                                        <h3 class="pb-3">Email Enquiries</h3>
-                                        <span>support@tradersera.com</span>
-                                        <br>
-                                        <br><br><br>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section> -->
 
 <section class="provide-world pt-120 pb-120  position-relative z-0">
     
@@ -229,25 +170,12 @@
             </div>
         </div>
         <div class="row gy-6 gy-xxl-0">
-            <!-- <div class="col-md-6 col-xxl-4">
-                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <i class="ti ti-users-group fs-three p1-color"></i>
-                    </span>
-                   <h4 class="mt-5 mb-5">Beginner Course</h4>
-                   <p>Trading is not without its challenges, as markets can be highly volatile and unpredictable. It requires discipline</p>
-                   <a href="signup.html" class="cmn-btn link third-link fs-five  gap-2 gap-lg-3 align-items-center mt-5">Enter Course<i class="ti ti-arrow-narrow-right"></i></a>
-                </div>
-            </div> -->
             <div class="col-md-6 col-xxl-6">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                     <img src="assets/images/icon/contact.png" alt="">
                     </span>
-                   <h4 class="mt-5 mb-5">Call Us</h4>
-                   <!-- <span>General <b>+ 248 467 19 76</b></span>
-                   <span class="pb-3">(International charges may apply)</span>
-                    -->
+                   <h3 class="mt-5 mb-5">Call Us</h3>
                    <p><b>+ 44203758865</b></p>
                 </div>
             </div>
@@ -256,7 +184,7 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                     <img src="assets/images/icon/email_us.png" alt="">
                     </span>
-                   <h4 class="mt-5 mb-5">Email Enquiries</h4>
+                   <h3 class="mt-5 mb-5">Email Enquiries</h3>
                    <p>support@tradersera.com</p>
 
                 </div>
@@ -271,8 +199,8 @@
         <div class="row justify-content-center">
             <div class="col-lg-8 col-xxl-7">
                 <div class="heading__content  text-center">
-                    <h3 >Our Office Locations
-                    </h3>
+                    <h2 >Our Office Locations
+                    </h2>
                  
                 </div>
             </div>
@@ -288,12 +216,8 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="pb-3">Address </h3>
+                                        <h2 class="pb-3">Address </h2>
                                         <span> Suite 305, Griffith Corporate Centre, PO Box 1510, Beachmont, Kingstown. St Vincent and Grenadines</span>
-                                        <!-- <span>General <b>+ 248 467 19 76</b></span>
-                                        <span class="pb-3">(International charges may apply)</span>
-                                        <br><br>
-                                        <span><b>+1 212 386 5575</b></span> -->
                                     </div>
                                 </div>
                             </div>

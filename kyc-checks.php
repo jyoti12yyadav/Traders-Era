@@ -247,7 +247,7 @@
         <div class="row gy-6 gy-xxl-0">
             <div class="col-md-6 col-xxl-3">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <h4>  Capture</h4>
+                    <h3>  Capture</h3>
                     <hr>
                     <span class="">
                         <img style="height:100px;" src="assets/images/id card nn.png" alt="idcard">
@@ -255,13 +255,13 @@
                     <hr>
                     <!-- <span class="idverify">Capturing Id</span> -->
                    <br>
-                   <p class="idverify">The user can capture or upload a photo of their government-issued identity document instantly.</p>
+                   <h3 class="idverify">The user can capture or upload a photo of their government-issued identity document instantly.</h3>
                    <br>
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <h4>  Extraction</h4>
+                    <h3>  Extraction</h3>
                     <hr>
                     <span class="">
                         <img style="height:100px;" src="assets/images/idextract.png" alt="idcard">
@@ -269,16 +269,16 @@
                     <hr>
                     <!-- <span class="idverify">Capturing Id</span> -->
                    <br>
-                   <p class="idverify">Our smart system utilizes OCR technology to automatically extract data from the document.</p>
+                   <h3 class="idverify">Our smart system utilizes OCR technology to automatically extract data from the document.</h3>
                    <br>
                    
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <h4>
+                    <h3>
                         Verification
-                        </h4>
+                        </h3>
                     <hr>
                     <span class="">
                         <img style="height:100px;" src="assets/images/idverify.png" alt="idcard">
@@ -286,13 +286,13 @@
                     <hr>
                     <!-- <span class="idverify">Capturing Id</span> -->
                    <br>
-                   <p class="idverify">Our advanced AI verification technology confirms the format and details of identity documents.</p>
+                   <h3 class="idverify">Our advanced AI verification technology confirms the format and details of identity documents.</h3>
                    <br>
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <h4> Results</h4>
+                    <h3> Results</h3>
                     <hr>
                     <span class="">
                         <img style="height:100px;" src="assets/images/verifydone.png" alt="idcard">
@@ -300,7 +300,7 @@
                     <hr>
                     <!-- <span class="idverify">Capturing Id</span> -->
                    <br>
-                   <p class="idverify">The user will receive a clear 'Yes' or 'No' response for their verification, and all the results will be securely stored in the back-office.</p>
+                   <h3 class="idverify">The user will receive a clear 'Yes' or 'No' response for their verification, and all the results will be securely stored in the back-office.</h3>
                 </div>
             </div>
         </div>
@@ -313,10 +313,10 @@
             <div class="row d-flex justify-content-end">
                 <div class="col-md-6 col-xxl-12">
                     <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                        <h4>Address Proof</h4>
+                        <h2>Address Proof</h2>
                         <br>
-                        <p><b>Experience the seamless, secure, and swift integration of address verification.</b> </p>
-                        <p><b>Embrace the future of digital identity verification by taking the next step. Our Address Verification integration offers more than just technology - it promises excellence, efficiency, and top-notch security.</b> </p>
+                        <h3><b>Experience the seamless, secure, and swift integration of address verification.</b> </h3>
+                        <h3><b>Embrace the future of digital identity verification by taking the next step. Our Address Verification integration offers more than just technology - it promises excellence, efficiency, and top-notch security.</b> </h3>
                     </div>
                 </div>
            
@@ -325,11 +325,12 @@
     </div>
 </div>
 </section>
+
         <section class="provide-world  pt-120 pb-120  position-relative z-0">
             <div class="container">
                 <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
         <div class="container text-center pt-10 pb-120">
-            <h4>Our Address Verification integration ensures</h4>
+            <h2>Our Address Verification integration ensures</h2>
 
         </div>
         <div class="col-xxl-4 mt-4">
@@ -337,7 +338,7 @@
                 <div class="row">
                     <div class="col-lg-10 d-flex align-items-center text-center">
                         <div class="row text-center">
-                            <h5 class="text-center">Instant sync</h5>
+                            <h3 class="text-center">Instant sync</h3>
                         </div>
 
                     </div>
@@ -350,7 +351,7 @@
                   
                     <div class="col-lg-10 d-flex align-items-center">
                         <div class="row">
-                            <h5 class="">High security</h5>
+                            <h3 class="">High security</h3>
                         </div>
 
                     </div>
@@ -362,7 +363,7 @@
                 <div class="row">
                     <div class="col-lg-10 d-flex align-items-center">
                         <div class="row">
-                            <h5 class="">Trusted support team</h5>
+                            <h3 class="">Trusted support team</h3>
                         </div>
 
                     </div>
@@ -375,7 +376,7 @@
                     
                     <div class="col-lg-10 d-flex align-items-center">
                         <div class="row">
-                            <h5 class="">Easily integrate with systems</h5>
+                            <h3 class="">Easily integrate with systems</h3>
                         </div>
 
                     </div>
@@ -388,7 +389,7 @@
                     
                     <div class="col-lg-10 d-flex align-items-center">
                         <div class="row">
-                            <h5 class="">Compatible on all platforms</h5>
+                            <h3 class="">Compatible on all platforms</h3>
                         </div>
 
                     </div>
