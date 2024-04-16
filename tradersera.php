@@ -15,7 +15,7 @@
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
             <div class="col-12 breadcrumb-area ">
-                <h2 class="mb-4">TradersEra</h2>
+                <h1 class="mb-4">TradersEra</h1>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb mb-0">
                         <li class="breadcrumb-item"><a href="index.html">Home</a></li>
@@ -46,7 +46,7 @@
             </div>
             <div class="col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
-                    <h3 class="mb-4 mb-lg-5">TradersEra</h3>
+                    <h2 class="mb-4 mb-lg-5">TradersEra</h2>
                     <p class="fs-six mx-ch">TradersEra has been recognized for its excellence in online forex trading.
                         Our top-notch FX service is now available in the US, giving knowledgeable, decisive, and daring
                         individuals the opportunity to trade over 80 currency pairs at competitive rates.</p>
@@ -67,8 +67,8 @@
         <div class="row justify-content-center">
             <div class="col-lg-7 col-xxl-7">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h3 class="mb-5 mb-lg-6"> Why TradersEra stands out from the rest
-                    </h3>
+                    <h2 class="mb-5 mb-lg-6"> Why TradersEra stands out from the rest
+                    </h2>
                     <!-- <p class="fs-six-up mx-ch mx-auto">We're constantly improving our trading platform, trying to make it the best on the market. such as stocks</p> -->
                 </div>
             </div>
@@ -79,7 +79,7 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/regulation.png" alt="Strong">
                     </span>
-                    <h4 class="mt-5 mb-5"> Credible</h4>
+                    <h3 class="mt-5 mb-5"> Credible</h3>
                     <p> With a solid reputation built over years of successful trading, TradersEra has earned the trust
                         of traders worldwide.</p>
                     <br>
@@ -90,7 +90,7 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/quality.png" alt="Strong">
                     </span>
-                    <h4 class="mt-5 mb-5">Devoted to Our Valued Clients.</h4>
+                    <h3 class="mt-5 mb-5">Devoted to Our Valued Clients.</h3>
                     <p>Our business is centered on supporting our clients with cutting-edge tools and assistance.
                         We are available every day, all day.
                     </p>
@@ -101,7 +101,7 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/strong-box.png" alt="Strong">
                     </span>
-                    <h4 class="mt-5 mb-5">Global Legacy</h4>
+                    <h3 class="mt-5 mb-5">Global Legacy</h3>
                     <p>We are dedicated to regulatory compliance and innovation in Forex trading, shaping the industry's
                         future and helping traders worldwide reach their financial goals.</p>
 
@@ -125,22 +125,22 @@
             <div class="col-lg-7 col-xxl-6">
                 <div class="trade_on__content">
                     <!-- <span class="heading s1-color fs-five mb-5">Trade On Our</span> -->
-                    <h3 class="mb-4 mb-lg-5">Simple account registration
-                    </h3>
+                    <h2 class="mb-4 mb-lg-5">Simple account registration
+                    </h2>
                     <ul class="d-flex gap-4 flex-column mt-6">
                         <li class="d-flex align-items-center gap-3 fs-six-up" style="font-weight: 900;"><i
-                                class="ti ti-circle-check s1-color fs-four"></i>Swift execution across an extensive
-                            range of markets</li>
+                                class="ti ti-circle-check s1-color fs-four"></i><h3>Swift execution across an extensive
+                            range of markets</h3></li>
                         <p style="margin-left:35px;">Enjoy Rewards of low spreads and efficient execution.</p>
 
                         <li class="d-flex align-items-center gap-3 fs-six-up" style="font-weight: 900;"><i
-                                class="ti ti-circle-check s1-color fs-four"></i>Trade smoothly, no matter where you're
-                            located.</li>
+                                class="ti ti-circle-check s1-color fs-four"></i><h3>Trade smoothly, no matter where you're
+                            located.</h3></li>
                         <p style="margin-left:35px;">Enjoy a smooth trading experience from anywhere with our trading
                             app</p>
                         <li class="d-flex align-items-center gap-3 fs-six-up" style="font-weight: 900;"><i
-                                class="ti ti-circle-check s1-color fs-four" style="font-weight: 900;"></i>Feel Secure
-                            with a reliable provider</li>
+                                class="ti ti-circle-check s1-color fs-four" style="font-weight: 900;"></i><h3>Feel Secure
+                            with a reliable provider</h3></li>
                         <p style="margin-left:35px;">Feel secure knowing you're trading with a reliable provider
                             committed to your success.</p>
 
@@ -177,8 +177,8 @@
             <div class="col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
                     <!-- <span class="heading s1-color fs-five mb-5">Trade On Our</span> -->
-                    <h3 class="mb-4 mb-lg-5">Your Trading Companion
-                    </h3>
+                    <h2 class="mb-4 mb-lg-5">Your Trading Companion
+                    </h2>
                     <p class="fs-six mx-ch">Our platform provides a variety of tools to improve your trading journey,
                         such as market updates, advanced charting options, personalized indicators and additional
                         features.</p>
@@ -228,42 +228,42 @@
 
                 <ul class="d-flex gap-4 flex-column mt-6">
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>With lightning-fast trade execution, you'll
-                        never miss a trade opportunity.
+                            class="ti ti-circle-check s1-color fs-four"></i><h3>With lightning-fast trade execution, you'll
+                        never miss a trade opportunity.</h3>
 
 
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Save time and reduce operational costs with
-                        efficient and fast processing.
+                            class="ti ti-circle-check s1-color fs-four"></i><h3>Save time and reduce operational costs with
+                        efficient and fast processing.</h3>
 
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Within seconds, data from multiple sources
-                        can be processed and analyzed.
+                            class="ti ti-circle-check s1-color fs-four"></i><h3>Within seconds, data from multiple sources
+                        can be processed and analyzed.</h3>
 
 
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>AI risk management tools have the capability
-                        to automatically evaluate and reduce potential harm.
+                            class="ti ti-circle-check s1-color fs-four"></i><h3>AI risk management tools have the capability
+                        to automatically evaluate and reduce potential harm.</h3>
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>AI has the ability to recognize patterns
-                        with greater speed and accuracy.
+                            class="ti ti-circle-check s1-color fs-four"></i><h3>AI has the ability to recognize patterns
+                        with greater speed and accuracy.</h3>
 
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Decisions are made purely based on logic,
-                        without any influence from intense emotions.
+                            class="ti ti-circle-check s1-color fs-four"></i><h3>Decisions are made purely based on logic,
+                        without any influence from intense emotions.</h3>
 
 
                     </li>
 
 
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>An AI has the ability to carry out numerous
-                        forex trades at the same time.
+                            class="ti ti-circle-check s1-color fs-four"></i><h3>An AI has the ability to carry out numerous
+                        forex trades at the same time.</h3>
                     </li>
                     <br>
 
@@ -304,22 +304,22 @@
                     </p>
 
                 </div>
-                <h5 class="mt-4 mb-lg-5">
+                <h2 class="mt-4 mb-lg-5">
                     Simplified to two possibilities:
 
-                </h5>
+                </h2>
 
 
                 <ul class="d-flex gap-4 flex-column mt-6">
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>
-                        Settles at 0: You risk only what you invest; no further loss.
+                        <h3>Settles at 0: You risk only what you invest; no further loss.</h3>
 
 
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Settles at 100: Earn a $100 payout per
-                        contract, plus your profit (subtracting your trade's cost) remains yours.
+                            class="ti ti-circle-check s1-color fs-four"></i><h3>Settles at 100: Earn a $100 payout per
+                        contract, plus your profit (subtracting your trade's cost) remains yours.</h3>
 
 
                     </li>
@@ -363,20 +363,20 @@
                 <ul class="d-flex gap-4 flex-column mt-6">
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>
-                        We store your funds in high-quality banks, ensuring they are completely separate from our own.
+                        <h3>We store your funds in high-quality banks, ensuring they are completely separate from our own.</h3>
 
 
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>We follow regulations in different places.
-                        We keep your money in the best banks.
+                            class="ti ti-circle-check s1-color fs-four"></i><h3>We follow regulations in different places.
+                        We keep your money in the best banks.</h3>
 
 
                     </li>
 
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>
-                        Choose from a range of payment methods, including local banks.
+                        <h3>Choose from a range of payment methods, including local banks.</h3>
 
                     </li>
 

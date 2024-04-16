@@ -16,7 +16,7 @@
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
             <div class="col-12 breadcrumb-area ">
-                <h2 class="mb-4">Safety of Funds</h2>
+                <h1 class="mb-4">Safety of Funds</h1>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb mb-0">
                         <li class="breadcrumb-item"><a href="index.html">Home</a></li>
@@ -34,7 +34,7 @@
 <section class="provide-world pt-120 pb-120  position-relative z-0" style="padding-bottom: 25px;">
     <div class="container">
         <div class="row gy-6 gy-xxl-0">
-            <h3 class=" mb-lg-5 d-flex justify-content-center">Ensuring the Safety of Your Funds with TradersEra </h3>
+            <h2 class=" mb-lg-5 d-flex justify-content-center">Ensuring the Safety of Your Funds with TradersEra </h2>
      
             <div class="col-md-6 col-xxl-4 mt-6">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
@@ -42,8 +42,8 @@
                         <img src="assets/images/icon/Spreads.png" alt="stock-market">
                     </span>
                     
-                    <h4 class="mt-5 mb-5">Segregated Accounts
-                    </h4>
+                    <h3 class="mt-5 mb-5">Segregated Accounts
+                    </h3>
                     <p>Your funds are held in segregated bank accounts separate from TradersEra 's operational accounts.
                         This means that your money is never commingled with company funds and remains safely segregated
                         at all times.
@@ -57,8 +57,8 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/commission.png" alt="stock-market">
                     </span>
-                    <h4 class="mt-5 mb-5">Regulatory Compliance
-                    </h4>
+                    <h3 class="mt-5 mb-5">Regulatory Compliance
+                    </h3>
                     <p>TradersEra operates under the oversight of reputable regulatory authorities, ensuring compliance
                         with strict regulatory standards. Our adherence to regulatory requirements provides an
                         additional layer of protection for your funds and reinforces our commitment to transparency and
@@ -73,8 +73,8 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/Low-starting-amount.png" alt="stock-market">
                     </span>
-                    <h4 class="mt-5 mb-5">Secure Payment Gateways
-                    </h4>
+                    <h3 class="mt-5 mb-5">Secure Payment Gateways
+                    </h3>
                     <p>We utilize cutting-edge encryption technology and secure payment gateways to protect your
                         financial transactions and personal information. Our robust security measures safeguard against
                         unauthorized access and ensure the confidentiality and integrity of your data.

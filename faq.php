@@ -2,21 +2,20 @@
 
 
 <style>
-    
-.pb-120 {
-    padding-bottom: 60px !important;
-}
-.pt-120 {
-    padding-top: 60px !important;
-}
+    .pb-120 {
+        padding-bottom: 60px !important;
+    }
 
+    .pt-120 {
+        padding-top: 60px !important;
+    }
 </style>
 
 <section class="banner-section  pt-120 pb-120">
     <div class="container mt-lg-0 pt-18 pt-xl-20">
         <div class="row">
             <div class="col-12 breadcrumb-area ">
-                <h2 class="mb-4">FAQ</h2>
+                <h1 class="mb-4">FAQ</h1>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb mb-0">
                         <li class="breadcrumb-item"><a href="index.html">Home</a></li>
@@ -188,7 +187,7 @@
             <div class="col-lg-8 col-xxl-7">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
                     <span class="heading fs-five p1-color mb-5">Faq’s</span>
-                    <h3>Frequently Asked Question</h3>
+                    <h2>Frequently Asked Question</h2>
                 </div>
             </div>
         </div>
@@ -197,11 +196,11 @@
                 <div class="faq__part">
                     <div class="accordion-section d-grid gap-6">
                         <div class="accordion-single  cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
-                            <h5 class="header-area">
+                            <h3 class="header-area">
                                 <button
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button"> What is Forex?</button>
-                            </h5>
+                            </h3>
                             <div class="content-area">
                                 <div class="content-body pt-5">
                                     <p>You can read the detailed answer in the separate section of the site — What is
@@ -210,13 +209,13 @@
                             </div>
                         </div>
                         <div class="accordion-single cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
-                            <h5 class="header-area">
+                            <h3 class="header-area">
                                 <button
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
                                     How can I start trading Forex?
                                 </button>
-                            </h5>
+                            </h3>
                             <div class="content-area">
                                 <div class="content-body pt-5">
                                     <p>You'll need to register a trading account with a Forex broker, such as Exness.
@@ -226,13 +225,13 @@
                             </div>
                         </div>
                         <div class="accordion-single cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
-                            <h5 class="header-area">
+                            <h3 class="header-area">
                                 <button
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
                                     Who owns Forex and where is it located?
                                 </button>
-                            </h5>
+                            </h3>
                             <div class="content-area">
                                 <div class="content-body pt-5">
                                     <p>It isn't owned by anyone in particular. Forex is an interbank market, meaning
@@ -243,13 +242,13 @@
                             </div>
                         </div>
                         <div class="accordion-single cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
-                            <h5 class="header-area">
+                            <h3 class="header-area">
                                 <button
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
                                     What are the working hours of Forex market?
                                 </button>
-                            </h5>
+                            </h3>
                             <div class="content-area">
                                 <div class="content-body pt-5">
                                     <p>Forex market is open from 22:00 GMT Sunday (opening of the Australian trading
@@ -258,13 +257,13 @@
                             </div>
                         </div>
                         <div class="accordion-single cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
-                            <h5 class="header-area">
+                            <h3 class="header-area">
                                 <button
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
                                     What is margin?
                                 </button>
-                            </h5>
+                            </h3>
                             <div class="content-area">
                                 <div class="content-body pt-5">
                                     <p>Margin is money you need to have in your broker account to secure your open
@@ -290,13 +289,13 @@
                             </div>
                         </div>
                         <div class="accordion-single cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
-                            <h5 class="header-area">
+                            <h3 class="header-area">
                                 <button
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
                                     What is the best Forex trading strategy?
                                 </button>
-                            </h5>
+                            </h3>
                             <div class="content-area">
                                 <div class="content-body pt-5">
                                     <p>There is none. You should constantly develop your own strategies for every
@@ -306,13 +305,13 @@
                             </div>
                         </div>
                         <div class="accordion-single cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
-                            <h5 class="header-area">
+                            <h3 class="header-area">
                                 <button
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
                                     How much money do I need to start trading Forex?
                                 </button>
-                            </h5>
+                            </h3>
                             <div class="content-area">
                                 <div class="content-body pt-5">
                                     <p>With some Forex brokers you can start trading Forex with as little as $1.
@@ -322,14 +321,14 @@
                             </div>
                         </div>
                         <div class="accordion-single cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
-                            <h5 class="header-area">
+                            <h3 class="header-area">
                                 <button
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
                                     A news (macroeconomic report) came out that should have pushed a currency pair
                                     up/down, but it did not react or moved in the opposite direction. Why?
                                 </button>
-                            </h5>
+                            </h3>
                             <div class="content-area">
                                 <div class="content-body pt-5">
                                     <p>Forex market often ignores fundamental reports. There are thousands factors
@@ -339,14 +338,14 @@
                             </div>
                         </div>
                         <div class="accordion-single cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
-                            <h5 class="header-area">
+                            <h3 class="header-area">
                                 <button
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
                                     I've downloaded the expert advisor for MetaTrader platform but I don't know how to
                                     install it. What should I do?
                                 </button>
-                            </h5>
+                            </h3>
                             <div class="content-area">
                                 <div class="content-body pt-5">
                                     <p>You can read the MetaTrader Expert Advisors User's Tutorial to find out how to
@@ -355,14 +354,14 @@
                             </div>
                         </div>
                         <div class="accordion-single cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
-                            <h5 class="header-area">
+                            <h3 class="header-area">
                                 <button
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
                                     I've downloaded a custom indicator for MetaTrader platform but I don't know how to
                                     install it. What should I do?
                                 </button>
-                            </h5>
+                            </h3>
                             <div class="content-area">
                                 <div class="content-body pt-5">
                                     <p>You can read the MetaTrader Indicators User's Tutorial to find out how to install
@@ -387,13 +386,13 @@
                             </div>
                         </div>
                         <div class="accordion-single cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
-                            <h5 class="header-area">
+                            <h3 class="header-area">
                                 <button
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
                                     Can you code an indicator/expert advisor/script for me?
                                 </button>
-                            </h5>
+                            </h3>
                             <div class="content-area">
                                 <div class="content-body pt-5">
                                     <p>Sorry, but we are not doing coding requests, but you can try asking at our forums
@@ -402,13 +401,13 @@
                             </div>
                         </div>
                         <div class="accordion-single cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
-                            <h5 class="header-area">
+                            <h3 class="header-area">
                                 <button
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
                                     Why does any trade that I open starts in a loss?
                                 </button>
-                            </h5>
+                            </h3>
                             <div class="content-area">
                                 <div class="content-body pt-5">
                                     <p>When you open a trade, you do it at the Ask price for Buy trades or at the Bid

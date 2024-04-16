@@ -58,7 +58,7 @@
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
             <div class="col-12 breadcrumb-area ">
-                <h2 class="mb-4">KYC Checks</h2>
+                <h1 class="mb-4">KYC Checks</h1>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb mb-0">
                         <li class="breadcrumb-item"><a href="index.html">Home</a></li>
@@ -89,30 +89,30 @@
 
                 <ul class="d-flex gap-4 flex-column mt-6">
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Verify the identity of customers through
-                        government-issued identification documents.
+                            class="ti ti-circle-check s1-color fs-four"></i><h3>Verify the identity of customers through
+                        government-issued identification documents.</h3>
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Confirm the authenticity of provided
-                        documents through manual review or automated verification systems.
+                            class="ti ti-circle-check s1-color fs-four"></i><h3>Confirm the authenticity of provided
+                        documents through manual review or automated verification systems.</h3>
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Conduct due diligence checks to ensure
-                        compliance with regulatory requirements and prevent fraud.
+                            class="ti ti-circle-check s1-color fs-four"></i><h3>Conduct due diligence checks to ensure
+                        compliance with regulatory requirements and prevent fraud.</h3>
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Validate the residential address of
+                            class="ti ti-circle-check s1-color fs-four"></i><h3>Validate the residential address of
                         customers by cross-referencing their identification documents with bank statements, or other
-                        official documents.
+                        official documents.</h3>
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Screen customers against global watchlists
-                        and sanctions databases to ensure they are not involved in any illegal activities.
+                            class="ti ti-circle-check s1-color fs-four"></i><h3>Screen customers against global watchlists
+                        and sanctions databases to ensure they are not involved in any illegal activities.</h3>
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Conduct enhanced due diligence for high-risk
+                            class="ti ti-circle-check s1-color fs-four"></i><h3>Conduct enhanced due diligence for high-risk
                         customers or transactions, which may involve gathering additional information, performing
-                        background checks, or seeking approval from senior management.
+                        background checks, or seeking approval from senior management.</h3>
                     </li>
                 </ul>
 
@@ -186,9 +186,9 @@
         <div class="row justify-content-center">
             <div class="col-lg-8 col-xxl-6">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h2>Documents Required</h2>
+                    <h3>Documents Required</h3>
                     <br>
-                    <p>Kindly provide a copy of ONE of the following papers proving your identity:</p>
+                    <h4>Kindly provide a copy of ONE of the following papers proving your identity:</h4>
                 </div>
             </div>
         </div>
@@ -201,12 +201,12 @@
                         <img src="assets/images/icon/file.png" alt="stock-market">
                     </span>
 
-                    <p style="font-weight:bold">Passport (must to be valid right now)</p>
+                    <h3 style="font-weight:bold">Passport (must to be valid right now)</h3>
                     <hr>
-                    <p style="font-weight:bold">a current driver's license
-                    </p>
+                    <h3 style="font-weight:bold">a current driver's license
+                    </h3>
                     <hr>
-                    <p style="font-weight:bold"> Authentic Proof of Age card.</p>
+                    <h3 style="font-weight:bold"> Authentic Proof of Age card.</h3>
                     <br>
                     <br>
                     <br>
@@ -218,13 +218,13 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/bill.png" alt="stock-market">
                     </span>
-                    <p style="font-weight:bold"> Utility Bill (Phone, Electricity, Gas) id doc arrow ico</p>
+                    <h3 style="font-weight:bold"> Utility Bill (Phone, Electricity, Gas) id doc arrow ico</h3>
                     <hr>
-                    <p style="font-weight:bold"> Statement from a bank or credit card </p>
+                    <h3 style="font-weight:bold"> Statement from a bank or credit card </h3>
                     <hr>
 
-                    <p style="font-weight:bold">Tax Document Issued by the Government
-                    </p>
+                    <h3 style="font-weight:bold">Tax Document Issued by the Government
+                    </h3>
                     <br>
                 </div>
             </div>

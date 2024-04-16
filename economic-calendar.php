@@ -30,13 +30,13 @@
     }
 
 
-.pb-120 {
-    padding-bottom: 60px !important;
-}
-.pt-120 {
-    padding-top: 60px !important;
-}
+    .pb-120 {
+        padding-bottom: 60px !important;
+    }
 
+    .pt-120 {
+        padding-top: 60px !important;
+    }
 </style>
 
 
@@ -48,8 +48,8 @@
                 <!-- TradingView Widget BEGIN -->
                 <h2 class="d-flex justify-content-center" style="margin-bottom: 10px;">Stay Ahead with TradersEra's
                     Economic Calendar</h2>
-                <p class="fs-six-up mx-ch mx-auto">Maximize Your Forex Trading Potential with Real-Time Market Insights
-                </p>
+               <center> <h3 class="fs-six-up  mx-auto">Maximize Your Forex Trading Potential with Real-Time Market Insights
+                </h3></center>
                 <br><br>
 
                 <section class="privacy-policy ">
@@ -63,7 +63,7 @@
 
                                         <div class="privacy-policy__part">
 
-                                            <h5 class="mb-4">What is an Economic Calendar?</h5>
+                                            <h2 class="mb-4">What is an Economic Calendar?</h2>
                                             <p class="mt-3">The Economic calendar is a useful resource that offers
                                                 current details on scheduled financial industry events. The Economic
                                                 News Calendar's data aids traders in assessing the state of the
@@ -136,8 +136,8 @@
                                     <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
 
                                         <div class="privacy-policy__part">
-                                            <h5 class="mb-4">How is the News calendar to be read?
-                                            </h5>
+                                            <h2 class="mb-4">How is the News calendar to be read?
+                                            </h2>
                                             <p class="mt-3">The Financial calendar is a tool used by traders for
                                                 fundamental analysis. This part teaches you how to utilize the extended
                                                 mode of the world economic calendar and how to read it.</p>
@@ -156,7 +156,7 @@
 
                                         </div>
                                         <div class="privacy-policy__part">
-                                            <h5 class="mb-4">What does the Financial calendar aim to accomplish?</h5>
+                                            <h2 class="mb-4">What does the Financial calendar aim to accomplish?</h2>
                                             <p class="mt-4">Even before they begin trading, traders can predict how
                                                 exchange rates may change shortly by using the financial calendar. The
                                                 news calendar is what gives traders insight into the state of the market

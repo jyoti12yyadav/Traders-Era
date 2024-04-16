@@ -15,7 +15,7 @@
     <div class="container mt-lg-0 pt-18 pt-xl-20">
         <div class="row">
             <div class="col-12 breadcrumb-area ">
-                <h2 class="mb-4">Interest Rate</h2>
+                <h1 class="mb-4">Interest Rate</h1>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb mb-0">
                         <li class="breadcrumb-item"><a href="index.html">Home</a></li>

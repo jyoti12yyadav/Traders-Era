@@ -15,7 +15,7 @@
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
             <div class="col-12 breadcrumb-area ">
-                <h2 class="mb-4">Regulatory</h2>
+                <h1 class="mb-4">Regulatory</h1>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb mb-0">
                         <li class="breadcrumb-item"><a href="index.html">Home</a></li>
@@ -46,13 +46,13 @@
                             regulatory compliance:
                         </p>
                         <div class="privacy-policy__part">
-                            <h5 class="mb-4">1.Regulatory Authorities: </h5>
+                            <h3 class="mb-4">1.Regulatory Authorities: </h3>
                             <p class="mt-4 mb-5">TradersEra operates under the oversight of reputable regulatory
                                 authorities . These regulatory bodies set and enforce stringent standards for financial
                                 services providers, ensuring compliance with legal and ethical requirements.
                             </p>
 
-                            <h5 class="mb-4">2.Client Protections: </h5>
+                            <h3 class="mb-4">2.Client Protections: </h3>
                             <p class="mt-4 mb-5">Regulatory compliance is central to our commitment to client
                                 protection. By adhering to regulatory standards, we safeguard the interests of our
                                 clients, protect their funds, and promote fair and transparent trading practices. Our
@@ -60,7 +60,7 @@
                                 our services.
                             </p>
 
-                            <h5 class="mb-4">3.Transparency and Disclosure:</h5>
+                            <h3 class="mb-4">3.Transparency and Disclosure:</h3>
                             <p class="mt-4 mb-5">We believe in transparency and strive to provide clear and accurate
                                 information to our clients about our regulatory status, licensing, and compliance
                                 practices. Our regulatory page serves as a resource for clients to learn more about the
@@ -68,14 +68,14 @@
                                 compliance.
                             </p>
 
-                            <h5 class="mb-4">4.Ongoing Compliance Monitoring:
-                            </h5>
+                            <h3 class="mb-4">4.Ongoing Compliance Monitoring:
+                            </h3>
                             <p class="mt-4 mb-5"> TradersEra maintains robust compliance monitoring processes to ensure
                                 ongoing adherence to regulatory requirements. Our compliance team regularly reviews and
                                 updates our policies, procedures, and systems to reflect changes in regulations and
                                 industry best practices.
                             </p>
-                            <h5 class="mb-4">5.Client Support and Education: </h5>
+                            <h3 class="mb-4">5.Client Support and Education: </h3>
                             <p class="mt-4 mb-5">We are committed to supporting our clients in understanding regulatory
                                 requirements and how they impact their trading experience. Our client support team is
                                 available to answer any questions or concerns related to regulatory compliance, and we

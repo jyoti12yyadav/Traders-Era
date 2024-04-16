@@ -4,7 +4,7 @@
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
             <div class="col-12 breadcrumb-area ">
-                <h2 class="mb-4">Become an Partner</h2>
+                <h1 class="mb-4">Become an Partner</h1>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb mb-0">
                         <li class="breadcrumb-item"><a href="index.html">Home</a></li>
@@ -429,7 +429,7 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/number-1.png" alt="time">
                     </span>
-                    <h4 class="mt-5 mb-5">Recruiting </h4>
+                    <h3 class="mt-5 mb-5">Recruiting </h3>
 
                     <p>As per the marketing structure of TradersEra, you will receive a portion of the sales made by
                         your recruits if you accomplish this.
@@ -442,7 +442,7 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/two.png" alt="wallet">
                     </span>
-                    <h4 class="mt-5 mb-5">Events</h4>
+                    <h3 class="mt-5 mb-5">Events</h3>
                     <p>TradersEra offers a variety of trading competitions that let traders make the most money
                         possible.
 
@@ -456,7 +456,7 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/number-3.png" alt="customer">
                     </span>
-                    <h4 class="mt-5 mb-5">Financing</h4>
+                    <h3 class="mt-5 mb-5">Financing</h3>
                     <p>TradersEra's global sponsorship initiatives help a variety of communities and organizations.
                     </p>
                     <br>
@@ -487,8 +487,8 @@
 
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
-                    <h4 class="mb-4 mb-lg-5" style="font-size:35px;">Advantages for your clientele
-                    </h4>
+                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;">Advantages for your clientele
+                    </h2>
 
                 </div>
 
@@ -544,8 +544,8 @@
 
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
-                    <h4 class="mb-4 mb-lg-5" style="font-size:35px;">Advantages for introducing brokers
-                    </h4>
+                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;">Advantages for introducing brokers
+                    </h2>
 
                 </div>
 

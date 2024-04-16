@@ -15,7 +15,7 @@
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
             <div class="col-12 breadcrumb-area ">
-                <h2 class="mb-4">Our Servers</h2>
+                <h1 class="mb-4">Our Servers</h1>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb mb-0">
                         <li class="breadcrumb-item"><a href="index.html">Home</a></li>
@@ -40,7 +40,7 @@
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
                     <span class="heading p1-color fs-six mb-5"></span>
-                    <h4 class="mb-4 mb-lg-5" style="font-size: 32px;">Equinix's Largest Trading Ecosystem</h4>
+                    <h2 class="mb-4 mb-lg-5" style="font-size: 32px;">Equinix's Largest Trading Ecosystem</h2>
                     <p class="mx-ch">The effectiveness of a trading strategy depends on the quality of the trading
                         infrastructure used to carry it out. When every millisecond matters, advanced technology is the
                         only choice. To ensure the best bid and ask prices and speedy trade execution within
@@ -79,9 +79,9 @@
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
                     <span class="heading p1-color fs-six mb-5"></span>
-                    <h4 class="mb-4 mb-lg-5" style="font-size: 32px;">
+                    <h2 class="mb-4 mb-lg-5" style="font-size: 32px;">
                     Gain quick and reliable entry to international markets
-                    </h4>
+                    </h2>
                  
                         <p>Get access to the most competitive prices and deepest liquidity for every trade! Thanks to our high trading volume with liquidity providers, we can offer you the best prices available.</p>
                         <br>
@@ -105,10 +105,10 @@
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
                     <span class="heading p1-color fs-six mb-5"></span>
-                    <h4 class="mb-4 mb-lg-5" style="font-size: 32px;">
+                    <h2 class="mb-4 mb-lg-5" style="font-size: 32px;">
                     Get Quicker Trade Execution Today!
 
-                    </h4>
+                    </h2>
                     <p>Gain access to the deepest liquidity pools with our cutting-edge pricing engine for lightning-fast trade execution!</p>
 
                     <p>Experience lightning-fast trade execution with our Equinix data centers. By connecting trading servers globally through fiber optics to Tier 1 liquidity providers, your orders are swiftly sent to the nearest center, ensuring instant execution.</p>
@@ -140,9 +140,9 @@
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
                     <span class="heading p1-color fs-six mb-5"></span>
-                    <h4 class="mb-4 mb-lg-5" style="font-size: 32px;">
+                    <h2 class="mb-4 mb-lg-5" style="font-size: 32px;">
                     Fintech pioneers leading the way with innovative solutions
-                    </h4>
+                    </h2>
                  
                         <p>We collaborate with top tech companies to provide you with access to the latest trading infrastructure.</p>
                         <br>

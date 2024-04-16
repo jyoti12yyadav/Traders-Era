@@ -3,7 +3,7 @@
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
             <div class="col-12 breadcrumb-area ">
-                <h2 class="mb-4">News & Research</h2>
+                <h1 class="mb-4">News & Research</h1>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb mb-0">
                         <li class="breadcrumb-item"><a href="index.html">Home</a></li>
@@ -37,9 +37,9 @@
         <section class="provide-world   position-relative z-0">
             <div class="container">
                 <div class="row gy-6 gy-xxl-0  pt-120">
-                    <h3 class=" mb-lg-5 d-flex justify-content-center">Forex Market Updates</h3>
+                    <h2 class=" mb-lg-5 d-flex justify-content-center">Forex Market Updates</h2>
                     <center>
-                        <h5 class="mb-7"> Stay Ahead of Market Trends and Opportunities with Regular, Timely Updates on Forex Developments.</h5>
+                        <h3 class="mb-7"> Stay Ahead of Market Trends and Opportunities with Regular, Timely Updates on Forex Developments.</h3>
                     </center>
         
                 </div>
@@ -68,12 +68,12 @@
 </section>
 <section class="pt-120 pb-60">
     <div class="container">
-        <section class="provide-world pt-120 pb-120  position-relative z-0" style="padding-bottom: 25px;">
+        <section class="provide-world pt-120  position-relative z-0" style="padding-bottom: 25px;">
             <div class="container">
                 <div class="row gy-6 gy-xxl-0">
-                    <h3 class=" mb-lg-5 d-flex justify-content-center">Forex Heat Map  </h3>
+                    <h2 class=" mb-lg-5 d-flex justify-content-center">Forex Heat Map  </h2>
                     <center>
-                        <h5 class="mb-7"> Experience Real-time Currency Strength Visualization for Immediate Market Analysis and Informed Trading Decisions.</h5>
+                        <h3 class="mb-7"> Experience Real-time Currency Strength Visualization for Immediate Market Analysis and Informed Trading Decisions.</h3>
                     </center>
         
                 </div>
@@ -83,10 +83,9 @@
       
         <!-- TradingView Widget BEGIN -->
         <!-- TradingView Widget BEGIN -->
-        <div class="tradingview-widget-container pb-120">
+        <div class="pb-120">
             <div class="tradingview-widget-container__widget"></div>
-            <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/" rel="noopener nofollow"
-                    target="_blank"><span class="blue-text"></span></a></div>
+          
             <script type="text/javascript"
                 src="https://s3.tradingview.com/external-embedding/embed-widget-forex-heat-map.js" async>
                     {
