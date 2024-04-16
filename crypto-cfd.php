@@ -47,7 +47,7 @@
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
             <div class="col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
-                    <h3 class="mb-4 mb-lg-5">Crypto CFD</h3>
+                    <h2 class="mb-4 mb-lg-5">Crypto CFD</h2>
                     <p class="fs-six mx-ch">Discover the exciting world of Crypto CFDs with our platform. Trade popular
                         cryptocurrencies such as Bitcoin (BTC), Ethereum (ETH), Ripple (XRP), Litecoin (LTC), and
                         Bitcoin Cash (BCH) with competitive margin requirements and leverage options. Take advantage of
@@ -78,11 +78,11 @@
     </div>
     <div class="container">
         <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
-            <h3 class=" mb-lg-5 d-flex justify-content-center">Margin Requirements and Leverage for Top Cryptocurrencies
-            </h3>
+            <h2 class=" mb-lg-5 d-flex justify-content-center">Margin Requirements and Leverage for Top Cryptocurrencies
+            </h2>
             <center>
-                <h5 class="mb-7">Start trading Crypto CFDs today and explore new opportunities in the digital asset
-                    space!</h5>
+                <h3 class="mb-7">Start trading Crypto CFDs today and explore new opportunities in the digital asset
+                    space!</h3>
             </center>
 
             <div class="container my-5 table-div">

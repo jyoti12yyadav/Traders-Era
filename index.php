@@ -787,31 +787,31 @@
                 </h5>
                 <ul class="d-flex gap-4 flex-column mt-6">
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Accessible anytime and anywhere, no need for
-                        installation.
+                            class="ti ti-circle-check s1-color fs-four"></i><h4 style="font-size:18px;">Accessible anytime and anywhere, no need for
+                        installation.</h4>
 
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Cross-Device Compatibility, Works across
-                        multiple devices.
+                            class="ti ti-circle-check s1-color fs-four"></i><h4 style="font-size:18px;" >Cross-Device Compatibility, Works across
+                        multiple devices.</h4>
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Platform updates are hassle-free.
+                            class="ti ti-circle-check s1-color fs-four"></i><h4 style="font-size:18px;" >Platform updates are hassle-free.</h4>
 
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>No need for high-end hardware, suitable for
-                        various devices.</li>
+                            class="ti ti-circle-check s1-color fs-four"></i><h4 style="font-size:18px;" >No need for high-end hardware, suitable for
+                        various devices.</h4></li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Compatible across various operating systems.
+                            class="ti ti-circle-check s1-color fs-four"></i><h4 style="font-size:18px;" >Compatible across various operating systems.</h4>
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Requires minimal disk space as data is
-                        stored in the cloud.
+                            class="ti ti-circle-check s1-color fs-four"></i><h4 style="font-size:18px;" > Requires minimal disk space as data is
+                        stored in the cloud.</h4>
 
                     </li>
                     <br>
-                    <h5>Platforms Supported:</h5>
+                    <h3>Platforms Supported:</h3>
                     <ul class=" d-flex  gap-md-3 ">
                         <li><img style=" height:35px;" src="assets/images/icon/icon IE.png"></li>
                         <li><img style=" height:35px;" src="assets/images/icon/icon opera.png"></li>
@@ -842,8 +842,8 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/number-1.png" alt="time">
                     </span>
-                    <h4 class="mt-5 mb-5">Register</h4>
-                    <p>Sign up using your bank details and login to dashboard.</p>
+                    <h3 class="mt-5 mb-5">Register</h3>
+                    <h4 >Sign up using your bank details and login to dashboard.</h4>
                     <br>
                 </div>
             </div>
@@ -852,8 +852,8 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/two.png" alt="wallet">
                     </span>
-                    <h4 class="mt-5 mb-5">Verify</h4>
-                    <p>Use our online verification tool and submit your details and document.</p>
+                    <h3 class="mt-5 mb-5">Verify</h3>
+                    <h4 >Use our online verification tool and submit your details and document.</h4>
                    
                 </div>
             </div>
@@ -862,8 +862,8 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/number-3.png" alt="low-price">
                     </span>
-                    <h4 class="mt-5 mb-5">Fund</h4>
-                    <p>Fund your trading account using a wide range of funding methods.</p>
+                    <h3 class="mt-5 mb-5">Fund</h3>
+                    <h4 >Fund your trading account using a wide range of funding methods.</h4>
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
@@ -871,8 +871,8 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/number-4.png" alt="customer">
                     </span>
-                    <h4 class="mt-5 mb-5">Trade</h4>
-                    <p>Start trading with binary,spot and AI trading platform.</p>
+                    <h3 class="mt-5 mb-5">Trade</h3>
+                    <h4>Start trading with binary,spot and AI trading platform.</h4>
                     <br>
                 </div>
 
@@ -963,8 +963,8 @@
                 <div class="heading__content mb-10 mb-lg-15 text-center">
                     <h2 class="">Markets Data</h2>
                     <br>
-                    <span class="heading p1-color fs-six mb-5 mt-2">Learn and understand markets with our available
-                        market table.</span>
+                    <span class="heading p1-color fs-six mb-5 mt-2"><h3>Learn and understand markets with our available
+                        market table.</h3></span>
 
                 </div>
             </div>
@@ -1167,7 +1167,7 @@
             <div class="col-lg-6 col-xxl-5 pt-xl-20">
                 <div class="trade_on__content me-xl-10 pt-120 pb-0 pb-lg-120">
                     <span class="heading p1-color fs-six mb-5"></span>
-                    <h4 class="mb-4 mb-lg-5" style="font-size: 32px;">Trade Anywhere, Anytime with TradersEra App</h4>
+                    <h2 class="mb-4 mb-lg-5" style="font-size: 32px;">Trade Anywhere, Anytime with TradersEra App</h2>
                     <p class="mx-ch">Don't let trading opportunities slip away.</p>
                     <br>
                     <p class="mx-ch">Download the TradersEra Trader app for commission-free trading and ultra-low
@@ -1205,7 +1205,7 @@
                 <div class="row ms-xl-3 ms-xxl-10">
                     <div class="col-xxl-12">
                         <div class="">
-                            <h3 class="mb-3 mt-5" style="font-size: 32px;">Multiple Funding Options</h3>
+                            <h2 class="mb-3 mt-5" style="font-size: 32px;">Multiple Funding Options</h2>
                             <br>
                             <p>
                                 At TradersEra we've got all your account funding needs sorted. Whether you fancy the

@@ -83,9 +83,9 @@ color: #000000;
 <section class="provide-world pt-120 pb-120  position-relative z-0" style="padding-bottom: 25px;">
     <div class="container">
         <div class="row gy-6 gy-xxl-0">
-            <h3 class=" mb-lg-5 d-flex justify-content-center">Online trading account types</h3>
+     
             <center>
-                <h5 class="mb-7">Tailored trading account for Forex, indices, stocks, commodities </h5>
+                <h2 class="mb-10">Tailored trading account for Forex, indices, stocks, commodities </h2>
             </center>
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
@@ -136,8 +136,8 @@ color: #000000;
 <section class="provide-world pt-120 pb-120  position-relative z-0">
     <div class="container">
         <div class="row gy-6 gy-xxl-0">
-            <h3 class=" mb-lg-5 d-flex justify-content-center">Online trading account types</h3>
-            <div class="col-md-6 col-xxl-3">
+            <h2 class=" mb-lg-10 d-flex justify-content-center ">Trading account types</h2>
+            <div class="col-md-6 col-xxl-3 ">
                 <div class="packages">
                     <h4>Starter</h4>
                 </div>
@@ -216,9 +216,9 @@ color: #000000;
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/profits.png" alt="stock-market">
                     </span>
-                    <h4 class="mt-5 mb-5">High Leverage
+                    <h3 class="mt-5 mb-5">High Leverage
 
-                    </h4>
+                    </h3>
                     <p>Utilize leverage of up to 1:1000 for trading
 
                     </p>
@@ -231,9 +231,9 @@ color: #000000;
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/sales-marketing.png" alt="stock-market">
                     </span>
-                    <h4 class="mt-5 mb-5">Fast order execution
+                    <h3 class="mt-5 mb-5">Fast order execution
 
-                    </h4>
+                    </h3>
                     <p>Trades are typically executed within milliseconds, with minimal slippage
 
                     </p>
@@ -246,10 +246,10 @@ color: #000000;
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/growth.png" alt="stock-market">
                     </span>
-                    <h4 class="mt-5 mb-5">
+                    <h3 class="mt-5 mb-5">
                         Micro lot trading
 
-                    </h4>
+                    </h3>
                     <p>Begin trading from just $0.10 per pip, perfect for smaller accounts and improved risk management.
 
                     </p>

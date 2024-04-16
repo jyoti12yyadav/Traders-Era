@@ -40,7 +40,7 @@
         <div class="container mt-lg-0 pt-18 pt-xl-20">
             <div class="row">
                 <div class="col-12 breadcrumb-area ">
-                    <h2 class="mb-4">Crypto</h2>
+                    <h1 class="mb-4">Crypto</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb mb-0">
                             <li class="breadcrumb-item"><a href="index.html">Home</a></li>
@@ -66,7 +66,7 @@
                 <div class="col-lg-6 col-xxl-5">
                     <div class="trade_on__content">
                         <!-- <span class="heading s1-color fs-five mb-5">Trade On Our</span> -->
-                        <h3 class="mb-4 mb-lg-5">What are Cryptocurrencies and Crypto Trading?</h3>
+                        <h2 class="mb-4 mb-lg-5">What are Cryptocurrencies and Crypto Trading?</h2>
                         <p class="fs-six mx-ch">Cryptocurrencies, also known as Cryptos, are unique and popular digital currencies that have been booming ever since and are changing the financial industry sharply. </p>
                         <br>
                         <p class="fs-six mx-ch">What makes them perfect for trading is their lack of physical form and decentralized nature. Cryptos often record the highest trading volume in almost all the exchanges it’s listed on. </p>
@@ -92,7 +92,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-8 col-xxl-6">
                     <div class="heading__content mb-10 mb-lg-15 text-center">
-                        <h3 class="mb-5 mb-lg-6">Why traders choose us</h3>
+                        <h2 class="mb-5 mb-lg-6">Why traders choose us</h2>
                     </div>
                 </div>
             </div>
@@ -102,8 +102,9 @@
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                             <img src="assets/images/icon/time.png" alt="time">
                         </span>
-                       <h4 class="mt-5 mb-5">Quick Deposits & Withdrawals</h4>
-                       <p>Become an TradersEra client within minutes! Register yourself, fund your chosen account, and start stock trading trouble-free.</p>
+                       <h3 class="mt-5 mb-5">Quick Deposits & Withdrawals</h3>
+                       <h4>Become an TradersEra client within minutes! Register yourself, fund your chosen account, and start stock trading trouble-free.</h4>
+                       <br>
                     </div>
                 </div>
                 <div class="col-md-6 col-xxl-3">
@@ -111,8 +112,9 @@
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                             <img src="assets/images/icon/wallet.png" alt="wallet">
                         </span>
-                       <h4 class="mt-5 mb-5">No Crypto-Wallet Fuss</h4>
-                       <p>Bet only on the underlying crypto’s price and quit worrying about the safe-keeping of actual cryptocurrency with TradersEra.</p>
+                       <h3 class="mt-5 mb-5">No Crypto-Wallet Fuss</h3>
+                       <h4>Bet only on the underlying crypto’s price and quit worrying about the safe-keeping of actual cryptocurrency with TradersEra.</h4>
+                       <br>
                        <br>
                     </div>
                 </div>    
@@ -121,9 +123,9 @@
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                             <img src="assets/images/icon/low-price.png" alt="low-price">
                         </span>
-                       <h4 class="mt-5 mb-5">Low Transaction Costs</h4>
-                       <p>Trade major cryptocurrencies commission free and without any exchange fees with TradersEra.</p>
-                       <br><br>
+                       <h3 class="mt-5 mb-5">Low Transaction Costs</h3>
+                       <h4>Trade major cryptocurrencies commission free and without any exchange fees with TradersEra.</h4>
+                       <br><br><br>
                     </div>
                 </div>
                 <div class="col-md-6 col-xxl-3">
@@ -131,8 +133,8 @@
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                             <img src="assets/images/icon/customer-service.png" alt="customer">
                         </span>
-                       <h4 class="mt-5 mb-5">Unrivalled Customer Support</h4>
-                       <p>With an experienced team backing you up during every trouble, TradersEra aims to provide you the best possible customer support 24×5.</p>
+                       <h3 class="mt-5 mb-5">Unrivalled Customer Support</h3>
+                       <h4>With an experienced team backing you up during every trouble, TradersEra aims to provide you the best possible customer support 24×5.</h4>
                     </div>
                 </div>
             </div>

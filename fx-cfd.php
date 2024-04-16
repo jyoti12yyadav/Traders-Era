@@ -55,7 +55,7 @@
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
             <div class="col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
-                    <h3 class="mb-4 mb-lg-5">Foreign Exchange Contracts</h3>
+                    <h2 class="mb-4 mb-lg-5">Foreign Exchange Contracts</h2>
                     <p class="fs-six mx-ch">FX CFD stands for Foreign Exchange Contracts for Difference. It is a
                         financial derivative product that allows traders to speculate on the price movements of currency
                         pairs without actually owning the underlying assets. With FX CFDs, traders can enter into

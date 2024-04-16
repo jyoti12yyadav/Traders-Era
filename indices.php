@@ -29,7 +29,7 @@
         <div class="container mt-lg-0 pt-18 pt-xl-20">
             <div class="row">
                 <div class="col-12 breadcrumb-area ">
-                    <h2 class="mb-4">Indices</h2>
+                    <h1 class="mb-4">Indices</h1>
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb mb-0">
                             <li class="breadcrumb-item"><a href="index.html">Home</a></li>
@@ -54,7 +54,7 @@
             <div class="col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
                     <!-- <span class="heading s1-color fs-five mb-5">Trade On Our</span> -->
-                    <h3 class="mb-4 mb-lg-5">What are Indices and Indices trading?</h3>
+                    <h2 class="mb-4 mb-lg-5">What are Indices and Indices trading?</h2>
                     <p class="fs-six mx-ch">An index is mostly defined as a portfolio of stocks that represent a particular market or sector. Hence, indices measure the price performance of a group of stocks of a particular sector of the stock market. Let’s consider an example for a better understanding. 
                     </p>
                     <br>
@@ -80,7 +80,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-8 col-xxl-6">
                     <div class="heading__content mb-10 mb-lg-15 text-center">
-                        <h3 class="mb-5 mb-lg-6">Get Started with Us!</h3>
+                        <h2 class="mb-5 mb-lg-6">Get Started with Us!</h2>
                     </div>
                 </div>
             </div>

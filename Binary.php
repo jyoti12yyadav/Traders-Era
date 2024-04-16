@@ -45,8 +45,8 @@
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
                     <span class="heading p1-color fs-six mb-5"></span>
-                    <h4 class="mb-4 mb-lg-5" style="font-size: 32px;">Concept of binary options and their operational mechanics?
-                    </h4>
+                    <h2 class="mb-4 mb-lg-5" style="font-size: 32px;">Concept of binary options and their operational mechanics?
+                    </h2>
                     </p>
                     <p>Binary option contracts provide a clear and straightforward trading experience. These contracts are called 'binary' because they offer only two possible outcomes: a predetermined profit or the loss of the initial investment. This simplicity allows you to make informed decisions, knowing exactly how much you stand to lose if the market goes against you. On the other hand, if the market moves in your favor, you can anticipate the exact amount of profit you could make. It's a controlled and thrilling approach to trading.</p>
                     <br>
@@ -89,17 +89,17 @@
                 </h5>
                 <ul class="d-flex gap-4 flex-column mt-6">
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>
-                        Binary options trading is a simple concept: predict if the market will be above a certain price at a specific time. If you believe it will, you buy; if not, you sell.
+                       <h3> Binary options trading is a simple concept: predict if the market will be above a certain price at a specific time. If you believe it will, you buy; if not, you sell.</h3>
                     </li>
-                    <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Binary options have a price range of $0 to $100, allowing you to control the amount of money you're willing to risk. Each contract clearly outlines the potential gains and losses, ensuring you make informed decisions.
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i><h3>Binary options have a price range of $0 to $100, allowing you to control the amount of money you're willing to risk. Each contract clearly outlines the potential gains and losses, ensuring you make informed decisions.</h3>
                     </li>
-                    <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>A successful trade results in a $100 payout, with your profit being $100 minus your initial investment. If the trade is unsuccessful, you won't receive a payout, limiting your loss to the capital you put in.
-
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i><h3>A successful trade results in a $100 payout, with your profit being $100 minus your initial investment. If the trade is unsuccessful, you won't receive a payout, limiting your loss to the capital you put in.</h3>
+<h3>
                     </li>
-                    <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Should you decide to exit a contract before it expires, you can do so by placing a closing order. This helps manage losses or secure profits.</li>
-                    <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Compatible across various operating systems.
-                    </li>
-                    <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Trading binary options involves predicting market movements based on price levels. If you anticipate the market will be above a certain price at a specific time, you buy; if not, you sell.
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i><h3>Should you decide to exit a contract before it expires, you can do so by placing a closing order. This helps manage losses or secure profits.</h3></li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i><h3>Compatible across various operating systems.</h3>
+                    </li></h3>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i><h3>Trading binary options involves predicting market movements based on price levels. If you anticipate the market will be above a certain price at a specific time, you buy; if not, you sell.</h3>
 
                     </li>
                 </ul>
@@ -181,10 +181,10 @@
                 <div class="trade_on__content">
                     <h2>Key insights from binary options trading</h2>
                     <ul class="d-flex gap-4 flex-column mt-6">
-                        <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Looking to get some practice in? Join TradersEra and sign up for a demo account! With this account, you'll receive practice funds to help you sharpen your trading skills before diving into the real deal.</li>
-                        <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Always keep in mind the significance of sticking to your trading strategy and effectively controlling your risk. By doing so, you can safeguard yourself from putting too much capital at stake and prevent losing more than you are able to handle.</li>
-                        <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Start trading binary option contracts without any risk by using a TradersEra demo account. With $10,000 in virtual funds, you have nothing to lose. Practicing for free is the perfect way to gain knowledge about binary option contracts.</li>
-                        <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Ready to start trading binary option contracts? Sign up with TradersEra now and create a demo account! Practice with virtual funds to enhance your trading abilities before getting started with real trading.</li>
+                        <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i><h3>Looking to get some practice in? Join TradersEra and sign up for a demo account! With this account, you'll receive practice funds to help you sharpen your trading skills before diving into the real deal.</h3></li>
+                        <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i><h3>Always keep in mind the significance of sticking to your trading strategy and effectively controlling your risk. By doing so, you can safeguard yourself from putting too much capital at stake and prevent losing more than you are able to handle.</h3></li>
+                        <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i><h3>Start trading binary option contracts without any risk by using a TradersEra demo account. With $10,000 in virtual funds, you have nothing to lose. Practicing for free is the perfect way to gain knowledge about binary option contracts.</h3></li>
+                        <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i><h3>Ready to start trading binary option contracts? Sign up with TradersEra now and create a demo account! Practice with virtual funds to enhance your trading abilities before getting started with real trading.</h3></li>
                     </ul>
                 </div>
             </div>

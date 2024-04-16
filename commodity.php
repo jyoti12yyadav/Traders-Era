@@ -29,7 +29,7 @@
     <div class="container mt-lg-0 pt-18 pt-xl-20">
         <div class="row">
             <div class="col-12 breadcrumb-area ">
-                <h2 class="mb-4">Commodity</h2>
+                <h1 class="mb-4">Commodity</h1>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb mb-0">
                         <li class="breadcrumb-item"><a href="index.html">Home</a></li>
@@ -54,7 +54,7 @@
             <div class="col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
                     <!-- <span class="heading s1-color fs-five mb-5">Trade On Our</span> -->
-                    <h3 class="mb-4 mb-lg-5">What is Commodity Trading?</h3>
+                    <h2 class="mb-4 mb-lg-5">What is Commodity Trading?</h2>
                     <p class="fs-six mx-ch">Commodity trading refers to buying and selling of a wide array of
                         instruments that include oil and gas, metals such as gold and silver, and soft commodities like
                         sugar, wheat, coffee, etc. This type of trading offers you the access to such markets without
@@ -89,10 +89,10 @@
                 <div class="faq__part">
                     <div class="accordion-section d-grid gap-6">
                         <div class="accordion-single  cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
-                            <h5 class="header-area">
+                            <h3 class="header-area">
                                 <button class="accordion-btn transition text-start d-flex position-relative w-100"
                                     type="button">Study the market</button>
-                            </h5>
+                            </h3>
                             <div class="content-area">
                                 <div class="content-body pt-5">
                                     <p>Analyze how gold and other major commodities behave in different timeframes with
@@ -103,10 +103,10 @@
                             </div>
                         </div>
                         <div class="accordion-single  cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
-                            <h5 class="header-area">
+                            <h3 class="header-area">
                                 <button class="accordion-btn transition text-start d-flex position-relative w-100"
                                     type="button">Affecting factors</button>
-                            </h5>
+                            </h3>
                             <div class="content-area">
                                 <div class="content-body pt-5">
                                     <p>Besides supply and demand rate in the market, there are several economic and
@@ -117,10 +117,10 @@
                             </div>
                         </div>
                         <div class="accordion-single  cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
-                            <h5 class="header-area">
+                            <h3 class="header-area">
                                 <button class="accordion-btn transition text-start d-flex position-relative w-100"
                                     type="button">Trading strategies</button>
-                            </h5>
+                            </h3>
                             <div class="content-area">
                                 <div class="content-body pt-5">
                                     <p>In financial markets, there’s no lone trading strategy that will draw you
