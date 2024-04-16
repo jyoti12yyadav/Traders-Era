@@ -488,7 +488,7 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/directions.png" alt="time">
                     </span>
-                    <h4 class="mt-5 mb-5">flexible leverage</h4>
+                    <h3 class="mt-5 mb-5">flexible leverage</h3>
                     <br>
                 </div>
             </div>
@@ -497,7 +497,7 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/shopping.png" alt="wallet">
                     </span>
-                    <h4 class="mt-5 mb-5">access the markets 24/5</h4>
+                    <h3 class="mt-5 mb-5">access the markets 24/5</h3>
                     <br>
                 </div>
             </div>
@@ -506,7 +506,8 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/pair-of-banknotes.png" alt="low-price">
                     </span>
-                    <h4 class="mt-5 mb-5">trade a wide range of currency pairs</h4>
+                    <h3 class="mt-5 mb-5">trade a wide range of currency pairs</h3>
+                    <br>
                 </div>
             </div>
             <div class="table-para mt-5 mb-5">

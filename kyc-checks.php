@@ -271,6 +271,7 @@
                    <br>
                    <h3 class="idverify">Our smart system utilizes OCR technology to automatically extract data from the document.</h3>
                    <br>
+                   <br>
                    
                 </div>
             </div>
