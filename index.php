@@ -767,7 +767,7 @@
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/tradersera.png" alt="Imgae">
+                    <img src="assets/images/tradersera.png" alt="Web Based Tradersera Platform ">
                 </div>
             </div>
 
@@ -813,11 +813,11 @@
                     <br>
                     <h3>Platforms Supported:</h3>
                     <ul class=" d-flex  gap-md-3 ">
-                        <li><img style=" height:35px;" src="assets/images/icon/icon IE.png"></li>
-                        <li><img style=" height:35px;" src="assets/images/icon/icon opera.png"></li>
-                        <li><img style=" height:35px;" src="assets/images/icon/icon safari.png"></li>
-                        <li><img style=" height:35px;" src="assets/images/icon/icon fire fox.png"></li>
-                        <li><img style=" height:35px;" src="assets/images/icon/icon CROME.png"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/icon IE.png" alt="IE"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/icon opera.png" alt="opera"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/icon safari.png" alt="safari"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/icon fire fox.png" alt="fire fox"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/icon CROME.png" alt="CROME"></li>
 
                     </ul>
                 </ul>
@@ -1187,7 +1187,7 @@
             </div>
             <div class="col-8 col-sm-7 col-lg-6 col-xxl-5">
                 <div class="worldwide_thumb d-flex ms-lg-15 ms-xl-0">
-                    <img src="assets/images/tradersera logo on phone.png" class="max-xl-un" alt="Image">
+                    <img src="assets/images/tradersera logo on phone.png" class="max-xl-un" alt="TradersEra Trading app ">
                 </div>
             </div>
         </div>
@@ -1198,7 +1198,7 @@
         <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
             <div class="col-sm-10 col-lg-6 col-xxl-5 order-2 order-lg-0">
                 <div class="company-story__thumbs d-center">
-                    <img src="assets/images/deposite.png" class="cus-rounded-1 w-100" alt="Imgae">
+                    <img src="assets/images/deposite.png" class="cus-rounded-1 w-100" alt="TradersEra's Visa, Mastercard, wire transfer, or crypto  your funding ">
                 </div>
             </div>
             <div class="col-lg-6 col-xxl-7">
@@ -1218,13 +1218,13 @@
                     </div>
 
                     <ul class=" d-flex   gap-md-3 mt-4">
-                        <li><img style=" height:35px;" src="assets/images/icon/a. visa white _logo.png"></li>
-                        <li><img style=" height:35px;" src="assets/images/icon/a. mastercard.png"></li>
-                        <li><img style=" height:35px;" src="assets/images/icon/a.bitcoin-logo.png"></li>
-                        <li><img style=" height:35px;" src="assets/images/icon/Tether.png"></li>
-                        <li><img style=" height:35px;" src="assets/images/icon/Perfect-Money- white logo.png"></li>
-                        <li><img style=" height:35px;" src="assets/images/icon/a. Wire Transfer white logo.png"></li>
-                        <li><img style=" height:35px;" src="assets/images/icon/Upi-Payment.png"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/a. visa white _logo.png" alt="visa"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/a. mastercard.png" alt=" mastercard"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/a.bitcoin-logo.png" alt="bitcoin"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/Tether.png" alt="Tether"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/Perfect-Money- white logo.png" alt="Perfect"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/a. Wire Transfer white logo.png" alt="Wire"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/Upi-Payment.png" alt="Payment"></li>
                     </ul>
                 </div>
             </div>
