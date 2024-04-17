@@ -83,6 +83,7 @@
                     <p> With a solid reputation built over years of successful trading, TradersEra has earned the trust
                         of traders worldwide.</p>
                     <br>
+                    <br>
                 </div>
             </div>
             <div class="col-md-6 col-xxl-4">

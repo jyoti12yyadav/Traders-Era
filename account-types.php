@@ -96,7 +96,6 @@ color: #000000;
                     </h4>
                     <p>Our consolidated liquidity helps maintain low spreads, typically throughout trading periods.
                     </p>
-                    <br>
                 </div>
             </div>
             <div class="col-md-6 col-xxl-4">

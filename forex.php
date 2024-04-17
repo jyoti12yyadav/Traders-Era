@@ -118,7 +118,6 @@
                     </span>
                     <h4 class="mt-5 mb-5">Quick Deposits and Withdrawals</h4>
                     <p>Become an TradersEra client easily. Fund and withdraw from your account hassle-free.</p>
-                    <br>
                 </div>
             </div>
         </div>

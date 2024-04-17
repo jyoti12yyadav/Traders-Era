@@ -271,7 +271,6 @@
                    <br>
                    <p>Our smart system utilizes OCR technology to automatically extract data from the document.</p>
                    <br>
-                   <br>
                    
                 </div>
             </div>

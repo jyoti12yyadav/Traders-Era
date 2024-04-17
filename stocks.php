@@ -116,7 +116,6 @@
                     <p>Trade across all our assets with confidence and quit worrying about your funds’ safety.</p>
                     <br>
                     <br>
-                    <br>
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
@@ -126,7 +125,6 @@
                     </span>
                     <h3 class="mt-5 mb-5">Low Commissions</h3>
                     <p>Get raw pricing with no markups with TradersEra. Start stock trading with us at lowest commissions possible.</p>
-                    <br>
                     <br>
                 </div>
             </div>
