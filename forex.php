@@ -90,7 +90,7 @@
 <section class="provide-world pt-120 pb-60  position-relative z-0">
     <div class="container">
         <div class="row gy-6 gy-xxl-0">
-            <h3 class="mb-4 mb-lg-5 d-flex justify-content-center" style="margin-bottom: 3.25rem !important;">Discover The Advantages Of Forex Trading At TradersEra</h3>
+            <h2 class="mb-4 mb-lg-5 d-flex justify-content-center" style="margin-bottom: 3.25rem !important;">Discover The Advantages Of Forex Trading At TradersEra</h2>
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">

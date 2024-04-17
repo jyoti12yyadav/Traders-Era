@@ -186,7 +186,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-8 col-xxl-6">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h3>Documents Required</h3>
+                    <h2>Documents Required</h2>
                     <br>
                     <h4>Kindly provide a copy of ONE of the following papers proving your identity:</h4>
                 </div>
@@ -200,14 +200,13 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/file.png" alt="stock-market">
                     </span>
-
-                    <h3 style="font-weight:bold">Passport (must to be valid right now)</h3>
+<br>
+                    <h3>Passport (must to be valid right now)</h3>
                     <hr>
-                    <h3 style="font-weight:bold">a current driver's license
+                    <h3>a current driver's license
                     </h3>
                     <hr>
-                    <h3 style="font-weight:bold"> Authentic Proof of Age card.</h3>
-                    <br>
+                    <h3> Authentic Proof of Age card.</h3>
                     <br>
                     <br>
 
@@ -218,14 +217,14 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/bill.png" alt="stock-market">
                     </span>
-                    <h3 style="font-weight:bold"> Utility Bill (Phone, Electricity, Gas) id doc arrow ico</h3>
+                    <br>
+                    <h3> Utility Bill (Phone, Electricity, Gas) id doc arrow ico</h3>
                     <hr>
-                    <h3 style="font-weight:bold"> Statement from a bank or credit card </h3>
+                    <h3> Statement from a bank or credit card </h3>
                     <hr>
 
-                    <h3 style="font-weight:bold">Tax Document Issued by the Government
+                    <h3>Tax Document Issued by the Government
                     </h3>
-                    <br>
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
@@ -315,8 +314,8 @@
                     <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <h2>Address Proof</h2>
                         <br>
-                        <h6><b>Experience the seamless, secure, and swift integration of address verification.</b> </h6>
-                        <h6><b>Embrace the future of digital identity verification by taking the next step. Our Address Verification integration offers more than just technology - it promises excellence, efficiency, and top-notch security.</b> </h6>
+                        <h4>Experience the seamless, secure, and swift integration of address verification.</h4>
+                        <h4>Embrace the future of digital identity verification by taking the next step. Our Address Verification integration offers more than just technology - it promises excellence, efficiency, and top-notch security. </h4>
                     </div>
                 </div>
            
