@@ -90,6 +90,7 @@
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                             <img src="assets/images/icon/application.png" alt="application">
                         </span>
+                        <br>
                        <p>Register yourself and open a Live account by submitting the online application.</p>
                     </div>
                 </div>
@@ -98,6 +99,7 @@
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                             <img src="assets/images/icon/money-bag.png" alt="money-bag">
                         </span>
+                        <br>
                        <p>Fund your chosen account type and place your first trade.</p>
                     </div>
                 </div>
@@ -106,6 +108,7 @@
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                             <img src="assets/images/icon/stock-market.png" alt="stock-market">
                         </span>
+                        <br>
                        <p>Explore our indices offering in the most preferred MT5 trading platform.</p>
                     </div>
                 </div>

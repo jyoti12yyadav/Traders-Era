@@ -103,7 +103,7 @@
                             <img src="assets/images/icon/time.png" alt="time">
                         </span>
                        <h3 class="mt-5 mb-5">Quick Deposits & Withdrawals</h3>
-                       <h4>Become an TradersEra client within minutes! Register yourself, fund your chosen account, and start stock trading trouble-free.</h4>
+                       <p>Become an TradersEra client within minutes! Register yourself, fund your chosen account, and start stock trading trouble-free.</p>
                        <br>
                     </div>
                 </div>
@@ -113,9 +113,9 @@
                             <img src="assets/images/icon/wallet.png" alt="wallet">
                         </span>
                        <h3 class="mt-5 mb-5">No Crypto-Wallet Fuss</h3>
-                       <h4>Bet only on the underlying crypto’s price and quit worrying about the safe-keeping of actual cryptocurrency with TradersEra.</h4>
+                       <p>Bet only on the underlying crypto’s price and quit worrying about the safe-keeping of actual cryptocurrency with TradersEra.</p>
                        <br>
-                       <br>
+                       
                     </div>
                 </div>    
                 <div class="col-md-6 col-xxl-3">
@@ -124,8 +124,8 @@
                             <img src="assets/images/icon/low-price.png" alt="low-price">
                         </span>
                        <h3 class="mt-5 mb-5">Low Transaction Costs</h3>
-                       <h4>Trade major cryptocurrencies commission free and without any exchange fees with TradersEra.</h4>
-                       <br><br><br>
+                       <p>Trade major cryptocurrencies commission free and without any exchange fees with TradersEra.</p>
+                       <br><br>
                     </div>
                 </div>
                 <div class="col-md-6 col-xxl-3">
@@ -134,7 +134,7 @@
                             <img src="assets/images/icon/customer-service.png" alt="customer">
                         </span>
                        <h3 class="mt-5 mb-5">Unrivalled Customer Support</h3>
-                       <h4>With an experienced team backing you up during every trouble, TradersEra aims to provide you the best possible customer support 24×5.</h4>
+                       <p>With an experienced team backing you up during every trouble, TradersEra aims to provide you the best possible customer support 24×5.</p>
                     </div>
                 </div>
             </div>

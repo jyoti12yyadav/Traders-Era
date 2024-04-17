@@ -83,6 +83,7 @@
                     <p> With a solid reputation built over years of successful trading, TradersEra has earned the trust
                         of traders worldwide.</p>
                     <br>
+                    <br>
                 </div>
             </div>
             <div class="col-md-6 col-xxl-4">
@@ -94,6 +95,7 @@
                     <p>Our business is centered on supporting our clients with cutting-edge tools and assistance.
                         We are available every day, all day.
                     </p>
+                    <br>
                 </div>
             </div>
             <div class="col-md-6 col-xxl-4">
@@ -125,22 +127,22 @@
             <div class="col-lg-7 col-xxl-6">
                 <div class="trade_on__content">
                     <!-- <span class="heading s1-color fs-five mb-5">Trade On Our</span> -->
-                    <h2 class="mb-4 mb-lg-5">Simple account registration
+                    <h2 class="mb-4 mb-lg-5" style="font-weight: 400;">Simple account registration
                     </h2>
                     <ul class="d-flex gap-4 flex-column mt-6">
                         <li class="d-flex align-items-center gap-3 fs-six-up" style="font-weight: 900;"><i
-                                class="ti ti-circle-check s1-color fs-four"></i><h3>Swift execution across an extensive
-                            range of markets</h3></li>
+                                class="ti ti-circle-check s1-color fs-four"></i><h4>Swift execution across an extensive
+                            range of markets</h4></li>
                         <p style="margin-left:35px;">Enjoy Rewards of low spreads and efficient execution.</p>
 
                         <li class="d-flex align-items-center gap-3 fs-six-up" style="font-weight: 900;"><i
-                                class="ti ti-circle-check s1-color fs-four"></i><h3>Trade smoothly, no matter where you're
-                            located.</h3></li>
+                                class="ti ti-circle-check s1-color fs-four"></i><h4>Trade smoothly, no matter where you're
+                            located.</h4></li>
                         <p style="margin-left:35px;">Enjoy a smooth trading experience from anywhere with our trading
                             app</p>
                         <li class="d-flex align-items-center gap-3 fs-six-up" style="font-weight: 900;"><i
-                                class="ti ti-circle-check s1-color fs-four" style="font-weight: 900;"></i><h3>Feel Secure
-                            with a reliable provider</h3></li>
+                                class="ti ti-circle-check s1-color fs-four" style="font-weight: 900;"></i><h4>Feel Secure
+                            with a reliable provider</h4></li>
                         <p style="margin-left:35px;">Feel secure knowing you're trading with a reliable provider
                             committed to your success.</p>
 
@@ -228,42 +230,42 @@
 
                 <ul class="d-flex gap-4 flex-column mt-6">
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i><h3>With lightning-fast trade execution, you'll
-                        never miss a trade opportunity.</h3>
+                            class="ti ti-circle-check s1-color fs-four"></i>With lightning-fast trade execution, you'll
+                        never miss a trade opportunity.
 
 
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i><h3>Save time and reduce operational costs with
-                        efficient and fast processing.</h3>
+                            class="ti ti-circle-check s1-color fs-four"></i>Save time and reduce operational costs with
+                        efficient and fast processing.
 
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i><h3>Within seconds, data from multiple sources
-                        can be processed and analyzed.</h3>
+                            class="ti ti-circle-check s1-color fs-four"></i>Within seconds, data from multiple sources
+                        can be processed and analyzed.
 
 
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i><h3>AI risk management tools have the capability
-                        to automatically evaluate and reduce potential harm.</h3>
+                            class="ti ti-circle-check s1-color fs-four"></i>AI risk management tools have the capability
+                        to automatically evaluate and reduce potential harm.
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i><h3>AI has the ability to recognize patterns
-                        with greater speed and accuracy.</h3>
+                            class="ti ti-circle-check s1-color fs-four"></i>AI has the ability to recognize patterns
+                        with greater speed and accuracy.
 
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i><h3>Decisions are made purely based on logic,
-                        without any influence from intense emotions.</h3>
+                            class="ti ti-circle-check s1-color fs-four"></i>Decisions are made purely based on logic,
+                        without any influence from intense emotions.
 
 
                     </li>
 
 
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i><h3>An AI has the ability to carry out numerous
-                        forex trades at the same time.</h3>
+                            class="ti ti-circle-check s1-color fs-four"></i>An AI has the ability to carry out numerous
+                        forex trades at the same time.
                     </li>
                     <br>
 
@@ -313,13 +315,13 @@
                 <ul class="d-flex gap-4 flex-column mt-6">
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>
-                        <h3>Settles at 0: You risk only what you invest; no further loss.</h3>
+                        Settles at 0: You risk only what you invest; no further loss.
 
 
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i><h3>Settles at 100: Earn a $100 payout per
-                        contract, plus your profit (subtracting your trade's cost) remains yours.</h3>
+                            class="ti ti-circle-check s1-color fs-four"></i>Settles at 100: Earn a $100 payout per
+                        contract, plus your profit (subtracting your trade's cost) remains yours.
 
 
                     </li>
@@ -363,20 +365,20 @@
                 <ul class="d-flex gap-4 flex-column mt-6">
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>
-                        <h3>We store your funds in high-quality banks, ensuring they are completely separate from our own.</h3>
+                        We store your funds in high-quality banks, ensuring they are completely separate from our own.
 
 
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i><h3>We follow regulations in different places.
-                        We keep your money in the best banks.</h3>
+                            class="ti ti-circle-check s1-color fs-four"></i>We follow regulations in different places.
+                        We keep your money in the best banks.
 
 
                     </li>
 
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>
-                        <h3>Choose from a range of payment methods, including local banks.</h3>
+                        Choose from a range of payment methods, including local banks.
 
                     </li>
 

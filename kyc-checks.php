@@ -89,30 +89,30 @@
 
                 <ul class="d-flex gap-4 flex-column mt-6">
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i><h3>Verify the identity of customers through
-                        government-issued identification documents.</h3>
+                            class="ti ti-circle-check s1-color fs-four"></i>Verify the identity of customers through
+                        government-issued identification documents.
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i><h3>Confirm the authenticity of provided
-                        documents through manual review or automated verification systems.</h3>
+                            class="ti ti-circle-check s1-color fs-four"></i>Confirm the authenticity of provided
+                        documents through manual review or automated verification systems.
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i><h3>Conduct due diligence checks to ensure
-                        compliance with regulatory requirements and prevent fraud.</h3>
+                            class="ti ti-circle-check s1-color fs-four"></i>Conduct due diligence checks to ensure
+                        compliance with regulatory requirements and prevent fraud.
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i><h3>Validate the residential address of
+                            class="ti ti-circle-check s1-color fs-four"></i>Validate the residential address of
                         customers by cross-referencing their identification documents with bank statements, or other
-                        official documents.</h3>
+                        official documents.
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i><h3>Screen customers against global watchlists
-                        and sanctions databases to ensure they are not involved in any illegal activities.</h3>
+                            class="ti ti-circle-check s1-color fs-four"></i>Screen customers against global watchlists
+                        and sanctions databases to ensure they are not involved in any illegal activities.
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i><h3>Conduct enhanced due diligence for high-risk
+                            class="ti ti-circle-check s1-color fs-four"></i>Conduct enhanced due diligence for high-risk
                         customers or transactions, which may involve gathering additional information, performing
-                        background checks, or seeking approval from senior management.</h3>
+                        background checks, or seeking approval from senior management.
                     </li>
                 </ul>
 
@@ -255,7 +255,7 @@
                     <hr>
                     <!-- <span class="idverify">Capturing Id</span> -->
                    <br>
-                   <h3 class="idverify">The user can capture or upload a photo of their government-issued identity document instantly.</h3>
+                   <p>The user can capture or upload a photo of their government-issued identity document instantly.</p>
                    <br>
                 </div>
             </div>
@@ -269,8 +269,7 @@
                     <hr>
                     <!-- <span class="idverify">Capturing Id</span> -->
                    <br>
-                   <h3 class="idverify">Our smart system utilizes OCR technology to automatically extract data from the document.</h3>
-                   <br>
+                   <p>Our smart system utilizes OCR technology to automatically extract data from the document.</p>
                    <br>
                    
                 </div>
@@ -287,7 +286,7 @@
                     <hr>
                     <!-- <span class="idverify">Capturing Id</span> -->
                    <br>
-                   <h3 class="idverify">Our advanced AI verification technology confirms the format and details of identity documents.</h3>
+                   <p>Our advanced AI verification technology confirms the format and details of identity documents.</p>
                    <br>
                 </div>
             </div>
@@ -301,7 +300,7 @@
                     <hr>
                     <!-- <span class="idverify">Capturing Id</span> -->
                    <br>
-                   <h3 class="idverify">The user will receive a clear 'Yes' or 'No' response for their verification, and all the results will be securely stored in the back-office.</h3>
+                   <p>The user will receive a clear 'Yes' or 'No' response for their verification, and all the results will be securely stored in the back-office.</p>
                 </div>
             </div>
         </div>
@@ -316,8 +315,8 @@
                     <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <h2>Address Proof</h2>
                         <br>
-                        <h3><b>Experience the seamless, secure, and swift integration of address verification.</b> </h3>
-                        <h3><b>Embrace the future of digital identity verification by taking the next step. Our Address Verification integration offers more than just technology - it promises excellence, efficiency, and top-notch security.</b> </h3>
+                        <h6><b>Experience the seamless, secure, and swift integration of address verification.</b> </h6>
+                        <h6><b>Embrace the future of digital identity verification by taking the next step. Our Address Verification integration offers more than just technology - it promises excellence, efficiency, and top-notch security.</b> </h6>
                     </div>
                 </div>
            
