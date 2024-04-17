@@ -61,20 +61,20 @@
                 <div class="trade_on__content">
                     <!-- <span class="heading s1-color fs-five mb-5">Trade On Our</span> -->
                     <h2 class="mb-4 mb-lg-5">What is Forex Trading?</h2>
-                    <h3 class="fs-six mx-ch">Forex trading simply means buying and selling currencies with the motive of
+                    <p class="fs-six mx-ch">Forex trading simply means buying and selling currencies with the motive of
                         attaining profits. Currencies are traded in pairs- the first currency listed in the pair is
-                        called the “base” currency while the second listed currency is called the “quote” currency.</h3>
+                        called the “base” currency while the second listed currency is called the “quote” currency.</p>
                     <br>
-                    <h3 class="fs-six mx-ch">The most traded currency pair- EUR/USD (Euro/US Dollar) represents the
-                        amount of US dollars that could be exchanged for one Euro.</h3>
+                    <p class="fs-six mx-ch">The most traded currency pair- EUR/USD (Euro/US Dollar) represents the
+                        amount of US dollars that could be exchanged for one Euro.</p>
                     <br>
-                    <h3 class="fs-six mx-ch">The Forex market is open 24×5 and traded online with the price quotes
+                    <p class="fs-six mx-ch">The Forex market is open 24×5 and traded online with the price quotes
                         fluctuating constantly due to a variety of factors like interest rates, geopolitical risks, and
-                        market factors that affect both supply and demand for such currencies.</h3>
+                        market factors that affect both supply and demand for such currencies.</p>
                     <br>
-                    <h3 class="fs-six mx-ch">Trade global FX pairs with TradersEra and relish exceptional trading
+                    <p class="fs-six mx-ch">Trade global FX pairs with TradersEra and relish exceptional trading
                         conditions. Open your Forex trading account today and use our powerful professional tools to
-                        access the market and trade with ease.</h3>
+                        access the market and trade with ease.</p>
                 </div>
 </div>
             <div class="col-md-8 col-lg-6">
