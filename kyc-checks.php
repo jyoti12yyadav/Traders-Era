@@ -201,12 +201,12 @@
                         <img src="assets/images/icon/file.png" alt="stock-market">
                     </span>
 <br>
-                    <h3>Passport (must to be valid right now)</h3>
+                    <p>Passport (must to be valid right now)</p>
                     <hr>
-                    <h3>a current driver's license
-                    </h3>
+                    <p>a current driver's license
+                    </p>
                     <hr>
-                    <h3> Authentic Proof of Age card.</h3>
+                    <p> Authentic Proof of Age card.</p>
                     <br>
                     <br>
 
@@ -218,13 +218,13 @@
                         <img src="assets/images/icon/bill.png" alt="stock-market">
                     </span>
                     <br>
-                    <h3> Utility Bill (Phone, Electricity, Gas) id doc arrow ico</h3>
+                    <p> Utility Bill (Phone, Electricity, Gas) id doc arrow ico</p>
                     <hr>
-                    <h3> Statement from a bank or credit card </h3>
+                    <p> Statement from a bank or credit card </p>
                     <hr>
 
-                    <h3>Tax Document Issued by the Government
-                    </h3>
+                    <p>Tax Document Issued by the Government
+                    </p>
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
@@ -248,7 +248,7 @@
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <h3>  Capture</h3>
                     <hr>
-                    <span class="">
+                    <span  class="">
                         <img style="height:100px;" src="assets/images/id card nn.png" alt="idcard">
                     </span>
                     <hr>
@@ -305,7 +305,7 @@
         </div>
     </div>
 </section>
-<section class="provide-world  pt-120 pb-120  position-relative z-0">
+<section class="  pt-120 pb-120  position-relative z-0">
 <div class="container">
     <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
         <div class="col-sm-10 col-lg-6 col-xxl-12">
@@ -314,8 +314,8 @@
                     <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <h2>Address Proof</h2>
                         <br>
-                        <h4>Experience the seamless, secure, and swift integration of address verification.</h4>
-                        <h4>Embrace the future of digital identity verification by taking the next step. Our Address Verification integration offers more than just technology - it promises excellence, efficiency, and top-notch security. </h4>
+                        <p>Experience the seamless, secure, and swift integration of address verification.</p>
+                        <p>Embrace the future of digital identity verification by taking the next step. Our Address Verification integration offers more than just technology - it promises excellence, efficiency, and top-notch security. </p>
                     </div>
                 </div>
            
