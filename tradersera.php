@@ -126,22 +126,22 @@
             <div class="col-lg-7 col-xxl-6">
                 <div class="trade_on__content">
                     <!-- <span class="heading s1-color fs-five mb-5">Trade On Our</span> -->
-                    <h2 class="mb-4 mb-lg-5">Simple account registration
+                    <h2 class="mb-4 mb-lg-5" style="font-weight: 400;">Simple account registration
                     </h2>
                     <ul class="d-flex gap-4 flex-column mt-6">
                         <li class="d-flex align-items-center gap-3 fs-six-up" style="font-weight: 900;"><i
-                                class="ti ti-circle-check s1-color fs-four"></i><h3>Swift execution across an extensive
-                            range of markets</h3></li>
+                                class="ti ti-circle-check s1-color fs-four"></i><h4>Swift execution across an extensive
+                            range of markets</h4></li>
                         <p style="margin-left:35px;">Enjoy Rewards of low spreads and efficient execution.</p>
 
                         <li class="d-flex align-items-center gap-3 fs-six-up" style="font-weight: 900;"><i
-                                class="ti ti-circle-check s1-color fs-four"></i><h3>Trade smoothly, no matter where you're
-                            located.</h3></li>
+                                class="ti ti-circle-check s1-color fs-four"></i><h4>Trade smoothly, no matter where you're
+                            located.</h4></li>
                         <p style="margin-left:35px;">Enjoy a smooth trading experience from anywhere with our trading
                             app</p>
                         <li class="d-flex align-items-center gap-3 fs-six-up" style="font-weight: 900;"><i
-                                class="ti ti-circle-check s1-color fs-four" style="font-weight: 900;"></i><h3>Feel Secure
-                            with a reliable provider</h3></li>
+                                class="ti ti-circle-check s1-color fs-four" style="font-weight: 900;"></i><h4>Feel Secure
+                            with a reliable provider</h4></li>
                         <p style="margin-left:35px;">Feel secure knowing you're trading with a reliable provider
                             committed to your success.</p>
 
