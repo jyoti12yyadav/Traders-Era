@@ -70,12 +70,8 @@
 
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0" style="background-color: #000;">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-<<<<<<< HEAD
-        <img src="assets/images/star3.png" alt="null" class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
-=======
         <img src="assets/images/star3.png" alt="vector"
             class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
->>>>>>> 64c3efe920c3dde1bd1d59f666428480ca6ba699
     </div>
     <div class="container">
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
@@ -145,12 +141,8 @@
 </section>
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0" style="background-color: #141414;">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-<<<<<<< HEAD
-        <img src="assets/images/star3.png" alt="null" class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
-=======
         <img src="assets/images/star3.png" alt="vector"
             class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
->>>>>>> 64c3efe920c3dde1bd1d59f666428480ca6ba699
     </div>
     <div class="container">
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
@@ -185,12 +177,8 @@
 </section>
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0" style="background-color: #000;">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-<<<<<<< HEAD
-        <img src="assets/images/star3.png" alt="null" class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
-=======
         <img src="assets/images/star3.png" alt="vector"
             class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
->>>>>>> 64c3efe920c3dde1bd1d59f666428480ca6ba699
     </div>
     <div class="container">
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
@@ -226,12 +214,8 @@
 
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-<<<<<<< HEAD
-        <img src="assets/images/star3.png" alt="null" class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
-=======
         <img src="assets/images/star3.png" alt="vector"
             class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
->>>>>>> 64c3efe920c3dde1bd1d59f666428480ca6ba699
     </div>
     <div class="container">
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
