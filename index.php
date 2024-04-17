@@ -599,7 +599,7 @@
                         <div class="company-story__part">
                             <div class="row">
                                 <div class="col-lg-2 d-flex align-items-center">
-                                    <img src="assets/images/icon/seesaw.png" alt="">
+                                    <img src="assets/images/icon/seesaw.png" alt="seesaw">
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
@@ -615,7 +615,7 @@
                         <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
                             <div class="row">
                                 <div class="col-lg-2 d-flex align-items-center">
-                                    <img src="assets/images/icon/candlestick-chart.png" alt="">
+                                    <img src="assets/images/icon/candlestick-chart.png" alt="/candlestick-chart">
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
@@ -633,7 +633,7 @@
                         <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
                             <div class="row">
                                 <div class="col-lg-2 d-flex align-items-center">
-                                    <img src="assets/images/icon/Web-Platform.png" alt="">
+                                    <img src="assets/images/icon/Web-Platform.png" alt="Web-Platform">
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
@@ -654,7 +654,7 @@
 
                             <div class="row">
                                 <div class="col-lg-2 d-flex align-items-center">
-                                    <img src="assets/images/icon/Multiple Funding.png" alt="">
+                                    <img src="assets/images/icon/Multiple Funding.png" alt="Multiple Funding">
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
@@ -670,7 +670,7 @@
                         <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
                             <div class="row">
                                 <div class="col-lg-2 d-flex align-items-center">
-                                    <img src="assets/images/icon/active-user.png" alt="">
+                                    <img src="assets/images/icon/active-user.png" alt="active-user">
 
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
@@ -689,7 +689,7 @@
                         <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
                             <div class="row">
                                 <div class="col-lg-2 d-flex align-items-center">
-                                    <img src="assets/images/icon/24-hours-support.png" alt="">
+                                    <img src="assets/images/icon/24-hours-support.png" alt="24-hours-support">
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
@@ -760,7 +760,7 @@
 
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-        <img src="assets/images/star3.png" alt="vector"
+        <img src="assets/images/star3.png" alt="star3"
             class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
     </div>
     <div class="container">
@@ -787,27 +787,29 @@
                 </h5>
                 <ul class="d-flex gap-4 flex-column mt-6">
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Accessible anytime and anywhere, no need for
-                        installation.
+                            class="ti ti-circle-check s1-color fs-four"></i><h4 style="font-size:18px;">Accessible anytime and anywhere, no need for
+                        installation.</h4>
 
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Cross-Device Compatibility, Works across
-                        multiple devices.
+                            class="ti ti-circle-check s1-color fs-four"></i><h4 style="font-size:18px;" >Cross-Device Compatibility, Works across
+                        multiple devices.</h4>
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Platform updates are hassle-free.
+                            class="ti ti-circle-check s1-color fs-four"></i><h4 style="font-size:18px;" >Platform updates are hassle-free.</h4>
 
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>No need for high-end hardware, suitable for
-                        various devices.</li>
+                            class="ti ti-circle-check s1-color fs-four"></i><h4 style="font-size:18px;" >No need for high-end hardware, suitable for
+                        various devices.</h4></li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Compatible across various operating systems.
+                            class="ti ti-circle-check s1-color fs-four"></i><h4 style="font-size:18px;" >Compatible across various operating systems.</h4>
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Requires minimal disk space as data is
-                        stored in the cloud.</li>
+                            class="ti ti-circle-check s1-color fs-four"></i><h4 style="font-size:18px;" > Requires minimal disk space as data is
+                        stored in the cloud.</h4>
+
+                    </li>
                     <br>
                     <h3>Platforms Supported:</h3>
                     <ul class=" d-flex  gap-md-3 ">
@@ -838,7 +840,7 @@
             <div class="col-md-6 col-xxl-3">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/number-1.png" alt="time">
+                        <img src="assets/images/icon/number-1.png" alt="number-1">
                     </span>
                     <h3 class="mt-5 mb-5">Register</h3>
                     <h4 >Sign up using your bank details and login to dashboard.</h4>
@@ -848,7 +850,7 @@
             <div class="col-md-6 col-xxl-3">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/two.png" alt="wallet">
+                        <img src="assets/images/icon/two.png" alt="two">
                     </span>
                     <h3 class="mt-5 mb-5">Verify</h3>
                     <h4 >Use our online verification tool and submit your details and document.</h4>
@@ -858,7 +860,7 @@
             <div class="col-md-6 col-xxl-3">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/number-3.png" alt="low-price">
+                        <img src="assets/images/icon/number-3.png" alt="number-3">
                     </span>
                     <h3 class="mt-5 mb-5">Fund</h3>
                     <h4 >Fund your trading account using a wide range of funding methods.</h4>
@@ -867,7 +869,7 @@
             <div class="col-md-6 col-xxl-3">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/number-4.png" alt="customer">
+                        <img src="assets/images/icon/number-4.png" alt="number-4">
                     </span>
                     <h3 class="mt-5 mb-5">Trade</h3>
                     <h4>Start trading with binary,spot and AI trading platform.</h4>
@@ -882,8 +884,8 @@
             <div
                 class="start-earning nb3-bg cus-rounded-2 d-flex align-items-center p-4 p-sm-6 p-md-10 p-lg-15 p-xl-20 pe-lg-6 pe-xl-16 overflow-hidden position-relative">
                 <div class="vector_effect position-absolute d-center justify-content-end end-0  d-flex gap-20">
-                    <img src="assets/images/star2.png" alt="vector" class="d-none d-xxl-flex push_animat">
-                    <img src="assets/images/star_focus.png" alt="vector"
+                    <img src="assets/images/star2.png" alt="star2" class="d-none d-xxl-flex push_animat">
+                    <img src="assets/images/star_focus.png" alt="star_focus"
                         class="d-none d-sm-flex rotate time_dur ms-auto ms-lg-0 me-md-5">
                 </div>
                 <div class="row gy-6 w-100 text-center text-sm-start align-items-center justify-content-sm-between">
@@ -950,9 +952,9 @@
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/vector.png" alt="vector"
             class="position-absolute top-0 pt-120 ms-20 ps-xxl-20 jello d-none d-xl-flex">
-        <img src="assets/images/vector9.png" alt="vector"
+        <img src="assets/images/vector9.png" alt="vector9"
             class="position-absolute rotate top-0 end-0 p-20 mt-5 me-7 d-none d-xxxl-flex">
-        <img src="assets/images/vector_rocket1.png" alt="vector"
+        <img src="assets/images/vector_rocket1.png" alt="vector_rocket1"
             class="position-absolute bottom-0 start-0 d-none d-xxxl-flex pb-120 mb-10 ms-20 fadeInTopRight">
     </div>
     <div class="container">
@@ -1154,11 +1156,11 @@
 <!--People Trust start-->
 <section class="worldwide alt-color p1-bg pseudo_element_after">
     <div class="animation vector position-absolute top-0 left-0 w-100 h-100 z-n1">
-        <img src="assets/images/cross.png" alt="vector" class="position-absolute push_animat ms-lg-20 ps-4 top-0 pt-120 mt-20 start-0 d-none d-xxxl-flex">
-        <img src="assets/images/star.png" alt="vector" class="position-absolute push_animat end-0 top-0 mt-20 pt-xl-15 me-xl-20 pe-10 d-none d-md-flex">
-        <img src="assets/images/vector2.png" alt="vector" class="position-absolute bottom-0 start-0 d-none d-xxxl-flex">
-        <img src="assets/images/vector_rocket2.png" alt="vector" class="position-absolute d-none d-xxxl-flex bottom-0 end-0  pe-12 pb-10 fadeInTopLeft">
-        <img src="assets/images/cross2.png" alt="vector" class="position-absolute push_animat ms-lg-20 ps-4 top-0 start-50 pt-120 mt-20 d-none d-xxxl-flex">
+        <img src="assets/images/cross.png" alt="cross" class="position-absolute push_animat ms-lg-20 ps-4 top-0 pt-120 mt-20 start-0 d-none d-xxxl-flex">
+        <img src="assets/images/star.png" alt="star" class="position-absolute push_animat end-0 top-0 mt-20 pt-xl-15 me-xl-20 pe-10 d-none d-md-flex">
+        <img src="assets/images/vector2.png" alt="vector2" class="position-absolute bottom-0 start-0 d-none d-xxxl-flex">
+        <img src="assets/images/vector_rocket2.png" alt="vector_rocket2" class="position-absolute d-none d-xxxl-flex bottom-0 end-0  pe-12 pb-10 fadeInTopLeft">
+        <img src="assets/images/cross2.png" alt="cross2" class="position-absolute push_animat ms-lg-20 ps-4 top-0 start-50 pt-120 mt-20 d-none d-xxxl-flex">
     </div>
     <div class="container position-relative">
         <div class="row gy-10 gy-lg-0 justify-content-center justify-content-lg-between align-items-end">
@@ -1175,11 +1177,11 @@
                     <br>
 
                     <div class="col-4 mt-4" style="display: flex; justify-content: space-evenly; ">
-                        <img style="border:1px solid white; border-radius:10px;" src="assets/images/_app store.png">
+                        <img style="border:1px solid white; border-radius:10px;" src="assets/images/_app store.png" alt="_app store">
                         <img style="border:1px solid white; border-radius:10px; margin-left:20px;"
-                            src="assets/images/_google play store.png">
+                            src="assets/images/_google play store.png" alt="_google play store">
                         <img style="border:1px solid white; border-radius:10px; margin-left:20px;"
-                            src="assets/images/_download APK.png">
+                            src="assets/images/_download APK.png" alt="_download APK">
                     </div>
                 </div>
             </div>
