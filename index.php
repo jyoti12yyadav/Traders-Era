@@ -787,29 +787,27 @@
                 </h5>
                 <ul class="d-flex gap-4 flex-column mt-6">
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i><h4 style="font-size:18px;">Accessible anytime and anywhere, no need for
-                        installation.</h4>
+                            class="ti ti-circle-check s1-color fs-four"></i>Accessible anytime and anywhere, no need for
+                        installation.
 
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i><h4 style="font-size:18px;" >Cross-Device Compatibility, Works across
-                        multiple devices.</h4>
+                            class="ti ti-circle-check s1-color fs-four"></i>Cross-Device Compatibility, Works across
+                        multiple devices.
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i><h4 style="font-size:18px;" >Platform updates are hassle-free.</h4>
+                            class="ti ti-circle-check s1-color fs-four"></i>Platform updates are hassle-free.
 
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i><h4 style="font-size:18px;" >No need for high-end hardware, suitable for
-                        various devices.</h4></li>
+                            class="ti ti-circle-check s1-color fs-four"></i>No need for high-end hardware, suitable for
+                        various devices.</li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i><h4 style="font-size:18px;" >Compatible across various operating systems.</h4>
+                            class="ti ti-circle-check s1-color fs-four"></i>Compatible across various operating systems.
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i><h4 style="font-size:18px;" > Requires minimal disk space as data is
-                        stored in the cloud.</h4>
-
-                    </li>
+                            class="ti ti-circle-check s1-color fs-four"></i>Requires minimal disk space as data is
+                        stored in the cloud.</li>
                     <br>
                     <h3>Platforms Supported:</h3>
                     <ul class=" d-flex  gap-md-3 ">
