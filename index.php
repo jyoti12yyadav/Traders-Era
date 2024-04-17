@@ -394,7 +394,7 @@
         <div class="slide_group">
             <div class="slide hero-section--secondary hero-section position-relative z-0 ">
                 <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-                    <img src="assets/images/hero_vector.png" alt="vector"
+                    <img src="assets/images/hero_vector.png" alt="hero_vector"
                         class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX">
                 </div>
                 <div class="container">
@@ -416,8 +416,8 @@
                                     <p class="fs-six-up fw_500 nb4-xxl-color">TradingEra helps you trade smarter with
                                         tools and insights, making navigating financial markets easier.</p>
                                         <div class="d-flex mt-8">
-                                            <img  class="mx-4" src="assets/images/icon/openai.png" alt="" style="height: 35px;">
-                                            <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png" alt="" style="height: 40px;">
+                                            <img  class="mx-4" src="assets/images/icon/openai.png" alt="openai" style="height: 35px;">
+                                            <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png" alt="Equinix_logo" style="height: 40px;">
                                         </div>
                                        
                                     <div
@@ -435,7 +435,7 @@
                         </div>
                         <div class="col-sm-10 col-lg-6 col-xxl-5">
                             <div class="hero-section__thumbs pb-xxl-10">
-                                <img src="assets/images/banner one.png" class="max-auto max-xxl-un" alt="img">
+                                <img src="assets/images/banner one.png" class="max-auto max-xxl-un" alt="banner one">
                             </div>
                         </div>
 
@@ -444,7 +444,7 @@
             </div>
             <div class="slide hero-section--secondary hero-section2 position-relative z-0 ">
                 <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-                    <img src="assets/images/hero_vector.png" alt="vector"
+                    <img src="assets/images/hero_vector.png" alt="hero_vector"
                         class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX">
                 </div>
                 <div class="container">
@@ -452,7 +452,7 @@
                         class="row pt-4 pt-lg-10 gy-12 gy-lg-0 justify-content-center justify-content-lg-between align-items-center row-reverse">
                         <div class="col-sm-10 col-lg-6 col-xxl-5">
                             <div class="hero-section__thumbs hero-section-2 pb-xxl-10">
-                                <img src="assets/images/banner two.png" class="max-auto max-xxl-un" alt="img">
+                                <img src="assets/images/banner two.png" class="max-auto max-xxl-un" alt="banner two">
                             </div>
                         </div>
                         <div class="col-lg-6 col-xxl-7">
@@ -474,8 +474,8 @@
                                         smarter with TradingEra's insights,
                                         maximizing your financial potential.</p>
                                         <div class="d-flex mt-8" style="transform: scaleX(-1);">
-                                            <img  class="mx-4" src="assets/images/icon/openai.png" alt="" style="height: 35px;">
-                                            <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png" alt="" style="height: 35px;">
+                                            <img  class="mx-4" src="assets/images/icon/openai.png" alt="openai" style="height: 35px;">
+                                            <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png" alt="Equinix_logo" style="height: 35px;">
                                         </div>
                                     <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8
                                         mt-lg-10">
@@ -508,69 +508,69 @@
             style="transition-duration: 6000ms; transform: translate3d(-1964px, 0px, 0px);">
             <div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="0" role="group"
                 aria-label="1 / 7" style="width: 230.571px; margin-right: 50px;">
-                <img src="assets/images/icon/logo equinix logo black.png" alt="Client Logo">
+                <img src="assets/images/icon/logo equinix logo black.png" alt="logo equinix logo black">
             </div>
             <div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="1" role="group"
                 aria-label="2 / 7" style="width: 230.571px; margin-right: 50px;">
-                <img src="assets/images/icon/logo FX . edge logo black.png" alt="Client Logo">
+                <img src="assets/images/icon/logo FX . edge logo black.png" alt="edge logo black">
             </div>
             <div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-prev"
                 data-swiper-slide-index="2" role="group" aria-label="3 / 7"
                 style="width: 230.571px; margin-right: 50px;">
-                <img src="assets/images/icon/logo GEO trust  logo black.png" alt="Client Logo">
+                <img src="assets/images/icon/logo GEO trust  logo black.png" alt="logo black">
             </div>
             <div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-active"
                 data-swiper-slide-index="3" role="group" aria-label="4 / 7"
                 style="width: 230.571px; margin-right: 50px;">
-                <img src="assets/images/icon/logo investor in people logo black.png" alt="Client Logo">
+                <img src="assets/images/icon/logo investor in people logo black.png" alt="logo investor in people logo black">
             </div>
             <div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-next"
                 data-swiper-slide-index="4" role="group" aria-label="5 / 7"
                 style="width: 230.571px; margin-right: 50px;">
-                <img src="assets/images/icon/logo trading view logo black.png" alt="Client Logo">
+                <img src="assets/images/icon/logo trading view logo black.png" alt="logo trading view logo black">
             </div>
             <div class="swiper-slide text-center" data-swiper-slide-index="0" role="group" aria-label="1 / 7"
                 style="width: 230.571px; margin-right: 50px;">
-                <img src="assets/images/icon/logo equinix logo black.png" alt="Client Logo">
+                <img src="assets/images/icon/logo equinix logo black.png" alt="logo equinix logo black">
             </div>
             <div class="swiper-slide text-center" data-swiper-slide-index="1" role="group" aria-label="2 / 7"
                 style="width: 230.571px; margin-right: 50px;">
-                <img src="assets/images/icon/logo FX . edge logo black.png" alt="Client Logo">
+                <img src="assets/images/icon/logo FX . edge logo black.png" alt="logo FX . edge logo black">
             </div>
             <div class="swiper-slide text-center swiper-slide-prev" data-swiper-slide-index="2" role="group"
                 aria-label="3 / 7" style="width: 230.571px; margin-right: 50px;">
-                <img src="assets/images/icon/logo GEO trust  logo black.png" alt="Client Logo">
+                <img src="assets/images/icon/logo GEO trust  logo black.png" alt="logo GEO trust  logo black">
             </div>
             <div class="swiper-slide text-center swiper-slide-active" data-swiper-slide-index="3" role="group"
                 aria-label="4 / 7" style="width: 230.571px; margin-right: 50px;">
-                <img src="assets/images/icon/logo investor in people logo black.png" alt="Client Logo">
+                <img src="assets/images/icon/logo investor in people logo black.png" alt="logo investor in people logo black">
             </div>
             <div class="swiper-slide text-center swiper-slide-next" data-swiper-slide-index="4" role="group"
                 aria-label="5 / 7" style="width: 230.571px; margin-right: 50px;">
-                <img src="assets/images/icon/logo trading view logo black.png" alt="Client Logo">
+                <img src="assets/images/icon/logo trading view logo black.png" alt="logo trading view logo black">
             </div>
             <div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="0" role="group"
                 aria-label="1 / 7" style="width: 230.571px; margin-right: 50px;">
-                <img src="assets/images/icon/logo equinix logo black.png" alt="Client Logo">
+                <img src="assets/images/icon/logo equinix logo black.png" alt="logo equinix logo black">
             </div>
             <div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="1" role="group"
                 aria-label="2 / 7" style="width: 230.571px; margin-right: 50px;">
-                <img src="assets/images/icon/logo FX . edge logo black.png" alt="Client Logo">
+                <img src="assets/images/icon/logo FX . edge logo black.png" alt=" edge logo black">
             </div>
             <div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-prev"
                 data-swiper-slide-index="2" role="group" aria-label="3 / 7"
                 style="width: 230.571px; margin-right: 50px;">
-                <img src="assets/images/icon/logo GEO trust  logo black.png" alt="Client Logo">
+                <img src="assets/images/icon/logo GEO trust  logo black.png" alt="trust  logo black">
             </div>
             <div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-active"
                 data-swiper-slide-index="3" role="group" aria-label="4 / 7"
                 style="width: 230.571px; margin-right: 50px;">
-                <img src="assets/images/icon/logo investor in people logo black.png" alt="Client Logo">
+                <img src="assets/images/icon/logo investor in people logo black.png" alt="people logo black">
             </div>
             <div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-next"
                 data-swiper-slide-index="4" role="group" aria-label="5 / 7"
                 style="width: 230.571px; margin-right: 50px;">
-                <img src="assets/images/icon/logo trading view logo black.png" alt="Client Logo">
+                <img src="assets/images/icon/logo trading view logo black.png" alt="view logo black">
             </div>
         </div>
         <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
