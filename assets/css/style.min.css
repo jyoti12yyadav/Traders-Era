@@ -4099,3 +4099,10 @@ iframe {
 .table-div {
     overflow-x: auto;
 }
+.pb-1 {
+    padding-bottom: 120px !important;
+}
+
+.pt-2 {
+    padding-top: 120px !important;
+}

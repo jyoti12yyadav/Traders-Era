@@ -615,7 +615,7 @@
                         <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
                             <div class="row">
                                 <div class="col-lg-2 d-flex align-items-center">
-                                    <img src="assets/images/icon/candlestick-chart.png" alt="/candlestick-chart">
+                                    <img src="assets/images/icon/candlestick-chart.png" alt="candlestick-chart">
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
