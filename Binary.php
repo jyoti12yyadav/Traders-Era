@@ -77,7 +77,7 @@
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 col-xxl-5 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/tradersera.png" alt="Simple concept of Binary options trading">
+                    <img src="assets/images/Our Binary Options.png" alt="Simple concept of Binary options trading">
                 </div>
             </div>
 
@@ -148,7 +148,7 @@
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 col-xxl-5 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/tradersera.png" alt="Binary Option contracts with the EUR/USD currency pair">
+                    <img src="assets/images/Binary Trading At TradersEra.png" alt="Binary Option contracts with the EUR/USD currency pair">
                 </div>
             </div>
 
@@ -205,7 +205,7 @@
             </div>
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 col-xxl-5 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/tradersera.png" alt="Buying and Selling on Binary Options">
+                    <img src="assets/images/binary trading.png" alt="Buying and Selling on Binary Options">
                 </div>
             </div>
         </div>
@@ -221,7 +221,7 @@
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 col-xxl-5 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/tradersera.png" alt="TradersEra,s Trading Demo Account! ">
+                    <img src="assets/images/Example of binary options trading.png" alt="TradersEra,s Trading Demo Account! ">
                 </div>
             </div>
             <div class="col-lg-6 col-xxl-6">
