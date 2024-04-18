@@ -89,30 +89,30 @@
 
                 <ul class="d-flex gap-4 flex-column mt-6">
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i><h3>Verify the identity of customers through
-                        government-issued identification documents.</h3>
+                            class="ti ti-circle-check s1-color fs-four"></i>Verify the identity of customers through
+                        government-issued identification documents.
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i><h3>Confirm the authenticity of provided
-                        documents through manual review or automated verification systems.</h3>
+                            class="ti ti-circle-check s1-color fs-four"></i>Confirm the authenticity of provided
+                        documents through manual review or automated verification systems.
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i><h3>Conduct due diligence checks to ensure
-                        compliance with regulatory requirements and prevent fraud.</h3>
+                            class="ti ti-circle-check s1-color fs-four"></i>Conduct due diligence checks to ensure
+                        compliance with regulatory requirements and prevent fraud.
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i><h3>Validate the residential address of
+                            class="ti ti-circle-check s1-color fs-four"></i>Validate the residential address of
                         customers by cross-referencing their identification documents with bank statements, or other
-                        official documents.</h3>
+                        official documents.
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i><h3>Screen customers against global watchlists
-                        and sanctions databases to ensure they are not involved in any illegal activities.</h3>
+                            class="ti ti-circle-check s1-color fs-four"></i>Screen customers against global watchlists
+                        and sanctions databases to ensure they are not involved in any illegal activities.
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i><h3>Conduct enhanced due diligence for high-risk
+                            class="ti ti-circle-check s1-color fs-four"></i>Conduct enhanced due diligence for high-risk
                         customers or transactions, which may involve gathering additional information, performing
-                        background checks, or seeking approval from senior management.</h3>
+                        background checks, or seeking approval from senior management.
                     </li>
                 </ul>
 
@@ -186,7 +186,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-8 col-xxl-6">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h3>Documents Required</h3>
+                    <h2>Documents Required</h2>
                     <br>
                     <h4>Kindly provide a copy of ONE of the following papers proving your identity:</h4>
                 </div>
@@ -200,14 +200,13 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/file.png" alt="stock-market">
                     </span>
-
-                    <h3 style="font-weight:bold">Passport (must to be valid right now)</h3>
+<br>
+                    <p>Passport (must to be valid right now)</p>
                     <hr>
-                    <h3 style="font-weight:bold">a current driver's license
-                    </h3>
+                    <p>a current driver's license
+                    </p>
                     <hr>
-                    <h3 style="font-weight:bold"> Authentic Proof of Age card.</h3>
-                    <br>
+                    <p> Authentic Proof of Age card.</p>
                     <br>
                     <br>
 
@@ -218,14 +217,14 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/bill.png" alt="stock-market">
                     </span>
-                    <h3 style="font-weight:bold"> Utility Bill (Phone, Electricity, Gas) id doc arrow ico</h3>
+                    <br>
+                    <p> Utility Bill (Phone, Electricity, Gas) id doc arrow ico</p>
                     <hr>
-                    <h3 style="font-weight:bold"> Statement from a bank or credit card </h3>
+                    <p> Statement from a bank or credit card </p>
                     <hr>
 
-                    <h3 style="font-weight:bold">Tax Document Issued by the Government
-                    </h3>
-                    <br>
+                    <p>Tax Document Issued by the Government
+                    </p>
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
@@ -249,13 +248,13 @@
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <h3>  Capture</h3>
                     <hr>
-                    <span class="">
+                    <span  class="">
                         <img style="height:100px;" src="assets/images/id card nn.png" alt="idcard">
                     </span>
                     <hr>
                     <!-- <span class="idverify">Capturing Id</span> -->
                    <br>
-                   <h3 class="idverify">The user can capture or upload a photo of their government-issued identity document instantly.</h3>
+                   <p>The user can capture or upload a photo of their government-issued identity document instantly.</p>
                    <br>
                 </div>
             </div>
@@ -269,8 +268,7 @@
                     <hr>
                     <!-- <span class="idverify">Capturing Id</span> -->
                    <br>
-                   <h3 class="idverify">Our smart system utilizes OCR technology to automatically extract data from the document.</h3>
-                   <br>
+                   <p>Our smart system utilizes OCR technology to automatically extract data from the document.</p>
                    <br>
                    
                 </div>
@@ -287,7 +285,7 @@
                     <hr>
                     <!-- <span class="idverify">Capturing Id</span> -->
                    <br>
-                   <h3 class="idverify">Our advanced AI verification technology confirms the format and details of identity documents.</h3>
+                   <p>Our advanced AI verification technology confirms the format and details of identity documents.</p>
                    <br>
                 </div>
             </div>
@@ -301,13 +299,13 @@
                     <hr>
                     <!-- <span class="idverify">Capturing Id</span> -->
                    <br>
-                   <h3 class="idverify">The user will receive a clear 'Yes' or 'No' response for their verification, and all the results will be securely stored in the back-office.</h3>
+                   <p>The user will receive a clear 'Yes' or 'No' response for their verification, and all the results will be securely stored in the back-office.</p>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<section class="provide-world  pt-120 pb-120  position-relative z-0">
+<section class="  pt-120 pb-120  position-relative z-0">
 <div class="container">
     <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
         <div class="col-sm-10 col-lg-6 col-xxl-12">
@@ -316,8 +314,8 @@
                     <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <h2>Address Proof</h2>
                         <br>
-                        <h3><b>Experience the seamless, secure, and swift integration of address verification.</b> </h3>
-                        <h3><b>Embrace the future of digital identity verification by taking the next step. Our Address Verification integration offers more than just technology - it promises excellence, efficiency, and top-notch security.</b> </h3>
+                        <p>Experience the seamless, secure, and swift integration of address verification.</p>
+                        <p>Embrace the future of digital identity verification by taking the next step. Our Address Verification integration offers more than just technology - it promises excellence, efficiency, and top-notch security. </p>
                     </div>
                 </div>
            

@@ -49,7 +49,7 @@
                         at all times.
                     </p>
                     <br>
-
+                    <br>
                 </div>
             </div>
             <div class="col-md-6 col-xxl-4 mt-6">
@@ -80,7 +80,6 @@
                         unauthorized access and ensure the confidentiality and integrity of your data.
                     </p>
 
-                    <br>
                 </div>
             </div>
 

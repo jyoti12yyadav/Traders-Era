@@ -47,8 +47,8 @@
 
 <section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-        <img src="assets/images/coin.png" alt="vector" class="position-absolute d-none d-md-flex previewShapeRevX">
-        <img src="assets/images/coin_vector.png" alt="vector"
+        <img src="assets/images/coin.png" alt="null" class="position-absolute d-none d-md-flex previewShapeRevX">
+        <img src="assets/images/coin_vector.png" alt="null"
             class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX opacity-50">
     </div>
     <div class="container">
@@ -72,7 +72,7 @@
             </div>
             <div class="col-md-8 col-lg-6">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/Foreign Exchange Contracts.png" alt="Imgae">
+                    <img src="assets/images/Foreign Exchange Contracts.png" alt="Trade Forex CFDs on TradersEra Paltform">
                 </div>
             </div>
         </div>
@@ -81,7 +81,7 @@
 
 <section class="company-story position-relative z-0  pt-120 pb-120 ">
     <div class="animation position-absolute w-100 h-100 z-n1">
-        <img src="assets/images/star3.png" alt="vector"
+        <img src="assets/images/star3.png" alt="null"
             class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
     </div>
     <div class="container">
@@ -486,7 +486,7 @@
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/directions.png" alt="time">
+                        <img src="assets/images/icon/directions.png" alt="null">
                     </span>
                     <h3 class="mt-5 mb-5">flexible leverage</h3>
                     <br>
@@ -495,7 +495,7 @@
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/shopping.png" alt="wallet">
+                        <img src="assets/images/icon/shopping.png" alt="null">
                     </span>
                     <h3 class="mt-5 mb-5">access the markets 24/5</h3>
                     <br>
@@ -504,7 +504,7 @@
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/pair-of-banknotes.png" alt="low-price">
+                        <img src="assets/images/icon/pair-of-banknotes.png" alt="null">
                     </span>
                     <h3 class="mt-5 mb-5">trade a wide range of currency pairs</h3>
                     <br>
