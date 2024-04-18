@@ -1,6 +1,6 @@
 <?php include("includes/header.php"); ?>
 
-<section class="banner-section  pt-120 pb-120">
+<section class="banner-section  pt-2 pb-1">
     <div class="container mt-lg-0 pt-18 pt-xl-20">
         <div class="row">
             <div class="col-12 breadcrumb-area ">
