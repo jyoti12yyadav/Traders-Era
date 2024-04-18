@@ -306,10 +306,10 @@
                     </p>
 
                 </div>
-                <h2 class="mt-4 mb-lg-5">
-                    Simplified to two possibilities:
+                <h3 class="mt-4 mb-lg-5" style="font-size: 25px;">
+                    Simplified to two possibilities
 
-                </h2>
+                </h3>
 
 
                 <ul class="d-flex gap-4 flex-column mt-6">
