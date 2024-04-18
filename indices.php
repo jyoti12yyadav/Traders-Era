@@ -44,9 +44,9 @@
 
     <section class="trade_on  pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-        <img src="assets/images/coin.png" alt="vector" class="position-absolute d-none d-md-flex previewShapeRevX">
-        <img src="assets/images/star2.png" alt="vector" class="position-absolute d-none d-xl-flex push_animat">
-        <img src="assets/images/coin_vector.png" alt="vector"
+        <img src="assets/images/coin.png" alt="null" class="position-absolute d-none d-md-flex previewShapeRevX">
+        <img src="assets/images/star2.png" alt="null" class="position-absolute d-none d-xl-flex push_animat">
+        <img src="assets/images/coin_vector.png" alt="null"
             class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX opacity-50">
     </div>
     <div class="container">
@@ -67,7 +67,7 @@
             </div>
             <div class="col-md-8 col-lg-6">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/indices and indices trading sections 1.png" alt="Imgae">
+                    <img src="assets/images/indices and indices trading sections 1.png" alt="Indices trading with Tradersera">
                 </div>
             </div>
         </div>
@@ -88,7 +88,7 @@
                 <div class="col-md-6 col-xxl-4">
                     <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                            <img src="assets/images/icon/application.png" alt="application">
+                            <img src="assets/images/icon/application.png" alt="null">
                         </span>
                         <br>
                        <p>Register yourself and open a Live account by submitting the online application.</p>
@@ -97,7 +97,7 @@
                 <div class="col-md-6 col-xxl-4">
                     <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                            <img src="assets/images/icon/money-bag.png" alt="money-bag">
+                            <img src="assets/images/icon/money-bag.png" alt="null">
                         </span>
                         <br>
                        <p>Fund your chosen account type and place your first trade.</p>
@@ -106,7 +106,7 @@
                 <div class="col-md-6 col-xxl-4">
                     <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                            <img src="assets/images/icon/stock-market.png" alt="stock-market">
+                            <img src="assets/images/icon/stock-market.png" alt="null">
                         </span>
                         <br>
                        <p>Explore our indices offering in the most preferred MT5 trading platform.</p>
@@ -118,7 +118,7 @@
 
     <section class="company-story position-relative z-0  pt-120 pb-120 ">
     <div class="animation position-absolute w-100 h-100 z-n1">
-        <img src="assets/images/star3.png" alt="vector" class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
+        <img src="assets/images/star3.png" alt="null" class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
     </div>
 
 
