@@ -30,18 +30,18 @@
 <!--Trade On start-->
 <section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
     <div class="animation vector position-absolute top-0 left-0 w-100 h-100 z-n1">
-        <img src="assets/images/star3.png" alt="vector"
+        <img src="assets/images/star3.png" alt="null"
             class="position-absolute top-0 end-0 pe-15 pt-20 push_animat d-none d-xxxl-flex">
-        <img src="assets/images/vector.png" alt="vector"
+        <img src="assets/images/vector.png" alt="null"
             class="position-absolute top-0 start-0 pt-20 ms-20 jello d-none d-xxxl-flex">
-        <img src="assets/images/vector5.png" alt="vector"
+        <img src="assets/images/vector5.png" alt="null"
             class="position-absolute bottom-0 end-0 d-none d-lg-flex previewShapeRevX ">
     </div>
     <div class="container">
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/tradersera.png" alt="Imgae">
+                    <img src="assets/images/tradersera.png" alt="TradersEra's online Forex Trading">
                 </div>
             </div>
             <div class="col-lg-6 col-xxl-5">
@@ -77,7 +77,7 @@
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/regulation.png" alt="Strong">
+                        <img src="assets/images/icon/regulation.png" alt="null">
                     </span>
                     <h3 class="mt-5 mb-5"> Credible</h3>
                     <p> With a solid reputation built over years of successful trading, TradersEra has earned the trust
@@ -89,7 +89,7 @@
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/quality.png" alt="Strong">
+                        <img src="assets/images/icon/quality.png" alt="null">
                     </span>
                     <h3 class="mt-5 mb-5">Devoted to Our Valued Clients.</h3>
                     <p>Our business is centered on supporting our clients with cutting-edge tools and assistance.
@@ -101,7 +101,7 @@
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/strong-box.png" alt="Strong">
+                        <img src="assets/images/icon/strong-box.png" alt="null">
                     </span>
                     <h3 class="mt-5 mb-5">Global Legacy</h3>
                     <p>We are dedicated to regulatory compliance and innovation in Forex trading, shaping the industry's
@@ -118,8 +118,8 @@
 
 <section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-        <img src="assets/images/coin.png" alt="vector" class="position-absolute d-none d-md-flex previewShapeRevX">
-        <img src="assets/images/coin_vector.png" alt="vector"
+        <img src="assets/images/coin.png" alt="null" class="position-absolute d-none d-md-flex previewShapeRevX">
+        <img src="assets/images/coin_vector.png" alt="null"
             class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX opacity-50">
     </div>
     <div class="container">
@@ -155,7 +155,7 @@
             </div>
             <div class="col-md-6 col-lg-6">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/traders- last.png" alt="Imgae">
+                    <img src="assets/images/traders- last.png" alt=" TradersEra's  Account Registration">
                 </div>
             </div>
         </div>
@@ -164,8 +164,8 @@
 
 <section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-        <img src="assets/images/coin.png" alt="vector" class="position-absolute d-none d-md-flex previewShapeRevX">
-        <img src="assets/images/coin_vector.png" alt="vector"
+        <img src="assets/images/coin.png" alt="null" class="position-absolute d-none d-md-flex previewShapeRevX">
+        <img src="assets/images/coin_vector.png" alt="null"
             class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX opacity-50">
     </div>
     <div class="container">
@@ -173,7 +173,7 @@
 
             <div class="col-md-8 col-lg-6">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/traders-capamanion.png" alt="Imgae">
+                    <img src="assets/images/traders-capamanion.png" alt="Start Trading Journey with TradersEra">
                 </div>
             </div>
             <div class="col-lg-6 col-xxl-5">
@@ -211,7 +211,7 @@
 
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-        <img src="assets/images/star3.png" alt="vector"
+        <img src="assets/images/star3.png" alt="null"
             class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
     </div>
     <div class="container">
@@ -274,7 +274,7 @@
             </div>
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/Boost your earnings with the help of AI.png" alt="Imgae">
+                    <img src="assets/images/Boost your earnings with the help of AI.png" alt="TradersEra' AI trading">
                 </div>
             </div>
 
@@ -285,14 +285,14 @@
 
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0" style="background-color:#000">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-        <img src="assets/images/star3.png" alt="vector"
+        <img src="assets/images/star3.png" alt="null"
             class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
     </div>
     <div class="container">
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/Our Binary Options.png" alt="Imgae">
+                    <img src="assets/images/Our Binary Options.png" alt="TradersEra's Binary Options ">
                 </div>
             </div>
 
@@ -339,7 +339,7 @@
 
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-        <img src="assets/images/star3.png" alt="vector"
+        <img src="assets/images/star3.png" alt="null"
             class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
     </div>
     <div class="container">
@@ -389,7 +389,7 @@
             </div>
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/Local Deposits.png" alt="Imgae">
+                    <img src="assets/images/Local Deposits.png" alt="Local Deposits options by TradersEra">
                 </div>
             </div>
         </div>

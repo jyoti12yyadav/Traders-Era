@@ -36,7 +36,7 @@
             <div class="col-lg-10">
                 <div class="market-details__card">
                     <div class="market-details__thumbs position-relative">
-                        <img src="assets/images/regulator complience  at traders era.png" alt="Image" class="cus-rounded-2 w-100">
+                        <img src="assets/images/regulator complience  at traders era.png" alt="TradersEra's Regulatory compliance" class="cus-rounded-2 w-100">
                     </div>
                     <div class="market-details__content d-flex flex-column gap-5 gap-lg-6 mt-5 mt-lg-6">
                         <p>At TradersEra , we are committed to operating with the highest standards of regulatory

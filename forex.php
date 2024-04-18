@@ -50,9 +50,9 @@
 
 <section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-        <img src="assets/images/coin.png" alt="vector" class="position-absolute d-none d-md-flex previewShapeRevX">
-        <img src="assets/images/star2.png" alt="vector" class="position-absolute d-none d-xl-flex push_animat">
-        <img src="assets/images/coin_vector.png" alt="vector"
+        <img src="assets/images/coin.png" alt="null" class="position-absolute d-none d-md-flex previewShapeRevX">
+        <img src="assets/images/star2.png" alt="null" class="position-absolute d-none d-xl-flex push_animat">
+        <img src="assets/images/coin_vector.png" alt="null"
             class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX opacity-50">
     </div>
     <div class="container">
@@ -79,7 +79,7 @@
 </div>
             <div class="col-md-8 col-lg-6">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/what is forex trading section 1.png" alt="Imgae">
+                    <img src="assets/images/what is forex trading section 1.png" alt="Advantages Of Forex Trading At TradersEra">
                 </div>
             </div>
         </div>
@@ -94,7 +94,7 @@
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                    <img src="assets/images/icon/distribution.png" alt="stock-market">
+                    <img src="assets/images/icon/distribution.png" alt="null">
                     </span>
                     <h4 class="mt-5 mb-5">Lower spreads</h4>
                     <p>Experience low volatility and high liquidity while trading Forex with tight spreads.</p>
@@ -104,7 +104,7 @@
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/check.png" alt="stock-market">
+                        <img src="assets/images/icon/check.png" alt="null">
                     </span>
                     <h4 class="mt-5 mb-5">Secure & Safe Funds</h4>
                     <p>Trade confidently and quit worrying about your funds’ safety.</p>
@@ -114,7 +114,7 @@
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/withdrawal.png" alt="stock-market">
+                        <img src="assets/images/icon/withdrawal.png" alt="null">
                     </span>
                     <h4 class="mt-5 mb-5">Quick Deposits and Withdrawals</h4>
                     <p>Become an TradersEra client easily. Fund and withdraw from your account hassle-free.</p>
@@ -125,7 +125,7 @@
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/customer-service.png" alt="stock-market">
+                        <img src="assets/images/icon/customer-service.png" alt="null">
                     </span>
                     <h4 class="mt-5 mb-5">24x5 Customer Support</h4>
                     <p>Get help from TradersEra anytime and anywhere. Solve all your pressing issues right away.</p>
@@ -134,7 +134,7 @@
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/execution.png" alt="stock-market">
+                        <img src="assets/images/icon/execution.png" alt="null">
                     </span>
                     <h4 class="mt-5 mb-5">Faster Execution</h4>
                     <p>Relish smooth and faster trades execution with us.</p>
@@ -144,7 +144,7 @@
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/stock-market.png" alt="stock-market">
+                        <img src="assets/images/icon/stock-market.png" alt="null">
                     </span>
                     <h4 class="mt-5 mb-5">Powerful trading platform</h4>
                     <p>Engage the Forex market via TradersEra trading platform. It is also available in desktop, mobile, and web platforms.</p>
@@ -156,7 +156,7 @@
 </section>
 <section class="company-story position-relative z-0  pt-120 pb-120 ">
     <div class="animation position-absolute w-100 h-100 z-n1">
-        <img src="assets/images/star3.png" alt="vector" class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
+        <img src="assets/images/star3.png" alt="null" class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
     </div>
     <div class="container">
         <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
