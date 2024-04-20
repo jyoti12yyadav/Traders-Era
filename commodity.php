@@ -25,7 +25,7 @@
     }
 </style>
 
-<section class="banner-section  pt-120 pb-120">
+<section class="banner-section  pt-2 pb-1">
     <div class="container mt-lg-0 pt-18 pt-xl-20">
         <div class="row">
             <div class="col-12 breadcrumb-area ">
@@ -44,9 +44,9 @@
 
 <section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-        <img src="assets/images/coin.png" alt="vector" class="position-absolute d-none d-md-flex previewShapeRevX">
-        <img src="assets/images/star2.png" alt="vector" class="position-absolute d-none d-xl-flex push_animat">
-        <img src="assets/images/coin_vector.png" alt="vector"
+        <img src="assets/images/coin.png" alt="null" class="position-absolute d-none d-md-flex previewShapeRevX">
+        <img src="assets/images/star2.png" alt="null" class="position-absolute d-none d-xl-flex push_animat">
+        <img src="assets/images/coin_vector.png" alt="null"
             class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX opacity-50">
     </div>
     <div class="container">
@@ -74,7 +74,7 @@
             </div>
             <div class="col-md-8 col-lg-6">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/what is comadity trading.png" alt="Imgae">
+                    <img src="assets/images/what is comadity trading.png" alt="  Commodity Trading at Tradersera">
                 </div>
             </div>
         </div>
@@ -139,7 +139,7 @@
 
 <section class="company-story position-relative z-0  pt-120">
     <div class="animation position-absolute w-100 h-100 z-n1">
-        <img src="assets/images/star3.png" alt="vector" class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
+        <img src="assets/images/star3.png" alt="null" class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
     </div>
     <div class="container">
         <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
@@ -236,7 +236,7 @@
 </section>
 <section class="company-story position-relative z-0  pt-120 pb-120 ">
     <div class="animation position-absolute w-100 h-100 z-n1">
-        <img src="assets/images/star3.png" alt="vector" class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
+        <img src="assets/images/star3.png" alt="null" class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
     </div>
     <div class="container">
         <h2 class=" mb-lg-1 d-flex justify-content-center">Metal</h2>

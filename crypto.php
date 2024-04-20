@@ -36,7 +36,7 @@
     }
 </style>
 
-    <section class="banner-section  pt-120 pb-120">
+    <section class="banner-section  pt-2 pb-1">
         <div class="container mt-lg-0 pt-18 pt-xl-20">
             <div class="row">
                 <div class="col-12 breadcrumb-area ">
@@ -56,9 +56,9 @@
 
     <section class="trade_on  pt-120 pb-120 position-relative z-0">
         <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-            <img src="assets/images/coin.png" alt="vector" class="position-absolute d-none d-md-flex previewShapeRevX">
-            <img src="assets/images/star2.png" alt="vector" class="position-absolute d-none d-xl-flex push_animat">
-            <img src="assets/images/coin_vector.png" alt="vector"
+            <img src="assets/images/coin.png" alt="null" class="position-absolute d-none d-md-flex previewShapeRevX">
+            <img src="assets/images/star2.png" alt="null" class="position-absolute d-none d-xl-flex push_animat">
+            <img src="assets/images/coin_vector.png" alt="null"
                 class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX opacity-50">
         </div>
         <div class="container">
@@ -80,7 +80,7 @@
                 </div>
                 <div class="col-md-8 col-lg-6">
                     <div class="trade_on__thumbs d-flex justify-content-end">
-                        <img src="assets/images/crypto section 1.png" alt="Imgae">
+                        <img src="assets/images/crypto section 1.png" alt="Crypto Trading with Tradersera">
                     </div>
                 </div>
             </div>
@@ -100,7 +100,7 @@
                 <div class="col-md-6 col-xxl-3">
                     <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                            <img src="assets/images/icon/time.png" alt="time">
+                            <img src="assets/images/icon/time.png" alt="null">
                         </span>
                        <h3 class="mt-5 mb-5">Quick Deposits & Withdrawals</h3>
                        <p>Become an TradersEra client within minutes! Register yourself, fund your chosen account, and start stock trading trouble-free.</p>
@@ -110,7 +110,7 @@
                 <div class="col-md-6 col-xxl-3">
                     <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                            <img src="assets/images/icon/wallet.png" alt="wallet">
+                            <img src="assets/images/icon/wallet.png" alt="null">
                         </span>
                        <h3 class="mt-5 mb-5">No Crypto-Wallet Fuss</h3>
                        <p>Bet only on the underlying crypto’s price and quit worrying about the safe-keeping of actual cryptocurrency with TradersEra.</p>
@@ -121,7 +121,7 @@
                 <div class="col-md-6 col-xxl-3">
                     <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                            <img src="assets/images/icon/low-price.png" alt="low-price">
+                            <img src="assets/images/icon/low-price.png" alt="null">
                         </span>
                        <h3 class="mt-5 mb-5">Low Transaction Costs</h3>
                        <p>Trade major cryptocurrencies commission free and without any exchange fees with TradersEra.</p>
@@ -131,7 +131,7 @@
                 <div class="col-md-6 col-xxl-3">
                     <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                            <img src="assets/images/icon/customer-service.png" alt="customer">
+                            <img src="assets/images/icon/customer-service.png" alt="null">
                         </span>
                        <h3 class="mt-5 mb-5">Unrivalled Customer Support</h3>
                        <p>With an experienced team backing you up during every trouble, TradersEra aims to provide you the best possible customer support 24×5.</p>
@@ -143,7 +143,7 @@
     </section>
     <section class="company-story position-relative z-0  pt-120 pb-120 ">
         <div class="animation position-absolute w-100 h-100 z-n1">
-            <img src="assets/images/star3.png" alt="vector" class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
+            <img src="assets/images/star3.png" alt="null" class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
         </div>
         <div class="container">
             <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">

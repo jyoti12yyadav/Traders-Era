@@ -11,7 +11,7 @@
 
 </style>
 
-<section class="banner-section  pt-120 pb-120">
+<section class="banner-section  pt-2 pb-1">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
             <div class="col-12 breadcrumb-area ">
@@ -30,9 +30,9 @@
 
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-        <img src="assets/images/star3.png" alt="vector"
+        <img src="assets/images/star3.png" alt="null"
             class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
-        <img src="assets/images/sun2.png" alt="vector"
+        <img src="assets/images/sun2.png" alt="null"
             class="sun2 position-absolute push_animat d-none d-xxl-flex bottom-0 pb-120">
     </div>
     <div class="container">
@@ -54,7 +54,7 @@
             </div>
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/trading_ecosystem.png" alt="Imgae">
+                    <img src="assets/images/trading_ecosystem.png" alt="TradersEra's with Equinix trading ecosystem.">
                 </div>
             </div>
         </div>
@@ -64,16 +64,16 @@
 
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0" style="background-color:#000;">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-        <img src="assets/images/star3.png" alt="vector"
+        <img src="assets/images/star3.png" alt="null"
             class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
-        <img src="assets/images/sun2.png" alt="vector"
+        <img src="assets/images/sun2.png" alt="null"
             class="sun2 position-absolute push_animat d-none d-xxl-flex bottom-0 pb-120">
     </div>
     <div class="container">
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/automated_trading.png" alt="Imgae">
+                    <img src="assets/images/automated_trading.png" alt="Entry to international markets with TradersEra's">
                 </div>
             </div>
             <div class="col-md-10 col-lg-6 col-xxl-5">
@@ -95,9 +95,9 @@
 
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-        <img src="assets/images/star3.png" alt="vector"
+        <img src="assets/images/star3.png" alt="null"
             class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
-        <img src="assets/images/sun2.png" alt="vector"
+        <img src="assets/images/sun2.png" alt="null"
             class="sun2 position-absolute push_animat d-none d-xxl-flex bottom-0 pb-120">
     </div>
     <div class="container">
@@ -116,7 +116,7 @@
             </div>
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/Transform Your Operations with Equinix Data Center.png" alt="Imgae">
+                    <img src="assets/images/Transform Your Operations with Equinix Data Center.png" alt="fast trade with Equinix data centers.">
                 </div>
             </div>
         </div>
@@ -125,16 +125,16 @@
 
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-        <img src="assets/images/star3.png" alt="vector"
+        <img src="assets/images/star3.png" alt="null"
             class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
-        <img src="assets/images/sun2.png" alt="vector"
+        <img src="assets/images/sun2.png" alt="null"
             class="sun2 position-absolute push_animat d-none d-xxl-flex bottom-0 pb-120">
     </div>
     <div class="container">
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/automated_trading.png" alt="Imgae">
+                    <img src="assets/images/automated_trading.png" alt="Partnering with tech leaders for trading infrastructure.">
                 </div>
             </div>
             <div class="col-md-10 col-lg-6 col-xxl-5">

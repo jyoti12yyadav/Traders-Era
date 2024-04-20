@@ -1,6 +1,6 @@
 <?php include("includes/header.php"); ?>
 
-<section class="banner-section  pt-120 pb-120">
+<section class="banner-section  pt-2 pb-1">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
             <div class="col-12 breadcrumb-area ">
@@ -481,7 +481,7 @@
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/tradersera.png" alt="Imgae">
+                    <img src="assets/images/Advantages for introducing brokers.png" alt="TradersEra's Global markets, liquidity, low spreads, swap-free">
                 </div>
             </div>
 
@@ -581,7 +581,7 @@
             </div>
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/tradersera.png" alt="Imgae">
+                    <img src="assets/images/advantages for introducing broker.png" alt="Become an Introducing Broker with TradersEra">
                 </div>
             </div>
 
@@ -805,7 +805,7 @@
                 <div class="submissions-area d-flex flex-column gap-8 gap-lg-10">
                     <div class="submissions">
                         
-                        <img src="assets/images/tradersera contact us image.png">
+                        <img src="assets/images/tradersera contact us image.png" alt="Sign Up to Become an Introducing Broker">
                     </div>
 
                 </div>

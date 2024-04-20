@@ -54,7 +54,7 @@
 
 </style>
 
-<section class="banner-section  pt-120 pb-120">
+<section class="banner-section  pt-2 pb-1">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
             <div class="col-12 breadcrumb-area ">
@@ -73,7 +73,7 @@
 
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-        <img src="assets/images/star3.png" alt="vector"
+        <img src="assets/images/star3.png" alt="null"
             class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
     </div>
     <div class="container">
@@ -119,7 +119,7 @@
             </div>
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/KYC checks.png" alt="Imgae">
+                    <img src="assets/images/KYC checks.png" alt="Forex KYC Checks ">
                 </div>
             </div>
 
@@ -128,7 +128,7 @@
 
 <section class="company-story position-relative z-0  pt-120 pb-120 ">
     <div class="animation position-absolute w-100 h-100 z-n1">
-        <img src="assets/images/star3.png" alt="vector"
+        <img src="assets/images/star3.png" alt="null"
             class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
     </div>
     <div class="container">
@@ -198,7 +198,7 @@
             <div class="col-md-6 col-xxl-3">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/file.png" alt="stock-market">
+                        <img src="assets/images/icon/file.png" alt="null">
                     </span>
 <br>
                     <p>Passport (must to be valid right now)</p>
@@ -215,7 +215,7 @@
             <div class="col-md-6 col-xxl-3">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/bill.png" alt="stock-market">
+                        <img src="assets/images/icon/bill.png" alt="null">
                     </span>
                     <br>
                     <p> Utility Bill (Phone, Electricity, Gas) id doc arrow ico</p>
@@ -249,7 +249,7 @@
                     <h3>  Capture</h3>
                     <hr>
                     <span  class="">
-                        <img style="height:100px;" src="assets/images/id card nn.png" alt="idcard">
+                        <img style="height:100px;" src="assets/images/id card nn.png" alt="null">
                     </span>
                     <hr>
                     <!-- <span class="idverify">Capturing Id</span> -->
@@ -263,7 +263,7 @@
                     <h3>  Extraction</h3>
                     <hr>
                     <span class="">
-                        <img style="height:100px;" src="assets/images/idextract.png" alt="idcard">
+                        <img style="height:100px;" src="assets/images/idextract.png" alt="null">
                     </span>
                     <hr>
                     <!-- <span class="idverify">Capturing Id</span> -->
@@ -280,7 +280,7 @@
                         </h3>
                     <hr>
                     <span class="">
-                        <img style="height:100px;" src="assets/images/idverify.png" alt="idcard">
+                        <img style="height:100px;" src="assets/images/idverify.png" alt="null">
                     </span>
                     <hr>
                     <!-- <span class="idverify">Capturing Id</span> -->
@@ -294,7 +294,7 @@
                     <h3> Results</h3>
                     <hr>
                     <span class="">
-                        <img style="height:100px;" src="assets/images/verifydone.png" alt="idcard">
+                        <img style="height:100px;" src="assets/images/verifydone.png" alt="null">
                     </span>
                     <hr>
                     <!-- <span class="idverify">Capturing Id</span> -->
