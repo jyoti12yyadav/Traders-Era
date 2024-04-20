@@ -139,8 +139,10 @@
                                 <li><a class="dropdown-item" href="account-types.php">Account Types</a></li>
                                 <li><a class="dropdown-item" href="deposit.php">Deposit</a></li>
                                 <li><a class="dropdown-item" href="withdrawal.php">Withdrawal</a></li>
-                                <li><a class="dropdown-item" href="offers.php">Offers</a></li>
-                                <li><a class="dropdown-item" href="contests.php">Contests</a></li>
+                                <li><a class="dropdown-item" href="market-hours.php">Market Hours</a></li>
+                                <li><a class="dropdown-item" href="refer-a-friend.php">Refer a Friend</a></li>
+                                <li><a class="dropdown-item" href="bonus.php">100% Bonus</a></li>
+                                
                             </ul>
                         </li>
                         <li class="dropdown show-dropdown">
@@ -197,7 +199,7 @@
                         </li> -->
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
-                                class="dropdown-nav"><a class="dropdown-item" href="blog.php">Blog</a></button>
+                                class="dropdown-nav"><a class="dropdown-item" href="https://testingwebsite.xyz/Traders_Era/Blogs/">Blog</a></button>
                         </li>
 
                     </ul>
