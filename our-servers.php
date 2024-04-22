@@ -123,35 +123,6 @@
     </div>
 </section>
 
-<section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
-    <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-        <img src="assets/images/star3.png" alt="null"
-            class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
-        <img src="assets/images/sun2.png" alt="null"
-            class="sun2 position-absolute push_animat d-none d-xxl-flex bottom-0 pb-120">
-    </div>
-    <div class="container">
-        <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
-            <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
-                <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/automated_trading.png" alt="Partnering with tech leaders for trading infrastructure.">
-                </div>
-            </div>
-            <div class="col-md-10 col-lg-6 col-xxl-5">
-                <div class="trade_on__content">
-                    <span class="heading p1-color fs-six mb-5"></span>
-                    <h2 class="mb-4 mb-lg-5" style="font-size: 32px;">
-                    Fintech pioneers leading the way with innovative solutions
-                    </h2>
-                 
-                        <p>We collaborate with top tech companies to provide you with access to the latest trading infrastructure.</p>
-                        <br>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
 
 
 

@@ -109,10 +109,14 @@
                             <a class="n2-color" href="withdrawal.php">Withdrawal</a>
                         </li>
                         <li>
-                            <a class="n2-color" href="offers.php">Offers</a>
+                        <a class="dropdown-item" href="market-hours.php">Market Hours</a>
                         </li>
                         <li>
-                            <a class="n2-color" href="contests.php">Contests</a>
+                               <a class="dropdown-item" href="refer-a-friend.php">Refer a Friend</a>
+                        </li>
+                        <li>
+                                <a class="dropdown-item" href="bonus.php">100% Bonus</a>
+                        
                         </li>
                     </ul>
                     <br>
@@ -156,7 +160,12 @@
                         <li>
                             <a class="n2-color" href="faq.php">Faq</a>
                         </li>
+
                     </ul>
+                    <br>
+                    
+                    <h4 class="mb-6 mb-lg-8 mt-4" href="https://testingwebsite.xyz/Traders_Era/Blogs/">Blogs</h4>
+            
                 </div>
             </div>
             
@@ -219,6 +228,8 @@
                     </ul>
                 </div>
             </div>
+
+           
 
 
             <!-- <div class="col-6 col-lg-3">
