@@ -150,182 +150,182 @@
                 <div class="container my-5 table-div">
                     <table id="Record" class="table table-striped table-dark my-3">
                     <thead>
-    <tr height="73">
-    <th height="73" width="108" style="    background-color: #9ad953;
-    color: black;
-    text-align: center;
-    font-size: 16px;">Instrument</th>
-    <th width="78" style="    background-color: #9ad953;
-    color: black;
-    text-align: center;
-    font-size: 16px;">Ticker</th>
-    <th width="78" style="    background-color: #9ad953;
-    color: black;
-    text-align: center;
-    font-size: 16px;">Contract size</th>
-    <th width="156" style="    background-color: #9ad953;
-    color: black;
-    text-align: center;
-    font-size: 16px;">Trading times* (GMT+3)</th>
-    </tr>
-    </thead>
-                        <tbody>
-    <tr height="20">
-    <td height="20">Bitcoin</td>
-    <td>BTC/USD</td>
-    <td>1</td>
-    <td>24/7</td>
-    </tr>
-    <tr height="20">
-    <td height="20">Ethereum</td>
-    <td>ETH/USD</td>
-    <td>1</td>
-    <td>24/7</td>
-    </tr>
-    <tr height="20">
-    <td height="20">Litecoin</td>
-    <td>LTC/USD</td>
-    <td>1</td>
-    <td>24/7</td>
-    </tr>
-    <tr height="19">
-    <td height="19">Bitcoin Cash</td>
-    <td>BCH/USD</td>
-    <td>1</td>
-    <td>24/7</td>
-    </tr>
-    <tr height="20">
-    <td height="20">XRP</td>
-    <td>XRP/USD</td>
-    <td>1</td>
-    <td>24/7</td>
-    </tr>
-    <tr height="20">
-    <td height="20">Cardano</td>
-    <td>ADA/USD</td>
-    <td>1</td>
-    <td>24/7</td>
-    </tr>
-    <tr height="20">
-    <td height="20">Dogecoin</td>
-    <td>DOGE/USD</td>
-    <td>1</td>
-    <td>24/7</td>
-    </tr>
-    <tr height="20">
-    <td height="20">BAT</td>
-    <td>BAT/USD</td>
-    <td>1</td>
-    <td>24/7</td>
-    </tr>
-    <tr height="20">
-    <td height="20">DASH</td>
-    <td>DASH/USD</td>
-    <td>1</td>
-    <td>24/7</td>
-    </tr>
-    <tr height="20">
-    <td height="20">Solana</td>
-    <td>SOL/USD</td>
-    <td>1</td>
-    <td>24/7</td>
-    </tr>
-    <tr height="20">
-    <td height="20">Polkadot</td>
-    <td>DOT/USD</td>
-    <td>1</td>
-    <td>24/7</td>
-    </tr>
-    <tr height="20">
-    <td height="20">EOS</td>
-    <td>EOS/USD</td>
-    <td>1</td>
-    <td>24/7</td>
-    </tr>
-    <tr height="20">
-    <td height="20">Chainlink</td>
-    <td>LINK/USD</td>
-    <td>1</td>
-    <td>24/7</td>
-    </tr>
-    <tr height="19">
-    <td height="19">Zcash</td>
-    <td>ZEC/USD</td>
-    <td>1</td>
-    <td>24/7</td>
-    </tr>
-    <tr height="20">
-    <td height="20">Tezos</td>
-    <td>XTZ/USD</td>
-    <td>1</td>
-    <td>24/7</td>
-    </tr>
-    <tr height="20">
-    <td height="20">Stellar</td>
-    <td>XLM/USD</td>
-    <td>1</td>
-    <td>24/7</td>
-    </tr>
-    <tr height="20">
-    <td height="20">Monero&nbsp;</td>
-    <td>XMR/USD</td>
-    <td>1</td>
-    <td>24/7</td>
-    </tr>
-    <tr>
-    <td height="20">Polygon</td>
-    <td>MATIC/USD</td>
-    <td>1</td>
-    <td>24/7</td>
-    </tr>
-    <tr>
-    <td height="20">Uniswap</td>
-    <td>UNI/USD</td>
-    <td>1</td>
-    <td>24/7</td>
-    </tr>
-    <tr>
-    <td height="20">OMG Network</td>
-    <td>OMG/USD</td>
-    <td>1</td>
-    <td>24/7</td>
-    </tr>
-    <tr>
-    <td height="20">SHIBA INU</td>
-    <td>SHIB/USD</td>
-    <td>1</td>
-    <td>24/7</td>
-    </tr>
-    <tr>
-    <td height="20">The Sandbox¹</td>
-    <td>SAND/USD</td>
-    <td>1</td>
-    <td>24/7</td>
-    </tr>
-    <tr>
-    <td height="20">Cosmos¹</td>
-    <td>ATOM/USD</td>
-    <td>1</td>
-    <td>24/7</td>
-    </tr>
-    <tr>
-    <td height="20">Algorand¹</td>
-    <td>ALGO/USD</td>
-    <td>1</td>
-    <td>24/7</td>
-    </tr>
-    <tr>
-    <td height="20">Avalanche¹</td>
-    <td>AVAX/USD</td>
-    <td>1</td>
-    <td>24/7</td>
-    </tr>
-    <tr>
-    <td height="20">Binance Coin¹</td>
-    <td>BNB/USD</td>
-    <td>1</td>
-    <td>24/7</td>
-    </tr>
+            <tr height="73">
+            <th height="73" width="108" style="    background-color: #9ad953;
+            color: black;
+            text-align: center;
+            font-size: 16px;">Instrument</th>
+            <th width="78" style="    background-color: #9ad953;
+            color: black;
+            text-align: center;
+            font-size: 16px;">Ticker</th>
+            <th width="78" style="    background-color: #9ad953;
+            color: black;
+            text-align: center;
+            font-size: 16px;">Contract size</th>
+            <th width="156" style="    background-color: #9ad953;
+            color: black;
+            text-align: center;
+            font-size: 16px;">Trading times* (GMT+3)</th>
+            </tr>
+            </thead>
+                                <tbody>
+            <tr height="20">
+            <td height="20">Bitcoin</td>
+            <td>BTC/USD</td>
+            <td>1</td>
+            <td>24/7</td>
+            </tr>
+            <tr height="20">
+            <td height="20">Ethereum</td>
+            <td>ETH/USD</td>
+            <td>1</td>
+            <td>24/7</td>
+            </tr>
+            <tr height="20">
+            <td height="20">Litecoin</td>
+            <td>LTC/USD</td>
+            <td>1</td>
+            <td>24/7</td>
+            </tr>
+            <tr height="19">
+            <td height="19">Bitcoin Cash</td>
+            <td>BCH/USD</td>
+            <td>1</td>
+            <td>24/7</td>
+            </tr>
+            <tr height="20">
+            <td height="20">XRP</td>
+            <td>XRP/USD</td>
+            <td>1</td>
+            <td>24/7</td>
+            </tr>
+            <tr height="20">
+            <td height="20">Cardano</td>
+            <td>ADA/USD</td>
+            <td>1</td>
+            <td>24/7</td>
+            </tr>
+            <tr height="20">
+            <td height="20">Dogecoin</td>
+            <td>DOGE/USD</td>
+            <td>1</td>
+            <td>24/7</td>
+            </tr>
+            <tr height="20">
+            <td height="20">BAT</td>
+            <td>BAT/USD</td>
+            <td>1</td>
+            <td>24/7</td>
+            </tr>
+            <tr height="20">
+            <td height="20">DASH</td>
+            <td>DASH/USD</td>
+            <td>1</td>
+            <td>24/7</td>
+            </tr>
+            <tr height="20">
+            <td height="20">Solana</td>
+            <td>SOL/USD</td>
+            <td>1</td>
+            <td>24/7</td>
+            </tr>
+            <tr height="20">
+            <td height="20">Polkadot</td>
+            <td>DOT/USD</td>
+            <td>1</td>
+            <td>24/7</td>
+            </tr>
+            <tr height="20">
+            <td height="20">EOS</td>
+            <td>EOS/USD</td>
+            <td>1</td>
+            <td>24/7</td>
+            </tr>
+            <tr height="20">
+            <td height="20">Chainlink</td>
+            <td>LINK/USD</td>
+            <td>1</td>
+            <td>24/7</td>
+            </tr>
+            <tr height="19">
+            <td height="19">Zcash</td>
+            <td>ZEC/USD</td>
+            <td>1</td>
+            <td>24/7</td>
+            </tr>
+            <tr height="20">
+            <td height="20">Tezos</td>
+            <td>XTZ/USD</td>
+            <td>1</td>
+            <td>24/7</td>
+            </tr>
+            <tr height="20">
+            <td height="20">Stellar</td>
+            <td>XLM/USD</td>
+            <td>1</td>
+            <td>24/7</td>
+            </tr>
+            <tr height="20">
+            <td height="20">Monero&nbsp;</td>
+            <td>XMR/USD</td>
+            <td>1</td>
+            <td>24/7</td>
+            </tr>
+            <tr>
+            <td height="20">Polygon</td>
+            <td>MATIC/USD</td>
+            <td>1</td>
+            <td>24/7</td>
+            </tr>
+            <tr>
+            <td height="20">Uniswap</td>
+            <td>UNI/USD</td>
+            <td>1</td>
+            <td>24/7</td>
+            </tr>
+            <tr>
+            <td height="20">OMG Network</td>
+            <td>OMG/USD</td>
+            <td>1</td>
+            <td>24/7</td>
+            </tr>
+            <tr>
+            <td height="20">SHIBA INU</td>
+            <td>SHIB/USD</td>
+            <td>1</td>
+            <td>24/7</td>
+            </tr>
+            <tr>
+            <td height="20">The Sandbox¹</td>
+            <td>SAND/USD</td>
+            <td>1</td>
+            <td>24/7</td>
+            </tr>
+            <tr>
+            <td height="20">Cosmos¹</td>
+            <td>ATOM/USD</td>
+            <td>1</td>
+            <td>24/7</td>
+            </tr>
+            <tr>
+            <td height="20">Algorand¹</td>
+            <td>ALGO/USD</td>
+            <td>1</td>
+            <td>24/7</td>
+            </tr>
+            <tr>
+            <td height="20">Avalanche¹</td>
+            <td>AVAX/USD</td>
+            <td>1</td>
+            <td>24/7</td>
+            </tr>
+            <tr>
+            <td height="20">Binance Coin¹</td>
+            <td>BNB/USD</td>
+            <td>1</td>
+            <td>24/7</td>
+            </tr>
     </tbody>
                     </table>
                 </div>
