@@ -237,6 +237,33 @@ switch ($menuactive) {
         $alternateName="Contact Us";
         $url="";
         break;
+
+    case 'market-hours.php':
+        $title = "Forex Market Hours | Market Hours Indicator | Global Forex Hours";
+        $description = "Explore the best times to trade in the Forex market with our guide on global Forex market hours. Start maximizing your trading potential today!";
+        $keywords = "Forex Market Hours, Global Forex Market Hours, Commodities Trading, MetaTrader, Trading, Forex Market Hours Indicator mt5, Trading Session, Market Sessions Indicator, MT5, Forex market Sessions indicator MT5 ";
+        $name="Markets";
+        $alternateName="Markets";
+        $url="";
+        break;
+
+    case 'refer-a-friend.php':
+        $title = "Recommend a Friend | Invite a Friend | Earn Rewards";
+        $description = "Recommend a friend and Earn rewards and enjoy the benefits of our exclusive offers.";
+        $keywords = "Recommend a friend, Earn Rewards, Invite a Friend, Make Money, Referral Link, Forex Bonus";
+        $name="Refer a Friend";
+        $alternateName="Refer a Friend";
+        $url="";
+        break;
+
+    case 'bonus.php':
+        $title = "Forex Bonus on Deposit | Get 100% Deposit Bonus | Earn Rewards";
+        $description = "Get a whopping 100% deposit bonus and Boost your trading power with TradersEra! Join us today!";
+        $keywords = "Forex Bonus Deposit, Deposit Bonus, 100% Deposit Bonus, Forex market, Forex trading, Currency Pairs, Cryptocurrencies, Get 100% Deposit Bonus, maximum deposit bonus  ";
+        $name="100% Bonus";
+        $alternateName="100% Bonus";
+        $url="";
+        break;
         
     default:
         $title = "Title Here";

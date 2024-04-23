@@ -102,8 +102,8 @@
 </section>
 <section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-        <img src="assets/images/coin.png" alt="null" class="position-absolute d-none d-md-flex previewShapeRevX">
-        <img src="assets/images/coin_vector.png" alt="null" class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX opacity-50">
+        <!-- <img src="assets/images/coin.png" alt="null" class="position-absolute d-none d-md-flex previewShapeRevX">
+        <img src="assets/images/coin_vector.png" alt="null" class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX opacity-50"> -->
     </div>
     <div class="container">
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
@@ -122,7 +122,7 @@
             </div>
             <div class="col-md-8 col-lg-6">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/Foreign Exchange Contracts.png" alt="Trade Forex CFDs on TradersEra Paltform">
+                    <img src="assets/images/Earn rewards by referring a friend.png" alt="Trade Forex CFDs on TradersEra Paltform">
                 </div>
             </div>
         </div>
@@ -178,7 +178,7 @@
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/Advantages for introducing brokers.png" alt="TradersEra's Global markets, liquidity, low spreads, swap-free">
+                    <img src="assets/images/your friend will need to follow these steps.png" alt="TradersEra's Global markets, liquidity, low spreads, swap-free">
                 </div>
             </div>
 
