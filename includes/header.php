@@ -82,7 +82,7 @@
                                 Open an Account </a>
                         </div>
                         <div class="single-item">
-                            <a href="https://trading.tradersera.com/login"
+                            <a href="prelogin.php"
                                 class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button">
                                 Login</a>
                         </div>
