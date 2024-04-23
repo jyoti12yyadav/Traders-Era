@@ -1177,10 +1177,10 @@
                     <br>
 
                     <div class="col-4 mt-4" style="display: flex; justify-content: space-evenly; ">
-                        <img style="border:1px solid white; border-radius:10px;" src="assets/images/_app store.png" alt="_app store">
-                        <img style="border:1px solid white; border-radius:10px; margin-left:20px;"
+                        <img style="border-radius:10px;" src="assets/images/_app store.png" alt="_app store">
+                        <img style="border-radius:10px; margin-left:20px;"
                             src="assets/images/_google play store.png" alt="_google play store">
-                        <img style="border:1px solid white; border-radius:10px; margin-left:20px;"
+                        <img style="border-radius:10px; margin-left:20px;"
                             src="assets/images/_download APK.png" alt="_download APK">
                     </div>
                 </div>
