@@ -91,9 +91,9 @@
 
 <section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 center-0 w-100 h-100 z-n1">
-        <img src="assets/images/coin.png" alt="null" class="position-absolute d-none d-md-flex previewShapeRevX">
+        <!-- <img src="assets/images/coin.png" alt="null" class="position-absolute d-none d-md-flex previewShapeRevX">
         <img src="assets/images/coin_vector.png" alt="null"
-            class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX opacity-50">
+            class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX opacity-50"> -->
     </div>
     <div class="container">
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
@@ -113,7 +113,7 @@
             </div>
             <div class="col-md-8 col-lg-6">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/Foreign Exchange Contracts.png"
+                    <img src="assets/images/financial markets trading hours.png"
                         alt="Trade Forex CFDs on TradersEra Paltform">
                 </div>
             </div>

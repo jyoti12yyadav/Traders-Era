@@ -282,9 +282,9 @@
                 </div>
             </div>
             <div class="col-md-8 col-lg-6">
-                <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/Foreign Exchange Contracts.png" alt="Trade Forex CFDs on TradersEra Paltform">
-                </div>
+                    <div class="trade_on__thumbs d-flex justify-content-end">
+                        <img src="assets/images/Commonly traded in financial markets.png" alt="Trade Forex CFDs on TradersEra Paltform">
+                    </div>
             </div>
         </div>
     </div>
