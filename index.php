@@ -813,11 +813,11 @@
                     <br>
                     <h3>Platforms Supported:</h3>
                     <ul class=" d-flex  gap-md-3 ">
-                        <li><img style=" height:35px;" src="assets/images/icon/icon IE.png" alt="IE"></li>
-                        <li><img style=" height:35px;" src="assets/images/icon/icon opera.png" alt="opera"></li>
-                        <li><img style=" height:35px;" src="assets/images/icon/icon safari.png" alt="safari"></li>
-                        <li><img style=" height:35px;" src="assets/images/icon/icon fire fox.png" alt="fire fox"></li>
-                        <li><img style=" height:35px;" src="assets/images/icon/icon CROME.png" alt="CROME"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/icon IE.webp" alt="IE"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/icon opera.webp" alt="opera"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/icon safari.webp" alt="safari"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/icon fire fox.webp" alt="fire fox"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/icon CROME.webp" alt="CROME"></li>
 
                     </ul>
                 </ul>

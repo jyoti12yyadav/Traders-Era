@@ -4,21 +4,20 @@
     tr {
         text-align: center;
     }
-    .widgets{
+
+    .widgets {
         height: 500px;
     }
 
 
 
     .pb-120 {
-    padding-bottom: 60px !important;
-}
-.pt-120 {
-    padding-top: 60px !important;
-}
+        padding-bottom: 60px !important;
+    }
 
-
-
+    .pt-120 {
+        padding-top: 60px !important;
+    }
 </style>
 
 <section class="banner-section  pt-2 pb-1">
@@ -67,7 +66,12 @@
 
 <section>
     <div class="container widgets  pt-120">
-        <iframe src="https://in.widgets.investing.com/top-cryptocurrencies?theme=darkTheme&roundedCorners=true" width="100%" height="100%" frameborder="0" allowtransparency="true" marginwidth="0" marginheight="0"></iframe><div class="poweredBy" style="font-family: Arial, Helvetica, sans-serif;">Powered by <a href="https://in.investing.com?utm_source=WMT&amp;utm_medium=referral&amp;utm_campaign=TOP_CRYPTOCURRENCIES&amp;utm_content=Footer%20Link" target="_blank" rel="nofollow">Investing.com</a></div>
+        <iframe src="https://in.widgets.investing.com/top-cryptocurrencies?theme=darkTheme&roundedCorners=true"
+            width="100%" height="100%" frameborder="0" allowtransparency="true" marginwidth="0"
+            marginheight="0"></iframe>
+        <div class="poweredBy" style="font-family: Arial, Helvetica, sans-serif;">Powered by <a
+                href="https://in.investing.com?utm_source=WMT&amp;utm_medium=referral&amp;utm_campaign=TOP_CRYPTOCURRENCIES&amp;utm_content=Footer%20Link"
+                target="_blank" rel="nofollow">Investing.com</a></div>
     </div>
 </section>
 
@@ -89,22 +93,22 @@
                 <table id="Record" class="table table-striped table-dark my-3">
                     <thead>
                         <tr>
-                            <th scope="col" style="    background-color: #9ad953;
-    color: black;
-    text-align: center;
-    font-size: 16px;padding:20px;display: table-cell;">CRYPTOCURRENCIES</th>
-                            <th scope="col" style="    background-color: #9ad953;
-    color: black;
-    text-align: center;
-    font-size: 16px;padding:20px;display: table-cell;">SYMBOL</th>
-                            <th scope="col" style="    background-color: #9ad953;
-    color: black;
-    text-align: center;
-    font-size: 16px;padding:20px;display: table-cell;">MARGIN REQUIREMENT</th>
-                            <th scope="col" style="    background-color: #9ad953;
-    color: black;
-    text-align: center;
-    font-size: 16px;padding:20px;display: table-cell;">LEVERAGE</th>
+                                                <th scope="col" style="    background-color: #9ad953;
+                        color: black;
+                        text-align: center;
+                        font-size: 16px;padding:20px;display: table-cell;">CRYPTOCURRENCIES</th>
+                                                <th scope="col" style="    background-color: #9ad953;
+                        color: black;
+                        text-align: center;
+                        font-size: 16px;padding:20px;display: table-cell;">SYMBOL</th>
+                                                <th scope="col" style="    background-color: #9ad953;
+                        color: black;
+                        text-align: center;
+                        font-size: 16px;padding:20px;display: table-cell;">MARGIN REQUIREMENT</th>
+                                                <th scope="col" style="    background-color: #9ad953;
+                        color: black;
+                        text-align: center;
+                        font-size: 16px;padding:20px;display: table-cell;">LEVERAGE</th>
 
                         </tr>
                     </thead>
