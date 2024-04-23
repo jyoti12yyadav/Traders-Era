@@ -28,8 +28,6 @@
             <div class="col-xl-8 col-xxl-7">
                 <div class="heading__content mb-8 mb-lg-10 text-center">
                     <h2>Increase your trading potential with our exclusive deposit bonus!</h2>
-                    <!-- <h3 class="mb-4 mb-lg-6">Trading is easier and more profitable than ever before!
-</h3> -->
                    
                 </div>
             </div>
@@ -37,26 +35,13 @@
         <div class="row">
             <div class="col-12">
                 <div class="singletab">
-                    <!-- <ul class="tablinks d-center flex-wrap gap-3 gap-lg-4  mb-10 mb-xxl-15">
-                        <li class="nav-links active">
-                            <button class="tablink cmn-btn outline_btn align-items-center fs-six-up py-2 py-lg-3 px-6  px-md-3 px-xxl-10 d-flex gap-3 align-items-center" style="--top: 0.640625px; --left: 284.21875px;"><i class="ti ti-video fs-four s1-color"></i>Test Your Knowledge</button>
-                        </li>
-                        <li class="nav-links">
-                            <button class="tablink cmn-btn outline_btn align-items-center fs-six-up py-2 py-lg-3 px-6  px-md-3 px-xxl-10 d-flex gap-3 align-items-center"><i class="ti ti-video fs-four s1-color"></i>Tutorial Videos</button>
-                        </li>
-                        <li class="nav-links">
-                            <button class="tablink cmn-btn outline_btn align-items-center fs-six-up py-2 py-lg-3 px-6  px-md-3 px-xxl-10 d-flex gap-3 align-items-center" style="--top: 37.640625px; --left: 37.5625px;"><i class="ti ti-video fs-four s1-color"></i>Live Commentary</button>
-                        </li>
-                    </ul> -->
                     <div class="tabcontents">
                         <div class="tabitem active">
                             <div class="row gy-10 gy-xl-0 justify-content-center justify-content-lg-between align-items-center">
                                 <div class="col-xl-6 col-xxl-7 ">
-                                    <div class="people_trust_thumb d-center p-2 p-lg-5 pseudo_element_after overflow-hidden">
-                                        <img src="assets/images/people_trust_video.png" class="w-100 max-xxl-un cus-rounded-2" alt="video">
-                                        <a href="https://www.youtube.com/watch?v=BHACKCNDMW8" class="popup-video box_10 btn-popup-animation position-absolute d-center rounded-circle">
-                                            <i class="fa-solid fa-play fs-four"></i>
-                                        </a>
+                                    <div class="submissions">
+                        
+                                        <img class="contact-img" src="assets/images/Increase your trading potential.png" alt="Sign Up to Become an Introducing Broker">
                                     </div>
                                 </div>
                                 <div class="col-xl-6 col-xxl-5">
@@ -65,30 +50,6 @@
                                         <p class="mx-ch">For a short period, TradersEra Markets is providing all traders a massive 100% deposit bonus. Whether you're a new or experienced trader, this is an excellent opportunity to boost your trading capital and obtain an advantage in the Forex market.</p>   
                                         <br>
                                         <p>This great offer allows you to increase your initial investment, providing you with the necessary leverage to go further into the world of Forex trading.</p>
-                                        <!-- <ul class="list_divided d-flex flex-wrap gap-5 mt-5 mt-xxl-6">
-                                            <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Charts trading</li>
-                                            <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Supreme Authority</li>
-                                            <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Worldly Power</li>
-                                            <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Global Dominance</li>
-                                        </ul> -->
-                                        <!-- <div class="mt-8 mt-xxl-10">
-                                            <div class="counter-area d-flex gap-8 gap-xxl-10 ">
-                                                <div class="counter-part">
-                                                    <div class="counters d-flex">
-                                                        <span class="display-four s1-color odometer odometer-auto-theme" data-odometer-final="12"><div class="odometer-inside"><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">1</span></span></span></span></span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">2</span></span></span></span></span></div></span>
-                                                        <span class="display-four symbol s1-color">K</span>
-                                                    </div>
-                                                    <span class="mt-4">Users Joined</span>
-                                                </div>
-                                                <div class="counter-part">
-                                                    <div class="counters d-flex">
-                                                        <span class="display-four s1-color odometer odometer-auto-theme" data-odometer-final="5.5"><div class="odometer-inside"><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">5</span></span></span></span></span><span class="odometer-formatting-mark odometer-radix-mark">.</span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">5</span></span></span></span></span></div></span>
-                                                        <span class="display-four symbol s1-color">M</span>
-                                                    </div>
-                                                    <span class="mt-4">Monthly Voulme (In USD)</span>
-                                                </div>
-                                            </div>
-                                        </div> -->
                                     </div>
                                 </div>
                             </div>
