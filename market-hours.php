@@ -90,7 +90,7 @@
 </section>
 
 <section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
-    <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
+    <div class="animation position-absolute top-0 center-0 w-100 h-100 z-n1">
         <img src="assets/images/coin.png" alt="null" class="position-absolute d-none d-md-flex previewShapeRevX">
         <img src="assets/images/coin_vector.png" alt="null"
             class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX opacity-50">
@@ -122,7 +122,7 @@
 </section>
 
 <section class="faq pb-120 pt-120 position-relative z-0">
-    <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
+    <div class="animation position-absolute top-0 center-0 w-100 h-100 z-n1">
         <img src="assets/images/button.png" alt="vector"
             class="position-absolute pt-6 pt-xl-15 previewShapeRevX d-none d-xl-flex">
         <img src="assets/images/star2.png" alt="vector"
@@ -244,121 +244,121 @@
             <tr>
                 <th scope="col" style="    background-color: #9ad953;
                 color: black;
-                text-align: left;
+                text-align: center;
                 font-size: 16px;padding:20px;display: table-cell;">
-                   
-                      Name
-                    
+
+                    Name
+
                 </th>
-                <th  scope="col" style="    background-color: #9ad953;
+                <th scope="col" style="    background-color: #9ad953;
                 color: black;
-                text-align: left;
+                text-align: center;
                 font-size: 16px;padding:20px;display: table-cell;">
-                   
-                       Market Open
-                    
+
+                    Market Open
+
                 </th>
-                <th  scope="col" style="    background-color: #9ad953;
+                <th scope="col" style="    background-color: #9ad953;
                 color: black;
-                text-align: left;
+                text-align: center;
                 font-size: 16px;padding:20px;display: table-cell;">
-                   
-                        Market Close
-                    
+
+                    Market Close
+
                 </th>
-                <th  scope="col" style="    background-color: #9ad953;
+                <th scope="col" style="    background-color: #9ad953;
                 color: black;
-                text-align: left;
+                text-align: center;
                 font-size: 16px;padding:20px;display: table-cell;">
-                    
-                       Trading Break
-                  
+
+                    Trading Break
+
                 </th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td>
-                    <div>Forex</div>
+                    <div style=" text-align: center;">Forex</div>
                 </td>
                 <td>
-                    <div>00:01 Monday</div>
+                    <div style=" text-align: center;">00:01 Monday</div>
                 </td>
                 <td>
-                    <div> 23:57 Friday</div>
+                    <div style=" text-align: center;"> 23:57 Friday</div>
                 </td>
                 <td>
-                    <div>23:59 - 00:01</div>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <div>Gold</div>
-                </td>
-                <td>
-                    <div>01:02 Monday</div>
-                </td>
-                <td>
-                    <div>23:57 Friday</div>
-                </td>
-                <td>
-                    <div>23:57 - 01:02</div>
+                    <div style=" text-align: center;">23:59 - 00:01</div>
                 </td>
             </tr>
             <tr>
                 <td>
-                    <div>Cryptocurrencies</div>
+                    <div style=" text-align: center;">Gold</div>
                 </td>
                 <td>
-                    <div>00:01 Monday</div>
+                    <div style=" text-align: center;">01:02 Monday</div>
                 </td>
                 <td>
-                    <div>23:59 Friday</div>
+                    <div style=" text-align: center;">23:57 Friday</div>
                 </td>
                 <td>
-                    <div>23:59 - 00:01</div>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <div>UKGILT</div>
-                </td>
-                <td>
-                    <div>10:00 Monday</div>
-                </td>
-                <td>
-                    <div>20:00 Friday</div>
-                </td>
-                <td>
-                    <div>20:00 - 10:00 (Following Day)</div>
+                    <div style=" text-align: center;">23:57 - 01:02</div>
                 </td>
             </tr>
             <tr>
                 <td>
-                    <div>UST05Y</div>
+                    <div style=" text-align: center;">Cryptocurrencies</div>
                 </td>
                 <td>
-                    <div>1:00 Monday</div>
+                    <div style=" text-align: center;">00:01 Monday</div>
                 </td>
                 <td>
-                    <div>23:59 Friday</div>
+                    <div style=" text-align: center;">23:59 Friday</div>
                 </td>
                 <td>
-                    <div>23:59 - 1:00</div>
+                    <div style=" text-align: center;">23:59 - 00:01</div>
                 </td>
             </tr>
             <tr>
                 <td>
-                    <div>UST10Y</div>
+                    <div style=" text-align: center;">UKGILT</div>
                 </td>
                 <td>
-                    <div>1:00 Monday</div>
+                    <div style=" text-align: center;">10:00 Monday</div>
                 </td>
                 <td>
-                    <div>23:59 Friday</div>
+                    <div style=" text-align: center;">20:00 Friday</div>
                 </td>
                 <td>
-                    <div>23:59 - 1:00</div>
+                    <div style=" text-align: center;">20:00 - 10:00 (Following Day)</div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div style=" text-align: center;">UST05Y</div>
+                </td>
+                <td>
+                    <div style=" text-align: center;">1:00 Monday</div>
+                </td>
+                <td>
+                    <div style=" text-align: center;">23:59 Friday</div>
+                </td>
+                <td>
+                    <div style=" text-align: center;">23:59 - 1:00</div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div style=" text-align: center;">UST10Y</div>
+                </td>
+                <td>
+                    <div style=" text-align: center;">1:00 Monday</div>
+                </td>
+                <td>
+                    <div style=" text-align: center;">23:59 Friday</div>
+                </td>
+                <td>
+                    <div style=" text-align: center;">23:59 - 1:00</div>
                 </td>
             </tr>
         </tbody>
@@ -372,4 +372,229 @@
 
 
 
-    <?php include("includes/footer.php"); ?>
+
+
+
+
+
+
+
+
+
+<div class="container my-5 table-div">
+
+<table  aria-label="table" id="Record" class="table table-striped table-dark my-3">
+    <thead>
+        <tr>
+            <th scope="col" style="    background-color: #9ad953;
+            color: black;
+            text-align: center;
+            font-size: 16px;padding:20px;display: table-cell;">
+               
+                   Name
+               
+            </th>
+            <th scope="col" style="    background-color: #9ad953;
+            color: black;
+            text-align: center;
+            font-size: 16px;padding:20px;display: table-cell;">
+               
+                    Symbol
+              
+            </th>
+            <th scope="col" style="    background-color: #9ad953;
+            color: black;
+            text-align: center;
+            font-size: 16px;padding:20px;display: table-cell;">
+               Trading Hours (GMT+3, MON-FRI)
+                
+            </th>
+        </tr>
+    </thead>
+    <tbody >
+        <tr >
+            <td >
+                <div style=" text-align: center;">ASX200</div>
+            </td>
+            <td >
+                <div style=" text-align: center;">AUD200</div>
+            </td>
+            <td >
+                <div style=" text-align: center;">02:50 – 09:30,
+                    10:10 – 23:59</div>
+            </td>
+        </tr>
+        <tr >
+            <td >
+                <div style=" text-align: center;">Nikkei 225</div>
+            </td>
+            <td >
+                <div style=" text-align: center;" > JPN225</div>
+            </td>
+            <td >
+                <div style=" text-align: center;">01:00 - 23:59</div>
+            </td>
+        </tr>
+        <tr >
+            <td >
+                <div style=" text-align: center;">Hang Seng Index</div>
+            </td>
+            <td >
+                <div style=" text-align: center;">HK50</div>
+            </td>
+            <td >
+                <div style=" text-align: center;">04:15 – 07:00,
+                    08:00 – 11:30,
+                    12:15 - 22:00</div>
+            </td>
+        </tr>
+        <tr >
+            <td >
+                <div style=" text-align: center;">Euro Stoxx 50</div>
+            </td>
+            <td >
+                <div style=" text-align: center;">EUSTX50</div>
+            </td>
+            <td >
+                <div style=" text-align: center;">03:15 - 23:59</div>
+            </td>
+        </tr>
+        <tr >
+            <td >
+                <div style=" text-align: center;">CAC 40</div>
+            </td>
+            <td >
+                <div style=" text-align: center;"> FRA40</div>
+            </td>
+            <td >
+                <div style=" text-align: center;">09:00 - 23:00</div>
+            </td>
+        </tr>
+        <tr >
+            <td >
+                <div style=" text-align: center;">DAX 40</div>
+            </td>
+            <td >
+                <div style=" text-align: center;">GER40</div>
+            </td>
+            <td >
+                <div style=" text-align: center;">03:15 - 23:00</div>
+            </td>
+        </tr>
+        <tr >
+            <td >
+                <div style=" text-align: center;">FTSE 100</div>
+            </td>
+            <td >
+                <div style=" text-align: center;">UK100</div>
+            </td>
+            <td >
+                <div style=" text-align: center;">03:00 - 23:00</div>
+            </td>
+        </tr>
+        <tr >
+            <td >
+                <div style=" text-align: center;">DJ 30</div>
+            </td>
+            <td >
+                <div style=" text-align: center;">US30</div>
+            </td>
+            <td >
+                <div style=" text-align: center;">01:00 - 23:59</div>
+            </td>
+        </tr>
+        <tr >
+            <td >
+                <div style=" text-align: center;">NASDAQ 100</div>
+            </td>
+            <td >
+                <div style=" text-align: center;">NAS100</div>
+            </td>
+            <td >
+                <div style=" text-align: center;">01:00 - 23:59</div>
+            </td>
+        </tr>
+        <tr >
+            <td >
+                <div style=" text-align: center;">S&amp;P 500</div>
+            </td>
+            <td >
+                <div style=" text-align: center;">US500</div>
+            </td>
+            <td >
+                <div style=" text-align: center;" >01:00 - 23:59</div>
+            </td>
+        </tr>
+        <tr >
+            <td >
+                <div style=" text-align: center;">ES35</div>
+            </td>
+            <td >
+                <div style=" text-align: center;">ES35</div>
+            </td>
+            <td >
+                <div style=" text-align: center;">09:00 - 23:00</div>
+            </td>
+        </tr>
+        <tr >
+            <td >
+                <div style=" text-align: center;">US Dollar index</div>
+            </td>
+            <td >
+                <div style=" text-align: center;">USDX</div>
+            </td>
+            <td >
+                <div style=" text-align: center;">03:00 - 23:59</div>
+            </td>
+        </tr>
+        <tr >
+            <td >
+                <div style=" text-align: center;">Volatility Index</div>
+            </td>
+            <td >
+                <div style=" text-align: center;">VIX</div>
+            </td>
+            <td >
+                <div style=" text-align: center;">01:00 - 23:59</div>
+            </td>
+        </tr>
+        <tr >
+            <td >
+                <div style=" text-align: center;">Brent Crude Oil</div>
+            </td>
+            <td >
+                <div style=" text-align: center;">XBRUSD</div>
+            </td>
+            <td >
+                <div style=" text-align: center;">03:00 - 23:59</div>
+            </td>
+        </tr>
+        <tr >
+            <td >
+                <div style=" text-align: center;">US Crude Oil</div>
+            </td>
+            <td >
+                <div style=" text-align: center;">XTIUSD</div>
+            </td>
+            <td >
+                <div style=" text-align: center;">01:00 - 23:59</div>
+            </td>
+        </tr>
+        <tr >
+            <td >
+                <div style=" text-align: center;">XNGUSD</div>
+            </td>
+            <td >
+                <div style=" text-align: center;">XNGUSD</div>
+            </td>
+            <td >
+                <div style=" text-align: center;">01:00 – 23:59</div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+
+
+<?php include("includes/footer.php"); ?>
