@@ -87,9 +87,7 @@
             <div class="row justify-content-center">
                 <div class="col-xl-8 col-xxl-7">
                     <div class="heading__content mb-8 mb-lg-10 text-center">
-                        <span class="heading p1-color fs-five mb-5">Increase your trading potential with our exclusive deposit bonus!
-
-</span>
+                        <h2>Increase your trading potential with our exclusive deposit bonus!</h2>
                         <!-- <h3 class="mb-4 mb-lg-6">Trading is easier and more profitable than ever before!
 </h3> -->
                        
