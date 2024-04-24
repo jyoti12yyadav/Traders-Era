@@ -41,7 +41,7 @@
                                 <div class="col-xl-6 col-xxl-7 ">
                                     <div class="submissions">
                         
-                                        <img class="contact-img" src="assets/images/Increase your trading potential.png" alt="Sign Up to Become an Introducing Broker">
+                                        <img class="contact-img" src="assets/images/Bonus.png" alt="Sign Up to Become an Introducing Broker">
                                     </div>
                                 </div>
                                 <div class="col-xl-6 col-xxl-5">
