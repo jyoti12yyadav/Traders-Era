@@ -74,16 +74,16 @@
                     <div class="right-area position-relative  ms-0 d-end gap-1 gap-xl-4 d-none d-lg-flex">
                       
                         <div class="single-item" style="  margin-right: 10px; ">
-                        <a  href="javascript:void(Tawk_API.toggle())" class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button" > Support </a>
+                        <a  href="javascript:void(Tawk_API.toggle())" class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button"> Support </a>
                         </div>
                         <div class="single-item" style="  margin-right: 10px; ">
                             <a href="https://trading.tradersera.com/register"
-                                class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button">
+                                class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button" target="new">
                                 Open an Account </a>
                         </div>
                         <div class="single-item">
                             <a href="prelogin.php"
-                                class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button">
+                                class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button" target="new">
                                 Login</a>
                         </div>
                     </div>
