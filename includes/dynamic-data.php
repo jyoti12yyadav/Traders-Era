@@ -31,7 +31,7 @@ switch ($menuactive) {
         $url="https://fxbrokerservice.com/broker-crm.php";
         break;
 
-    case 'Binary.php':
+    case 'binary.php':
         $title = "Binary Options | Forex Binary Trading |  Binary Trading Platforms";
         $description = "Unlock the power of Binary Options Trading. Trade binary options and explore a wide range of financial instruments on our website. Start trading now!";
         $keywords = "Binary Trading, binary options trading, binary options trading strategy, trade binary options, financial instruments, Forex binary options, forex binary trading, Forex binary trading platforms ";

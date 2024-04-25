@@ -365,6 +365,221 @@
     </table>
 
 
+    <div class="container my-5 table-div">
+
+        <table aria-label="table" id="Record" class="table table-striped table-dark my-3">
+            <thead>
+                <tr>
+                    <th scope="col" style="    background-color: #9ad953;
+                color: black;
+                text-align: center;
+                font-size: 16px;padding:20px;display: table-cell;">
+
+                        Name
+
+                    </th>
+                    <th scope="col" style="    background-color: #9ad953;
+                color: black;
+                text-align: center;
+                font-size: 16px;padding:20px;display: table-cell;">
+
+                        Symbol
+
+                    </th>
+                    <th scope="col" style="    background-color: #9ad953;
+                color: black;
+                text-align: center;
+                font-size: 16px;padding:20px;display: table-cell;">
+                        Trading Hours (GMT+3, MON-FRI)
+
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <div style=" text-align: center;">ASX200</div>
+                    </td>
+                    <td>
+                        <div style=" text-align: center;">AUD200</div>
+                    </td>
+                    <td>
+                        <div style=" text-align: center;">02:50 – 09:30,
+                            10:10 – 23:59</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div style=" text-align: center;">Nikkei 225</div>
+                    </td>
+                    <td>
+                        <div style=" text-align: center;"> JPN225</div>
+                    </td>
+                    <td>
+                        <div style=" text-align: center;">01:00 - 23:59</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div style=" text-align: center;">Hang Seng Index</div>
+                    </td>
+                    <td>
+                        <div style=" text-align: center;">HK50</div>
+                    </td>
+                    <td>
+                        <div style=" text-align: center;">04:15 – 07:00,
+                            08:00 – 11:30,
+                            12:15 - 22:00</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div style=" text-align: center;">Euro Stoxx 50</div>
+                    </td>
+                    <td>
+                        <div style=" text-align: center;">EUSTX50</div>
+                    </td>
+                    <td>
+                        <div style=" text-align: center;">03:15 - 23:59</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div style=" text-align: center;">CAC 40</div>
+                    </td>
+                    <td>
+                        <div style=" text-align: center;"> FRA40</div>
+                    </td>
+                    <td>
+                        <div style=" text-align: center;">09:00 - 23:00</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div style=" text-align: center;">DAX 40</div>
+                    </td>
+                    <td>
+                        <div style=" text-align: center;">GER40</div>
+                    </td>
+                    <td>
+                        <div style=" text-align: center;">03:15 - 23:00</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div style=" text-align: center;">FTSE 100</div>
+                    </td>
+                    <td>
+                        <div style=" text-align: center;">UK100</div>
+                    </td>
+                    <td>
+                        <div style=" text-align: center;">03:00 - 23:00</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div style=" text-align: center;">DJ 30</div>
+                    </td>
+                    <td>
+                        <div style=" text-align: center;">US30</div>
+                    </td>
+                    <td>
+                        <div style=" text-align: center;">01:00 - 23:59</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div style=" text-align: center;">NASDAQ 100</div>
+                    </td>
+                    <td>
+                        <div style=" text-align: center;">NAS100</div>
+                    </td>
+                    <td>
+                        <div style=" text-align: center;">01:00 - 23:59</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div style=" text-align: center;">S&amp;P 500</div>
+                    </td>
+                    <td>
+                        <div style=" text-align: center;">US500</div>
+                    </td>
+                    <td>
+                        <div style=" text-align: center;">01:00 - 23:59</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div style=" text-align: center;">ES35</div>
+                    </td>
+                    <td>
+                        <div style=" text-align: center;">ES35</div>
+                    </td>
+                    <td>
+                        <div style=" text-align: center;">09:00 - 23:00</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div style=" text-align: center;">US Dollar index</div>
+                    </td>
+                    <td>
+                        <div style=" text-align: center;">USDX</div>
+                    </td>
+                    <td>
+                        <div style=" text-align: center;">03:00 - 23:59</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div style=" text-align: center;">Volatility Index</div>
+                    </td>
+                    <td>
+                        <div style=" text-align: center;">VIX</div>
+                    </td>
+                    <td>
+                        <div style=" text-align: center;">01:00 - 23:59</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div style=" text-align: center;">Brent Crude Oil</div>
+                    </td>
+                    <td>
+                        <div style=" text-align: center;">XBRUSD</div>
+                    </td>
+                    <td>
+                        <div style=" text-align: center;">03:00 - 23:59</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div style=" text-align: center;">US Crude Oil</div>
+                    </td>
+                    <td>
+                        <div style=" text-align: center;">XTIUSD</div>
+                    </td>
+                    <td>
+                        <div style=" text-align: center;">01:00 - 23:59</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div style=" text-align: center;">XNGUSD</div>
+                    </td>
+                    <td>
+                        <div style=" text-align: center;">XNGUSD</div>
+                    </td>
+                    <td>
+                        <div style=" text-align: center;">01:00 – 23:59</div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+
 </div>
 
 
@@ -372,227 +587,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-<div class="container my-5 table-div">
-
-<table  aria-label="table" id="Record" class="table table-striped table-dark my-3">
-    <thead>
-        <tr>
-            <th scope="col" style="    background-color: #9ad953;
-            color: black;
-            text-align: center;
-            font-size: 16px;padding:20px;display: table-cell;">
-               
-                   Name
-               
-            </th>
-            <th scope="col" style="    background-color: #9ad953;
-            color: black;
-            text-align: center;
-            font-size: 16px;padding:20px;display: table-cell;">
-               
-                    Symbol
-              
-            </th>
-            <th scope="col" style="    background-color: #9ad953;
-            color: black;
-            text-align: center;
-            font-size: 16px;padding:20px;display: table-cell;">
-               Trading Hours (GMT+3, MON-FRI)
-                
-            </th>
-        </tr>
-    </thead>
-    <tbody >
-        <tr >
-            <td >
-                <div style=" text-align: center;">ASX200</div>
-            </td>
-            <td >
-                <div style=" text-align: center;">AUD200</div>
-            </td>
-            <td >
-                <div style=" text-align: center;">02:50 – 09:30,
-                    10:10 – 23:59</div>
-            </td>
-        </tr>
-        <tr >
-            <td >
-                <div style=" text-align: center;">Nikkei 225</div>
-            </td>
-            <td >
-                <div style=" text-align: center;" > JPN225</div>
-            </td>
-            <td >
-                <div style=" text-align: center;">01:00 - 23:59</div>
-            </td>
-        </tr>
-        <tr >
-            <td >
-                <div style=" text-align: center;">Hang Seng Index</div>
-            </td>
-            <td >
-                <div style=" text-align: center;">HK50</div>
-            </td>
-            <td >
-                <div style=" text-align: center;">04:15 – 07:00,
-                    08:00 – 11:30,
-                    12:15 - 22:00</div>
-            </td>
-        </tr>
-        <tr >
-            <td >
-                <div style=" text-align: center;">Euro Stoxx 50</div>
-            </td>
-            <td >
-                <div style=" text-align: center;">EUSTX50</div>
-            </td>
-            <td >
-                <div style=" text-align: center;">03:15 - 23:59</div>
-            </td>
-        </tr>
-        <tr >
-            <td >
-                <div style=" text-align: center;">CAC 40</div>
-            </td>
-            <td >
-                <div style=" text-align: center;"> FRA40</div>
-            </td>
-            <td >
-                <div style=" text-align: center;">09:00 - 23:00</div>
-            </td>
-        </tr>
-        <tr >
-            <td >
-                <div style=" text-align: center;">DAX 40</div>
-            </td>
-            <td >
-                <div style=" text-align: center;">GER40</div>
-            </td>
-            <td >
-                <div style=" text-align: center;">03:15 - 23:00</div>
-            </td>
-        </tr>
-        <tr >
-            <td >
-                <div style=" text-align: center;">FTSE 100</div>
-            </td>
-            <td >
-                <div style=" text-align: center;">UK100</div>
-            </td>
-            <td >
-                <div style=" text-align: center;">03:00 - 23:00</div>
-            </td>
-        </tr>
-        <tr >
-            <td >
-                <div style=" text-align: center;">DJ 30</div>
-            </td>
-            <td >
-                <div style=" text-align: center;">US30</div>
-            </td>
-            <td >
-                <div style=" text-align: center;">01:00 - 23:59</div>
-            </td>
-        </tr>
-        <tr >
-            <td >
-                <div style=" text-align: center;">NASDAQ 100</div>
-            </td>
-            <td >
-                <div style=" text-align: center;">NAS100</div>
-            </td>
-            <td >
-                <div style=" text-align: center;">01:00 - 23:59</div>
-            </td>
-        </tr>
-        <tr >
-            <td >
-                <div style=" text-align: center;">S&amp;P 500</div>
-            </td>
-            <td >
-                <div style=" text-align: center;">US500</div>
-            </td>
-            <td >
-                <div style=" text-align: center;" >01:00 - 23:59</div>
-            </td>
-        </tr>
-        <tr >
-            <td >
-                <div style=" text-align: center;">ES35</div>
-            </td>
-            <td >
-                <div style=" text-align: center;">ES35</div>
-            </td>
-            <td >
-                <div style=" text-align: center;">09:00 - 23:00</div>
-            </td>
-        </tr>
-        <tr >
-            <td >
-                <div style=" text-align: center;">US Dollar index</div>
-            </td>
-            <td >
-                <div style=" text-align: center;">USDX</div>
-            </td>
-            <td >
-                <div style=" text-align: center;">03:00 - 23:59</div>
-            </td>
-        </tr>
-        <tr >
-            <td >
-                <div style=" text-align: center;">Volatility Index</div>
-            </td>
-            <td >
-                <div style=" text-align: center;">VIX</div>
-            </td>
-            <td >
-                <div style=" text-align: center;">01:00 - 23:59</div>
-            </td>
-        </tr>
-        <tr >
-            <td >
-                <div style=" text-align: center;">Brent Crude Oil</div>
-            </td>
-            <td >
-                <div style=" text-align: center;">XBRUSD</div>
-            </td>
-            <td >
-                <div style=" text-align: center;">03:00 - 23:59</div>
-            </td>
-        </tr>
-        <tr >
-            <td >
-                <div style=" text-align: center;">US Crude Oil</div>
-            </td>
-            <td >
-                <div style=" text-align: center;">XTIUSD</div>
-            </td>
-            <td >
-                <div style=" text-align: center;">01:00 - 23:59</div>
-            </td>
-        </tr>
-        <tr >
-            <td >
-                <div style=" text-align: center;">XNGUSD</div>
-            </td>
-            <td >
-                <div style=" text-align: center;">XNGUSD</div>
-            </td>
-            <td >
-                <div style=" text-align: center;">01:00 – 23:59</div>
-            </td>
-        </tr>
-    </tbody>
-</table>
 
 
 
