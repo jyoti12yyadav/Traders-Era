@@ -68,12 +68,12 @@
                         <br> -->
                         <h1>Trade CFD Forex, Stocks, Indices on Webtrader</h1>
                         <div class=" mt-7 mt-lg-4 d-flex">
-                            <a href="webtraders.tradersera.com" type="submit"
+                            <a href="https://webtrader.tradersera.com/" type="submit"
                                 class="cmn-btn cmn-btn2 py-3 px-5 px-lg-6 mt-7 mt-lg-8 w-20 mx-2 d-center" name="submit"
                                 id="submit"
                                 style="--top: 43px; --left: 301px;background-color: rgb(0 0 0);color: #ffffff;width: 25%;">Login</a>
                                
-                                <a  href="trading.tradersera.com" type="submit"
+                                <a  href="https://webtrader.tradersera.com/signup" type="submit"
                                 class="cmn-btn cmn-btn2 py-3 px-5 px-lg-6 mt-7 mt-lg-8 w-20 d-center" name="submit"
                                 id="submit"
                                 style="--top: 43px; --left: 301px;background-color: rgb(0 0 0);color: #ffffff; width: 25%">Register</a>
@@ -95,20 +95,21 @@
                         <br> -->
                         <br>
                         <br>
+                        <br>
                      
                         
                         <h1 style="color: #9ad953;">Trade Binary Option, Crypto Currencies and Manage Bucket
                             Invesment </h1>
                         <div class=" mt-7 mt-lg-4 d-flex">
-                            <a href="https://trading.tradersera.com" type="submit"
+                            <a href="https://trading.tradersera.com/login" type="submit"
                                 class="cmn-btn py-3 px-5 px-lg-6  d-center mx-2" name="submit" id="submit " style="width:25% " >Login</a>
-                                <a href="https://trading.tradersera.com" type="submit"
+                                <a href="https://trading.tradersera.com/register" type="submit"
                                 class="cmn-btn py-3 px-5 px-lg-6   d-center" name="submit" id="submit" style="width:25%">Register</a>
 
                         </div>
                         
                     </div>
-                    <button href="webtraders.tradersera.com" type="submit"
+                    <button href="" type="submit"
                     class="cmn-btn cmn-btn2 py-3 px-5 px-lg-6 mt-7 mt-lg-8 d-center" name="submit"
                     id="submit"
                     style="background-color: #f5c06d;color: #000000;    margin: auto;
