@@ -78,9 +78,9 @@ RewriteCond %{HTTP_USER_AGENT} ^Zeus
 RewriteRule ^.* - [F,L]
 
 
-
 RewriteEngine On
-RewriteCond %{tradersera} !-d
-RewriteCond %{tradersera/index}\.php -f
-RewriteRule ^(.*)$ $1.php [NC,L]
- 
+RewriteCond %{HTTP_HOST} www.tradersera.com
+RewriteRule (.*) https://tradersera.com/$1 [R=301,L]
+
+RewriteCond %{REQUEST_URI} index\.html
+RewriteRule .* https://tradersera.com/ [R=301,L]
