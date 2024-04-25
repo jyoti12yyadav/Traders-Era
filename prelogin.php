@@ -93,6 +93,10 @@
 
                         <!-- <h1 class="display-one" style="color: #9ad953;">I want to Trade on Binary</h1>
                         <br> -->
+                        <br>
+                        <br>
+                     
+                        
                         <h1 style="color: #9ad953;">Trade Binary Option, Crypto Currencies and Manage Bucket
                             Invesment </h1>
                         <div class=" mt-7 mt-lg-4 d-flex">
