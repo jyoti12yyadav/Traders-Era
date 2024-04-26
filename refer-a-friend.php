@@ -250,69 +250,47 @@
                 </div>
             </div>
             <div class="col-12 col-lg-7 col-xl-6 nb3-bg">
-                <form method="POST" autocomplete="off" id="frmContactus" class="contact__form alt_form px-4 px-lg-8">
-                    <h3 class="contact__title  mb-lg-7 mt-8">Invite your friends to sign up with a top international
-                        broker and receive a bonus for every referral.</h3>
-                    <h6 class="mb-lg-7">
-
-                    </h6>
+                <form action="refer-a-friend-form.php" method="POST" class="contact__form alt_form px-4 px-lg-8">
+                    <h3 class="contact__title mb-lg-7 mt-8">Invite your friends to sign up with a top international broker and receive a bonus for every referral.</h3>
                     <div class="d-flex gap-3 gap-sm-5 gap-lg-8 flex-column">
                         <div class="row gap-3 gap-sm-0">
-                            <div class="col-sm-6 ">
+                            <div class="col-sm-6">
                                 <div class="single-input">
-                                    <input type="text" class="fs-six-up" name="fname" placeholder="Fast Name"
-                                        required="">
+                                    <input type="text" class="fs-six-up" name="fname" placeholder="First Name" required="">
                                 </div>
                             </div>
                             <div class="col-sm-6">
                                 <div class="single-input">
-                                    <input type="text" class="fs-six-up" name="lname" placeholder="Last Name"
-                                        required="">
+                                    <input type="text" class="fs-six-up" name="lname" placeholder="Last Name" required="">
                                 </div>
                             </div>
                         </div>
                         <div class="row gap-3 gap-sm-0">
-                            <div class="col-sm-6 ">
+                            <div class="col-sm-6">
                                 <div class="single-input">
-                                    <input type="text" class="fs-six-up" name="fname" placeholder="Email" required="">
+                                    <input type="email" class="fs-six-up" name="email" placeholder="Email" required="">
                                 </div>
                             </div>
                             <div class="col-sm-6">
                                 <div class="single-input">
-                                    <input type="number" class="fs-six-up" name="lname" placeholder="Phone Number"
-                                        required="">
+                                    <input type="tel" class="fs-six-up" name="phone" placeholder="Phone Number" required="">
                                 </div>
                             </div>
                         </div>
-
                         <div class="row gap-3 gap-sm-0 d-flex">
                             <div class="col-sm-6">
                                 <div class="single-input">
-                                    <label for="introducing-broker"><b>How Many friend do you plan to refere to
-                                            Traders?</b></label>
-
-                                    <select id="introducing-broker" name="introducing-broker" class="mt-4"
-                                        style="display: none;">
-
+                                    <label for="refer-a-friend"><b>How Many friends do you plan to refer to Traders?</b></label>
+                                    <select name="refer_a_friend" class="mt-4">
+                                        <option value="1-5">1-5</option>
+                                        <option value="5-10">5-10</option>
+                                        <option value="10+">10+</option>
                                     </select>
-                                    <div class="nice-select mt-4" tabindex="0"><span class="current">Select</span>
-                                        <ul class="list">
-                                            <li data-value="1-5" class="option selected">1-5</li>
-                                            <li data-value="5-10" class="option">5-10</li>
-                                            <li data-value="10+" class="option">10+</li>
-                                        </ul>
-                                    </div>
                                 </div>
                             </div>
-
                         </div>
-
                     </div>
-                    <span id="msg"></span>
-                    <button type="submit" class="cmn-btn py-3 px-5 px-lg-6  d-flex ms-auto" name="submit"
-                        id="submit">Submit<i class="bi bi-arrow-up-right"></i><span></span></button>
-                    <br>
-                    <br>
+                    <button type="submit" class="cmn-btn py-3 px-5 px-lg-6 d-flex ms-auto" name="submit" id="submit">Submit<i class="bi bi-arrow-up-right"></i><span></span></button>
                 </form>
             </div>
             <!-- <div class="col-12">
