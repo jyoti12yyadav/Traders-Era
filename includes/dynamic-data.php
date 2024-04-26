@@ -273,6 +273,15 @@ switch ($menuactive) {
             $alternateName="100% Bonus";
             $url="";
             break;
+    
+    case 'learn.php':
+        $title = "Binary Trading Learn | Cryptocurrency Trading Learn | Forex Info";
+        $description = "Learn more about Forex, Binary Options, and Cryptocurrency Trading with TradersEra . Start your journey to success today!";
+        $keywords = "Forex Trading Learn, Learn More Forex, Learn, Learn TradersEra, Learn Binary Trading, Learn Forex, Learn Forex Trading, Learn FX trading, Cryptocurrency Trading, CFD trading account, Learn Binary Options, Online Forex Trading, AI Forex Trading, Binary Options, AI Forex Tools, introducing broker, Forex IB, IB Program ";
+        $name="Learn";
+        $alternateName="Learn";
+        $url="";
+        break;
         
     default:
         $title = "Title Here";
