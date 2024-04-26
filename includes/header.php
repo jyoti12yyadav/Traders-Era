@@ -199,7 +199,7 @@
                         </li> -->
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
-                                class="dropdown-nav"><a class="dropdown-item" href="https://testingwebsite.xyz/Traders_Era/Blogs/">Blog</a></button>
+                                class="dropdown-nav"><a class="dropdown-item" href="https://tradersera.com/blogs">Blog</a></button>
                         </li>
 
                     </ul>

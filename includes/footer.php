@@ -164,7 +164,7 @@
                     </ul>
                     <br>
                     
-                    <h4 class="mb-6 mb-lg-8 mt-4" href="https://testingwebsite.xyz/Traders_Era/Blogs/">Blogs</h4>
+                    <h4 class="mb-6 mb-lg-8 mt-4" href="https://tradersera.com/blogs">Blogs</h4>
             
                 </div>
             </div>

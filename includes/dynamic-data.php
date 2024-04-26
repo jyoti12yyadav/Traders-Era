@@ -264,6 +264,15 @@ switch ($menuactive) {
         $alternateName="100% Bonus";
         $url="";
         break;
+
+        case 'ai-invest.php':
+            $title = "AI Invest";
+            $description = "AI Invest";
+            $keywords = "AI Invest";
+            $name="100% Bonus";
+            $alternateName="100% Bonus";
+            $url="";
+            break;
         
     default:
         $title = "Title Here";

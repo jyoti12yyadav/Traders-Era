@@ -47,9 +47,6 @@
 
         .cmn-btn2:hover {
             color: black !important;
-
-
-
         }
 
         .sign {
@@ -68,12 +65,12 @@
                         <br> -->
                         <h1>Trade CFD Forex, Stocks, Indices on Webtrader</h1>
                         <div class=" mt-7 mt-lg-4 d-flex">
-                            <a href="https://webtrader.tradersera.com/" type="submit"
+                            <a href="https://webtrader.tradersera.com" type="submit"
                                 class="cmn-btn cmn-btn2 py-3 px-5 px-lg-6 mt-7 mt-lg-8 w-20 mx-2 d-center" name="submit"
                                 id="submit"
                                 style="--top: 43px; --left: 301px;background-color: rgb(0 0 0);color: #ffffff;width: 25%;">Login</a>
-                               
-                                <a  href="https://webtrader.tradersera.com/signup" type="submit"
+
+                            <a href="https://webtrader.tradersera.com/signup" type="submit"
                                 class="cmn-btn cmn-btn2 py-3 px-5 px-lg-6 mt-7 mt-lg-8 w-20 d-center" name="submit"
                                 id="submit"
                                 style="--top: 43px; --left: 301px;background-color: rgb(0 0 0);color: #ffffff; width: 25%">Register</a>
@@ -96,28 +93,27 @@
                         <br>
                         <br>
                         <br>
-                     
-                        
+
+
                         <h1 style="color: #9ad953;">Trade Binary Option, Crypto Currencies and Manage Bucket
                             Invesment </h1>
                         <div class=" mt-7 mt-lg-4 d-flex">
                             <a href="https://trading.tradersera.com/login" type="submit"
-                                class="cmn-btn py-3 px-5 px-lg-6  d-center mx-2" name="submit" id="submit " style="width:25% " >Login</a>
-                                <a href="https://trading.tradersera.com/register" type="submit"
-                                class="cmn-btn py-3 px-5 px-lg-6   d-center" name="submit" id="submit" style="width:25%">Register</a>
+                                class="cmn-btn py-3 px-5 px-lg-6  d-center mx-2" name="submit" id="submit "
+                                style="width:25% ">Login</a>
+                            <a href="https://trading.tradersera.com/register" type="submit"
+                                class="cmn-btn py-3 px-5 px-lg-6   d-center" name="submit" id="submit"
+                                style="width:25%">Register</a>
 
                         </div>
-                        
+
                     </div>
-                    <button href="" type="submit"
-                    class="cmn-btn cmn-btn2 py-3 px-5 px-lg-6 mt-7 mt-lg-8 d-center" name="submit"
-                    id="submit"
-                    style="background-color: #f5c06d;color: #000000;    margin: auto;
+                    <button href="" type="submit" class="cmn-btn cmn-btn2 py-3 px-5 px-lg-6 mt-7 mt-lg-8 d-center"
+                        name="submit" id="submit" style="background-color: #f5c06d;color: #000000;    margin: auto;
                  
-    position: relative;
-    top: 55.78125px;
-    left: -375px;
-"><a style="color:black;" href="index.php">Back to Home</a></button>
+                        position: relative;
+                        top: 55.78125px;
+                        left: -375px;"><a style="color:black;" href="index.php"><b>Back to Home</b></a></button>
                 </div>
 
             </div>
@@ -126,7 +122,7 @@
     <div class="container-fluid">
 
         <div class="row">
-            <div class="col-4 border-top border-color opac-20 py-7 py-xxl-8 d-flex align-items-center">
+            <div class="col-4 border-top border-color opac-20 py-7 py-xxl-8 d-flex align-items-end">
                 <div class="footer__copyright d-center gap-15 flex-wrap justify-content-md-between">
 
                     <ul class=" d-center gap-2 gap-md-3">
@@ -140,9 +136,10 @@
             <div class="col-4 border-top border-color opac-20 py-7 py-xxl-8 d-flex justify-content-center">
                 <div class="footer__copyright d-center gap-15 flex-wrap justify-content-md-between">
                     <div class="add">
-                       
+
                         <h6 style="text-align:center;">Address:</h6>
-                        <p style="text-align: center;">Suite 305, Griffith Corporate Centre, PO Box 1510, Beachmont, Kingstown. St Vincent
+                        <p style="text-align: center;">Suite 305, Griffith Corporate Centre, PO Box 1510, Beachmont,
+                            Kingstown. St Vincent
                             and Grenadines</p>
                     </div>
                 </div>
