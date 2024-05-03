@@ -162,7 +162,7 @@ switch ($menuactive) {
         $keywords = "Forex Interest Rates, World Interest Rates Forex Trading, Interest Rate Trading, Foreign Exchange Interest Rate, forex trading interest rate ";
         $name="Interest Rate";
         $alternateName="Interest Rate";
-        $url="";
+        $url="https://tradersera.com/interest-rate.php";
         break;
 
     case 'become-an-iB.php':
