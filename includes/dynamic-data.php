@@ -8,17 +8,16 @@ switch ($menuactive) {
         $keywords = "online forex trading, AI forex trading, Binary Options, AI Forex Tools, Trade crypto, Forex Trading Platform, Forex trading, forex market, CFD, FX CFD, Crypto CFD, Online trading account types, Forex Deposit, Forex Withdrawal, Crypto Trading, Indices trading, Stock Trading, Forex Trading, Commodity Trading, Economic Calendar, Forex Market Updates, Forex Glossary, Interest Rates, introducing broker, Forex IB, IB Program, trading account types, Regulatory Compliance, Equinix Servers, trading ecosystem, Automated Trading   ";
         $name="TradersEra";
         $alternateName="TradersEra";
-        $url="https://fxbrokerservice.com/";
-        $canonical ="https://fxbrokerservice.com/";
+        $url="https://tradersera.com";
         break;
 
     case 'fx-cfd.php':
         $title = "Forex CFDs | currency CFD | Foreign Exchange Contracts";
         $description = "Discover the world of foreign exchange contracts and currency CFD trading on our website. Explore the potential of CFD forex trading today! Start now.";
         $keywords = "FX CFDs, Foreign Exchange Contracts, currency CFD, forex market, trade currency pairs, leverage, quote currency, CFD forex trading, Forex CFDs trade, Spot Markets, Spot Forex, CFD account, Spot FX CFD, CFD FX options, CFD trading, CFD strategy";
-        $name="fx-cfd";
-        $alternateName="fx-cfd";
-        $url="https://fxbrokerservice.com/about.php";
+        $name="FX CFD";
+        $alternateName="FX CFD";
+        $url="https://tradersera.com/fx-cfd.php";
         break;
 
 
@@ -26,9 +25,9 @@ switch ($menuactive) {
         $title = "Crypto CDFs | CFD Cryptocurrency | Leveraged Trading";
         $description = "Explore the exciting world of CFD cryptocurrency trading and leverage options. Take advantage of our CFD investment platform to grow your wealth. Start now!";
         $keywords = "CFD Cryptocurrency, crypto cdfs, CFD trading, leveraged trading, Bitcoin, Ethereum, Ripple, Litecoin, Bitcoin Cash, leverage options, CFD investment, trade cryptocurrencies, digital assets, ";
-        $name="crypto-cfd";
-        $alternateName="crypto-cfd";
-        $url="https://fxbrokerservice.com/broker-crm.php";
+        $name="Crypto CFD";
+        $alternateName="Crypto CFD";
+        $url="https://tradersera.com/crypto-cfd.php";
         break;
 
     case 'binary.php':
@@ -37,16 +36,16 @@ switch ($menuactive) {
         $keywords = "Binary Trading, binary options trading, binary options trading strategy, trade binary options, financial instruments, Forex binary options, forex binary trading, Forex binary trading platforms ";
         $name="Binary";
         $alternateName="Binary";
-        $url="https://fxbrokerservice.com/broker-website.php";
+        $url="https://tradersera.com/binary.php";
         break;
 
     case 'account-types.php':
         $title = "Trading Account Types | Forex Trading Accounts  ";
         $description = "Start trading with confidence on the best Forex trading account. Explore different Forex account types to suit your trading needs. Start trading now!";
         $keywords = "Trading Account Forex, Binary Options Trading, Forex account types, trading account for Forex, indices, stocks, commodities, forex trading account opening online, MT5 Trading Account, Tight Spreads, Forex Leverage, binary options, financial instruments";
-        $name="Account Types";
-        $alternateName="Account Types";
-        $url="https://fxbrokerservice.com/corporate-services.php";
+        $name="Account Type";
+        $alternateName="Account Type";
+        $url="https://tradersera.com/account-types.php";
         break;
 
     case 'deposit.php':
@@ -55,7 +54,7 @@ switch ($menuactive) {
         $keywords = "Forex Trading Deposit, Forex Trading, ";
         $name="Deposit";
         $alternateName="Deposit";
-        $url="https://fxbrokerservice.com/forex-seo.php";
+        $url="https://tradersera.com/deposit.php";
         break;
 
     case 'withdrawal.php':
@@ -64,7 +63,7 @@ switch ($menuactive) {
         $keywords = "Forex Withdrawal Methods, Forex Money Withdrawal, Forex Trading Wthdrawal, Forex Withdraw Money, Forex Funds Withdrawal Methods ";
         $name="Withdrawal";
         $alternateName="Withdrawal";
-        $url="https://fxbrokerservice.com/logo-design.php";
+        $url="https://tradersera.com/withdrawal.php";
         break;
 
     case 'offers.php':
@@ -82,7 +81,7 @@ switch ($menuactive) {
         $keywords ="Crypto Trading, crypto trading platform, crypto trading app, crypto trading strategies ";
         $name="Crypto";
         $alternateName="Crypto";
-        $url="https://fxbrokerservice.com/mt5.php";
+        $url="https://tradersera.com/crypto.php";
         break;
 
     case 'indices.php':
@@ -91,7 +90,7 @@ switch ($menuactive) {
         $keywords = "trade indices, Indices trading, indices trading platform, CFDs, Equity Indices Spreads, Futures Indices,";
         $name="Indices";
         $alternateName="Indices";
-        $url="https://fxbrokerservice.com/our-servers.php";
+        $url="https://tradersera.com/indices.php";
         break;
 
     case 'stocks.php':
@@ -100,7 +99,7 @@ switch ($menuactive) {
         $keywords = "Stocks Buying and Selling, Stock Trading, buying and selling of shares, buying and selling of stock, stock market trading   ";
         $name="Stocks";
         $alternateName="Stocks";
-        $url="https://fxbrokerservice.com/psp.php";
+        $url="https://tradersera.com/stocks.phpp";
         break;
 
     case 'forex.php':
@@ -109,7 +108,7 @@ switch ($menuactive) {
         $keywords = "Forex Trading, Trade Online, trade forex, forex market, Online Forex Trade, ";
         $name="Forex";
         $alternateName="Forex";
-        $url="";
+        $url="https://tradersera.com/forex.php";
         break;
 
     case 'commodity.php':
@@ -118,7 +117,7 @@ switch ($menuactive) {
         $keywords = "Commodity Trading, oil and gas, metals, Trade in Commodity Market, Commodity market, commodity trading app, Trade in Commodities";
         $name="Commodity";
         $alternateName="Commodity";
-        $url="https://fxbrokerservice.com/standard-mt4-mt5.php";
+        $url="https://tradersera.com/commodity.php";
         break;
 
     case 'faq.php':
@@ -127,25 +126,25 @@ switch ($menuactive) {
         $keywords = "Frequently Asked Question, Forex FAQ, Forex Trading FAQ, FAQs about Forex Trading, TradersEra FAQ,   ";
         $name="FAQ";
         $alternateName="FAQ";
-        $url="https://fxbrokerservice.com/advanced-mt4-mt5.php";
+        $url="https://tradersera.com/faq.php";
         break;
 
     case 'economic-calendar.php':
         $title = "Forex Economic Calendar | Forex Financial Calendar";
         $description = "Stay ahead of the market with TradersEra's Economic Calendar. Get real-time updates on key economic events and make informed trading decisions.";
         $keywords = "Forex Economic Calendar, Economic Calendar, TradersEra's Economic Calendar, Forex Financial calendar,   ";
-        $name="Economic Calender";
-        $alternateName="Economic Calender";
-        $url="";
+        $name="Economic Calendar";
+        $alternateName="Economic Calendar";
+        $url="https://tradersera.com/economic-calendar.php";
         break;
 
     case 'news-research.php':
         $title = "Latest Forex News | Forex News | Forex Market Updates";
         $description = "Stay informed with the latest Forex market updates on our website. Get real-time analysis, news, and trends to make smarter trading decisions.";
         $keywords = "Forex News, Forex Market Updates, Forex Market Trends, Forex Heat Map,, Forex live, Forex Market News, Latest Forex News, Forex Tranding, ";
-        $name="News & Research";
-        $alternateName="News & Research";
-        $url="";
+        $name="News Research";
+        $alternateName="News Research";
+        $url="https://tradersera.com/news-research.php";
         break;
 
     case 'glossary.php':
@@ -154,7 +153,7 @@ switch ($menuactive) {
         $keywords = "TradersEra Forex Glossary, Forex Glossary, forex terms glossary, Forex Glossary of Terms, Glossary of Trading Terms, Forex Trading Glossary, Basic Forex terms";
         $name="Glossary";
         $alternateName="Glossary";
-        $url="";
+        $url="https://tradersera.com/glossary.php";
         break;
 
     case 'interest-rate.php':
@@ -170,18 +169,18 @@ switch ($menuactive) {
         $title = " Introducing Broker | Become a Partner | Forex IB Program";
         $description = "Join the TradersEra Partner Program and unlock lucrative opportunities in forex trading, AI forex trading,  Binary Options. Collaborate with us to grow";
         $keywords = "Become a Partner, forex ib program, Forex Introducing Brokers, forex ib commission, Introducing Broker, IB agents, Become an IB,";
-        $name="Become an Partner";
-        $alternateName="Become an Partner";
-        $url="";
+        $name="Become an IB";
+        $alternateName="Become an IB";
+        $url="https://tradersera.com/become-an-iB.php";
         break;
 
     case 'tradersera.php':
         $title = "About Us | Forex Trading Platform | Binary Options Trading";
         $description = "TradersEra's Forex Platform provides a variety of services including online forex trading, AI Forex Trading, Binary Options, and Local Deposit. Sign Up Now ! ";
         $keywords = "About Us, online forex trading, Forex service, Binary options, online forex trading, AI forex trading, Binary Options, Trade crypto, Forex trading, forex market, All in One Forex trading Platform,  ";
-        $name="TradersEra";
-        $alternateName="TradersEra";
-        $url="";
+        $name="About Us";
+        $alternateName="About Us";
+        $url="https://tradersera.com/tradersera.php";
         break;
 
     case 'safety-of-funds.php':
@@ -190,7 +189,7 @@ switch ($menuactive) {
         $keywords = "Forex Funds, Safety of Funds, Segregated Accounts, Regulatory Compliance, Forex Secure Payment Gateways, High Regulatory Standards, Segregated Customer Funds";
         $name="Safety of Funds";
         $alternateName="Safety of Funds";
-        $url="";
+        $url="https://tradersera.com/safety-of-funds.php";
         break;
 
     case 'regulatory.php':
@@ -199,25 +198,25 @@ switch ($menuactive) {
         $keywords = "Forex Regulatory Compliance, Forex Compliance for Trading, Forex Client Protections, Forex Regulatory Requirements, Compliance Requirements for Traders ";
         $name="Regulatory";
         $alternateName="Regulatory";
-        $url="";
+        $url="https://tradersera.com/regulatory.php";
         break;
 
     case 'help-center.php':
         $title = "Our Help Page | Forex Help | TradersEra Help";
         $description = "From navigating the markets to understanding trading strategies, we're here to help you succeed. Explore now and trade with confidence!";
         $keywords = "Help page, TradersEra Help, ";
-        $name="Help";
-        $alternateName="Help";
-        $url="";
+        $name="Help Center";
+        $alternateName="Help Center";
+        $url="https://tradersera.tawk.help";
         break;
 
     case 'our-servers.php':
         $title = " Our Server | Equinix Server | Forex Equinix Data Center  ";
         $description = "Trade with lightning speed with our Equinix data centers. Connect to Tier 1 liquidity providers globally for instant order execution. Experience efficiency today!";
         $keywords = "Forex Equinix Data Center, Equinix Server, Equinix London, liquidity pool, Forex trading platform";
-        $name="Our Servers";
-        $alternateName="Our Servers";
-        $url="";
+        $name="Our Server";
+        $alternateName="Our Server";
+        $url="https://tradersera.com/our-servers.php";
         break;
 
     case 'kyc-checks.php':
@@ -226,7 +225,7 @@ switch ($menuactive) {
         $keywords = "Forex KYC Checks, Forex Brokers KYC, KYC Compliance for Forex Trading, Identity verification for forex brokers, Automated KYC Compliance, KYC in Forex trading, ";
         $name="KYC Checks";
         $alternateName="KYC Checks";
-        $url="";
+        $url="https://tradersera.com/kyc-checks.php";
         break;
 
     case 'contact-us.php':
@@ -235,16 +234,16 @@ switch ($menuactive) {
         $keywords = "Contact Us, Contact Us Page, TradersEra Contact, Contact Us Details, Email Us, Call Us, Submit a form, contact with us, contact website, contact us phone, online forex trading, AI forex trading, Binary Options, Trade crypto, Forex trading, forex market,  ";
         $name="Contact Us";
         $alternateName="Contact Us";
-        $url="";
+        $url="https://tradersera.com/contact-us.php";
         break;
 
     case 'market-hours.php':
         $title = "Forex Market Hours | Market Hours Indicator | Global Forex Hours";
         $description = "Explore the best times to trade in the Forex market with our guide on global Forex market hours. Start maximizing your trading potential today!";
         $keywords = "Forex Market Hours, Global Forex Market Hours, Commodities Trading, MetaTrader, Trading, Forex Market Hours Indicator mt5, Trading Session, Market Sessions Indicator, MT5, Forex market Sessions indicator MT5 ";
-        $name="Markets";
-        $alternateName="Markets";
-        $url="";
+        $name="Market Hours";
+        $alternateName="Market Hours";
+        $url="https://tradersera.com/market-hours.php";
         break;
 
     case 'refer-a-friend.php':
@@ -253,26 +252,26 @@ switch ($menuactive) {
         $keywords = "Recommend a friend, Earn Rewards, Invite a Friend, Make Money, Referral Link, Forex Bonus";
         $name="Refer a Friend";
         $alternateName="Refer a Friend";
-        $url="";
+        $url="https://tradersera.com/refer-a-friend.php";
         break;
 
     case 'bonus.php':
         $title = "Forex Bonus on Deposit | Get 100% Deposit Bonus | Earn Rewards";
         $description = "Get a whopping 100% deposit bonus and Boost your trading power with TradersEra! Join us today!";
         $keywords = "Forex Bonus Deposit, Deposit Bonus, 100% Deposit Bonus, Forex market, Forex trading, Currency Pairs, Cryptocurrencies, Get 100% Deposit Bonus, maximum deposit bonus  ";
+        $name="Bonus";
+        $alternateName="Bonus";
+        $url="https://tradersera.com/bonus.php";
+        break;
+
+    case 'ai-invest.php':
+        $title = "AI Invest";
+        $description = "AI Invest";
+        $keywords = "AI Invest";
         $name="100% Bonus";
         $alternateName="100% Bonus";
         $url="";
         break;
-
-        case 'ai-invest.php':
-            $title = "AI Invest";
-            $description = "AI Invest";
-            $keywords = "AI Invest";
-            $name="100% Bonus";
-            $alternateName="100% Bonus";
-            $url="";
-            break;
     
     case 'learn.php':
         $title = "Binary Trading Learn | Cryptocurrency Trading Learn | Forex Info";
@@ -280,7 +279,7 @@ switch ($menuactive) {
         $keywords = "Forex Trading Learn, Learn More Forex, Learn, Learn TradersEra, Learn Binary Trading, Learn Forex, Learn Forex Trading, Learn FX trading, Cryptocurrency Trading, CFD trading account, Learn Binary Options, Online Forex Trading, AI Forex Trading, Binary Options, AI Forex Tools, introducing broker, Forex IB, IB Program ";
         $name="Learn";
         $alternateName="Learn";
-        $url="";
+        $url="https://tradersera.com/learn.php";
         break;
         
     default:

@@ -330,6 +330,24 @@
 <script src="assets/js/main.js"></script>
 
 
+        <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "<?php echo $name ?>",
+  "alternateName": "<?php echo $alternateName ?>",
+  "url": "<?php echo $url ?>",
+  "logo": "https://tradersera.com/assets/images/logo.png",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+ 44203758865",
+    "contactType": "customer service",
+    "contactOption": "TollFree",
+    "areaServed": "BB",
+    "availableLanguage": "en"
+  }
+}
+</script>
 
 <!--Start of Tawk.to Script-->
 <script type="text/javascript">
