@@ -62,7 +62,7 @@ if(isset($_POST['email'])) {
     $email_message .= "Message: ".clean_string($message)."\n";
  
     // create email headers
-    $headers = 'From: noreply@GreyLabelFX'."\r\n" .
+    $headers = 'From: noreply@tradersera.com'."\r\n" .
                'Reply-To: '.$email."\r\n" .
                'X-Mailer: PHP/' . phpversion();
 
@@ -73,7 +73,7 @@ if(isset($_POST['email'])) {
         </script>
     <?php } else { ?>
         <script language="javascript" type="text/javascript">
-            alert('Message failed. Please, send an email to support@finovace.com');
+            alert('Message failed. Please, send an email to support@tradersera.com');
             window.location = history.back();;
         </script>
     <?php }

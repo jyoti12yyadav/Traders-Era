@@ -44,7 +44,7 @@ if(isset($_POST['email'])) {
     $email_message .= "Email: ".clean_string($email)."\n";
     $email_message .= "How Many friends do you plan to refer to Traders?: ".clean_string($refer_a_friend)."\n";
   
-    $headers = 'From: noreply@GreyLabelFX'."\r\n" .
+    $headers = 'From: noreply@tradersera.com'."\r\n" .
                'Reply-To: '.$email."\r\n" .
                'X-Mailer: PHP/' . phpversion();
 
@@ -55,7 +55,7 @@ if(isset($_POST['email'])) {
         </script>
     <?php } else { ?>
         <script language="javascript" type="text/javascript">
-            alert('Message failed. Please, send an email to support@finovace.com');
+            alert('Message failed. Please, send an email to support@tradersera.com');
             window.location = 'error.php'; // Redirect to error page
         </script>
     <?php }

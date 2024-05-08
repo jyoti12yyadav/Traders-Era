@@ -63,15 +63,17 @@
                     <div class="welcome alt-color text-center text-md-start pt-120 pb-120 position-relative z-0">
                         <!-- <h1 class="display-one">I want to Trade on Own</h1>
                         <br> -->
-                        <h1>Trade CFD Forex, Stocks, Indices on Webtrader</h1>
-                        <div class=" mt-7 mt-lg-4 d-flex">
+                        <h1>CFD based Webtrader</h1>
+                        <br>
+                        <h4><b>Assets Offered :</b> Forex, Stocks, Indices, <br> Commodity & Crypto CFDs</h4>
+                        <div class="d-flex">
                             <a href="https://webtrader.tradersera.com" type="submit"
-                                class="cmn-btn cmn-btn2 py-3 px-5 px-lg-6 mt-7 mt-lg-8 w-20 mx-2 d-center" name="submit"
+                                class="cmn-btn cmn-btn2 py-3 px-5 px-lg-6 mt-7 mt-lg-8 w-20 mr-2 d-center" name="submit"
                                 id="submit"
                                 style="--top: 43px; --left: 301px;background-color: rgb(0 0 0);color: #ffffff;width: 25%;">Login</a>
 
                             <a href="https://webtrader.tradersera.com/signup" type="submit"
-                                class="cmn-btn cmn-btn2 py-3 px-5 px-lg-6 mt-7 mt-lg-8 w-20 d-center" name="submit"
+                                class="cmn-btn cmn-btn2 py-3 px-5 px-lg-6 mt-7 mt-lg-8 w-20 d-center mx-2" name="submit"
                                 id="submit"
                                 style="--top: 43px; --left: 301px;background-color: rgb(0 0 0);color: #ffffff; width: 25%">Register</a>
 
@@ -95,8 +97,10 @@
                         <br>
 
 
-                        <h1 style="color: #9ad953;">Trade Binary Option, Crypto Currencies and Manage Bucket
-                            Invesment </h1>
+                        <h1 style="color: #9ad953;">Cryptocurrency Ecosystem for Trading & Investments </h1>
+                        <br>
+                        <h4 style="color: #9ad953;">Trade Binary Options, Manage Crypto & Invest using multiple programs</h4>
+                        <br>
                         <div class=" mt-7 mt-lg-4 d-flex">
                             <a href="https://trading.tradersera.com/login" type="submit"
                                 class="cmn-btn py-3 px-5 px-lg-6  d-center mx-2" name="submit" id="submit "
@@ -112,7 +116,7 @@
                         name="submit" id="submit" style="background-color: #f5c06d;color: #000000;    margin: auto;
                  
                         position: relative;
-                        top: 55.78125px;
+                        top: 0px;;
                         left: -375px;"><a style="color:black;" href="index.php"><b>Back to Home</b></a></button>
                 </div>
 
