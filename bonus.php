@@ -6,7 +6,7 @@
     <div class="container mt-lg-0 pt-18 pt-xl-20">
         <div class="row">
             <div class="col-12 breadcrumb-area ">
-                <h1 class="mb-4">100% Bonus</h1>
+                <h1 class="mb-4">50% Bonus</h1>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb mb-0">
                         <li class="breadcrumb-item"><a href="index.html">Home</a></li>
@@ -47,7 +47,7 @@
                                 <div class="col-xl-6 col-xxl-5">
                                     <div class="trade_on__content">
                                         <h4 class="mb-4">Trading is easier and more profitable than ever before!</h4>
-                                        <p class="mx-ch">For a short period, TradersEra Markets is providing all traders a massive 100% deposit bonus. Whether you're a new or experienced trader, this is an excellent opportunity to boost your trading capital and obtain an advantage in the Forex market.</p>   
+                                        <p class="mx-ch">For a short period, TradersEra Markets is providing all traders a massive 50% deposit bonus. Whether you're a new or experienced trader, this is an excellent opportunity to boost your trading capital and obtain an advantage in the Forex market.</p>   
                                         <br>
                                         <p>This great offer allows you to increase your initial investment, providing you with the necessary leverage to go further into the world of Forex trading.</p>
                                     </div>
