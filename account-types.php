@@ -1,66 +1,73 @@
 <?php include("includes/header.php"); ?>
 <style>
-    .main-table{
+    .main-table {
         display: flex;
     }
-    .table-content{
+
+    .table-content {
         display: flex;
     }
-    .sub-table-content{
+
+    .sub-table-content {
         width: 100%;
-    padding: 20px 50px;
-    background-color: #000000;
-    border-right: 1px solid #3e3d3d;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
-    font-size: 20px;
+        padding: 20px 50px;
+        background-color: #000000;
+        border-right: 1px solid #3e3d3d;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        font-size: 20px;
     }
-    .table-content2>.sub-table-content{
+
+    .table-content2>.sub-table-content {
         background-color: #9ad953;
-    border: 1px solid black;
-    border-radius: 2px;
-    color: black;
-    font-weight: 700;
-    border-radius: 10px 10px 0px 0px;
+        border: 1px solid black;
+        border-radius: 2px;
+        color: black;
+        font-weight: 700;
+        border-radius: 10px 10px 0px 0px;
     }
-    .sub-table-content>span{
+
+    .sub-table-content>span {
         display: flex;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
-    font-size: 18px;
-    font-weight: 700;
-    padding-bottom: 4px;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        font-size: 18px;
+        font-weight: 700;
+        padding-bottom: 4px;
     }
-    .sub-table-content>h4{
-color: #000000;
+
+    .sub-table-content>h4 {
+        color: #000000;
     }
-    .cus-rounded-3{
+
+    .cus-rounded-3 {
         border-radius: 0px 0px 10px 10px;
     }
-    .packages{
+
+    .packages {
         background: #9ad953;
         padding: 25px;
         border-radius: 10px 10px 0px 0px;
     }
-    .packages>h4{
+
+    .packages>h4 {
         color: #000000;
         text-align: center;
     }
-    .package-para{
+
+    .package-para {
         font-size: 20px;
     }
 
-
     .pb-120 {
-    padding-bottom: 60px !important;
-}
-.pt-120 {
-    padding-top: 60px !important;
-}
+        padding-bottom: 60px !important;
+    }
 
-
+    .pt-120 {
+        padding-top: 60px !important;
+    }
 </style>
 <section class="banner-section pt-2 pb-1">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
@@ -77,13 +84,9 @@ color: #000000;
         </div>
     </div>
 </section>
-
-
-
 <section class="provide-world pt-120 pb-120  position-relative z-0" style="padding-bottom: 25px;">
     <div class="container">
         <div class="row gy-6 gy-xxl-0">
-     
             <center>
                 <h2 class="mb-10">Tailored trading account for Forex, indices, stocks, commodities </h2>
             </center>
@@ -108,7 +111,6 @@ color: #000000;
                     <p>Start trading from as low as $0 per lot on our VIP or spread-only trading accounts.
                     </p>
                     <br>
-
                 </div>
             </div>
             <div class="col-md-6 col-xxl-4">
@@ -120,18 +122,12 @@ color: #000000;
                     </h4>
                     <p>Begin trading by opening your account with just $10.
                     </p>
-
                     <br>
                 </div>
             </div>
-
-
         </div>
     </div>
-
 </section>
-
-
 <section class="provide-world pt-120 pb-120  position-relative z-0">
     <div class="container">
         <div class="row gy-6 gy-xxl-0">
@@ -141,13 +137,33 @@ color: #000000;
                     <h4>Starter</h4>
                 </div>
                 <div class="nb3-bg text-center cus-rounded-3 py-5 py-lg-10 px-4 px-lg-9">
-                    <span><b>Base currency options</b></span> <br><p>USD, GBP, EUR<hr></p>
-                    <span><b>Assets</b></span> <br> <br><p>Crypto<hr></p>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span ><b>Spreads from </b></span><p class="package-para">1.0</p></div><hr>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span ><b>Leverage</b></span><p class="package-para">500</p></div><hr>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span ><b>Hedging</b></span><img src="assets/images/icon/check-1.png" alt="check-1"></div><hr>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span ><b>Binary</b></span><p class="package-para">Yes</p></div><hr>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span ><b>AI Trader</b></span><img src="assets/images/icon/check-1.png" alt="check-1"></div><hr>
+                    <span><b>Base currency options</b></span> <br>
+                    <p>USD, GBP, EUR
+                        <hr>
+                    </p>
+                    <span><b>Assets</b></span> <br> <br>
+                    <p>Crypto
+                        <hr>
+                    </p>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>Spreads from
+                            </b></span>
+                        <p class="package-para">1.0</p>
+                    </div>
+                    <hr>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>Leverage</b></span>
+                        <p class="package-para">500</p>
+                    </div>
+                    <hr>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>Hedging</b></span><img
+                            src="assets/images/icon/check-1.png" alt="check-1"></div>
+                    <hr>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>Binary</b></span>
+                        <p class="package-para">Yes</p>
+                    </div>
+                    <hr>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>AI
+                                Trader</b></span><img src="assets/images/icon/check-1.png" alt="check-1"></div>
+                    <hr>
                     <br>
                 </div>
             </div>
@@ -156,14 +172,34 @@ color: #000000;
                     <h4>Standard</h4>
                 </div>
                 <div class="nb3-bg text-center cus-rounded-3 py-5 py-lg-10 px-4 px-lg-9">
-                    <span><b>Base currency options</b></span><p>USD, GBP, EUR<hr></p>
-                    <span><b>Assets</b></span><p>Crypto, Stocks, Forex,
-                    Commodities, Indices<hr></p>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span ><b>Spreads from </b></span><p class="package-para">0.6</p></div><hr>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span ><b>Leverage</b></span><p class="package-para">200</p></div><hr>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span ><b>Hedging</b></span><img src="assets/images/icon/check-1.png" alt="check-1"></div><hr>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span ><b>Binary</b></span><p class="package-para">Yes</p></div><hr>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span ><b>AI Trader</b></span><img src="assets/images/icon/check-1.png" alt="check-1"></div><hr>
+                    <span><b>Base currency options</b></span>
+                    <p>USD, GBP, EUR
+                        <hr>
+                    </p>
+                    <span><b>Assets</b></span>
+                    <p>Crypto, Stocks, Forex,
+                        Commodities, Indices
+                        <hr>
+                    </p>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>Spreads from
+                            </b></span>
+                        <p class="package-para">0.6</p>
+                    </div>
+                    <hr>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>Leverage</b></span>
+                        <p class="package-para">200</p>
+                    </div>
+                    <hr>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>Hedging</b></span><img
+                            src="assets/images/icon/check-1.png" alt="check-1"></div>
+                    <hr>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>Binary</b></span>
+                        <p class="package-para">Yes</p>
+                    </div>
+                    <hr>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>AI
+                                Trader</b></span><img src="assets/images/icon/check-1.png" alt="check-1"></div>
+                    <hr>
                     <br>
                 </div>
             </div>
@@ -172,54 +208,88 @@ color: #000000;
                     <h4>Advanced</h4>
                 </div>
                 <div class="nb3-bg text-center cus-rounded-3 py-5 py-lg-10 px-4 px-lg-9">
-                    <span><b>Base currency options</b></span><p>USD, GBP, EUR<hr></p>
-                    <span><b>Assets</b></span><p>Crypto, Stocks, Forex,
-                    Commodities, Indices<hr></p>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span ><b>Spreads from </b></span><p class="package-para">0.4</p></div><hr>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span ><b>Leverage</b></span><p class="package-para">200</p></div><hr>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span ><b>Hedging</b></span><img src="assets/images/icon/check-1.png" alt="check-1"></div><hr>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span ><b>Binary</b></span><p class="package-para">Yes</p></div><hr>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span ><b>AI Trader</b></span><img src="assets/images/icon/check-1.png" alt="check-1"></div><hr>
+                    <span><b>Base currency options</b></span>
+                    <p>USD, GBP, EUR
+                        <hr>
+                    </p>
+                    <span><b>Assets</b></span>
+                    <p>Crypto, Stocks, Forex,
+                        Commodities, Indices
+                        <hr>
+                    </p>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>Spreads from
+                            </b></span>
+                        <p class="package-para">0.4</p>
+                    </div>
+                    <hr>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>Leverage</b></span>
+                        <p class="package-para">200</p>
+                    </div>
+                    <hr>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>Hedging</b></span><img
+                            src="assets/images/icon/check-1.png" alt="check-1"></div>
+                    <hr>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>Binary</b></span>
+                        <p class="package-para">Yes</p>
+                    </div>
+                    <hr>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>AI
+                                Trader</b></span><img src="assets/images/icon/check-1.png" alt="check-1"></div>
+                    <hr>
                     <br>
                 </div>
             </div>
 
             <div class="col-md-6 col-xxl-3">
-                <div class="packages"  style="background: #F5C06D;">
+                <div class="packages" style="background: #F5C06D;">
                     <h4>Proffessional</h4>
                 </div>
                 <div class="nb3-bg text-center cus-rounded-3 py-5 py-lg-10 px-4 px-lg-9">
-                    <span><b>Base currency options</b></span><p>USD, GBP, EUR<hr></p>
-                    <span><b>Assets</b></span><p>Crypto, Stocks, Forex,
-                    Commodities, Indices<hr></p>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span ><b>Spreads from </b></span><p class="package-para">0</p></div><hr>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span ><b>Leverage</b></span><p class="package-para">100</p></div><hr>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span ><b>Hedging</b></span><img src="assets/images/icon/check-1.png" alt="check-1"></div><hr>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span ><b>Binary</b></span><p class="package-para">Yes</p></div><hr>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span ><b>AI Trader</b></span><img src="assets/images/icon/check-1.png" alt="check-1"></div><hr>
+                    <span><b>Base currency options</b></span>
+                    <p>USD, GBP, EUR
+                        <hr>
+                    </p>
+                    <span><b>Assets</b></span>
+                    <p>Crypto, Stocks, Forex,
+                        Commodities, Indices
+                        <hr>
+                    </p>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>Spreads from
+                            </b></span>
+                        <p class="package-para">0</p>
+                    </div>
+                    <hr>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>Leverage</b></span>
+                        <p class="package-para">100</p>
+                    </div>
+                    <hr>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>Hedging</b></span><img
+                            src="assets/images/icon/check-1.png" alt="check-1"></div>
+                    <hr>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>Binary</b></span>
+                        <p class="package-para">Yes</p>
+                    </div>
+                    <hr>
+                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>AI
+                                Trader</b></span><img src="assets/images/icon/check-1.png" alt="check-1"></div>
+                    <hr>
                     <br>
                 </div>
             </div>
         </div>
     </div>
 </section>
-
-
 <section class="provide-world position-relative z-0 pb-120">
     <div class="container">
         <div class="row gy-6 gy-xxl-0">
-
-
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/profits.png" alt="stock-market">
                     </span>
                     <h3 class="mt-5 mb-5">High Leverage
-
                     </h3>
                     <p>Utilize leverage of up to 1:1000 for trading
-
                     </p>
                     <br>
                     <br>
@@ -234,10 +304,8 @@ color: #000000;
 
                     </h3>
                     <p>Trades are typically executed within milliseconds, with minimal slippage
-
                     </p>
                     <br>
-
                 </div>
             </div>
             <div class="col-md-6 col-xxl-4">
@@ -247,24 +315,12 @@ color: #000000;
                     </span>
                     <h3 class="mt-5 mb-5">
                         Micro lot trading
-
                     </h3>
                     <p>Begin trading from just $0.10 per pip, perfect for smaller accounts and improved risk management.
-
                     </p>
                 </div>
             </div>
-
-
         </div>
     </div>
-
 </section>
-
-
-
-
-
-
-
 <?php include("includes/footer.php"); ?>
