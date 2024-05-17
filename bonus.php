@@ -14,7 +14,7 @@
         </div>
     </div>
 </section>
-<section class="people_trust pt-120 pb-120 position-relative z-0">
+<section class="people_trust pt-120 pb-120 position-relative z-0" style="background-color:#000;">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/vector.png" alt="vector" class="position-absolute jello d-none d-xl-flex">
         <img src="assets/images/star3.png" alt="vector" class="position-absolute push_animat d-none d-xxxl-flex">
@@ -33,19 +33,26 @@
                 <div class="singletab">
                     <div class="tabcontents">
                         <div class="tabitem active">
-                            <div class="row gy-10 gy-xl-0 justify-content-center justify-content-lg-between align-items-center">
+                            <div
+                                class="row gy-10 gy-xl-0 justify-content-center justify-content-lg-between align-items-center">
                                 <div class="col-xl-6 col-xxl-7 ">
                                     <div class="submissions">
-                        
-                                        <img class="contact-img" src="assets/images/Bonus.png" alt="Sign Up to Become an Introducing Broker">
+
+                                        <img class="contact-img" src="assets/images/Bonus.png"
+                                            alt="Sign Up to Become an Introducing Broker">
                                     </div>
                                 </div>
                                 <div class="col-xl-6 col-xxl-5">
                                     <div class="trade_on__content">
                                         <h4 class="mb-4">Trading is easier and more profitable than ever before!</h4>
-                                        <p class="mx-ch">For a short period, TradersEra Markets is providing all traders a massive 50% deposit bonus. Whether you're a new or experienced trader, this is an excellent opportunity to boost your trading capital and obtain an advantage in the Forex market.</p>   
+                                        <p class="mx-ch">For a short period, TradersEra Markets is providing all traders
+                                            a massive 50% deposit bonus. Whether you're a new or experienced trader,
+                                            this is an excellent opportunity to boost your trading capital and obtain an
+                                            advantage in the Forex market.</p>
                                         <br>
-                                        <p>This great offer allows you to increase your initial investment, providing you with the necessary leverage to go further into the world of Forex trading.</p>
+                                        <p>This great offer allows you to increase your initial investment, providing
+                                            you with the necessary leverage to go further into the world of Forex
+                                            trading.</p>
                                     </div>
                                 </div>
                             </div>
@@ -56,7 +63,9 @@
         </div>
     </div>
 </section>
-<section class="provide-world pt-120 position-relative z-0 mb-10 pb-120" style="background-color: #000;">
+
+
+<section class="provide-world pt-120 position-relative z-0 mb-10 pb-120" style="background-color: rgb(20,20,20);">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-12 col-xxl-10">
@@ -84,13 +93,15 @@
                     <h4>Deposit into your trading account to unlock the bonus.</h4>
                 </div>
             </div>
-                 <div class="col-md-6 col-xxl-3">
+            <div class="col-md-6 col-xxl-3">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/number-3.png" alt="number-4">
                     </span>
                     <h3 class="mt-5 mb-5">Claim Bonus</h3>
-                    <h4> Follow the simple steps to claim your exclusive deposit bonus.</h4> 
+                    <h4> Follow the simple steps to claim your exclusive deposit bonus.
+                    </h4>
+
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
@@ -104,7 +115,13 @@
             </div>
         </div>
 </section>
-    <section class="trade_on pt-120 pb-120 position-relative z-0">
+
+
+
+
+
+
+<section class="trade_on pt-120 pb-120 position-relative z-0" style="background-color:#000;">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/coin.png" alt="null" class="position-absolute d-none d-md-flex previewShapeRevX">
         <img src="assets/images/coin_vector.png" alt="null"
@@ -114,30 +131,81 @@
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
             <div class="col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
-                    <h2 class="mb-4 mb-lg-5">Commonly traded in financial markets</h2>
-                    <p class="fs-six mx-ch"><b>Forex (Foreign Exchange):</b> Forex involves the trading of currencies in pairs, such as EUR/USD or GBP/JPY. Traders speculate on the relative strength of one currency against another, aiming to profit from fluctuations in exchange rates.
+                    <h2 class="mb-4 mb-lg-5">Commonly traded in financial markets
+                    </h2>
+                    <p class="fs-six mx-ch"><b>Forex (Foreign Exchange):</b> Forex involves the trading of currencies in
+                        pairs, such as EUR/USD or GBP/JPY. Traders speculate on the relative strength of one currency
+                        against another, aiming to profit from fluctuations in exchange rates.
+
                     </p>
                     <br>
                     <p class="fs-six mx-ch">
-                    <b>Cryptocurrencies:</b> Cryptocurrencies are digital or virtual currencies that use cryptography for security. Bitcoin, Ethereum, and Ripple are examples of popular cryptocurrencies traded on various online platforms.
+                        <b>Cryptocurrencies:</b> Cryptocurrencies are digital or virtual currencies that use
+                        cryptography for security. Bitcoin, Ethereum, and Ripple are examples of popular
+                        cryptocurrencies traded on various online platforms.
+
+
                     </p>
                     <br>
                     <p class="fs-six mx-ch">
-                   <b> Commodities:</b> Commodities are physical goods such as gold, oil, wheat, and coffee. They are traded on commodity exchanges and can be classified as precious metals, energy, agriculture, and industrial metals.
+                        <b> Commodities:</b> Commodities are physical goods such as gold, oil, wheat, and coffee. They
+                        are traded on commodity exchanges and can be classified as precious metals, energy, agriculture,
+                        and industrial metals.
+
+
                     </p>
                     <br>
                     <p class="fs-six mx-ch">
-                    <b>Indices:</b> Indices represent a portfolio of stocks or other assets that provide a benchmark for a particular market or sector. Examples include the S&P 500, Dow Jones Industrial Average, and FTSE 100. Traders use index trading to speculate on the overall performance of a market or specific industry.
+                        <b>Indices:</b> Indices represent a portfolio of stocks or other assets that provide a benchmark
+                        for a particular market or sector. Examples include the S&P 500, Dow Jones Industrial Average,
+                        and FTSE 100. Traders use index trading to speculate on the overall performance of a market or
+                        specific industry.
 
                     </p>
                 </div>
             </div>
             <div class="col-md-8 col-lg-6">
-                    <div class="trade_on__thumbs d-flex justify-content-end">
-                        <img src="assets/images/Commonly traded in financial markets.png" alt="Trade Forex CFDs on TradersEra Paltform">
-                    </div>
+                <div class="trade_on__thumbs d-flex justify-content-end">
+                    <img src="assets/images/Commonly traded in financial markets.png"
+                        alt="Trade Forex CFDs on TradersEra Paltform">
+                </div>
             </div>
         </div>
     </div>
 </section>
+
+
+<section class="trade_on pt-120 pb-120 position-relative z-0" style="background-color:rgb(20,20,20);">
+    <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
+        <img src="assets/images/coin.png" alt="null" class="position-absolute d-none d-md-flex previewShapeRevX">
+        <img src="assets/images/coin_vector.png" alt="null"
+            class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX opacity-50">
+    </div>
+    <div class="container">
+        <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
+            <div class="col-lg-6 col-xxl-5">
+                <div class="trade_on__content">
+                    <h2 class="mb-4 mb-lg-5">Trade up to $1000 with Traders Era's KYC-Free Binary Options
+
+                    </h2>
+                    <p class="fs-six mx-ch">Trading up to $1000 without the hassle of KYC verification on Traders Era's
+                        Binary Options platform. Enjoy swift and accessible trading opportunities with our streamlined
+                        process, empowering you to dive into the market with ease.
+                    </p>
+
+
+                </div>
+            </div>
+            <div class="col-md-8 col-lg-6">
+                <div class="trade_on__thumbs d-flex justify-content-end">
+                    <img src="assets/images/Commonly traded in financial markets.png"
+                        alt="Trade Forex CFDs on TradersEra Paltform">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
 <?php include("includes/footer.php"); ?>

@@ -37,6 +37,38 @@
         </div>
     </div>
 </section>
+
+<section class="trade_on a2-bg pt-120 pb-120 position-relative z-0" style="background-color:rgb(20,20,20)">
+    <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
+        <!-- <img src="assets/images/coin.png" alt="null" class="position-absolute d-none d-md-flex previewShapeRevX">
+        <img src="assets/images/coin_vector.png" alt="null" class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX opacity-50"> -->
+    </div>
+    <div class="container" >
+        <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
+            <div class="col-lg-6 col-xxl-5">
+                <div class="trade_on__content">
+                    <h2 class="mb-4 mb-lg-5">Earn rewards by referring a friend!</h2>
+                    <p class="fs-six mx-ch">Know Your Customer (KYC) process for CFDs trading. KYC ensures a secure and transparent trading environment by verifying the identity of our traders. By submitting necessary documents, such as identification and proof of address, traders can enjoy enhanced security measures, mitigate risks, and uphold regulatory standards. Join us in fostering trust and integrity in the trading community with our KYC requirements at Traders Era.
+                    </p>
+                    <br>
+                    <br>
+                    <div>
+                        <a href="https://trading.tradersera.com/register"
+                            class="cmn-btn secondary-alt ms-auto fs-five nb4-xxl-bg gap-2 align-items-center  py-2 px-4 py-lg-3 px-lg-5">
+                            Verify & Trade <i class="ti ti-arrow-right fs-four"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-8 col-lg-6">
+                <div class="trade_on__thumbs d-flex justify-content-end">
+                    <img src="assets/images/Earn rewards by referring a friend.png"
+                        alt="Trade Forex CFDs on TradersEra Paltform">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 <section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/coin.png" alt="null" class="position-absolute d-none d-md-flex previewShapeRevX">
