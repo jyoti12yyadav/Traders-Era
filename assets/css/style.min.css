@@ -3131,7 +3131,8 @@ iframe {
 .provide-world .provide-card__icon {
     width: 80px;
     min-width: 80px;
-    height: 80px
+    height: 80px;
+
 }
 
 @media(max-width: 991px) {

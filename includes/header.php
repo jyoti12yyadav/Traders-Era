@@ -174,9 +174,9 @@
                             <button type="button" aria-label="Navbar Dropdown Button"
                                 class="dropdown-toggle dropdown-nav">Partners</button>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="become-an-iB.php">Become An Partner</a></li>
-                                <li><a class="dropdown-item" href="referral-binary.php">Binary Referral</a></li>
-                                <li><a class="dropdown-item" href="become-an-iB.php">CFD Referral</a></li>
+                                <li><a class="dropdown-item" href="cfd-partner.php">CFD Partner</a></li>
+                                <!-- <li><a class="dropdown-item" href="referral-binary.php">Binary Referral</a></li>
+                                <li><a class="dropdown-item" href="become-an-iB.php">CFD Referral</a></li> -->
                             </ul>
                         </li>
 
