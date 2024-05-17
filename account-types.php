@@ -301,7 +301,6 @@
                         <img src="assets/images/icon/sales-marketing.png" alt="stock-market">
                     </span>
                     <h3 class="mt-5 mb-5">Fast order execution
-
                     </h3>
                     <p>Trades are typically executed within milliseconds, with minimal slippage
                     </p>
