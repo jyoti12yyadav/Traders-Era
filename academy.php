@@ -23,11 +23,6 @@
         border-radius: 14px;
         margin: 10px 0px;
     }
-<<<<<<< HEAD
-
-
-=======
->>>>>>> ce12ad19f76ed9e57f7c4b4cc49ea1c2069e3c41
     .pb-120 {
         padding-bottom: 60px !important;
     }
