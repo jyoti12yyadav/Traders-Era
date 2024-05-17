@@ -1,14 +1,4 @@
 <?php include("dynamic-data.php"); ?>
-<style>
-mark { 
-  background-color: #A4EF61;
-  color: black;
-  border-radius: 7px;
-  font-size: 20px;
-}
-</style>
-
-
 
 <!doctype html>
 <html lang="en">
@@ -142,16 +132,16 @@ mark {
                                 <li><a class="dropdown-item" href="ai-Invest.php">AI Invest </a></li>
                             </ul>
                         </li>
-                        <li class="dropdown show-dropdown" >
-
+                        <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
-                                class="dropdown-toggle dropdown-nav"><mark>Trading</mark></button>
+                                class="dropdown-toggle dropdown-nav">Trading</button>
                             <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="account-types.php">Binary Option - Crypto</a></li>
-                                <li><a class="dropdown-item" href="deposit.php">Account Types - CFDs</a></li>
-                                <li><a class="dropdown-item" href="account-types.php">Account Types</a></li>
+                                
+                            
                                 <!-- <li><a class="dropdown-item" href="deposit.php">Deposit</a></li>
-                                <li><a class="dropdown-item" href="withdrawal.php">Withdrawal</a></li> -->  
+                                <li><a class="dropdown-item" href="withdrawal.php">Withdrawal</a></li> -->
+                                <li><a class="dropdown-item" href="account-types.php">Binary Options-Crypto</a></li>
+                                <li><a class="dropdown-item" href="account-types.php">CFD</a></li>
                                 <li><a class="dropdown-item" href="market-hours.php">Market Hours</a></li>
                                 <li><a class="dropdown-item" href="refer-a-friend.php">Refer a Friend</a></li>
                                 <li><a class="dropdown-item" href="bonus.php">50% Bonus</a></li>
@@ -189,7 +179,8 @@ mark {
                             <button type="button" aria-label="Navbar Dropdown Button"
                                 class="dropdown-toggle dropdown-nav">Partners</button>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="become-an-iB.php">Become An Partner</a></li>
+                                <li><a class="dropdown-item" href="become-an-iB.php">Binary Referral</a></li>
+                                <li><a class="dropdown-item" href="become-an-iB.php">CFD Referral</a></li>
                                
                             </ul>
                         </li>
