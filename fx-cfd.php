@@ -1,15 +1,11 @@
 <?php include("includes/header.php"); ?>
-
 <style>
     .pb-120 {
         padding-bottom: 60px !important;
     }
-
     .pt-120 {
         padding-top: 60px !important;
     }
-
-
     .table-para {
         background-color: #292929;
         padding: 35px;
@@ -17,18 +13,15 @@
         border-radius: 14px;
         margin: 10px 0px;
     }
-
     .company-story__part {
         border: solid 1px white;
         padding: 30px;
         border-radius: 19px;
     }
-
     tr {
         text-align: center;
     }
 </style>
-
 <section class="banner-section  pt-2 pb-1">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
@@ -109,7 +102,6 @@
         </div>
     </div>
 </section>
-
 <section class="company-story position-relative z-0  pt-120 pb-120 ">
     <div class="animation position-absolute w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="null"
@@ -503,7 +495,6 @@
         </div>
     </div>
 </section>
-
 <section class="provide-world pt-60 position-relative z-0 mb-10 pb-120">
     <div class="container">
         <div class="row justify-content-center">
@@ -548,7 +539,4 @@
             </div>
         </div>
 </section>
-
-
-
 <?php include("includes/footer.php"); ?>

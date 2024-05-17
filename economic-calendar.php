@@ -1,5 +1,4 @@
 <?php include("includes/header.php"); ?>
-
 <section class="banner-section  pt-2 pb-1">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
@@ -16,31 +15,23 @@
         </div>
     </div>
 </section>
-<!-- hh -->
 <style>
     .provide-world {
         background-color: #141414;
         margin-top: 50px;
         margin-bottom: 50px;
     }
-
     .tradingview-widget-container {
         margin-top: 50px;
         margin-bottom: 50px;
     }
-
-
     .pb-120 {
         padding-bottom: 60px !important;
     }
-
     .pt-120 {
         padding-top: 60px !important;
     }
 </style>
-
-
-
 <section class="provide-world a2-bg">
     <div class="container">
         <div class="row justify-content-center">
@@ -51,18 +42,13 @@
                <center> <h3 class="fs-six-up  mx-auto">Maximize Your Forex Trading Potential with Real-Time Market Insights
                 </h3></center>
                 <br><br>
-
                 <section class="privacy-policy ">
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-10 col-xxl-10">
                                 <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
-
                                     <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
-
-
                                         <div class="privacy-policy__part">
-
                                             <h2 class="mb-4">What is an Economic Calendar?</h2>
                                             <p class="mt-3">The Economic calendar is a useful resource that offers
                                                 current details on scheduled financial industry events. The Economic
@@ -77,26 +63,14 @@
                                                 regulators, and other important information that traders may find
                                                 helpful when working on the financial markets.</p>
                                         </div>
-
                                     </div>
                                 </div>
                             </div>
                         </div>
-
-
-
-
                 </section>
-
-
-
-
                 <section class="provide-world a2-bg">
-
                     <div class="container">
-
                         <div class="row justify-content-center">
-
                             <!-- TradingView Widget BEGIN -->
                             <div class="tradingview-widget-container">
                                 <div class="tradingview-widget-container__widget"></div>
@@ -116,25 +90,17 @@
                                         }
                                     </script>
                             </div>
-
                             <!-- TradingView Widget END -->
                         </div>
                     </div>
                     <!-- TradingView Widget END -->
-
-
                 </section>
-
-
-
                 <section class="privacy-policy  ">
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-10 col-xxl-10">
                                 <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
-
                                     <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
-
                                         <div class="privacy-policy__part">
                                             <h2 class="mb-4">How is the News calendar to be read?
                                             </h2>
@@ -150,10 +116,7 @@
                                                 Next, choose the period that you would like to get the reports. The news
                                                 for the current and upcoming weeks is available in the TraderEra
                                                 Financial calendar.
-
-
                                             </p>
-
                                         </div>
                                         <div class="privacy-policy__part">
                                             <h2 class="mb-4">What does the Financial calendar aim to accomplish?</h2>
@@ -178,19 +141,14 @@
                                                 news and current macroeconomic data. They will benefit from the
                                                 international economic calendar in exactly this way because it provides
                                                 up-to-date details on all important financial events.</p>
-
                                         </div>
-
                                     </div>
                                 </div>
                             </div>
                         </div>
                 </section>
-
-
             </div>
         </div>
     </div>
 </section>
-
 <?php include("includes/footer.php"); ?>

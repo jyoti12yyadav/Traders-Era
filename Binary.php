@@ -5,16 +5,12 @@
         padding: 30px;
         border-radius: 19px;
     }
-
-
         .pb-120 {
             padding-bottom: 60px !important;
         }
-
         .pt-120 {
             padding-top: 60px !important;
         }
-
 </style>
 <section class="banner-section  pt-2 pb-1">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
@@ -31,7 +27,6 @@
         </div>
     </div>
 </section>
-
 <section class="trade_on trade_on--secondary pt-60 pb-60 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="null"
@@ -65,7 +60,6 @@
         </div>
     </div>
 </section>
-
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0" style="background-color: #000;">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="vector"
@@ -78,7 +72,6 @@
                     <img src="assets/images/Our Binary Options.png" alt="Simple concept of Binary options trading">
                 </div>
             </div>
-
             <div class="col-md-10 col-lg-6 col-xxl-7">
                 <div class="trade_on__content">
                     <h2 class="mb-4 mb-lg-5" style="font-size:35px;">Understanding the mechanics of binary options
@@ -87,10 +80,7 @@
                     <!-- <p class="mx-ch">Web trading platforms are safer since they use a remote server or cloud for
                         calculations. Users only need to focus on their internet connection and routing speed. No need
                         to download or install anything.</p> -->
-
                 </div>
-
-
                 <h5 class="mt-4 mb-lg-5">
                     <!-- Benefits of Web Based Trading Platforms: -->
                 </h5>
@@ -128,12 +118,9 @@
                         Trading binary options involves predicting market movements based on price levels. If you
                             anticipate the market will be above a certain price at a specific time, you buy; if not, you
                             sell.
-
                     </li>
                 </ul>
-
             </div>
-
         </div>
     </div>
 </section>
@@ -149,10 +136,8 @@
                     <img src="assets/images/Binary Trading At TradersEra.png" alt="Binary Option contracts with the EUR/USD currency pair">
                 </div>
             </div>
-
             <div class="col-lg-6 col-xxl-6">
                 <div class="trade_on__content">
-
                     <h3 class="mb-4 mb-lg-5">Example of binary options trading </h3>
                     <p class="fs-six ">Let's take an illustration of trading binary option contracts with the EUR/USD
                         currency pair</p>
@@ -166,10 +151,8 @@
                     <br>
                     <p class="fs-six ">For this scenario, let's assume you decide to buy.</p>
                     <br>
-
                 </div>
             </div>
-
         </div>
     </div>
 </section>
@@ -180,8 +163,6 @@
     </div>
     <div class="container">
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
-
-
             <div class="col-lg-6 col-xxl-6">
                 <div class="trade_on__content">
                     <p class="fs-six">If that's the case, there are two potential results</p>
@@ -193,7 +174,6 @@
                         <li class="d-flex align-items-center gap-3 fs-six-up"><i
                                 class="ti ti-circle-check s1-color fs-four"></i>If the indicative index price is one
                             tick or more above 1.1600, you will receive the $100 payout. </li>
-
                     </ul>
                     <br>
                     <p class="fs-six">If you prefer not to wait until it expires, you can also choose to close your
@@ -209,7 +189,6 @@
         </div>
     </div>
 </section>
-
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="vector"
@@ -253,7 +232,6 @@
                     </ul>
                 </div>
             </div>
-
         </div>
     </div>
 </section>

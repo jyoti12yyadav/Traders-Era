@@ -30,10 +30,6 @@
             <div class="col-xl-8 col-xxl-7">
                 <div class="heading__content mb-8 mb-lg-10 text-center">
                     <h2>Increase your trading potential with our exclusive deposit bonus!</h2>
-<<<<<<< HEAD
-=======
-
->>>>>>> 70c316481c56b9e55c59dc33bea1085ff23bbef7
                 </div>
             </div>
         </div>
@@ -55,23 +51,12 @@
                                 <div class="col-xl-6 col-xxl-5">
                                     <div class="trade_on__content">
                                         <h4 class="mb-4">Trading is easier and more profitable than ever before!</h4>
-<<<<<<< HEAD
                                         <p class="mx-ch">For a short period, TradersEra Markets is providing all traders a massive 100% deposit bonus. 
                                             Whether you're a new or experienced trader, this is an excellent opportunity to boost your trading capital and 
                                             obtain an advantage in the Forex market.</p>   
                                         <br>
                                         <p>This great offer allows you to increase your initial investment, providing you with the necessary leverage to go 
                                             further into the world of Forex trading.</p>
-=======
-                                        <p class="mx-ch">For a short period, TradersEra Markets is providing all traders
-                                            a massive 50% deposit bonus. Whether you're a new or experienced trader,
-                                            this is an excellent opportunity to boost your trading capital and obtain an
-                                            advantage in the Forex market.</p>
-                                        <br>
-                                        <p>This great offer allows you to increase your initial investment, providing
-                                            you with the necessary leverage to go further into the world of Forex
-                                            trading.</p>
->>>>>>> 70c316481c56b9e55c59dc33bea1085ff23bbef7
                                     </div>
                                 </div>
                             </div>
@@ -84,12 +69,8 @@
 </section>
 
 
-<<<<<<< HEAD
 
 <section class="provide-world pt-120 position-relative z-0 mb-10 pb-120" style="background-color: #000;">
-=======
-<section class="provide-world pt-120 position-relative z-0 mb-10 pb-120" style="background-color: rgb(20,20,20);">
->>>>>>> 70c316481c56b9e55c59dc33bea1085ff23bbef7
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-12 col-xxl-10">
@@ -162,56 +143,34 @@
             <div class="col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
                     <h2 class="mb-4 mb-lg-5">Commonly traded in financial markets
-<<<<<<< HEAD
-</h2>
-                    <p class="fs-six mx-ch"><b>Forex (Foreign Exchange):</b> Forex involves the trading of currencies in pairs, such as EUR/USD or GBP/JPY. 
-                    Traders speculate on the relative strength of one currency against another, aiming to profit from fluctuations in exchange rates.
-=======
                     </h2>
                     <p class="fs-six mx-ch"><b>Forex (Foreign Exchange):</b> Forex involves the trading of currencies in
                         pairs, such as EUR/USD or GBP/JPY. Traders speculate on the relative strength of one currency
                         against another, aiming to profit from fluctuations in exchange rates.
->>>>>>> 70c316481c56b9e55c59dc33bea1085ff23bbef7
 
                     </p>
                     <br>
                     <p class="fs-six mx-ch">
-<<<<<<< HEAD
-                    <b>Cryptocurrencies:</b> Cryptocurrencies are digital or virtual currencies that use cryptography for security. Bitcoin, Ethereum, and 
-                    Ripple are examples of popular cryptocurrencies traded on various online platforms.
-=======
                         <b>Cryptocurrencies:</b> Cryptocurrencies are digital or virtual currencies that use
                         cryptography for security. Bitcoin, Ethereum, and Ripple are examples of popular
                         cryptocurrencies traded on various online platforms.
->>>>>>> 70c316481c56b9e55c59dc33bea1085ff23bbef7
 
 
                     </p>
                     <br>
                     <p class="fs-six mx-ch">
-<<<<<<< HEAD
-                   <b> Commodities:</b> Commodities are physical goods such as gold, oil, wheat, and coffee. They are traded on commodity exchanges and 
-                   can be classified as precious metals, energy, agriculture, and industrial metals.
-=======
                         <b> Commodities:</b> Commodities are physical goods such as gold, oil, wheat, and coffee. They
                         are traded on commodity exchanges and can be classified as precious metals, energy, agriculture,
                         and industrial metals.
->>>>>>> 70c316481c56b9e55c59dc33bea1085ff23bbef7
 
 
                     </p>
                     <br>
                     <p class="fs-six mx-ch">
-<<<<<<< HEAD
-                    <b>Indices:</b> Indices represent a portfolio of stocks or other assets that provide a benchmark for a particular market or sector. 
-                    Examples include the S&P 500, Dow Jones Industrial Average, and FTSE 100. Traders use index trading to speculate on the overall 
-                    performance of a market or specific industry.
-=======
                         <b>Indices:</b> Indices represent a portfolio of stocks or other assets that provide a benchmark
                         for a particular market or sector. Examples include the S&P 500, Dow Jones Industrial Average,
                         and FTSE 100. Traders use index trading to speculate on the overall performance of a market or
                         specific industry.
->>>>>>> 70c316481c56b9e55c59dc33bea1085ff23bbef7
 
                     </p>
                 </div>

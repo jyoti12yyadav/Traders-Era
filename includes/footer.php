@@ -99,15 +99,18 @@
                 <div class="footer__part">
                     <h4 class="mb-6 mb-lg-8">Trading</h4>
                     <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
-                        <li>
-                            <a class="n2-color d-flex align-items-center" href="account-types.php">Account Types</a>
+                    <li>
+                            <a class="n2-color d-flex align-items-center" href="account-types.php">Binary Options - Crypto</a>
                         </li>
                         <li>
+                            <a class="n2-color d-flex align-items-center" href="account-types.php">Account Types - CFD</a>
+                        </li>
+                        <!-- <li>
                             <a class="n2-color" href="deposit.php">Deposit</a>
                         </li>
                         <li>
                             <a class="n2-color" href="withdrawal.php">Withdrawal</a>
-                        </li>
+                        </li> -->
                         <li>
                         <a class="dropdown-item" href="market-hours.php">Market Hours</a>
                         </li>
@@ -195,7 +198,7 @@
 
                     <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4 mb-4">
                         <li>
-                            <a class="n2-color" href="become-an-iB.php">Become An IB</a>
+                            <a class="n2-color" href="cfd-partner.php">CFD Partner</a>
                         </li>
                     </ul>
                 </div>
