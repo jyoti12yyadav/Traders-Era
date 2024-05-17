@@ -1,5 +1,4 @@
 <?php include("includes/header.php"); ?>
-
 <style>
     .pt-120 {
         padding-top: 60px;
@@ -8,7 +7,6 @@
         padding-top: 60px;
     }
 </style>
-
 <section class="banner-section  pt-2 pb-1">
     <div class="container mt-lg-0 pt-18 pt-xl-20">
         <div class="row">
@@ -24,17 +22,11 @@
         </div>
     </div>
 </section>
-
-
-
 <div class="container pt-120 ">
     <div class="row">
         <div class="col-lg-12 pb-120">
             <center><h1 style="font-size: 100px;">Coming Soon</h1></center>
-
         </div>
     </div>
 </div>
-
-
 <?php include("includes/footer.php"); ?>

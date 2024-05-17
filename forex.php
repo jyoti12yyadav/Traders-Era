@@ -1,36 +1,32 @@
 <?php include("includes/header.php"); ?>
-
 <style>
- 
-    .table-para{
+    .table-para {
         background-color: #292929;
-    padding: 35px !important;
-    border: 1px solid #838383;
-    margin: 10px 0px;
+        padding: 35px !important;
+        border: 1px solid #838383;
+        margin: 10px 0px;
     }
-    .table-para-2{
+
+    .table-para-2 {
         background-color: #292929;
-    padding: 35px;
-    border: 1px solid #838383;
-    border-radius: 14px;
-    margin: 10px 0px;
+        padding: 35px;
+        border: 1px solid #838383;
+        border-radius: 14px;
+        margin: 10px 0px;
     }
-    tr{
+
+    tr {
         text-align: center;
     }
 
-
-
     .pb-120 {
-    padding-bottom: 60px !important;
-}
-.pt-120 {
-    padding-top: 60px !important;
-}
+        padding-bottom: 60px !important;
+    }
 
-
+    .pt-120 {
+        padding-top: 60px !important;
+    }
 </style>
-
 <section class="banner-section  pt-2 pb-1">
     <div class="container mt-lg-0 pt-18 pt-xl-20">
         <div class="row">
@@ -46,8 +42,6 @@
         </div>
     </div>
 </section>
-
-
 <section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/coin.png" alt="null" class="position-absolute d-none d-md-flex previewShapeRevX">
@@ -76,25 +70,25 @@
                         conditions. Open your Forex trading account today and use our powerful professional tools to
                         access the market and trade with ease.</p>
                 </div>
-</div>
+            </div>
             <div class="col-md-8 col-lg-6">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/what is forex trading section 1.png" alt="Advantages Of Forex Trading At TradersEra">
+                    <img src="assets/images/what is forex trading section 1.png"
+                        alt="Advantages Of Forex Trading At TradersEra">
                 </div>
             </div>
         </div>
     </div>
 </section>
-
-
 <section class="provide-world pt-120 pb-60  position-relative z-0">
     <div class="container">
         <div class="row gy-6 gy-xxl-0">
-            <h2 class="mb-4 mb-lg-5 d-flex justify-content-center" style="margin-bottom: 3.25rem !important;">Discover The Advantages Of Forex Trading At TradersEra</h2>
+            <h2 class="mb-4 mb-lg-5 d-flex justify-content-center" style="margin-bottom: 3.25rem !important;">Discover
+                The Advantages Of Forex Trading At TradersEra</h2>
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                    <img src="assets/images/icon/distribution.png" alt="null">
+                        <img src="assets/images/icon/distribution.png" alt="null">
                     </span>
                     <h4 class="mt-5 mb-5">Lower spreads</h4>
                     <p>Experience low volatility and high liquidity while trading Forex with tight spreads.</p>
@@ -147,7 +141,8 @@
                         <img src="assets/images/icon/stock-market.png" alt="null">
                     </span>
                     <h4 class="mt-5 mb-5">Powerful trading platform</h4>
-                    <p>Engage the Forex market via TradersEra trading platform. It is also available in desktop, mobile, and web platforms.</p>
+                    <p>Engage the Forex market via TradersEra trading platform. It is also available in desktop, mobile,
+                        and web platforms.</p>
                 </div>
             </div>
         </div>
@@ -156,395 +151,404 @@
 </section>
 <section class="company-story position-relative z-0  pt-120 pb-120 ">
     <div class="animation position-absolute w-100 h-100 z-n1">
-        <img src="assets/images/star3.png" alt="null" class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
+        <img src="assets/images/star3.png" alt="null"
+            class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
     </div>
     <div class="container">
         <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
             <div class="container my-5 table-div">
-            <table id="Record" class="table table-striped table-dark my-3 ">
-            <thead>
-            <th style="    background-color: #9ad953;
+                <table id="Record" class="table table-striped table-dark my-3 ">
+                    <thead>
+                        <th style="    background-color: #9ad953;
     color: black;
     text-align: center;
     font-size: 16px;">Instrument</th>
-<th style="    background-color: #9ad953;
+                        <th style="    background-color: #9ad953;
     color: black;
     text-align: center;
     font-size: 16px;">Contract size</th>
-<th style="    background-color: #9ad953;
+                        <th style="    background-color: #9ad953;
     color: black;
     text-align: center;
     font-size: 16px;">Min trade size</th>
-<th style="    background-color: #9ad953;
+                        <th style="    background-color: #9ad953;
     color: black;
     text-align: center;
     font-size: 16px;">Max trade size</th>
-<th style="    background-color: #9ad953;
+                        <th style="    background-color: #9ad953;
     color: black;
     text-align: center;
     font-size: 16px;">Max trade size<br>
-(ThinkZero)</th>
-</tr>
-</thead>
-<thead>
-<tr>
+                            (ThinkZero)</th>
+                        </tr>
+                    </thead>
+                    <thead>
+                        <tr>
 
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>EUR/USD</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>USD/JPY</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>GBP/USD</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>USD/CHF</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>AUD/CAD</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>USD/CAD</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>AUD/CHF</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>AUD/JPY</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>AUD/NZD</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>AUD/USD</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>CAD/CHF</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>CAD/JPY</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>CHF/JPY</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>EUR/AUD</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>EUR/CAD</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>EUR/CHF</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>EUR/GBP</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>EUR/JPY</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>EUR/NOK</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>EUR/NZD</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>GBP/AUD</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>GBP/CAD</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>GBP/ CHF</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>GBP/JPY</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>GBP/NZD</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>NZD/CAD</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>NZD/CHF</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>NZD/JPY</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>NZD/USD</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>USD/NOK</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>USD/SGD</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>USD/MXN</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>EUR/SEK</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>EUR/SGD</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>USD/SEK</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>EUR/HUF</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>GBP/HUF</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>USD/HUF</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>USD/CNH</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>USD/ZAR</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>USD/TRY</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>10</td>
-<td>10</td>
-</tr>
-<tr>
-<td>USD/BRL</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>5</td>
-<td>5</td>
-</tr>
-<tr>
-<td>EUR/TRY</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>10</td>
-<td>10</td>
-</tr>
-<tr>
-<td>EUR/ZAR</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>GBP/ZAR</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>EUR/PLN</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-<td>EUR/CZK</td>
-<td>100 000</td>
-<td>0.01</td>
-<td>50</td>
-<td>100</td>
-</tr>
-<tr>
-    <td colspan="9" class="text-start table-para">
-    <p><strong>Margin Call Policy</strong>: The forced liquidation level is 50%. Please review the TradersEra <a data-di-id="di-id-2d59e933-d16f0453" href="/en/support/legal-and-regulation/margin-call-policy/"> <u>Margin Call Policy</u></a> for complete details.</p>
-    <p><strong>Trading hours:</strong> The markets are open from Monday 00:03 (GMT+2) to Friday 23:55 (GMT+2). All spot FX instruments have no expiry.</p>
-    <p>&nbsp;</p>
-    <p>For more information on our overnight charges (swap rates), <strong><a data-di-id="di-id-36f948dd-abf53eb7" href="/en/forex-trading/swap-rates/"><u>please click here.</u></a></strong><br>
-    Commissions may <a data-di-id="di-id-27529c98-75adcd91" href="/en/trading-platforms/accounts/"><u><strong>apply</strong></u> </a>when using the ThinkZero account.</p>
-    </td>
-    </tr>
-</tbody>
-</table>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>EUR/USD</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>USD/JPY</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>GBP/USD</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>USD/CHF</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>AUD/CAD</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>USD/CAD</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>AUD/CHF</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>AUD/JPY</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>AUD/NZD</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>AUD/USD</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>CAD/CHF</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>CAD/JPY</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>CHF/JPY</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>EUR/AUD</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>EUR/CAD</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>EUR/CHF</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>EUR/GBP</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>EUR/JPY</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>EUR/NOK</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>EUR/NZD</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>GBP/AUD</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>GBP/CAD</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>GBP/ CHF</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>GBP/JPY</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>GBP/NZD</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>NZD/CAD</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>NZD/CHF</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>NZD/JPY</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>NZD/USD</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>USD/NOK</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>USD/SGD</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>USD/MXN</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>EUR/SEK</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>EUR/SGD</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>USD/SEK</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>EUR/HUF</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>GBP/HUF</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>USD/HUF</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>USD/CNH</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>USD/ZAR</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>USD/TRY</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>10</td>
+                            <td>10</td>
+                        </tr>
+                        <tr>
+                            <td>USD/BRL</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>5</td>
+                            <td>5</td>
+                        </tr>
+                        <tr>
+                            <td>EUR/TRY</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>10</td>
+                            <td>10</td>
+                        </tr>
+                        <tr>
+                            <td>EUR/ZAR</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>GBP/ZAR</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>EUR/PLN</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>EUR/CZK</td>
+                            <td>100 000</td>
+                            <td>0.01</td>
+                            <td>50</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td colspan="9" class="text-start table-para">
+                                <p><strong>Margin Call Policy</strong>: The forced liquidation level is 50%. Please
+                                    review the TradersEra <a data-di-id="di-id-2d59e933-d16f0453"
+                                        href="/en/support/legal-and-regulation/margin-call-policy/"> <u>Margin Call
+                                            Policy</u></a> for complete details.</p>
+                                <p><strong>Trading hours:</strong> The markets are open from Monday 00:03 (GMT+2) to
+                                    Friday 23:55 (GMT+2). All spot FX instruments have no expiry.</p>
+                                <p>&nbsp;</p>
+                                <p>For more information on our overnight charges (swap rates), <strong><a
+                                            data-di-id="di-id-36f948dd-abf53eb7"
+                                            href="/en/forex-trading/swap-rates/"><u>please click
+                                                here.</u></a></strong><br>
+                                    Commissions may <a data-di-id="di-id-27529c98-75adcd91"
+                                        href="/en/trading-platforms/accounts/"><u><strong>apply</strong></u> </a>when
+                                    using the ThinkZero account.</p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
             </div>
-    </div>
-    <div class="table-para-2">
-        <b>Maximum exposure is subject to underlying market conditions</b><br>
-        <br>
-        <strong>Negative Pricing on Instruments:</strong><br>
-        In the unlikely event where an Instrument is priced in negative (minus), then TradersEra will take the following actions:<br>
-        - The instrument will be priced statically at 0.01 as an indicative price<br>
-        - The instrument will be set to close-only<br>
-        - All open positions will closed-out at 0.01
+        </div>
+        <div class="table-para-2">
+            <b>Maximum exposure is subject to underlying market conditions</b><br>
+            <br>
+            <strong>Negative Pricing on Instruments:</strong><br>
+            In the unlikely event where an Instrument is priced in negative (minus), then TradersEra will take the
+            following actions:<br>
+            - The instrument will be priced statically at 0.01 as an indicative price<br>
+            - The instrument will be set to close-only<br>
+            - All open positions will closed-out at 0.01
         </div>
     </div>
-
 </section>
-
 <?php include("includes/footer.php"); ?>

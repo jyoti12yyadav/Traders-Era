@@ -1,7 +1,4 @@
 <?php include("includes/header.php"); ?>
-
-
-
 <section class="banner-section  pt-2 pb-1">
     <div class="container mt-lg-0 pt-18 pt-xl-20">
         <div class="row">
@@ -28,7 +25,6 @@
             <div class="col-xl-8 col-xxl-7">
                 <div class="heading__content mb-8 mb-lg-10 text-center">
                     <h2>Increase your trading potential with our exclusive deposit bonus!</h2>
-                   
                 </div>
             </div>
         </div>
@@ -60,8 +56,6 @@
         </div>
     </div>
 </section>
-
-
 <section class="provide-world pt-120 position-relative z-0 mb-10 pb-120" style="background-color: #000;">
     <div class="container">
         <div class="row justify-content-center">
@@ -79,7 +73,6 @@
                     </span>
                     <h3 class="mt-5 mb-5">Sign Up</h3>
                     <h4> Create an account with us to access exclusive benefits and offers.</h4>
-                   
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
@@ -89,7 +82,6 @@
                     </span>
                     <h3 class="mt-5 mb-5">Deposit Funds</h3>
                     <h4>Deposit into your trading account to unlock the bonus.</h4>
-                   
                 </div>
             </div>
                  <div class="col-md-6 col-xxl-3">
@@ -98,11 +90,8 @@
                         <img src="assets/images/icon/number-3.png" alt="number-4">
                     </span>
                     <h3 class="mt-5 mb-5">Claim Bonus</h3>
-                    <h4> Follow the simple steps to claim your exclusive deposit bonus.
-</h4>
-                    
+                    <h4> Follow the simple steps to claim your exclusive deposit bonus.</h4> 
                 </div>
-
             </div>
             <div class="col-md-6 col-xxl-3">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
@@ -113,17 +102,8 @@
                     <h4>Dive into the markets and maximize your potential for success!</h4>
                 </div>
             </div>
-       
         </div>
-
-
 </section>
-
-
-
-
-
-
     <section class="trade_on pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/coin.png" alt="null" class="position-absolute d-none d-md-flex previewShapeRevX">
@@ -134,22 +114,16 @@
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
             <div class="col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
-                    <h2 class="mb-4 mb-lg-5">Commonly traded in financial markets
-</h2>
+                    <h2 class="mb-4 mb-lg-5">Commonly traded in financial markets</h2>
                     <p class="fs-six mx-ch"><b>Forex (Foreign Exchange):</b> Forex involves the trading of currencies in pairs, such as EUR/USD or GBP/JPY. Traders speculate on the relative strength of one currency against another, aiming to profit from fluctuations in exchange rates.
-
                     </p>
                     <br>
                     <p class="fs-six mx-ch">
                     <b>Cryptocurrencies:</b> Cryptocurrencies are digital or virtual currencies that use cryptography for security. Bitcoin, Ethereum, and Ripple are examples of popular cryptocurrencies traded on various online platforms.
-
-
                     </p>
                     <br>
                     <p class="fs-six mx-ch">
                    <b> Commodities:</b> Commodities are physical goods such as gold, oil, wheat, and coffee. They are traded on commodity exchanges and can be classified as precious metals, energy, agriculture, and industrial metals.
-
-
                     </p>
                     <br>
                     <p class="fs-six mx-ch">
@@ -166,6 +140,4 @@
         </div>
     </div>
 </section>
-
-
 <?php include("includes/footer.php"); ?>

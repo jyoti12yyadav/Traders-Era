@@ -1,25 +1,18 @@
 <?php include("includes/header.php"); ?>
-
 <style>
     tr {
         text-align: center;
     }
-
     .widgets {
         height: 500px;
     }
-
-
-
     .pb-120 {
         padding-bottom: 60px !important;
     }
-
     .pt-120 {
         padding-top: 60px !important;
     }
 </style>
-
 <section class="banner-section  pt-2 pb-1">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
@@ -35,7 +28,6 @@
         </div>
     </div>
 </section>
-
 <section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/coin.png" alt="null" class="position-absolute d-none d-md-flex previewShapeRevX">
@@ -63,7 +55,6 @@
         </div>
     </div>
 </section>
-
 <section>
     <div class="container widgets  pt-120">
         <iframe src="https://in.widgets.investing.com/top-cryptocurrencies?theme=darkTheme&roundedCorners=true"
@@ -74,7 +65,6 @@
                 target="_blank" rel="nofollow">Investing.com</a></div>
     </div>
 </section>
-
 <section class="company-story position-relative z-0  pt-120 pb-120 ">
     <div class="animation position-absolute w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="null"
@@ -88,7 +78,6 @@
                 <h3 class="mb-7">Start trading Crypto CFDs today and explore new opportunities in the digital asset
                     space!</h3>
             </center>
-
             <div class="container my-5 table-div">
                 <table id="Record" class="table table-striped table-dark my-3">
                     <thead>
@@ -109,7 +98,6 @@
                         color: black;
                         text-align: center;
                         font-size: 16px;padding:20px;display: table-cell;">LEVERAGE</th>
-
                         </tr>
                     </thead>
                     <tbody>
@@ -149,7 +137,6 @@
         </div>
     </div>
 </section>
-
 <section class="provide-world pt-60 position-relative z-0 mb-10 pb-120">
     <div class="container">
         <div class="row justify-content-center">
@@ -211,6 +198,4 @@
             </div>
         </div>
 </section>
-
-
 <?php include("includes/footer.php"); ?>

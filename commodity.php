@@ -1,30 +1,32 @@
 <?php include("includes/header.php"); ?>
-
 <style>
     .pt-120 {
         padding-top: 60px;
     }
+
     .pb-120 {
         padding-top: 60px;
     }
-    .table-para{
+
+    .table-para {
         background-color: #292929;
-    padding: 35px !important;
-    border: 1px solid #838383;
-    margin: 10px 0px;
+        padding: 35px !important;
+        border: 1px solid #838383;
+        margin: 10px 0px;
     }
-    .table-para-2{
+
+    .table-para-2 {
         background-color: #292929;
-    padding: 35px;
-    border: 1px solid #838383;
-    border-radius: 14px;
-    margin: 10px 0px;
+        padding: 35px;
+        border: 1px solid #838383;
+        border-radius: 14px;
+        margin: 10px 0px;
     }
-    tr{
+
+    tr {
         text-align: center;
     }
 </style>
-
 <section class="banner-section  pt-2 pb-1">
     <div class="container mt-lg-0 pt-18 pt-xl-20">
         <div class="row">
@@ -40,8 +42,6 @@
         </div>
     </div>
 </section>
-
-
 <section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/coin.png" alt="null" class="position-absolute d-none d-md-flex previewShapeRevX">
@@ -80,8 +80,6 @@
         </div>
     </div>
 </section>
-
-
 <section class="faq pb-60 pt-120 position-relative z-0">
     <div class="container">
         <div class="row gy-6 justify-content-center">
@@ -136,202 +134,219 @@
         </div>
     </div>
 </section>
-
 <section class="company-story position-relative z-0  pt-120">
     <div class="animation position-absolute w-100 h-100 z-n1">
-        <img src="assets/images/star3.png" alt="null" class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
+        <img src="assets/images/star3.png" alt="null"
+            class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
     </div>
     <div class="container">
         <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
             <h2 class=" mb-lg-1 d-flex justify-content-center">Energy</h2>
             <div class="container my-5 table-div">
-            <table id="Record" class="table table-striped table-dark my-3">
-            <thead>
-            <tr>
-<th style="    background-color: #9ad953;
+                <table id="Record" class="table table-striped table-dark my-3">
+                    <thead>
+                        <tr>
+                            <th style="    background-color: #9ad953;
     color: black;
     text-align: center;
     font-size: 16px;padding:20px;">Instrument</th>
-<th style="    background-color: #9ad953;
+                            <th style="    background-color: #9ad953;
     color: black;
     text-align: center;
     font-size: 16px;padding:20px;">Currency</th>
-<th style="    background-color: #9ad953;
+                            <th style="    background-color: #9ad953;
     color: black;
     text-align: center;
     font-size: 16px;padding:20px;">Contract size</th>
-</tr>
-</thead>
-<thead>
-<tr>
+                        </tr>
+                    </thead>
+                    <thead>
+                        <tr>
 
-</tr>
-</thead>
-<tbody>
-    <tr>
-    <td>Gold Zero</td>
-    <td>USD</td>
-    <td>100</td>
-    </tr>
-    <tr>
-    <td>Silver Zero</td>
-    <td>USD</td>
-    <td>5000</td>
-    </tr>
-    <tr>
-    <td>Gold</td>
-    <td>USD</td>
-    <td>100</td>
-    </tr>
-    <tr>
-    <td>Mini Gold</td>
-    <td>USD</td>
-    <td>10</td>
-    </tr>
-    <tr>
-    <td>Silver</td>
-    <td>USD</td>
-    <td>5000</td>
-    </tr>
-    <tr>
-    <td>Mini Silver</td>
-    <td>USD</td>
-    <td>500</td>
-    </tr>
-    <tr>
-    <td>Platinum</td>
-    <td>USD</td>
-    <td>100</td>
-    </tr>
-    <tr>
-    <td>High Grade<br>
-    Copper</td>
-    <td>USD</td>
-    <td>10000</td>
-    </tr>
-    <tr>
-    <td>Gold in EUR</td>
-    <td>EUR</td>
-    <td>100</td>
-    </tr>
-    <tr>
-        <td colspan="11" class="text-start table-para"><strong>Margin Call Policy:</strong> The forced liquidation level is 50%. Please review the ThinkMarkets&nbsp;<strong><u><a data-di-id="di-id-67700be-c93a7831" href="/uk/support/legal-and-regulation-uk/margin-call-policy/" target="_blank">Margin Call Policy</a></u>&nbsp;</strong>for complete details.<br>
-        <br>
-        To account for positions held over the weekend, 3-Day swaps are applied at market close on Friday</td>
-        </tr>
-    </tbody>
-</table>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Gold Zero</td>
+                            <td>USD</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>Silver Zero</td>
+                            <td>USD</td>
+                            <td>5000</td>
+                        </tr>
+                        <tr>
+                            <td>Gold</td>
+                            <td>USD</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>Mini Gold</td>
+                            <td>USD</td>
+                            <td>10</td>
+                        </tr>
+                        <tr>
+                            <td>Silver</td>
+                            <td>USD</td>
+                            <td>5000</td>
+                        </tr>
+                        <tr>
+                            <td>Mini Silver</td>
+                            <td>USD</td>
+                            <td>500</td>
+                        </tr>
+                        <tr>
+                            <td>Platinum</td>
+                            <td>USD</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>High Grade<br>
+                                Copper</td>
+                            <td>USD</td>
+                            <td>10000</td>
+                        </tr>
+                        <tr>
+                            <td>Gold in EUR</td>
+                            <td>EUR</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td colspan="11" class="text-start table-para"><strong>Margin Call Policy:</strong> The
+                                forced liquidation level is 50%. Please review the ThinkMarkets&nbsp;<strong><u><a
+                                            data-di-id="di-id-67700be-c93a7831"
+                                            href="/uk/support/legal-and-regulation-uk/margin-call-policy/"
+                                            target="_blank">Margin Call Policy</a></u>&nbsp;</strong>for complete
+                                details.<br>
+                                <br>
+                                To account for positions held over the weekend, 3-Day swaps are applied at market close
+                                on Friday
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
             </div>
-    </div>
-    <div class="table-para-2">
-        <b>Maximum exposure is subject to underlying market conditions</b><br>
-        <br>
-        <strong>Negative Pricing on Instruments:</strong><br>
-        In the unlikely event where an Instrument is priced in negative (minus), then ThinkMarkets will take the following actions:<br>
-        - The instrument will be priced statically at 0.01 as an indicative price<br>
-        - The instrument will be set to close-only<br>
-        - All open positions will closed-out at 0.01
+        </div>
+        <div class="table-para-2">
+            <b>Maximum exposure is subject to underlying market conditions</b><br>
+            <br>
+            <strong>Negative Pricing on Instruments:</strong><br>
+            In the unlikely event where an Instrument is priced in negative (minus), then ThinkMarkets will take the
+            following actions:<br>
+            - The instrument will be priced statically at 0.01 as an indicative price<br>
+            - The instrument will be set to close-only<br>
+            - All open positions will closed-out at 0.01
         </div>
     </div>
 </section>
 <section class="company-story position-relative z-0  pt-120 pb-120 ">
     <div class="animation position-absolute w-100 h-100 z-n1">
-        <img src="assets/images/star3.png" alt="null" class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
+        <img src="assets/images/star3.png" alt="null"
+            class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
     </div>
     <div class="container">
         <h2 class=" mb-lg-1 d-flex justify-content-center">Metal</h2>
         <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
             <div class="container my-5 table-div">
-            <table id="Record" class="table table-striped table-dark my-3 ">
-            <thead>
-            <tr>
-<th style="    background-color: #9ad953;
+                <table id="Record" class="table table-striped table-dark my-3 ">
+                    <thead>
+                        <tr>
+                            <th style="    background-color: #9ad953;
     color: black;
     text-align: center;
     font-size: 16px;padding:20px;">Instrument</th>
-<th style="    background-color: #9ad953;
+                            <th style="    background-color: #9ad953;
     color: black;
     text-align: center;
     font-size: 16px;padding:20px;">Currency</th>
-<th style="    background-color: #9ad953;
+                            <th style="    background-color: #9ad953;
     color: black;
     text-align: center;
     font-size: 16px;padding:20px;">Contract size</th>
-</tr>
-</thead>
-<thead>
-<tr>
+                        </tr>
+                    </thead>
+                    <thead>
+                        <tr>
 
-</tr>
-</thead>
-<tbody>
-    <tr>
-    <td>Gold Zero</td>
-    <td>USD</td>
-    <td>100</td>
-    </tr>
-    <tr>
-    <td>Silver Zero</td>
-    <td>USD</td>
-    <td>5000</td>
-    </tr>
-    <tr>
-    <td>Gold</td>
-    <td>USD</td>
-    <td>100</td>
-    </tr>
-    <tr>
-    <td>Mini Gold</td>
-    <td>USD</td>
-    <td>10</td>
-    </tr>
-    <tr>
-    <td>Silver</td>
-    <td>USD</td>
-    <td>5000</td>
-    </tr>
-    <tr>
-    <td>Mini Silver</td>
-    <td>USD</td>
-    <td>500</td>
-    </tr>
-    <tr>
-    <td>Platinum</td>
-    <td>USD</td>
-    <td>100</td>
-    </tr>
-    <tr>
-    <td>High Grade<br>
-    Copper</td>
-    <td>USD</td>
-    <td>10000</td>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Gold Zero</td>
+                            <td>USD</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>Silver Zero</td>
+                            <td>USD</td>
+                            <td>5000</td>
+                        </tr>
+                        <tr>
+                            <td>Gold</td>
+                            <td>USD</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>Mini Gold</td>
+                            <td>USD</td>
+                            <td>10</td>
+                        </tr>
+                        <tr>
+                            <td>Silver</td>
+                            <td>USD</td>
+                            <td>5000</td>
+                        </tr>
+                        <tr>
+                            <td>Mini Silver</td>
+                            <td>USD</td>
+                            <td>500</td>
+                        </tr>
+                        <tr>
+                            <td>Platinum</td>
+                            <td>USD</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td>High Grade<br>
+                                Copper</td>
+                            <td>USD</td>
+                            <td>10000</td>
 
-    </tr>
-    <tr>
-    <td>Gold in EUR</td>
-    <td>EUR</td>
-    <td>100</td>
-    </tr>
-    <tr>
-        <td colspan="9" class="text-start table-para"><strong>Trading hours: </strong>01:05 (Monday) to 23:59 (Friday) GMT+2<br>
-        <strong>Important note:</strong> There is a daily 1 hour break from 0:00 to 01:01 (GMT+2) server time.<br>
-        *Please<a data-di-id="di-id-3ab1a17b-b1a21773" href="/getmedia/696e7160-e63b-441f-93aa-29f379649178/XAUXAG-LEVERAGE-EN-22-03-21_1.pdf.aspx"> <u>click here</u></a> for further details on maximum leverage allowance.&nbsp;<br>
-        <br>
-        To account for positions held over the weekend, 3-Day swaps are applied at market close on Wednesday for Gold, Gold Zero, Gold Mini, Silver, Silver Zaro and Silver Mini.&nbsp;&nbsp;<br>
-        For Platinum and High Grade Copper a 3-Day swaps are applied at market closed on Friday.</td>
-        </tr>
-    </tbody>
-</table>
+                        </tr>
+                        <tr>
+                            <td>Gold in EUR</td>
+                            <td>EUR</td>
+                            <td>100</td>
+                        </tr>
+                        <tr>
+                            <td colspan="9" class="text-start table-para"><strong>Trading hours: </strong>01:05 (Monday)
+                                to 23:59 (Friday) GMT+2<br>
+                                <strong>Important note:</strong> There is a daily 1 hour break from 0:00 to 01:01
+                                (GMT+2) server time.<br>
+                                *Please<a data-di-id="di-id-3ab1a17b-b1a21773"
+                                    href="/getmedia/696e7160-e63b-441f-93aa-29f379649178/XAUXAG-LEVERAGE-EN-22-03-21_1.pdf.aspx">
+                                    <u>click here</u></a> for further details on maximum leverage allowance.&nbsp;<br>
+                                <br>
+                                To account for positions held over the weekend, 3-Day swaps are applied at market close
+                                on Wednesday for Gold, Gold Zero, Gold Mini, Silver, Silver Zaro and Silver
+                                Mini.&nbsp;&nbsp;<br>
+                                For Platinum and High Grade Copper a 3-Day swaps are applied at market closed on Friday.
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
             </div>
-    </div>
-    <div class="table-para-2">
-        <b>Maximum exposure is subject to underlying market conditions</b><br>
-        <br>
-        <strong>Negative Pricing on Instruments:</strong><br>
-        In the unlikely event where an Instrument is priced in negative (minus), then ThinkMarkets will take the following actions:<br>
-        - The instrument will be priced statically at 0.01 as an indicative price<br>
-        - The instrument will be set to close-only<br>
-        - All open positions will closed-out at 0.01
+        </div>
+        <div class="table-para-2">
+            <b>Maximum exposure is subject to underlying market conditions</b><br>
+            <br>
+            <strong>Negative Pricing on Instruments:</strong><br>
+            In the unlikely event where an Instrument is priced in negative (minus), then ThinkMarkets will take the
+            following actions:<br>
+            - The instrument will be priced statically at 0.01 as an indicative price<br>
+            - The instrument will be set to close-only<br>
+            - All open positions will closed-out at 0.01
         </div>
     </div>
 </section>

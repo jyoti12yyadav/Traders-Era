@@ -1,11 +1,9 @@
 <?php
 header('Access-Control-Allow-Origin: https://tradersera.com/');
 if(isset($_POST['email'])) {
- 
     // EDIT THE 2 LINES BELOW AS REQUIRED
     $email_to = "support@tradersera.com";
     $email_subject = "TradersEra contact form";
-
     function died($error) {
         // your error code can go here
         echo "We are very sorry, but there were error(s) found with the form you submitted. ";
@@ -14,7 +12,6 @@ if(isset($_POST['email'])) {
         echo "Please go back and fix these errors.<br /><br />";
         die();
     }
- 
     // validation expected data exists
     if(!isset($_POST['fname']) ||
         !isset($_POST['lname']) ||
@@ -29,7 +26,6 @@ if(isset($_POST['email'])) {
         !isset($_POST['message'])) {
         died('We are sorry, but there appears to be a problem with the form you submitted.');       
     }
- 
     $fname = $_POST['fname']; // required
     $lname = $_POST['lname']; // required
     $email = $_POST['email']; // required
@@ -42,14 +38,11 @@ if(isset($_POST['email'])) {
     $legacyfx = $_POST['legacyfx']; // required
     $message = $_POST['message']; // required
     $ip = $_SERVER['REMOTE_ADDR']; 
- 
     $email_message = "Form details below.\n\n";
- 
     function clean_string($string) {
       $bad = array("content-type","bcc:","to:","cc:","href");
       return str_replace($bad,"",$string);
     }
- 
     $email_message .= "Senders IP: ".clean_string($ip)."\n\n"; 
     $email_message .= "Name: " . clean_string($fname) . " " . clean_string($lname) . "\n";
     $email_message .= "Phone: ".clean_string($phone)."\n";
@@ -60,12 +53,10 @@ if(isset($_POST['email'])) {
     $email_message .= "client average volume: ".clean_string($client_average_volume)."\n";
     $email_message .= "How do you intend to promote legacyfx?: ".clean_string($legacyfx)."\n";
     $email_message .= "Message: ".clean_string($message)."\n";
- 
     // create email headers
     $headers = 'From: noreply@tradersera.com'."\r\n" .
                'Reply-To: '.$email."\r\n" .
                'X-Mailer: PHP/' . phpversion();
-
     if (@mail($email_to, $email_subject, $email_message, $headers)) { ?>
         <script language="javascript" type="text/javascript">
             alert('Thank you for the message. We will contact you shortly.');
