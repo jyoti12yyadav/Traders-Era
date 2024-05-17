@@ -121,7 +121,7 @@
                                     <div class="row">
                                         <h3 class="">Contact Our Team</h3>
                                         <br>
-                                        <span>Contact us: + 44203758865</span>
+                                        <span>Contact us: +1 9142684555</span>
                                     </div>
                                 </div>
                             </div>
@@ -149,7 +149,7 @@
                     <img src="assets/images/icon/contact.png" alt="">
                     </span>
                    <h3 class="mt-5 mb-5">Call Us</h3>
-                   <p><b>+ 44203758865</b></p>
+                   <p><b>+1 9142684555</b></p>
                 </div>
             </div>
             <div class="col-md-6 col-xxl-6">
