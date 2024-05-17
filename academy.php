@@ -1,5 +1,6 @@
 <?php include("includes/header.php"); ?>
 <!-- Jyoti -->
+
 <style>
     .offers-content>h4 {
         font-size: 80px;
@@ -24,7 +25,6 @@
         border-radius: 14px;
         margin: 10px 0px;
     }
-
 
 
     .pb-120 {

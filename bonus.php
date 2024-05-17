@@ -24,14 +24,15 @@
         <img src="assets/images/vector3.png" alt="vector" class="position-absolute bottom-0 end-0 d-none d-xxxl-flex">
     </div>
     <div class="container">
+        <h2 style="text-align: center;">Applicable on CFD Trading</h2><br><br>
         <div class="row justify-content-center">
             <div class="col-xl-8 col-xxl-7">
                 <div class="heading__content mb-8 mb-lg-10 text-center">
                     <h2>Increase your trading potential with our exclusive deposit bonus!</h2>
-                   
                 </div>
             </div>
         </div>
+
         <div class="row">
             <div class="col-12">
                 <div class="singletab">
@@ -47,9 +48,12 @@
                                 <div class="col-xl-6 col-xxl-5">
                                     <div class="trade_on__content">
                                         <h4 class="mb-4">Trading is easier and more profitable than ever before!</h4>
-                                        <p class="mx-ch">For a short period, TradersEra Markets is providing all traders a massive 100% deposit bonus. Whether you're a new or experienced trader, this is an excellent opportunity to boost your trading capital and obtain an advantage in the Forex market.</p>   
+                                        <p class="mx-ch">For a short period, TradersEra Markets is providing all traders a massive 100% deposit bonus. 
+                                            Whether you're a new or experienced trader, this is an excellent opportunity to boost your trading capital and 
+                                            obtain an advantage in the Forex market.</p>   
                                         <br>
-                                        <p>This great offer allows you to increase your initial investment, providing you with the necessary leverage to go further into the world of Forex trading.</p>
+                                        <p>This great offer allows you to increase your initial investment, providing you with the necessary leverage to go 
+                                            further into the world of Forex trading.</p>
                                     </div>
                                 </div>
                             </div>
@@ -60,6 +64,7 @@
         </div>
     </div>
 </section>
+
 
 
 <section class="provide-world pt-120 position-relative z-0 mb-10 pb-120" style="background-color: #000;">
@@ -136,24 +141,29 @@
                 <div class="trade_on__content">
                     <h2 class="mb-4 mb-lg-5">Commonly traded in financial markets
 </h2>
-                    <p class="fs-six mx-ch"><b>Forex (Foreign Exchange):</b> Forex involves the trading of currencies in pairs, such as EUR/USD or GBP/JPY. Traders speculate on the relative strength of one currency against another, aiming to profit from fluctuations in exchange rates.
+                    <p class="fs-six mx-ch"><b>Forex (Foreign Exchange):</b> Forex involves the trading of currencies in pairs, such as EUR/USD or GBP/JPY. 
+                    Traders speculate on the relative strength of one currency against another, aiming to profit from fluctuations in exchange rates.
 
                     </p>
                     <br>
                     <p class="fs-six mx-ch">
-                    <b>Cryptocurrencies:</b> Cryptocurrencies are digital or virtual currencies that use cryptography for security. Bitcoin, Ethereum, and Ripple are examples of popular cryptocurrencies traded on various online platforms.
-
-
-                    </p>
-                    <br>
-                    <p class="fs-six mx-ch">
-                   <b> Commodities:</b> Commodities are physical goods such as gold, oil, wheat, and coffee. They are traded on commodity exchanges and can be classified as precious metals, energy, agriculture, and industrial metals.
+                    <b>Cryptocurrencies:</b> Cryptocurrencies are digital or virtual currencies that use cryptography for security. Bitcoin, Ethereum, and 
+                    Ripple are examples of popular cryptocurrencies traded on various online platforms.
 
 
                     </p>
                     <br>
                     <p class="fs-six mx-ch">
-                    <b>Indices:</b> Indices represent a portfolio of stocks or other assets that provide a benchmark for a particular market or sector. Examples include the S&P 500, Dow Jones Industrial Average, and FTSE 100. Traders use index trading to speculate on the overall performance of a market or specific industry.
+                   <b> Commodities:</b> Commodities are physical goods such as gold, oil, wheat, and coffee. They are traded on commodity exchanges and 
+                   can be classified as precious metals, energy, agriculture, and industrial metals.
+
+
+                    </p>
+                    <br>
+                    <p class="fs-six mx-ch">
+                    <b>Indices:</b> Indices represent a portfolio of stocks or other assets that provide a benchmark for a particular market or sector. 
+                    Examples include the S&P 500, Dow Jones Industrial Average, and FTSE 100. Traders use index trading to speculate on the overall 
+                    performance of a market or specific industry.
 
                     </p>
                 </div>
