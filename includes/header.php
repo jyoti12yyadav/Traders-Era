@@ -2,17 +2,13 @@
 
 <!doctype html>
 <html lang="en">
-
-
 <!-- Mirrored from pixner.net/tradez/main/index-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 16 Jan 2024 07:19:13 GMT -->
-
 <head>
     <!-- required meta -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- #keywords -->
-    
     <title><?php echo $title ?></title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content="<?php echo $description ?> " />
@@ -26,7 +22,6 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 </head>
-
 <body>
     <!--  Preloader  -->
     <div class="preloader">
@@ -179,8 +174,7 @@
                             <button type="button" aria-label="Navbar Dropdown Button"
                                 class="dropdown-toggle dropdown-nav">Partners</button>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="become-an-iB.php">Binary Referral</a></li>
-                                <li><a class="dropdown-item" href="become-an-iB.php">CFD Referral</a></li>
+                                <li><a class="dropdown-item" href="become-an-iB.php">Become An Partner</a></li>
                                
                             </ul>
                         </li>

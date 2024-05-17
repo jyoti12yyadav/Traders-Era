@@ -1,5 +1,4 @@
 <?php include("includes/header.php"); ?>
-
 <section class="banner-section  pt-2 pb-1">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
@@ -16,45 +15,37 @@
         </div>
     </div>
 </section>
-
-
 <style>
     .slider {
         margin: 0 auto;
         max-width: auto;
     }
-
     .slide_viewer {
         height: 760px;
         overflow: hidden;
         position: relative;
         margin-top: -45px;
     }
-
     .slide_group {
         height: 100%;
         position: relative;
         width: 100%;
     }
-
     .slide {
         display: none;
         height: 100%;
         position: absolute;
         width: 100%;
     }
-
     .slide:first-child {
         display: block;
     }
-
     .slide_buttons {
         left: 0;
         position: absolute;
         right: 0;
         text-align: center;
     }
-
     a.slide_btn {
         color: #474544;
         font-size: 42px;
@@ -65,13 +56,11 @@
         -o-transition: all 0.4s ease-in-out;
         transition: all 0.4s ease-in-out;
     }
-
     .slide_btn.active,
     .slide_btn:hover {
         color: #428CC6;
         cursor: pointer;
     }
-
     .directional_nav {
         height: 0px;
         margin: 0 auto;
@@ -79,7 +68,6 @@
         position: relative;
         top: -340px;
     }
-
     .previous_btn {
         bottom: 0;
         left: 100px;
@@ -87,7 +75,6 @@
         position: absolute;
         top: 0;
     }
-
     .next_btn {
         bottom: 0;
         margin: auto;
@@ -95,7 +82,6 @@
         right: 100px;
         top: 0;
     }
-
     .previous_btn,
     .next_btn {
         cursor: pointer;
@@ -108,73 +94,58 @@
         transition: opacity 0.4s ease-in-out;
         width: 65px;
     }
-
     .previous_btn:hover,
     .next_btn:hover {
         opacity: 1;
     }
-
     @media only screen and (max-width: 767px) {
         .previous_btn {
             left: 50px;
         }
-
         .next_btn {
             right: 50px;
         }
     }
-
     .fs-three,
     h3,
     h3>a {
         font-size: 22px;
     }
-
     .company-story__part {
         border: solid 1px white;
         padding: 30px;
         border-radius: 19px;
     }
-
     .p1-xxl-bg2 {
         background-color: #f5c06d;
     }
-
-
     /* > Process Styles */
     .process-wrap {
         width: 55%;
         margin: 100px auto;
         margin-left: -50px
     }
-
     .process-main {
         width: 100%;
         min-width: 320px;
         display: flex;
     }
-
     .col-3 {
         width: 50%;
         position: relative;
     }
-
     .col-3:first-child .process-step:before {
         content: '1';
     }
-
     .col-3:nth-child(2) .process-step:before {
         content: '2';
     }
-
     .col-3:nth-child(3) .process-step:before {
         content: '3';
     }
-
     .col-3:last-child .process-step:before {
         content: '4';
     }
-
     .process-main .col-3:not(:first-child):before {
         content: "";
         display: block;
@@ -192,7 +163,6 @@
         -webkit-transition: .8s;
         transition: .8s;
     }
-
     .process-step-cont {
         font-family: sans-serif;
         font-size: 16px;
@@ -205,7 +175,6 @@
         justify-content: center;
         align-content: space-between;
     }
-
     .process-step {
         border: 5px #ebebeb solid;
         border-radius: 100%;
@@ -224,14 +193,12 @@
         z-index: 4;
         cursor: pointer;
     }
-
     .process-label {
         color: #959595;
         font-weight: 600;
         width: 100%;
         text-align: center;
     }
-
     .process-dots {
         width: 10px;
         height: 10px;
@@ -239,7 +206,6 @@
         background-color: #ebebeb;
         cursor: pointer;
     }
-
     .process-dot-cont {
         display: flex;
         justify-content: space-around;
@@ -247,7 +213,6 @@
         width: 60%;
         padding-top: 5px;
     }
-
     .active-step1 .col-3:first-child .process-step,
     .active-step1 .col-3:first-child .process-dots:first-child,
     .active-step1-mini2 .col-3:first-child .process-step,
@@ -258,34 +223,29 @@
     .active-step1-mini4 .col-3:first-child .process-dots:nth-child(-n+4) {
         background-color: #f89828;
     }
-
     .active-step1-mini2 .col-3:first-child .process-dots:first-child,
     .active-step1-mini3 .col-3:first-child .process-dots:nth-child(-n+2),
     .active-step1-mini4 .col-3:first-child .process-dots:nth-child(-n+3) {
         background-color: #fbcb93;
     }
-
     .active-step1 .col-3:first-child .process-label,
     .active-step1-mini3 .col-3:first-child .process-label,
     .active-step1-mini2 .col-3:first-child .process-label,
     .active-step1-mini4 .col-3:first-child .process-label {
         color: #f89828;
     }
-
     .active-step2 .col-3:first-child,
     .active-step3 .col-3:nth-child(-n+2),
     .active-step4 .col-3:nth-child(-n+3) {
         opacity: 0.5;
         /*pointer-events: none;*/
     }
-
     .active-step2 .col-3:first-child .process-step:before,
     .active-step3 .col-3:nth-child(-n+2) .process-step:before,
     .active-step4 .col-3:nth-child(-n+3) .process-step:before {
         content: '\2713';
         padding: 7px;
     }
-
     .active-step2 .col-3:nth-child(-n+2) .process-step,
     .active-step2 .col-3:nth-child(-n+2) .process-dots,
     .active-step3 .col-3:nth-child(-n+3) .process-step,
@@ -294,37 +254,29 @@
     .active-step4 .col-3:nth-child(-n+4) .process-dots {
         background-color: #f89828;
     }
-
     .active-step2 .col-3:nth-child(-n+2) .process-label,
     .active-step3 .col-3:nth-child(-n+3) .process-label,
     .active-step4 .col-3:nth-child(-n+4) .process-label {
         color: #f89828;
     }
-
     .active-step2 .col-3:nth-child(-n+2):before,
     .active-step3 .col-3:nth-child(-n+3):before,
     .active-step4 .col-3:nth-child(-n+4):before {
         background: #f89828 !important;
     }
-
     @media screen and (max-width: 640px) {
         .process-main {
             flex-wrap: wrap;
         }
-
         .col-3 {
             width: 50%;
         }
-
         .process-main .col-3:nth-of-type(3):not(:first-child):before {
             top: -19.5px;
             left: calc(-50% + 145px);
             transform: rotate(150deg);
         }
     }
-
-
-
     .our-clients .container {
         width: 100%;
         height: 35%;
@@ -332,14 +284,12 @@
         align-items: center;
         overflow: hidden;
     }
-
     .our-clients .container ul {
         display: flex;
         flex-wrap: nowrap;
         width: 100%;
         transition: 0.3s;
     }
-
     .our-clients .container ul li {
         list-style: none;
         width: 40%;
@@ -349,7 +299,6 @@
         padding: 0 8px;
         margin-top: 25px;
     }
-
     .our-clients .container ul li p {
         background: #58585a;
         text-align: center;
@@ -357,11 +306,9 @@
         line-height: 100px;
         border-radius: 8px;
     }
-
     .our-clients {
         margin-top: 10px;
     }
-
     .get-started::after {
         position: relative;
         content: "\2192";
@@ -372,51 +319,36 @@
         left: 80px;
         color: #9ad953;
     }
-
     .nice-select:focus,
     .nice-select:hover {
         background-color: transparent;
         box-shadow: none;
     }
-
     .nice-select .list {
         background-color: #000;
     }
-
-
-
     .pb-120 {
         padding-bottom: 60px !important;
     }
-
     .pt-120 {
         padding-top: 60px !important;
     }
-
     .nice-select {
         background-color: black;
         padding: 6px 10px;
     }
-
     .nice-select:focus,
     .nice-select:hover {
         background-color: black;
         box-shadow: none;
     }
 </style>
-
-
-
-
-
-
 <section class="provide-world pt-120 position-relative z-0 mb-10 ">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-12 col-xxl-10">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
                     <h2 class="mb-5 mb-lg-6">Important Aspects Of The IB Program
-
                     </h2>
                     <!-- <h4 class="mb-5 mb-lg-6">Where to begin
                     </h4> -->
@@ -430,11 +362,9 @@
                         <img src="assets/images/icon/number-1.png" alt="time">
                     </span>
                     <h3 class="mt-5 mb-5">Recruiting </h3>
-
                     <p>As per the marketing structure of TradersEra, you will receive a portion of the sales made by
                         your recruits if you accomplish this.
                     </p>
-
                 </div>
             </div>
             <div class="col-md-6 col-xxl-4">
@@ -445,12 +375,10 @@
                     <h3 class="mt-5 mb-5">Events</h3>
                     <p>TradersEra offers a variety of trading competitions that let traders make the most money
                         possible.
-
                     </p>
                     <br>
                 </div>
             </div>
-
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
@@ -461,17 +389,11 @@
                     </p>
                     <br>
                 </div>
-
             </div>
         </div>
         <br>
         <br>
-
 </section>
-
-
-
-
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="vector"
@@ -484,43 +406,29 @@
                     <img src="assets/images/Advantages for introducing brokers.png" alt="TradersEra's Global markets, liquidity, low spreads, swap-free">
                 </div>
             </div>
-
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
                     <h2 class="mb-4 mb-lg-5" style="font-size:35px;">Advantages for your clientele
                     </h2>
-
                 </div>
-
-
-
                 <ul class="d-flex gap-4 flex-column mt-6">
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>MetaTrader5, the award-winning trading
                         platform, provides a range of advanced features to enhance
                         your trading experience. With its Strategy Tester, OrderBook, Built-in technical indicators, and
                         graphics tools, you have everything you need to make informed trading decisions.
-
-
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>Explore a wide range of global markets with
                         CFDs: trade shares, stocks, commodities, gold, oil, forex, cryptocurrencies, and much more.
-
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>Our full range of global markets offers your
                         customers exceptional liquidity, low spreads, and swap-free conditions for their benefit.
-
                     </li>
-
-
                     <br>
-
                 </ul>
-
             </div>
-
         </div>
 </section>
 

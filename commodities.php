@@ -1,17 +1,12 @@
 <?php include("includes/header.php"); ?>
-
-
 <style>
-    
 .pb-120 {
     padding-bottom: 60px !important;
 }
 .pt-120 {
     padding-top: 60px !important;
 }
-
 </style>
-
 <section class="banner-section  pt-2 pb-1">
     <div class="container mt-lg-0 pt-18 pt-xl-20">
         <div class="row">
@@ -27,7 +22,6 @@
         </div>
     </div>
 </section>
-
 <section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/coin.png" alt="vector" class="position-absolute d-none d-md-flex previewShapeRevX">
@@ -66,7 +60,6 @@
         </div>
     </div>
 </section>
-
 <section class="provide-world pt-120 pb-120  position-relative z-0">
     <div class="container">
         <div class="row justify-content-center text-center mb-10 mb-lg-15">
@@ -127,7 +120,6 @@
         </div>
     </div>
 </section>
-
 <section class="faq pb-120 pt-120 position-relative z-0">
     <div class="container">
         <div class="row gy-6 justify-content-center">
@@ -182,5 +174,4 @@
         </div>
     </div>
 </section>
-
 <?php include("includes/footer.php"); ?>

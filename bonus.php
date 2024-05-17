@@ -1,7 +1,4 @@
 <?php include("includes/header.php"); ?>
-
-
-
 <section class="banner-section  pt-2 pb-1">
     <div class="container mt-lg-0 pt-18 pt-xl-20">
         <div class="row">
@@ -28,7 +25,6 @@
             <div class="col-xl-8 col-xxl-7">
                 <div class="heading__content mb-8 mb-lg-10 text-center">
                     <h2>Increase your trading potential with our exclusive deposit bonus!</h2>
-
                 </div>
             </div>
         </div>
@@ -86,7 +82,6 @@
                     </span>
                     <h3 class="mt-5 mb-5">Sign Up</h3>
                     <h4> Create an account with us to access exclusive benefits and offers.</h4>
-
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
@@ -96,7 +91,6 @@
                     </span>
                     <h3 class="mt-5 mb-5">Deposit Funds</h3>
                     <h4>Deposit into your trading account to unlock the bonus.</h4>
-
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
@@ -109,7 +103,6 @@
                     </h4>
 
                 </div>
-
             </div>
             <div class="col-md-6 col-xxl-3">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
@@ -120,10 +113,7 @@
                     <h4>Dive into the markets and maximize your potential for success!</h4>
                 </div>
             </div>
-
         </div>
-
-
 </section>
 
 
