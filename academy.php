@@ -7,7 +7,6 @@
         padding-top: 40px;
         padding-bottom: 40px;
     }
-
     .offers-content3::before {
         position: relative;
         top: -80px;
@@ -17,7 +16,6 @@
         font-weight: 700;
         left: 130px;
     }
-
     .table-para {
         background-color: #292929;
         padding: 35px;
@@ -25,18 +23,18 @@
         border-radius: 14px;
         margin: 10px 0px;
     }
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> ce12ad19f76ed9e57f7c4b4cc49ea1c2069e3c41
     .pb-120 {
-    padding-bottom: 60px !important;
-}
-.pt-120 {
-    padding-top: 60px !important;
-}
-
-
+        padding-bottom: 60px !important;
+    }
+    .pt-120 {
+        padding-top: 60px !important;
+    }
 </style>
-
 <section class="banner-section  pt-2 pb-1">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
@@ -53,7 +51,6 @@
         </div>
     </div>
 </section>
-
 <section class="company-story position-relative z-0  pt-60 pb-60 " style="background-color: #000;">
     <div class="animation position-absolute w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="vector"
@@ -69,7 +66,6 @@
         </div>
     </div>
 </section>
-
 <!--Trade On start-->
 <section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
     <div class="animation vector position-absolute top-0 left-0 w-100 h-100 z-n1">
@@ -109,8 +105,6 @@
     </div>
 </section>
 <!-- Trade On end -->
-
-
 <section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/coin.png" alt="vector" class="position-absolute d-none d-md-flex previewShapeRevX">
@@ -160,7 +154,6 @@
                         <li class="d-flex align-items-center gap-3 fs-six-up" style="font-weight: 600;"><i
                                 class="ti ti-circle-check s1-color fs-four" style="font-weight: 600;"></i>What is a pair
                             in forex?</li>
-
                     </ul>
                     <br>
                 </div>
@@ -173,8 +166,6 @@
         </div>
     </div>
 </section>
-
-
 <section class="provide-world pt-60 position-relative z-0 pb-60" style="background-color: #000;">
     <div class="container">
         <div class="row justify-content-center">
@@ -242,7 +233,6 @@
             </div>
         </div>
 </section>
-
 <section class="provide-world pt-60 position-relative z-0 pb-60" style="background-color: #000;">
     <div class="container">
         <div class="row justify-content-center">
@@ -299,7 +289,6 @@
             </div>
         </div>
 </section>
-
 <section class="provide-world pt-60 position-relative z-0 pb-60" style="background-color: #000;">
     <div class="container">
         <div class="row justify-content-center">
@@ -337,7 +326,6 @@
             </div>
         </div>
 </section>
-
 <section class="provide-world pt-60 position-relative z-0 pb-60" style="background-color: #000;">
     <div class="container">
         <div class="row justify-content-center">
@@ -367,7 +355,6 @@
             </div>
         </div>
 </section>
-
 <section class="provide-world pt-60 position-relative z-0 pb-60" style="background-color: #000;">
     <div class="container">
         <div class="row justify-content-center">
@@ -375,19 +362,29 @@
                 <div class="table-para mt-5 mb-5">
                     <h3 class="mb-4 mb-lg-5">5. How To Start Trading Forex</h3>
                     <h5 class="fs-six mx-ch mb-2 mt-2">Key Steps for Becoming a Forex Trader :</h5>
-                    <p class="fs-six mx-ch mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>Learn about forex trading essentials including currency pairings, pip movements, leverage, and risk management.</p>
-                    <p class="fs-six mx-ch mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>Select a reputable forex broker with regulatory oversight, user-friendly interfaces, competitive spreads, and exceptional customer service. </p>
-                    <p class="fs-six mx-ch mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>Open a trading account, starting with a demo account to gain experience and confidence.</p>
-                    <p class="fs-six mx-ch mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>Create a detailed trading strategy that includes goals, risk tolerance, techniques, and money management guidelines.</p>
-                    <p class="fs-six mx-ch mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>Before moving on to live trading with real money, make sure you practice regularly on a demo account.</p>
-                    <p class="fs-six mx-ch mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>Stay informed about market changes, economic news, and trading ideas.</p>
-                    <p class="fs-six mx-ch mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>Seek mentoring and connect with the forex trading community for advice and assistance.</p>
-                    <p class="fs-six mx-ch mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>Implement excellent risk management measures and practice discipline in trade execution.</p>
-                    <p class="fs-six mx-ch mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>During market swings, maintain patience and fortitude while focused on long-term success.</p>
+                    <p class="fs-six mx-ch mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>Learn about
+                        forex trading essentials including currency pairings, pip movements, leverage, and risk
+                        management.</p>
+                    <p class="fs-six mx-ch mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>Select a
+                        reputable forex broker with regulatory oversight, user-friendly interfaces, competitive spreads,
+                        and exceptional customer service. </p>
+                    <p class="fs-six mx-ch mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>Open a trading
+                        account, starting with a demo account to gain experience and confidence.</p>
+                    <p class="fs-six mx-ch mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>Create a
+                        detailed trading strategy that includes goals, risk tolerance, techniques, and money management
+                        guidelines.</p>
+                    <p class="fs-six mx-ch mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>Before moving
+                        on to live trading with real money, make sure you practice regularly on a demo account.</p>
+                    <p class="fs-six mx-ch mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>Stay informed
+                        about market changes, economic news, and trading ideas.</p>
+                    <p class="fs-six mx-ch mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>Seek mentoring
+                        and connect with the forex trading community for advice and assistance.</p>
+                    <p class="fs-six mx-ch mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>Implement
+                        excellent risk management measures and practice discipline in trade execution.</p>
+                    <p class="fs-six mx-ch mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>During market
+                        swings, maintain patience and fortitude while focused on long-term success.</p>
                 </div>
             </div>
         </div>
-</section>  
-
-
+</section>
 <?php include("includes/footer.php"); ?>

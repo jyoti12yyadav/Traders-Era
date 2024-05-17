@@ -1,17 +1,12 @@
 <?php include("includes/header.php"); ?>
-
-
 <style>
-    
 .pb-120 {
     padding-bottom: 60px !important;
 }
 .pt-120 {
     padding-top: 60px !important;
 }
-
 </style>
-
 <section class="banner-section  pt-2 pb-1">
     <div class="container mt-lg-0 pt-18 pt-xl-20">
         <div class="row">
@@ -28,8 +23,6 @@
         </div>
     </div>
 </section>
-
-
 <section class="privacy-policy mt-20 pt-120 pb-120 ">
     <div class="container">
         <div class="row justify-content-center">
@@ -43,11 +36,8 @@
                                 funding of terrorism and money laundering activities, law requires all financial
                                 institutions to obtain, verify, and record information that identifies each person
                                 opening an account</p>
-                           
                         </div>
-
                         <div class="privacy-policy__part">
-                           
                         <h5 class="mb-4">Money laundering  </h5>
                             <p class="mt-3">The process of converting funds, received
                             from illegal activities (such as fraud, corruption, terrorism, etc.), into other funds
@@ -205,12 +195,10 @@
                                 TradersEra has complete discretion to temporarily block the suspicious client account or
                                 terminate an existing client relationship.</p>
                         </div>
-
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
-
 <?php include("includes/footer.php"); ?>

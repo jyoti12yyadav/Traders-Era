@@ -115,7 +115,7 @@
                                <a class="dropdown-item" href="refer-a-friend.php">Refer a Friend</a>
                         </li>
                         <li>
-                                <a class="dropdown-item" href="bonus.php">100% Bonus</a>
+                                <a class="dropdown-item" href="bonus.php">50% Bonus</a>
                         
                         </li>
                     </ul>
