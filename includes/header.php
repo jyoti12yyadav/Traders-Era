@@ -3,13 +3,16 @@
 <!doctype html>
 <html lang="en">
 <!-- Mirrored from pixner.net/tradez/main/index-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 16 Jan 2024 07:19:13 GMT -->
+
 <head>
     <!-- required meta -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- #keywords -->
-    <title><?php echo $title ?></title>
+    <title>
+        <?php echo $title ?>
+    </title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content="<?php echo $description ?> " />
     <meta name="keywords" content="<?php echo $keywords ?> " />
@@ -19,9 +22,12 @@
     <link rel="stylesheet" href="assets/cdn.jsdelivr.net/npm/%40tabler/icons-webfont%402.36.0/tabler-icons.min.css">
     <link rel="stylesheet" href="assets/css/style.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
 </head>
+
 <body>
     <!--  Preloader  -->
     <div class="preloader">
@@ -45,7 +51,6 @@
 
 
 
-
     <header class="header-section a2-bg header-menu w-100">
 
 
@@ -57,33 +62,39 @@
                             <ul class="contact" style="display: flex;position: absolute;margin-top: 4px;">
                                 <li><img class="mx-2" src="assets/images/icon/mail icon png.png" alt=""><a
                                         href="mailto:support@tradersera.com">support@tradersera.com</a></li>
+<<<<<<< HEAD
+                                <li><img class="mx-2" src="assets/images/icon/call icon png.png" alt=""><a
+                                        href="tel:+ 44203758865">+44203758865</a></li>
+=======
                                 <li><img class="mx-2" src="assets/images/icon/call icon png.png" alt=""><a href="tel:+ 44203758865">+1 9142684555</a></li>
+>>>>>>> 29242ddbb3653bfd08d139f5f1bcfeb7d4578bb8
                             </ul>
 
                         </div>
                     </div>
                 </div>
-              
 
 
-                    <div class="right-area position-relative  ms-0 d-end gap-1 gap-xl-4 d-none d-lg-flex">
-                      
-                        <div class="single-item" style="  margin-right: 10px; ">
-                        <a  href="javascript:void(Tawk_API.toggle())" class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button"> Support </a>
-                        </div>
-                        <div class="single-item" style="  margin-right: 10px; ">
-                            <a href="https://trading.tradersera.com/register"
-                                class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button" target="new">
-                                Open an Account </a>
-                        </div>
-                        <div class="single-item">
-                            <a href="prelogin.php"
-                                class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button" target="new">
-                                Login</a>
-                        </div>
+
+                <div class="right-area position-relative  ms-0 d-end gap-1 gap-xl-4 d-none d-lg-flex">
+
+                    <div class="single-item" style="  margin-right: 10px; ">
+                        <a href="javascript:void(Tawk_API.toggle())"
+                            class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button"> Support </a>
+                    </div>
+                    <div class="single-item" style="  margin-right: 10px; ">
+                        <a href="https://trading.tradersera.com/register"
+                            class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button" target="new">
+                            Open an Account </a>
+                    </div>
+                    <div class="single-item">
+                        <a href="prelogin.php"
+                            class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button" target="new">
+                            Login</a>
                     </div>
                 </div>
             </div>
+        </div>
         </div>
         <div class="container  d-center ">
             <nav class="navbar rounded-3 navbar-expand-lg w-100 justify-content-between ">
@@ -127,22 +138,23 @@
                                 <li><a class="dropdown-item" href="ai-Invest.php">AI Invest </a></li>
                             </ul>
                         </li>
+                     
                         <li class="dropdown show-dropdown">
-                            <button type="button" aria-label="Navbar Dropdown Button"
-                                class="dropdown-toggle dropdown-nav">Trading</button>
+                            <mark>
+                                <button type="button" aria-label="Navbar Dropdown Button" class="dropdown-toggle dropdown-nav" onmouseover="this.style.color='black'" onmouseout="this.style.color=''">
+                                    Trading 
+                                </button>
+                            </mark>
                             <ul class="dropdown-menu">
-                                
-                            
-                                <!-- <li><a class="dropdown-item" href="deposit.php">Deposit</a></li>
-                                <li><a class="dropdown-item" href="withdrawal.php">Withdrawal</a></li> -->
                                 <li><a class="dropdown-item" href="binary-options-Crypto.php">Binary Options-Crypto</a></li>
                                 <li><a class="dropdown-item" href="account-types.php">Account Types-CFD</a></li>
                                 <li><a class="dropdown-item" href="market-hours.php">Market Hours</a></li>
                                 <li><a class="dropdown-item" href="refer-a-friend.php">Refer a Friend</a></li>
                                 <li><a class="dropdown-item" href="bonus.php">50% Bonus</a></li>
-                                
                             </ul>
                         </li>
+                        
+             
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
                                 class="dropdown-toggle dropdown-nav">Markets</button>
@@ -187,7 +199,8 @@
                                 <li><a class="dropdown-item" href="tradersera.php">TradersEra</a></li>
                                 <li><a class="dropdown-item" href="safety-of-funds.php">Safety of Funds</a></li>
                                 <li><a class="dropdown-item" href="regulatory.php">Regulatory</a></li>
-                                <li><a class="dropdown-item" target="_blank" href="https://tradersera.tawk.help/">Help Center</a></li>
+                                <li><a class="dropdown-item" target="_blank" href="https://tradersera.tawk.help/">Help
+                                        Center</a></li>
                                 <li><a class="dropdown-item" href="our-servers.php">Our Servers</a></li>
                                 <li><a class="dropdown-item" href="kyc-checks.php">KYC Checks</a></li>
                             </ul>
@@ -197,8 +210,8 @@
                                 class="dropdown-toggle dropdown-nav"><a class="dropdown-item" href="contact-us.php">Contact</a></button>
                         </li> -->
                         <li class="dropdown show-dropdown">
-                            <button type="button" aria-label="Navbar Dropdown Button"
-                                class="dropdown-nav"><a class="dropdown-item" href="https://tradersera.com/blogs">Blog</a></button>
+                            <button type="button" aria-label="Navbar Dropdown Button" class="dropdown-nav"><a
+                                    class="dropdown-item" href="https://tradersera.com/blogs">Blog</a></button>
                         </li>
 
                     </ul>
@@ -219,58 +232,75 @@
     <!-- header-section end -->
 
     <style>
-    .contact img {
-    height: 25px;
-    width: 25px;
-    max-width: 100%;
-   
-}
+        .contact img {
+            height: 25px;
+            width: 25px;
+            max-width: 100%;
 
-/* .contact-details{
+        }
+
+        /* .contact-details{
     padding-top: 10px;
 } */
 
 
 
-.contact li {
-    margin-right: 25px; /* Adjust the value as per your design */
-}
+        .contact li {
+            margin-right: 25px;
+            /* Adjust the value as per your design */
+        }
     </style>
 
 
-<style>
-.dropbtn {
-  background-color: #04AA6D;
-  color: white;
-  padding: 16px;
-  font-size: 16px;
-  border: none;
-}
+    <style>
+        .dropbtn {
+            background-color: #04AA6D;
+            color: white;
+            padding: 16px;
+            font-size: 16px;
+            border: none;
+        }
 
-.dropdown {
-  position: relative;
-  display: inline-block;
-}
+        .dropdown {
+            position: relative;
+            display: inline-block;
+        }
 
-.dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: #f1f1f1;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 1;
-}
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #ffffff;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+            z-index: 1;
+        }
 
-.dropdown-content a {
-  color: black;
-  padding: 12px 16px;
-  text-decoration: none;
-  display: block;
-}
+        .dropdown-content a {
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+        }
 
-.dropdown-content a:hover {background-color: #ddd;}
+        .dropdown-content a:hover {
+            background-color: #ddd;
+        }
 
-.dropdown:hover .dropdown-content {display: block;}
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
 
-.dropdown:hover .dropbtn {background-color: #3e8e41;}
-</style>
+        .dropdown:hover .dropbtn {
+            background-color: #3e8e41;
+        }
+        mark {
+            background-color: #9AD953;
+            border-radius: 7px;
+            /* padding: 7px 30px 7px 7px; */
+            
+            color:black;
+            text-size-adjust: 30%;
+
+        }
+        
+    </style>
