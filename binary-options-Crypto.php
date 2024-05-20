@@ -272,7 +272,7 @@
             <div class="col-md-3 col-xxl-3">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/Spreads.png" alt="stock-market">
+                        <img src="assets/images/icon/verify (1).png" alt="stock-market">
                     </span>
                     <h4 class="mt-5 mb-5">Register
                     </h4>
@@ -283,7 +283,7 @@
             <div class="col-md-3 col-xxl-3">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/commission.png" alt="stock-market">
+                        <img src="assets/images/icon/sharing.png" alt="stock-market">
                     </span>
                     <h4 class="mt-5 mb-5">Get Sharing
                     </h4>
