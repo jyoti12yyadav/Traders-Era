@@ -99,6 +99,108 @@
 .pt-120 {
     padding-top: 60px;
 }
+
+
+
+
+
+
+
+table {
+  border: 1px solid #ccc;
+  border-collapse: collapse;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  table-layout: fixed;
+}
+
+table caption {
+  font-size: 1.5em;
+  margin: .5em 0 .75em;
+}
+
+table tr {
+  background-color: #f8f8f8;
+  border: 1px solid #ddd;
+  padding: .35em;
+}
+
+table th,
+table td {
+  padding: .625em;
+  text-align: center;
+}
+
+table th {
+  font-size: .85em;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
+
+@media screen and (max-width: 600px) {
+  table {
+    border: 0;
+  }
+
+  table caption {
+    font-size: 1.3em;
+  }
+  
+  table thead {
+    border: none;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+  
+  table tr {
+    border-bottom: 3px solid #ddd;
+    display: block;
+    margin-bottom: .625em;
+  }
+  
+  table td {
+    border-bottom: 1px solid #ddd;
+    display: block;
+    font-size: .8em;
+    text-align: right;
+  }
+  
+  table td::before {
+    /*
+    * aria-label has no advantage, it won't be read inside a table
+    content: attr(aria-label);
+    */
+    content: attr(data-label);
+    float: left;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  table td:last-child {
+    border-bottom: 0;
+  }
+}
+
+
+/* general styling */
+body {
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.25;
+}
+
+
+
+
+
+
+
+
 </style>
 
     
@@ -120,78 +222,34 @@
     </div>
 </section>
 
-
-<section class="pt-120 pb-120 ">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-8 col-xxl-7">
-                <div class="heading__content  text-center">
-                    <h2>Benefits
-                    </h2>
-                </div>
-            </div>
-        </div>
-        <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
-            <div class="col-sm-12 col-lg-12 col-xxl-12">
-                <div class="row d-flex justify-content-end">
-                    <div class="col-xxl-12 mt-2 mt-md-12 mt-xxl-6">
-                        <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
-                            <div class="row">
-                                <div class="col-lg-2 d-flex align-items-center">
-                                    <img src="assets/images/icon/phone.png" alt="">
-                                </div>
-                                <div class="col-lg-10 d-flex align-items-center">
-                                    <div class="row">
-                                        <h2 class="pb-3">For (Referred New User)</h2>
-                                        <span>Welcome Bonus 25%</span>
-                                        <span>AI Bonus - 2%</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-
-
-<section class="pt-120 pb-120 ">
-    <div class="container">
-        <!-- <div class="row justify-content-center">
-            <div class="col-lg-8 col-xxl-7">
-                <div class="heading__content  text-center">
-                    <h2>Benefits
-                    </h2>
-                </div>
-            </div>
-        </div> -->
-        <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
-            <div class="col-sm-12 col-lg-12 col-xxl-12">
-                <div class="row d-flex justify-content-end">
-                    <div class="col-xxl-12 mt-2 mt-md-12 mt-xxl-6">
-                        <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
-                            <div class="row">
-                                <div class="col-lg-2 d-flex align-items-center">
-                                    <img src="assets/images/icon/phone.png" alt="">
-                                </div>
-                                <div class="col-lg-10 d-flex align-items-center">
-                                    <div class="row">
-                                        <h2 class="pb-3">For Referer</h2>
-                                        <span>(0.1% of the Comission from the Trades traded by the signup)</span>
-                                   
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+<h2 class="mt-4 mb-lg-5">
+Benefits
+                </h2>
+<!-- <caption>Benefits</caption> -->
+<table>
+ 
+  <thead>
+    <tr>
+      <th scope="col">For (Referred New User)</th>
+      <th scope="col">For Referer
+</th>
+      
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td data-label="Account">Welcome Bonus 25% & AI Bonus - 2%</td>
+      <td data-label="Due Date">(0.1% of the Comission from the Trades traded by the signup)</td>
+      
+    </tr>
+   <!-- <tr>
+      <td scope="row" data-label="Account">Visa - 6076</td>
+      <td data-label="Due Date">03/01/2016</td>
+      
+    </tr> -->
+    
+  </tbody>
+</table>
 
 
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0"  style="background-color: #000;">
@@ -211,7 +269,7 @@
                 <div class="trade_on__content">
                     <!-- <h2 class="mb-4 mb-lg-5" style="font-size:35px;">TradersEra - OPTIONS BINARY -->
 
-                    </h2>
+                    <!-- </h2> -->
                     <!-- <p class="mx-ch">Web trading platforms are safer since they use a remote server or cloud for
                         calculations. Users only need to focus on their internet connection and routing speed. No need
                         to download or install anything.</p> -->
