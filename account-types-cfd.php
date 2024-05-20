@@ -326,10 +326,6 @@
                                     type="button">
                                     How can I predict price movement in a trade that is either higher or lower or rise/fall?
 
-
-
-
-
                                 </button>
                             </h3>
                             <div class="content-area">
