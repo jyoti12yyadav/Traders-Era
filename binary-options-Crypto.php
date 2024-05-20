@@ -109,100 +109,7 @@
     }
 
 
-
-
-
-
-
-    table {
-      
-        border-collapse: collapse;
-        margin: 0;
-        padding: 0;
-        width: 100%;
-        table-layout: fixed;
-    }
-
-    table caption {
-        font-size: 1.5em;
-        margin: .5em 0 .75em;
-    }
-
-    table tr {
-
-        padding: .35em;
-    }
-
-    table th,
-    table td {
-        padding: .625em;
-        text-align: center;
-    }
-
-    table th {
-        font-size: .85em;
-        letter-spacing: .1em;
-        text-transform: uppercase;
-    }
-
-    @media screen and (max-width: 600px) {
-        table {
-            border: 0;
-        }
-
-        table caption {
-            font-size: 1.3em;
-        }
-
-        table thead {
-            border: none;
-            clip: rect(0 0 0 0);
-            height: 1px;
-            margin: -1px;
-            overflow: hidden;
-            padding: 0;
-            position: absolute;
-            width: 1px;
-        }
-
-        table tr {
-         
-            display: block;
-            margin-bottom: .625em;
-        }
-
-        table td {
-          
-            display: block;
-            font-size: .8em;
-            text-align: right;
-        }
-
-        table td::before {
-            /*
-    * aria-label has no advantage, it won't be read inside a table
-    content: attr(aria-label);
-    */
-            content: attr(data-label);
-            float: left;
-            font-weight: bold;
-            text-transform: uppercase;
-        }
-
-        table td:last-child {
-            border-bottom: 0;
-        }
-    }
-
-
-    /* general styling */
-    body {
-        font-family: "Open Sans", sans-serif;
-        line-height: 1.25;
-    }
 </style>
-
-
 
 <section class="banner-section pt-2 pb-1">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
@@ -235,8 +142,6 @@
         </div>
 
     
-
-
         <div class="row">
             <div class="col-12">
                 <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
@@ -244,7 +149,7 @@
                         <div class="row d-flex justify-content-end">
                             <div class="col-xxl-12 mt-2 mt-md-12 mt-xxl-6">
                                 <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
-                                  <h3 >For (Referred New User)</h3>
+                                  <h3>For (Referred New User)</h3>
                                   <h4  style="margin-left: auto;">Welcome Bonus 25% <br> AI Bonus - 2%</h4>
                                  
                                  
@@ -264,8 +169,8 @@
                         <div class="row d-flex justify-content-end">
                             <div class="col-xxl-12 mt-2 mt-md-12 mt-xxl-6">
                                 <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
-                                  <h3 >For Referer</h3>
-                                  <h4  style="margin-left: auto;">(0.1% of the Comission from the Trades traded by the signup)</h4>
+                                  <h3>For Referer</h3>
+                                  <h4  style="margin-left: auto;">(0.1% of the Comission from the <br> Trades traded by the signup)</h4>
                                 </div>
                             </div>
                         </div>
@@ -274,9 +179,6 @@
             </div>
             
         </div>
-
-
-
     </div>
 </section>
 
@@ -298,16 +200,7 @@
 
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
-                    <!-- <h2 class="mb-4 mb-lg-5" style="font-size:35px;">TradersEra - OPTIONS BINARY -->
-
-                    <!-- </h2> -->
-                    <!-- <p class="mx-ch">Web trading platforms are safer since they use a remote server or cloud for
-                        calculations. Users only need to focus on their internet connection and routing speed. No need
-                        to download or install anything.</p> -->
-
                 </div>
-
-
                 <h2 class="mt-4 mb-lg-5">
                     OptionS Binary
                 </h2>
@@ -334,19 +227,8 @@
 
                     </li>
                     <br>
-                    <!-- <h3>Platforms Supported:</h3>
-                    <ul class=" d-flex  gap-md-3 ">
-                        <li><img style=" height:35px;" src="assets/images/icon/icon IE.webp" alt="IE"></li>
-                        <li><img style=" height:35px;" src="assets/images/icon/icon opera.webp" alt="opera"></li>
-                        <li><img style=" height:35px;" src="assets/images/icon/icon safari.webp" alt="safari"></li>
-                        <li><img style=" height:35px;" src="assets/images/icon/icon fire fox.webp" alt="fire fox"></li>
-                        <li><img style=" height:35px;" src="assets/images/icon/icon CROME.webp" alt="CROME"></li>
-
-                    </ul> -->
                 </ul>
-
             </div>
-
         </div>
 </section>
 
@@ -376,11 +258,7 @@
                         limit on new bets from 20:31 to 22:29 UTC.
                     </p>
                     <br><br>
-                    <!-- <p class="fs-six ">If you believe it will, you can choose to buy. On the other hand, if you think it
-                        won't, you can opt to sell.</p>
-                    <br>
-                    <p class="fs-six ">For this scenario, let's assume you decide to buy.</p>
-                    <br> -->
+                  
                 </div>
 
                 <div class="col-lg-6 col-xxl-8">
@@ -390,19 +268,10 @@
                             charged for trading options.
                         </p>
                         <br>
-                        <!-- <p class="fs-six ">From Sunday at 22:30 to Friday at 20:30 UTC, bets can be made. There is a daily limit on new bets from 20:31 to 22:29 UTC.
-                        </p> -->
-                        <br>
-                        <!-- <p class="fs-six ">If you believe it will, you can choose to buy. On the other hand, if you think it
-                            won't, you can opt to sell.</p>
-                        <br>
-                        <p class="fs-six ">For this scenario, let's assume you decide to buy.</p>
-                        <br> -->
+                        <br>  
                     </div>
                 </div>
             </div>
-
-
         </div>
     </div>
 </section>
@@ -521,10 +390,6 @@
 </section>
 
 
-
-
-
-
 <!-- FAQ Section -->
 <section class="faq pb-120 pt-120 position-relative z-0">
     <div class="animation position-absolute top-0 center-0 w-100 h-100 z-n1">
@@ -615,8 +480,6 @@
                                     type="button">
                                     They would gladly assist you in getting in touch with our marketing division.What
                                     are the boundaries?
-
-
                                 </button>
                             </h3>
                             <div class="content-area">
