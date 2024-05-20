@@ -68,7 +68,41 @@
     .pt-120 {
         padding-top: 60px !important;
     }
+
+
+    .company-story__part {
+    border: solid 1px white;
+    padding: 30px;
+    border-radius: 19px;
+}
+.alt_form select{
+    border-bottom:rgb(52 56 57);
+}
+.single-input{
+    margin-top: 27px !important;
+    border-bottom: 2px solid #3a3939;
+}
+.nice-select{
+    padding-top:10px;
+    padding-bottom: 14px;
+}
+.nice-select:focus, .nice-select:hover {
+    background-color: transparent;
+    box-shadow: none;
+}
+.nice-select .list{
+    background-color:#000;
+}
+.pb-120 {
+    padding-bottom: 60px;
+}
+.pt-120 {
+    padding-top: 60px;
+}
 </style>
+
+    
+
 <section class="banner-section pt-2 pb-1">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
@@ -81,6 +115,79 @@
                                 Crypto</span></li>
                     </ol>
                 </nav>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="pt-120 pb-120 ">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8 col-xxl-7">
+                <div class="heading__content  text-center">
+                    <h2>Benefits
+                    </h2>
+                </div>
+            </div>
+        </div>
+        <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
+            <div class="col-sm-12 col-lg-12 col-xxl-12">
+                <div class="row d-flex justify-content-end">
+                    <div class="col-xxl-12 mt-2 mt-md-12 mt-xxl-6">
+                        <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
+                            <div class="row">
+                                <div class="col-lg-2 d-flex align-items-center">
+                                    <img src="assets/images/icon/phone.png" alt="">
+                                </div>
+                                <div class="col-lg-10 d-flex align-items-center">
+                                    <div class="row">
+                                        <h2 class="pb-3">For (Referred New User)</h2>
+                                        <span>Welcome Bonus 25%</span>
+                                        <span>AI Bonus - 2%</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<section class="pt-120 pb-120 ">
+    <div class="container">
+        <!-- <div class="row justify-content-center">
+            <div class="col-lg-8 col-xxl-7">
+                <div class="heading__content  text-center">
+                    <h2>Benefits
+                    </h2>
+                </div>
+            </div>
+        </div> -->
+        <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
+            <div class="col-sm-12 col-lg-12 col-xxl-12">
+                <div class="row d-flex justify-content-end">
+                    <div class="col-xxl-12 mt-2 mt-md-12 mt-xxl-6">
+                        <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
+                            <div class="row">
+                                <div class="col-lg-2 d-flex align-items-center">
+                                    <img src="assets/images/icon/phone.png" alt="">
+                                </div>
+                                <div class="col-lg-10 d-flex align-items-center">
+                                    <div class="row">
+                                        <h2 class="pb-3">For Referer</h2>
+                                        <span>(0.1% of the Comission from the Trades traded by the signup)</span>
+                                   
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
