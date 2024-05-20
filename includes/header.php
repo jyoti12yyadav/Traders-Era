@@ -135,7 +135,7 @@
                             
                                 <!-- <li><a class="dropdown-item" href="deposit.php">Deposit</a></li>
                                 <li><a class="dropdown-item" href="withdrawal.php">Withdrawal</a></li> -->
-                                <li><a class="dropdown-item" href="account-types.php">Binary Options-Crypto</a></li>
+                                <li><a class="dropdown-item" href="binary-options-Crypto.php">Binary Options-Crypto</a></li>
                                 <li><a class="dropdown-item" href="account-types.php">Account Types-CFD</a></li>
                                 <li><a class="dropdown-item" href="market-hours.php">Market Hours</a></li>
                                 <li><a class="dropdown-item" href="refer-a-friend.php">Refer a Friend</a></li>
