@@ -71,34 +71,42 @@
 
 
     .company-story__part {
-    border: solid 1px white;
-    padding: 30px;
-    border-radius: 19px;
-}
-.alt_form select{
-    border-bottom:rgb(52 56 57);
-}
-.single-input{
-    margin-top: 27px !important;
-    border-bottom: 2px solid #3a3939;
-}
-.nice-select{
-    padding-top:10px;
-    padding-bottom: 14px;
-}
-.nice-select:focus, .nice-select:hover {
-    background-color: transparent;
-    box-shadow: none;
-}
-.nice-select .list{
-    background-color:#000;
-}
-.pb-120 {
-    padding-bottom: 60px;
-}
-.pt-120 {
-    padding-top: 60px;
-}
+        border: solid 1px white;
+        padding: 30px;
+        border-radius: 19px;
+    }
+
+    .alt_form select {
+        border-bottom: rgb(52 56 57);
+    }
+
+    .single-input {
+        margin-top: 27px !important;
+        border-bottom: 2px solid #3a3939;
+    }
+
+    .nice-select {
+        padding-top: 10px;
+        padding-bottom: 14px;
+    }
+
+    .nice-select:focus,
+    .nice-select:hover {
+        background-color: transparent;
+        box-shadow: none;
+    }
+
+    .nice-select .list {
+        background-color: #000;
+    }
+
+    .pb-120 {
+        padding-bottom: 60px;
+    }
+
+    .pt-120 {
+        padding-top: 60px;
+    }
 
 
 
@@ -106,104 +114,95 @@
 
 
 
-table {
-  border: 1px solid #ccc;
-  border-collapse: collapse;
-  margin: 0;
-  padding: 0;
-  width: 100%;
-  table-layout: fixed;
-}
+    table {
+      
+        border-collapse: collapse;
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        table-layout: fixed;
+    }
 
-table caption {
-  font-size: 1.5em;
-  margin: .5em 0 .75em;
-}
+    table caption {
+        font-size: 1.5em;
+        margin: .5em 0 .75em;
+    }
 
-table tr {
-  background-color: #f8f8f8;
-  border: 1px solid #ddd;
-  padding: .35em;
-}
+    table tr {
 
-table th,
-table td {
-  padding: .625em;
-  text-align: center;
-}
+        padding: .35em;
+    }
 
-table th {
-  font-size: .85em;
-  letter-spacing: .1em;
-  text-transform: uppercase;
-}
+    table th,
+    table td {
+        padding: .625em;
+        text-align: center;
+    }
 
-@media screen and (max-width: 600px) {
-  table {
-    border: 0;
-  }
+    table th {
+        font-size: .85em;
+        letter-spacing: .1em;
+        text-transform: uppercase;
+    }
 
-  table caption {
-    font-size: 1.3em;
-  }
-  
-  table thead {
-    border: none;
-    clip: rect(0 0 0 0);
-    height: 1px;
-    margin: -1px;
-    overflow: hidden;
-    padding: 0;
-    position: absolute;
-    width: 1px;
-  }
-  
-  table tr {
-    border-bottom: 3px solid #ddd;
-    display: block;
-    margin-bottom: .625em;
-  }
-  
-  table td {
-    border-bottom: 1px solid #ddd;
-    display: block;
-    font-size: .8em;
-    text-align: right;
-  }
-  
-  table td::before {
-    /*
+    @media screen and (max-width: 600px) {
+        table {
+            border: 0;
+        }
+
+        table caption {
+            font-size: 1.3em;
+        }
+
+        table thead {
+            border: none;
+            clip: rect(0 0 0 0);
+            height: 1px;
+            margin: -1px;
+            overflow: hidden;
+            padding: 0;
+            position: absolute;
+            width: 1px;
+        }
+
+        table tr {
+         
+            display: block;
+            margin-bottom: .625em;
+        }
+
+        table td {
+          
+            display: block;
+            font-size: .8em;
+            text-align: right;
+        }
+
+        table td::before {
+            /*
     * aria-label has no advantage, it won't be read inside a table
     content: attr(aria-label);
     */
-    content: attr(data-label);
-    float: left;
-    font-weight: bold;
-    text-transform: uppercase;
-  }
-  
-  table td:last-child {
-    border-bottom: 0;
-  }
-}
+            content: attr(data-label);
+            float: left;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+
+        table td:last-child {
+            border-bottom: 0;
+        }
+    }
 
 
-/* general styling */
-body {
-  font-family: "Open Sans", sans-serif;
-  line-height: 1.25;
-}
-
-
-
-
-
-
-
-
+    /* general styling */
+    body {
+        font-family: "Open Sans", sans-serif;
+        line-height: 1.25;
+    }
 </style>
 
-    
+
 
 <section class="banner-section pt-2 pb-1">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
@@ -222,37 +221,69 @@ body {
     </div>
 </section>
 
-<h2 class="mt-4 mb-lg-5">
-Benefits
-                </h2>
-<!-- <caption>Benefits</caption> -->
-<table>
- 
-  <thead>
-    <tr>
-      <th scope="col">For (Referred New User)</th>
-      <th scope="col">For Referer
-</th>
-      
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td data-label="Account">Welcome Bonus 25% & AI Bonus - 2%</td>
-      <td data-label="Due Date">(0.1% of the Comission from the Trades traded by the signup)</td>
-      
-    </tr>
-   <!-- <tr>
-      <td scope="row" data-label="Account">Visa - 6076</td>
-      <td data-label="Due Date">03/01/2016</td>
-      
-    </tr> -->
+
+<section class="pt-120 pb-120 ">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8 col-xxl-7">
+                <div class="heading__content  text-center">
+                    <h2>Benefits
+
+                    </h2>
+                </div>
+            </div>
+        </div>
+
     
-  </tbody>
-</table>
 
 
-<section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0"  style="background-color: #000;">
+        <div class="row">
+            <div class="col-12">
+                <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
+                    <div class="col-sm-12 col-lg-12 col-xxl-12">
+                        <div class="row d-flex justify-content-end">
+                            <div class="col-xxl-12 mt-2 mt-md-12 mt-xxl-6">
+                                <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
+                                  <h3 >For (Referred New User)</h3>
+                                  <h4  style="margin-left: auto;">Welcome Bonus 25% <br> AI Bonus - 2%</h4>
+                                 
+                                 
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+
+        <div class="row">
+            <div class="col-12">
+                <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
+                    <div class="col-sm-12 col-lg-12 col-xxl-12">
+                        <div class="row d-flex justify-content-end">
+                            <div class="col-xxl-12 mt-2 mt-md-12 mt-xxl-6">
+                                <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
+                                  <h3 >For Referer</h3>
+                                  <h4  style="margin-left: auto;">(0.1% of the Comission from the Trades traded by the signup)</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+
+
+
+    </div>
+</section>
+
+
+
+
+<section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0" style="background-color: #000;">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="star3"
             class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
@@ -311,7 +342,7 @@ Benefits
                         <li><img style=" height:35px;" src="assets/images/icon/icon fire fox.webp" alt="fire fox"></li>
                         <li><img style=" height:35px;" src="assets/images/icon/icon CROME.webp" alt="CROME"></li>
 
-                    </ul> --> 
+                    </ul> -->
                 </ul>
 
             </div>
@@ -330,16 +361,19 @@ Benefits
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 col-xxl-5 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/Binary Trading At TradersEra.png" alt="Binary Option contracts with the EUR/USD currency pair">
+                    <img src="assets/images/Binary Trading At TradersEra.png"
+                        alt="Binary Option contracts with the EUR/USD currency pair">
                 </div>
             </div>
             <div class="col-lg-6 col-xxl-6">
                 <div class="trade_on__content">
                     <h2 class="mb-4 mb-lg-5">Timetable for Trading Binary Options</h2>
-                    <p class="fs-six ">Binary options trading is open for business 6 days a week, 22 hours a day. On Sunday night, trading begins, and it closes on Friday night.
+                    <p class="fs-six ">Binary options trading is open for business 6 days a week, 22 hours a day. On
+                        Sunday night, trading begins, and it closes on Friday night.
                     </p>
                     <br>
-                    <p class="fs-six ">From Sunday at 22:30 to Friday at 20:30 UTC, bets can be made. There is a daily limit on new bets from 20:31 to 22:29 UTC.
+                    <p class="fs-six ">From Sunday at 22:30 to Friday at 20:30 UTC, bets can be made. There is a daily
+                        limit on new bets from 20:31 to 22:29 UTC.
                     </p>
                     <br><br>
                     <!-- <p class="fs-six ">If you believe it will, you can choose to buy. On the other hand, if you think it
@@ -352,7 +386,8 @@ Benefits
                 <div class="col-lg-6 col-xxl-8">
                     <div class="trade_on__content">
                         <h2 class="mb-4 mb-lg-4">LIMITS ON BETS</h2>
-                        <p class="fs-six ">There is a 1 USD minimum and a 1000 USD maximum stake. Commissions are not charged for trading options.
+                        <p class="fs-six ">There is a 1 USD minimum and a 1000 USD maximum stake. Commissions are not
+                            charged for trading options.
                         </p>
                         <br>
                         <!-- <p class="fs-six ">From Sunday at 22:30 to Friday at 20:30 UTC, bets can be made. There is a daily limit on new bets from 20:31 to 22:29 UTC.
@@ -367,7 +402,7 @@ Benefits
                 </div>
             </div>
 
-           
+
         </div>
     </div>
 </section>
@@ -433,7 +468,7 @@ Benefits
 <section class="provide-world pt-120 pb-120  position-relative z-0" style="padding-bottom: 25px;">
     <div class="container">
         <div class="row gy-6 gy-xxl-0">
-                <h2 class="mb-15 text-center">Sign Up And Share Your Link Now! </h2>
+            <h2 class="mb-15 text-center">Sign Up And Share Your Link Now! </h2>
             <div class="col-md-3 col-xxl-3">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
