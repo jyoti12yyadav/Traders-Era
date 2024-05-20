@@ -62,12 +62,7 @@
                             <ul class="contact" style="display: flex;position: absolute;margin-top: 4px;">
                                 <li><img class="mx-2" src="assets/images/icon/mail icon png.png" alt=""><a
                                         href="mailto:support@tradersera.com">support@tradersera.com</a></li>
-<<<<<<< HEAD
-                                <li><img class="mx-2" src="assets/images/icon/call icon png.png" alt=""><a
-                                        href="tel:+ 44203758865">+44203758865</a></li>
-=======
                                 <li><img class="mx-2" src="assets/images/icon/call icon png.png" alt=""><a href="tel:+ 44203758865">+1 9142684555</a></li>
->>>>>>> 29242ddbb3653bfd08d139f5f1bcfeb7d4578bb8
                             </ul>
 
                         </div>
@@ -296,11 +291,11 @@
         mark {
             background-color: #9AD953;
             border-radius: 7px;
-            /* padding: 7px 30px 7px 7px; */
-            
+            padding: 7px 30px 7px 7px;
             color:black;
             text-size-adjust: 30%;
-
         }
+
+       
         
     </style>
