@@ -185,7 +185,7 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h2 class="pb-3">Address </h2>
+                                        <h2 class="pb-3">TradersEra LLC </h2>
                                         <span> Suite 305, Griffith Corporate Centre, PO Box 1510, Beachmont, Kingstown. St Vincent and Grenadines</span>
                                     </div>
                                 </div>

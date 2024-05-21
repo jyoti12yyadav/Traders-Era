@@ -1,4 +1,7 @@
 <?php include("includes/header.php"); ?>
+
+
+
 <section class="banner-section  pt-2 pb-1">
     <div class="container mt-lg-0 pt-18 pt-xl-20">
         <div class="row">
@@ -21,6 +24,8 @@
         <img src="assets/images/vector3.png" alt="vector" class="position-absolute bottom-0 end-0 d-none d-xxxl-flex">
     </div>
     <div class="container">
+        <h2 style="text-align: center;">Applicable on CFD Trading</h2><br><br>
+        <h2>Brokerage</h2>
         <div class="row justify-content-center">
             <div class="col-xl-8 col-xxl-7">
                 <div class="heading__content mb-8 mb-lg-10 text-center">
@@ -28,6 +33,7 @@
                 </div>
             </div>
         </div>
+
         <div class="row">
             <div class="col-12">
                 <div class="singletab">
@@ -45,14 +51,12 @@
                                 <div class="col-xl-6 col-xxl-5">
                                     <div class="trade_on__content">
                                         <h4 class="mb-4">Trading is easier and more profitable than ever before!</h4>
-                                        <p class="mx-ch">For a short period, TradersEra Markets is providing all traders
-                                            a massive 50% deposit bonus. Whether you're a new or experienced trader,
-                                            this is an excellent opportunity to boost your trading capital and obtain an
-                                            advantage in the Forex market.</p>
+                                        <p class="mx-ch">For a short period, TradersEra Markets is providing all traders a massive 100% deposit bonus. 
+                                            Whether you're a new or experienced trader, this is an excellent opportunity to boost your trading capital and 
+                                            obtain an advantage in the Forex market.</p>   
                                         <br>
-                                        <p>This great offer allows you to increase your initial investment, providing
-                                            you with the necessary leverage to go further into the world of Forex
-                                            trading.</p>
+                                        <p>This great offer allows you to increase your initial investment, providing you with the necessary leverage to go 
+                                            further into the world of Forex trading.</p>
                                     </div>
                                 </div>
                             </div>
@@ -65,7 +69,8 @@
 </section>
 
 
-<section class="provide-world pt-120 position-relative z-0 mb-10 pb-120" style="background-color: rgb(20,20,20);">
+
+<section class="provide-world pt-120 position-relative z-0 mb-10 pb-120" style="background-color: #000;">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-12 col-xxl-10">
@@ -82,6 +87,7 @@
                     </span>
                     <h3 class="mt-5 mb-5">Sign Up</h3>
                     <h4> Create an account with us to access exclusive benefits and offers.</h4>
+
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
@@ -91,6 +97,7 @@
                     </span>
                     <h3 class="mt-5 mb-5">Deposit Funds</h3>
                     <h4>Deposit into your trading account to unlock the bonus.</h4>
+
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
@@ -103,6 +110,7 @@
                     </h4>
 
                 </div>
+
             </div>
             <div class="col-md-6 col-xxl-3">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
@@ -113,7 +121,10 @@
                     <h4>Dive into the markets and maximize your potential for success!</h4>
                 </div>
             </div>
+
         </div>
+
+
 </section>
 
 
