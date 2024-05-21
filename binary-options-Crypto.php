@@ -71,7 +71,7 @@
 
 
     .company-story__part {
-        border: solid 1px white;
+        border: solid 1px #9ad953;
         padding: 30px;
         border-radius: 19px;
     }
@@ -108,7 +108,13 @@
         padding-top: 60px;
     }
 
+    .referred_image {
+        width: 45px;
+    }
 
+    .referer_image {
+        width: 50px;
+    }
 </style>
 
 <section class="banner-section pt-2 pb-1">
@@ -141,7 +147,7 @@
             </div>
         </div>
 
-    
+
         <div class="row">
             <div class="col-12">
                 <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
@@ -149,17 +155,19 @@
                         <div class="row d-flex justify-content-end">
                             <div class="col-xxl-12 mt-2 mt-md-12 mt-xxl-6">
                                 <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
-                                  <h3>For (Referred New User)</h3>
-                                  <h4  style="margin-left: auto;">Welcome Bonus 25% <br> AI Bonus - 2%</h4>
-                                 
-                                 
+                                    <div class="col-lg-1 d-flex">
+                                        <img src="assets/images/icon/collaboration.png" alt="referral"
+                                            class="referred_image">
+                                    </div>
+                                    <h3 style="font-size: 25px">For Referred New User</h3>
+                                    <h4 style="margin-left: auto;">Welcome Bonus 25% </h4>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            
+
         </div>
 
         <div class="row">
@@ -169,16 +177,46 @@
                         <div class="row d-flex justify-content-end">
                             <div class="col-xxl-12 mt-2 mt-md-12 mt-xxl-6">
                                 <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
-                                  <h3>For Referer</h3>
-                                  <h4  style="margin-left: auto;">(0.1% of the Comission from the <br> Trades traded by the signup)</h4>
+                                    <div class="col-lg-1 d-flex">
+                                        <img src="assets/images/icon/collaboration.png" alt="referral"
+                                            class="referred_image">
+                                    </div>
+                                    <h3 style="font-size: 25px">For Referred New User</h3>
+                                    <h4 style="margin-left: auto;"> AI Bonus - 2%</h4>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            
+
+
         </div>
+
+        <div class="row">
+            <div class="col-12">
+                <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
+                    <div class="col-sm-12 col-lg-12 col-xxl-12">
+                        <div class="row d-flex justify-content-end">
+                            <div class="col-xxl-12 mt-2 mt-md-12 mt-xxl-6">
+                                <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
+                                    <div class="col-lg-1 d-flex">
+                                        <img src="assets/images/icon/refer.png" alt="referral" class="referer_image">
+                                    </div>
+                                    <h3 style="font-size: 25px;">For Referer</h3>
+                                    <h4 style="margin-left: auto;">0.1% of the Comission from the <br> Trades traded by
+                                        the signup</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+
+        
     </div>
 </section>
 
@@ -258,7 +296,7 @@
                         limit on new bets from 20:31 to 22:29 UTC.
                     </p>
                     <br><br>
-                  
+
                 </div>
 
                 <div class="col-lg-6 col-xxl-8">
@@ -268,7 +306,7 @@
                             charged for trading options.
                         </p>
                         <br>
-                        <br>  
+                        <br>
                     </div>
                 </div>
             </div>

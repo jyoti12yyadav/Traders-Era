@@ -49,11 +49,7 @@
 
     <!-- header-section start -->
 
-
-
     <header class="header-section a2-bg header-menu w-100">
-
-
         <div class="container-fluid bg-upper-header upper-header">
             <div class="container">
                 <div class="upper-header-content">
@@ -69,10 +65,7 @@
                     </div>
                 </div>
 
-
-
                 <div class="right-area position-relative  ms-0 d-end gap-1 gap-xl-4 d-none d-lg-flex">
-
                     <div class="single-item" style="  margin-right: 10px; ">
                         <a href="javascript:void(Tawk_API.toggle())"
                             class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button"> Support </a>
@@ -106,9 +99,7 @@
                 </div>
                 <div class="nav_alt">
                     <div class="right-area position-relative ms-0 d-center gap-1 gap-xl-4 d-lg-none">
-                        <!-- <div class="single-item">
-                            <a href="signin.html" class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-center gap-1 fw-bold nw1-color"> Login <i class="ti ti-arrow-right fs-six-up"></i></a>
-                        </div> -->
+                       
                         <div class="single-item">
                             <a href="contact-us.php"
                                 class="cmn-btn fw-bold py-2 px-2 px-sm-3 px-lg-4 align-items-center gap-1"> Contact Us
@@ -133,13 +124,13 @@
                                 <li><a class="dropdown-item" href="ai-Invest.php">AI Invest </a></li>
                             </ul>
                         </li>
-                     
+                        <mark>
                         <li class="dropdown show-dropdown">
-                            <mark>
+                           
                                 <button type="button" aria-label="Navbar Dropdown Button" class="dropdown-toggle dropdown-nav" onmouseover="this.style.color='black'" onmouseout="this.style.color=''">
                                     Trading 
                                 </button>
-                            </mark>
+                            
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item" href="binary-options-Crypto.php">Binary Options-Crypto</a></li>
                                 <li><a class="dropdown-item" href="account-types.php">Account Types-CFD</a></li>
@@ -148,7 +139,7 @@
                                 <li><a class="dropdown-item" href="bonus.php">50% Bonus</a></li>
                             </ul>
                         </li>
-                        
+                        </mark>
              
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
@@ -175,15 +166,12 @@
                             </ul>
                         </li>
 
-
-
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
                                 class="dropdown-toggle dropdown-nav">Partners</button>
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item" href="cfd-partner.php">CFD Partner</a></li>
-                                <!-- <li><a class="dropdown-item" href="referral-binary.php">Binary Referral</a></li>
-                                <li><a class="dropdown-item" href="become-an-iB.php">CFD Referral</a></li> -->
+                              
                             </ul>
                         </li>
 
@@ -234,9 +222,7 @@
 
         }
 
-        /* .contact-details{
-    padding-top: 10px;
-} */
+        
 
 
 
@@ -292,10 +278,9 @@
         mark {
             background-color: #9AD953;
             border-radius: 7px;
-            padding-right: 25px;
-            /* padding: 7px 30px 7px 7px; */
+          
             color:black;
-            text-size-adjust: 30%;
+          
         }       
         
     </style>
