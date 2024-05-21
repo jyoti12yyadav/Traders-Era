@@ -100,10 +100,10 @@
                     <h4 class="mb-6 mb-lg-8">Trading</h4>
                     <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
                     <li>
-                            <a class="n2-color d-flex align-items-center" href="account-types.php">Binary Options - Crypto</a>
+                            <a class="n2-color d-flex align-items-center" href="account-types.php">Binary Trading</a>
                         </li>
                         <li>
-                            <a class="n2-color d-flex align-items-center" href="account-types.php">Account Types - CFD</a>
+                            <a class="n2-color d-flex align-items-center" href="account-types.php">Forex CFDs</a>
                         </li>
                         <!-- <li>
                             <a class="n2-color" href="deposit.php">Deposit</a>
