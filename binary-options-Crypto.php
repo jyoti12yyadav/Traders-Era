@@ -216,7 +216,7 @@
         </div>
 
 
-        
+
     </div>
 </section>
 
@@ -230,17 +230,10 @@
     </div>
     <div class="container">
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
-            <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
-                <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/tradersera.png" alt="Web Based Tradersera Platform ">
-                </div>
-            </div>
 
             <div class="col-md-10 col-lg-6 col-xxl-5">
-                <div class="trade_on__content">
-                </div>
                 <h2 class="mt-4 mb-lg-5">
-                    OptionS Binary
+                    Options Binary
                 </h2>
                 <ul class="d-flex gap-4 flex-column mt-6">
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
@@ -262,13 +255,21 @@
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>You can trade from Sunday through Friday.
-
                     </li>
                     <br>
                 </ul>
             </div>
+
+
+            <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0 mt-20">
+                <div class="trade_on__thumbs d-flex justify-content-end">
+                    <img src="assets/images/binary options.png" alt="Web Based Tradersera Platform">
+                </div>
+            </div>
+
         </div>
 </section>
+
 
 
 
@@ -281,7 +282,7 @@
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 col-xxl-5 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/Binary Trading At TradersEra.png"
+                    <img src="assets/images/timetabel binary options.png"
                         alt="Binary Option contracts with the EUR/USD currency pair">
                 </div>
             </div>
