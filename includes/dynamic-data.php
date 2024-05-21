@@ -281,6 +281,15 @@ switch ($menuactive) {
         $alternateName="Learn";
         $url="https://tradersera.com/learn.php";
         break;
+
+        case 'binary-options-Crypto':
+            $title = "Binary Crypto | Crypto Binary Trading | Binary Options Crypto";
+            $description = "Our web-based application simplifies binary options trading on cryptocurrencies. Monitor rates, marketplaces, and place bets effortlessly. Learn more.";
+            $keywords = "Binary Options, Binary Crypto Trading, Crypto Binary Trading, Binary Trading, Binary Options Trading, Binary Crypto Options, Binary Options Trading Platform, Binary Options Trading Strategy, Trade Binary Options, Financial Instruments, Forex Binary Options, Forex Binary Trading, Forex Binary Trading Platforms, Trade Binary Options, ";
+            $name="Binary Options-Crypto";
+            $alternateName="Binary Options-Crypto";
+            $url="https://tradersera.com/binary-options-Crypto.php";
+            break;    
         
     default:
         $title = "Title Here";

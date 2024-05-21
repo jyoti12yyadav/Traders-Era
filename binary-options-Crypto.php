@@ -135,12 +135,69 @@
 </section>
 
 
+<section class="provide-world pt-120 position-relative z-0 mb-10 pb-120" style="background-color: #000;">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-12 col-xxl-10">
+                <div class="heading__content mb-10 mb-lg-15 text-center">
+                    <h2 class="mb-5 mb-lg-6">Three Simple Steps to Send a Friend </h2>
+                </div>
+            </div>
+        </div>
+        <div class="row gy-6 gy-xxl-0">
+            <div class="col-md-6 col-xxl-3">
+                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/number-1.png" alt="number-1">
+                    </span>
+                    <!-- <h3 class="mt-5 mb-5">Register</h3> -->
+                    <h4 style="margin-top: 10px;">Provide Your Link for Referrals</h4>
+                    <br>
+                </div>
+            </div>
+            <div class="col-md-6 col-xxl-3">
+                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/two.png" alt="two">
+                    </span>
+                    <!-- <h3 class="mt-5 mb-5">Verify</h3> -->
+                    <h4 style="margin-top: 10px;">Reward Yourself for Referrals</h4><br>
+
+                </div>
+            </div>
+            <div class="col-md-6 col-xxl-3">
+                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/number-3.png" alt="number-3">
+                    </span>
+                    <!-- <h3 class="mt-5 mb-5">Fund</h3> -->
+                    <h4 style="margin-top: 10px;">Trade & Take Out Your Profits Immediately</h4><br>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-xxl-3">
+                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/number-4.png" alt="number-4">
+                    </span>
+                    <!-- <h3 class="mt-5 mb-5">Trade</h3> -->
+                    <h4 style="margin-top: 10px;">Start trading with binary,spot and AI trading platform.</h4>
+                </div>
+
+            </div>
+        </div>
+</Section>
+
+
+
+
+
 <section class="pt-120 pb-120 ">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-8 col-xxl-7">
                 <div class="heading__content  text-center">
-                    <h2>Benefits
+                    <h2 style="letter-spacing: 2px;">Benefits
 
                     </h2>
                 </div>
@@ -232,7 +289,7 @@
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
 
             <div class="col-md-10 col-lg-6 col-xxl-5">
-                <h2 class="mt-4 mb-lg-5">
+                <h2 class="mt-4 mb-lg-5" style="letter-spacing:2px;">
                     Options Binary
                 </h2>
                 <ul class="d-flex gap-4 flex-column mt-6">
@@ -316,58 +373,6 @@
 </section>
 
 
-<section class="provide-world pt-120 position-relative z-0 mb-10 pb-120" style="background-color: #000;">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-12 col-xxl-10">
-                <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h2 class="mb-5 mb-lg-6">Three Simple Steps to Send a Friend </h2>
-                </div>
-            </div>
-        </div>
-        <div class="row gy-6 gy-xxl-0">
-            <div class="col-md-6 col-xxl-3">
-                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/number-1.png" alt="number-1">
-                    </span>
-                    <!-- <h3 class="mt-5 mb-5">Register</h3> -->
-                    <h4 style="margin-top: 10px;">Provide Your Link for Referrals</h4>
-                    <br>
-                </div>
-            </div>
-            <div class="col-md-6 col-xxl-3">
-                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/two.png" alt="two">
-                    </span>
-                    <!-- <h3 class="mt-5 mb-5">Verify</h3> -->
-                    <h4 style="margin-top: 10px;">Reward Yourself for Referrals</h4><br>
-
-                </div>
-            </div>
-            <div class="col-md-6 col-xxl-3">
-                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/number-3.png" alt="number-3">
-                    </span>
-                    <!-- <h3 class="mt-5 mb-5">Fund</h3> -->
-                    <h4 style="margin-top: 10px;">Trade & Take Out Your Profits Immediately</h4><br>
-                </div>
-            </div>
-
-            <div class="col-md-6 col-xxl-3">
-                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/number-4.png" alt="number-4">
-                    </span>
-                    <!-- <h3 class="mt-5 mb-5">Trade</h3> -->
-                    <h4 style="margin-top: 10px;">Start trading with binary,spot and AI trading platform.</h4>
-                </div>
-
-            </div>
-        </div>
-</Section>
 
 
 
