@@ -152,7 +152,7 @@
              
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
-                                class="dropdown-toggle dropdown-nav">Markets</button>
+                                class="dropdown-toggle dropdown-nav ">Markets</button>
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item" href="crypto.php">Crypto</a></li>
                                 <li><a class="dropdown-item" href="indices.php">Indices</a></li>
@@ -288,14 +288,14 @@
         .dropdown:hover .dropbtn {
             background-color: #3e8e41;
         }
+
         mark {
             background-color: #9AD953;
             border-radius: 7px;
-            padding: 7px 30px 7px 7px;
+            padding-right: 25px;
+            /* padding: 7px 30px 7px 7px; */
             color:black;
             text-size-adjust: 30%;
-        }
-
-       
+        }       
         
     </style>
