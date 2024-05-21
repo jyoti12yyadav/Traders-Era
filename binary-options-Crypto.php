@@ -197,7 +197,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-8 col-xxl-7">
                 <div class="heading__content  text-center">
-                    <h2>Benefits
+                    <h2 style="letter-spacing: 2px;">Benefits
 
                     </h2>
                 </div>
@@ -289,7 +289,7 @@
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
 
             <div class="col-md-10 col-lg-6 col-xxl-5">
-                <h2 class="mt-4 mb-lg-5">
+                <h2 class="mt-4 mb-lg-5" style="letter-spacing:2px;">
                     Options Binary
                 </h2>
                 <ul class="d-flex gap-4 flex-column mt-6">
