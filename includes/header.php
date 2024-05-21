@@ -188,10 +188,7 @@
                                 <li><a class="dropdown-item" href="kyc-checks.php">KYC Checks</a></li>
                             </ul>
                         </li>
-                        <!-- <li class="dropdown show-dropdown">
-                            <button type="button" aria-label="Navbar Dropdown Button"
-                                class="dropdown-toggle dropdown-nav"><a class="dropdown-item" href="contact-us.php">Contact</a></button>
-                        </li> -->
+                    
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button" class="dropdown-nav"><a
                                     class="dropdown-item" href="https://tradersera.com/blogs">Blog</a></button>
@@ -200,9 +197,7 @@
                     </ul>
                 </div>
                 <div class="right-area position-relative  ms-0 d-center gap-1 gap-xl-4 d-none d-lg-flex">
-                    <!-- <div class="single-item">
-                        <a href="signin.html" class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-center gap-1 fw-bold nw1-color"> Login <i class="ti ti-arrow-right fs-six-up"></i></a>
-                    </div> -->
+                  
                     <div class="single-item">
                         <a href="contact-us.php"
                             class="cmn-btn fw-bold py-2 px-2 px-sm-3 px-lg-4 align-items-center gap-1">Contact Us<i
