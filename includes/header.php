@@ -273,9 +273,8 @@
         mark {
             background-color: #9AD953;
             border-radius: 7px;
-          
             color:black;
-          
+
         }       
         
     </style>
