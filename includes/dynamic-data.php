@@ -256,9 +256,9 @@ switch ($menuactive) {
         break;
 
     case 'bonus.php':
-        $title = "Forex Bonus on Deposit | Get 100% Deposit Bonus | Earn Rewards";
-        $description = "Get a whopping 100% deposit bonus and Boost your trading power with TradersEra! Join us today!";
-        $keywords = "Forex Bonus Deposit, Deposit Bonus, 100% Deposit Bonus, Forex market, Forex trading, Currency Pairs, Cryptocurrencies, Get 100% Deposit Bonus, maximum deposit bonus  ";
+        $title = "Forex Bonus on Deposit | Get 50% Deposit Bonus | Earn Rewards";
+        $description = "Get a whopping 50% deposit bonus and Boost your trading power with TradersEra! Join us today!";
+        $keywords = "Forex Bonus Deposit, Deposit Bonus, 50% Deposit Bonus, Forex market, Forex trading, Currency Pairs, Cryptocurrencies, Get 100% Deposit Bonus, maximum deposit bonus  ";
         $name="Bonus";
         $alternateName="Bonus";
         $url="https://tradersera.com/bonus.php";
@@ -268,8 +268,8 @@ switch ($menuactive) {
         $title = "AI Invest";
         $description = "AI Invest";
         $keywords = "AI Invest";
-        $name="100% Bonus";
-        $alternateName="100% Bonus";
+        $name="50% Bonus";
+        $alternateName="50% Bonus";
         $url="";
         break;
     
