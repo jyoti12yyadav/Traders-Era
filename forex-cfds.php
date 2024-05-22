@@ -87,6 +87,44 @@
 </section>
 
 
+<section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0" style="background-color: #141414;">
+    <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
+        <img src="assets/images/star3.png" alt="vector"
+            class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
+    </div>
+    <div class="container">
+        <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
+            <div class="col-10 col-sm-8 col-md-7 col-lg-6 col-xxl-5 order-2 order-lg-0">
+                <div class="trade_on__thumbs d-flex justify-content-end">
+                    <img src="assets/images/what is CFD.png"
+                        alt="Binary Option contracts with the EUR/USD currency pair">
+                </div>
+            </div>
+            <div class="col-lg-6 col-xxl-6">
+                <div class="trade_on__content">
+                    <h2 class="mb-4 mb-lg-5">What is CFD trading?</h2>
+                    <p class="fs-six ">A contract for difference (CFD) allows you to trade on the price movement of an item without purchasing the actual asset.
+                    </p>
+                <br>
+
+                </div>
+
+                <div class="col-lg-6 col-xxl-8">
+                    <div class="trade_on__content">
+                        <h2 class="mb-4 mb-lg-4">Benefits To Trade CFD’s With Us</h2>
+                        <p class="fs-six "><b>High leverage :</b> Enables you to open larger positions while maintaining a lower balance in your trading account. The bigger the leverage, the less money you'll require.
+                        </p><br>
+                        <p class="fs-six "><b>Tight spreads :</b> The spread is the difference between the purchase and sale prices. The narrower the gap, the lower the cost of entering the market.
+
+                        </p>
+                        <br>
+                        <br>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 
 <section class="faq pb-120 pt-120 position-relative z-0">
