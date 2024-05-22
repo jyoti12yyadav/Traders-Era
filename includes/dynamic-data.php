@@ -282,14 +282,26 @@ switch ($menuactive) {
         $url="https://tradersera.com/learn.php";
         break;
 
-        case 'binary-options-Crypto':
-            $title = "Binary Crypto | Crypto Binary Trading | Binary Options Crypto";
-            $description = "Our web-based application simplifies binary options trading on cryptocurrencies. Monitor rates, marketplaces, and place bets effortlessly. Learn more.";
-            $keywords = "Binary Options, Binary Crypto Trading, Crypto Binary Trading, Binary Trading, Binary Options Trading, Binary Crypto Options, Binary Options Trading Platform, Binary Options Trading Strategy, Trade Binary Options, Financial Instruments, Forex Binary Options, Forex Binary Trading, Forex Binary Trading Platforms, Trade Binary Options, ";
-            $name="Binary Options-Crypto";
-            $alternateName="Binary Options-Crypto";
-            $url="https://tradersera.com/binary-options-Crypto.php";
-            break;    
+
+    case 'cfd-partner.php':
+        $title = " Introducing Broker | CFD Partner | Forex IB Program | CFDs";
+        $description = "Join the TradersEra CFD Partner Program and unlock lucrative opportunities in forex trading, AI forex trading,  Binary Options. Collaborate with us to grow";
+        $keywords = "CFD Partner, forex ib program, Forex Introducing Brokers, forex ib commission, Introducing Broker, IB agents, Become an IB, CFD, Trade Shares, Stocks, Commodities, Gold, Oil, Forex, Cryptocurrencies";
+        $name="CFD Partner";
+        $alternateName="CFD Partner";
+        $url="http://tradersera.com/cfd-partner.php";
+        break;
+
+
+    case 'binary-trading.php':
+        $title = "Binary Trading | Binary Options Platform | Forex Binary Options";
+        $description = "Our web-based application simplifies binary options trading. Monitor rates, marketplaces, and place bets effortlessly. Learn more.";
+        $keywords = "Binary Options, Binary Trading, Crypto Binary Trading, Binary Trading, Binary Options Trading, Binary Options Trading Platform, Binary Options Trading Strategy, Trade Binary Options, Financial Instruments, Forex Binary Options, Forex Binary Trading, Forex Binary Trading Platforms, Trade Binary Options.";
+        $name="Binary Trading";
+        $alternateName="Binary Trading";
+        $url="http://tradersera.com/binary-trading.php";
+        break;
+        
         
     default:
         $title = "Title Here";
