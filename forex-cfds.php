@@ -86,7 +86,17 @@
 </section>
 
 
-<section class="provide-world pt-120 pb-120  position-relative z-0" style="padding-bottom: 25px;">
+
+
+<section class="faq pb-120 pt-120 position-relative z-0">
+    <div class="animation position-absolute top-0 center-0 w-100 h-100 z-n1">
+        <img src="assets/images/button.png" alt="vector"
+            class="position-absolute pt-6 pt-xl-15 previewShapeRevX d-none d-xl-flex">
+        <img src="assets/images/star2.png" alt="vector"
+            class="position-absolute push_animat end-0 top-0 mt-20 pt-5 me-xl-20 pe-10 d-none d-lg-flex">
+        <img src="assets/images/vector20.png" alt="vector"
+            class="position-absolute bottom-0 start-0 pb-11 ps-7 d-none d-xxxl-flex">
+    </div>
     <div class="container">
         <div class="row gy-6 gy-xxl-0">
             <center>
