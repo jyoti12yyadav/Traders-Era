@@ -68,6 +68,8 @@
     .pt-120 {
         padding-top: 60px !important;
     }
+
+
 </style>
 <section class="banner-section pt-2 pb-1">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
@@ -182,12 +184,10 @@
     </div>
 </section>  -->
 
-<section class="provide-world position-relative z-0 pb-120">
+<section class="provide-world position-relative z-0 pb-120 pt-120" style="background-color: #000000;">
     <div class="container">
         <div class="row gy-6 gy-xxl-0">
-            <center>
-                <h2 class="mb-10">Tailored trading account for Forex, indices, stocks, commodities </h2>
-            </center>
+                <h2 class="mb-10 text-center">Tailored trading account for Forex, indices, stocks, commodities </h2>
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
