@@ -75,7 +75,7 @@
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
             <div class="col-12 breadcrumb-area ">
-                <h2 class="mb-4">Forex-CFDs</h2>
+                <h1 class="mb-4">Forex-CFDs</h1>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb mb-0">
                         <li class="breadcrumb-item"><a href="index.html">Home</a></li>
@@ -193,8 +193,8 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/Spreads.png" alt="stock-market">
                     </span>
-                    <h4 class="mt-5 mb-5">Spreads from 0.4 pips
-                    </h4>
+                    <h3 class="mt-5 mb-5">Spreads from 0.4 pips
+                    </h3>
                     <p>Our consolidated liquidity helps maintain low spreads, typically throughout trading periods.
                     </p>
                 </div>
@@ -204,8 +204,8 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/commission.png" alt="stock-market">
                     </span>
-                    <h4 class="mt-5 mb-5">Zero commission
-                    </h4>
+                    <h3 class="mt-5 mb-5">Zero commission
+                    </h3>
                     <p>Start trading from as low as $0 per lot on our VIP or spread-only trading accounts.
                     </p>
                     <br>
@@ -216,8 +216,8 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/Low-starting-amount.png" alt="stock-market">
                     </span>
-                    <h4 class="mt-5 mb-5">Low starting amount
-                    </h4>
+                    <h3 class="mt-5 mb-5">Low starting amount
+                    </h3>
                     <p>Begin trading by opening your account with just $10.
                     </p>
                     <br>
@@ -236,7 +236,7 @@
             <h2 class=" mb-lg-10 d-flex justify-content-center ">Trading account types</h2>
             <div class="col-md-6 col-xxl-3 ">
                 <div class="packages">
-                    <h4>Starter</h4>
+                    <h3>Starter</h3>
                 </div>
                 <div class="nb3-bg text-center cus-rounded-3 py-5 py-lg-10 px-4 px-lg-9">
                     <span><b>Base currency options</b></span> <br>
@@ -271,7 +271,7 @@
             </div>
             <div class="col-md-6 col-xxl-3">
                 <div class="packages" style="background: #F5C06D;">
-                    <h4>Standard</h4>
+                    <h3>Standard</h3>
                 </div>
                 <div class="nb3-bg text-center cus-rounded-3 py-5 py-lg-10 px-4 px-lg-9">
                     <span><b>Base currency options</b></span>
@@ -307,7 +307,7 @@
             </div>
             <div class="col-md-6 col-xxl-3">
                 <div class="packages">
-                    <h4>Advanced</h4>
+                    <h3>Advanced</h3>
                 </div>
                 <div class="nb3-bg text-center cus-rounded-3 py-5 py-lg-10 px-4 px-lg-9">
                     <span><b>Base currency options</b></span>
@@ -344,7 +344,7 @@
 
             <div class="col-md-6 col-xxl-3">
                 <div class="packages" style="background: #F5C06D;">
-                    <h4>Proffessional</h4>
+                    <h3>Proffessional</h3>
                 </div>
                 <div class="nb3-bg text-center cus-rounded-3 py-5 py-lg-10 px-4 px-lg-9">
                     <span><b>Base currency options</b></span>

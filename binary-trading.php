@@ -123,7 +123,7 @@
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
             <div class="col-12 breadcrumb-area ">
-                <h2 class="mb-4">Binary Trading</h2>
+                <h1 class="mb-4">Binary Trading</h1>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb mb-0">
                         <li class="breadcrumb-item"><a href="index.html">Home</a></li>
@@ -152,7 +152,7 @@
                         <img src="assets/images/icon/number-1.png" alt="number-1">
                     </span>
                     <!-- <h3 class="mt-5 mb-5">Register</h3> -->
-                    <h4 style="margin-top: 10px;">Provide Your Link for Referrals</h4>
+                    <h3 style="margin-top: 10px;">Provide Your Link for Referrals</h3>
                     <br>
                 </div>
             </div>
@@ -162,7 +162,7 @@
                         <img src="assets/images/icon/two.png" alt="two">
                     </span>
                     <!-- <h3 class="mt-5 mb-5">Verify</h3> -->
-                    <h4 style="margin-top: 10px;">Reward Yourself for Referrals</h4><br>
+                    <h3 style="margin-top: 10px;">Reward Yourself for Referrals</h3><br>
 
                 </div>
             </div>
@@ -172,7 +172,7 @@
                         <img src="assets/images/icon/number-3.png" alt="number-3">
                     </span>
                     <!-- <h3 class="mt-5 mb-5">Fund</h3> -->
-                    <h4 style="margin-top: 10px;">Trade & Take Out Your Profits Immediately</h4><br>
+                    <h3 style="margin-top: 10px;">Trade & Take Out Your Profits Immediately</h3><br>
                 </div>
             </div>
 
@@ -182,7 +182,7 @@
                         <img src="assets/images/icon/number-4.png" alt="number-4">
                     </span>
                     <!-- <h3 class="mt-5 mb-5">Trade</h3> -->
-                    <h4 style="margin-top: 10px;">Start trading with binary,spot and AI trading platform.</h4>
+                    <h3 style="margin-top: 10px;">Start trading with binary,spot and AI trading platform.</h3>
                 </div>
 
             </div>
@@ -218,7 +218,7 @@
                                             class="referred_image">
                                     </div>
                                     <h3 style="font-size: 25px">For Referred New User</h3>
-                                    <h4 style="margin-left: auto;">Welcome Bonus 25% </h4>
+                                    <h3 style="margin-left: auto;">Welcome Bonus 25% </h3>
                                 </div>
                             </div>
                         </div>
@@ -240,7 +240,7 @@
                                             class="referred_image">
                                     </div>
                                     <h3 style="font-size: 25px">For Referred New User</h3>
-                                    <h4 style="margin-left: auto;"> AI Bonus - 2%</h4>
+                                    <h3 style="margin-left: auto;"> AI Bonus - 2%</h3>
                                 </div>
                             </div>
                         </div>
@@ -262,8 +262,8 @@
                                         <img src="assets/images/icon/refer.png" alt="referral" class="referer_image">
                                     </div>
                                     <h3 style="font-size: 25px;">For Referer</h3>
-                                    <h4 style="margin-left: auto;">0.1% of the Comission from the <br> Trades traded by
-                                        the signup</h4>
+                                    <h3 style="margin-left: auto;">0.1% of the Comission from the <br> Trades traded by
+                                        the signup</h3>
                                 </div>
                             </div>
                         </div>
@@ -388,8 +388,8 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/verify (1).png" alt="stock-market">
                     </span>
-                    <h4 class="mt-5 mb-5">Register
-                    </h4>
+                    <h3 class="mt-5 mb-5">Register
+                    </h3>
                     <p>To obtain your referral link, sign up.
                     </p><br><br>
                 </div>
@@ -399,8 +399,8 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/sharing.png" alt="stock-market">
                     </span>
-                    <h4 class="mt-5 mb-5">Get Sharing
-                    </h4>
+                    <h3 class="mt-5 mb-5">Get Sharing
+                    </h3>
                     <p>Share your link everywhere now.
                     </p>
                     <br><br>
@@ -411,8 +411,8 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/Low-starting-amount.png" alt="stock-market">
                     </span>
-                    <h4 class="mt-5 mb-5">Receive 50% deposit.
-                    </h4>
+                    <h3 class="mt-5 mb-5">Receive 50% deposit.
+                    </h3>
                     <p>Receive 50% of your referred clients' deposits after funding.
                     </p>
                     <br>
@@ -423,8 +423,8 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/commission.png" alt="stock-market">
                     </span>
-                    <h4 class="mt-5 mb-5">Increase your income
-                    </h4>
+                    <h3 class="mt-5 mb-5">Increase your income
+                    </h3>
                     <p>With no restrictions, our referral program offers limitless earning.
                     </p>
                     <br>
