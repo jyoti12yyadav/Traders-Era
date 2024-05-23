@@ -102,18 +102,22 @@
             <div class="col-lg-6 col-xxl-6">
                 <div class="trade_on__content">
                     <h2 class="mb-4 mb-lg-5">What is CFD trading?</h2>
-                    <p class="fs-six ">A contract for difference (CFD) allows you to trade on the price movement of an item without purchasing the actual asset.
+                    <p class="fs-six ">A contract for difference (CFD) allows you to trade on the price movement of an
+                        item without purchasing the actual asset.
                     </p>
-                <br>
+                    <br>
 
                 </div>
 
                 <div class="col-lg-6 col-xxl-8">
                     <div class="trade_on__content">
                         <h2 class="mb-4 mb-lg-4">Benefits To Trade CFD’s With Us</h2>
-                        <p class="fs-six "><b>High leverage :</b> Enables you to open larger positions while maintaining a lower balance in your trading account. The bigger the leverage, the less money you'll require.
+                        <p class="fs-six "><b>High leverage :</b> Enables you to open larger positions while maintaining
+                            a lower balance in your trading account. The bigger the leverage, the less money you'll
+                            require.
                         </p><br>
-                        <p class="fs-six "><b>Tight spreads :</b> The spread is the difference between the purchase and sale prices. The narrower the gap, the lower the cost of entering the market.
+                        <p class="fs-six "><b>Tight spreads :</b> The spread is the difference between the purchase and
+                            sale prices. The narrower the gap, the lower the cost of entering the market.
 
                         </p>
                         <br>
@@ -125,8 +129,7 @@
     </div>
 </section>
 
-
-<section class="faq pb-120 pt-120 position-relative z-0">
+ <!-- <section class="faq pb-120 pt-120 position-relative z-0">
     <div class="animation position-absolute top-0 center-0 w-100 h-100 z-n1">
         <img src="assets/images/button.png" alt="vector"
             class="position-absolute pt-6 pt-xl-15 previewShapeRevX d-none d-xl-flex">
@@ -177,7 +180,53 @@
             </div>
         </div>
     </div>
+</section>  -->
+
+<section class="provide-world position-relative z-0 pb-120">
+    <div class="container">
+        <div class="row gy-6 gy-xxl-0">
+            <center>
+                <h2 class="mb-10">Tailored trading account for Forex, indices, stocks, commodities </h2>
+            </center>
+            <div class="col-md-6 col-xxl-4">
+                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/Spreads.png" alt="stock-market">
+                    </span>
+                    <h4 class="mt-5 mb-5">Spreads from 0.4 pips
+                    </h4>
+                    <p>Our consolidated liquidity helps maintain low spreads, typically throughout trading periods.
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-6 col-xxl-4">
+                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/commission.png" alt="stock-market">
+                    </span>
+                    <h4 class="mt-5 mb-5">Zero commission
+                    </h4>
+                    <p>Start trading from as low as $0 per lot on our VIP or spread-only trading accounts.
+                    </p>
+                    <br>
+                </div>
+            </div>
+            <div class="col-md-6 col-xxl-4">
+                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/Low-starting-amount.png" alt="stock-market">
+                    </span>
+                    <h4 class="mt-5 mb-5">Low starting amount
+                    </h4>
+                    <p>Begin trading by opening your account with just $10.
+                    </p>
+                    <br>
+                </div>
+            </div>
+        </div>
+    </div>
 </section>
+
 
 
 
