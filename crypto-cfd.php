@@ -65,7 +65,9 @@
                 target="_blank" rel="nofollow">Investing.com</a></div>
     </div>
 </section>
-<section class="company-story position-relative z-0  pt-120 pb-120 ">
+
+
+<section class="company-story position-relative z-0  pt-120 pb-120">
     <div class="animation position-absolute w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="null"
             class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
@@ -74,10 +76,8 @@
         <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
             <h2 class=" mb-lg-5 d-flex justify-content-center">Margin Requirements and Leverage for Top Cryptocurrencies
             </h2>
-            <center>
-                <h3 class="mb-7">Start trading Crypto CFDs today and explore new opportunities in the digital asset
+                <h3 class="mb-7 text-center">Start trading Crypto CFDs today and explore new opportunities in the digital asset
                     space!</h3>
-            </center>
             <div class="container my-5 table-div">
                 <table id="Record" class="table table-striped table-dark my-3">
                     <thead>

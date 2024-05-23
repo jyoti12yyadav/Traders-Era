@@ -379,7 +379,7 @@
 
 
 
-<section class="provide-world pt-120 pb-120  position-relative z-0" style="padding-bottom: 25px;">
+<section class="provide-world pt-120 pb-120  position-relative z-0" style="padding-bottom:25px; background-color: #000000;">
     <div class="container">
         <div class="row gy-6 gy-xxl-0">
             <h2 class="mb-15 text-center">Sign Up And Share Your Link Now! </h2>
