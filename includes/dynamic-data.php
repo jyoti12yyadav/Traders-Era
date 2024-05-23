@@ -301,8 +301,18 @@ switch ($menuactive) {
         $alternateName="Binary Trading";
         $url="http://tradersera.com/binary-trading.php";
         break;
-        
-        
+
+    
+    case 'forex-cfds.php':
+        $title = "Forex CFD  | CFD markets | Forex CFD Trading";
+        $description = "Trade on multiple markets with CFDs, the popular financial derivative.  Learn about the advantages of contract for difference on our website.";
+        $keywords = "CFD Trading, Forex CFD Trading, CFD traders, CFD trading in India, CFD markets, CFD Forex, Trade CFD, Leverage, Spreads, Forex, Indices, Stocks, Commodities, Low Spreads, Financial Instruments, CFD Units, Forex Broker";
+        $name="Forex-CFDs";
+        $alternateName="Forex-CFDs";
+        $url="https://tradersera.com/forex-cfds.php";
+        break;
+
+
     default:
         $title = "Title Here";
         $description = "Description Here";
@@ -312,6 +322,4 @@ switch ($menuactive) {
         $url="";
         break;
 }
-
-
 ?>
