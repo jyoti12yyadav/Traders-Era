@@ -52,7 +52,7 @@
         border-radius: 10px 10px 0px 0px;
     }
 
-    .packages>h4 {
+    .packages>h3 {
         color: #000000;
         text-align: center;
     }

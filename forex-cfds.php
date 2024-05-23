@@ -52,7 +52,7 @@
         border-radius: 10px 10px 0px 0px;
     }
 
-    .packages>h4 {
+    .packages>h3 {
         color: #000000;
         text-align: center;
     }
@@ -236,7 +236,7 @@
             <h2 class=" mb-lg-10 d-flex justify-content-center ">Trading account types</h2>
             <div class="col-md-6 col-xxl-3 ">
                 <div class="packages">
-                    <h3>Starter</h3>
+                    <h3 >Starter</h3>
                 </div>
                 <div class="nb3-bg text-center cus-rounded-3 py-5 py-lg-10 px-4 px-lg-9">
                     <span><b>Base currency options</b></span> <br>
