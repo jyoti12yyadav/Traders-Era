@@ -17,15 +17,14 @@
         </div>
     </div>
 </section>
-<section class="people_trust pt-120 pb-120 position-relative z-0" style="background-color:#000;">
+<section class="people_trust pt-120  position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/vector.png" alt="vector" class="position-absolute jello d-none d-xl-flex">
         <img src="assets/images/star3.png" alt="vector" class="position-absolute push_animat d-none d-xxxl-flex">
         <img src="assets/images/vector3.png" alt="vector" class="position-absolute bottom-0 end-0 d-none d-xxxl-flex">
     </div>
     <div class="container">
-        <h2 style="text-align: center;">Applicable on CFD Trading</h2><br><br>
-        <h2>Brokerage</h2>
+       
         <div class="row justify-content-center">
             <div class="col-xl-8 col-xxl-7">
                 <div class="heading__content mb-8 mb-lg-10 text-center">
@@ -132,7 +131,7 @@
 
 
 
-<section class="trade_on pt-120 pb-120 position-relative z-0" style="background-color:#000;">
+<section class="trade_on pt-120 pb-120 position-relative z-0" >
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/coin.png" alt="null" class="position-absolute d-none d-md-flex previewShapeRevX">
         <img src="assets/images/coin_vector.png" alt="null"
@@ -186,36 +185,6 @@
 </section>
 
 
-<section class="trade_on pt-120 pb-120 position-relative z-0" style="background-color:rgb(20,20,20);">
-    <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-        <img src="assets/images/coin.png" alt="null" class="position-absolute d-none d-md-flex previewShapeRevX">
-        <img src="assets/images/coin_vector.png" alt="null"
-            class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX opacity-50">
-    </div>
-    <div class="container">
-        <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
-            <div class="col-lg-6 col-xxl-5">
-                <div class="trade_on__content">
-                    <h2 class="mb-4 mb-lg-5">Trade up to $1000 with Traders Era's KYC-Free Binary Options
-
-                    </h2>
-                    <p class="fs-six mx-ch">Trading up to $1000 without the hassle of KYC verification on Traders Era's
-                        Binary Options platform. Enjoy swift and accessible trading opportunities with our streamlined
-                        process, empowering you to dive into the market with ease.
-                    </p>
-
-
-                </div>
-            </div>
-            <div class="col-md-8 col-lg-6">
-                <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/Commonly traded in financial markets.png"
-                        alt="Trade Forex CFDs on TradersEra Paltform">
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
 
 
 
