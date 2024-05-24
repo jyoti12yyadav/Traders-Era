@@ -65,7 +65,7 @@
         <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
             <div class="col-sm-10 col-lg-6 col-xxl-2 order-2 order-lg-0">
                 <div class="company-story__thumbs offers-content d-center">
-                    <h2>Forex</h2>
+                   <h2>Forex</h2>
                 </div>
             </div>
         </div>
@@ -161,12 +161,12 @@
         <div class="row justify-content-center">
             <div id="question1" class=" row gy-6 gy-xxl-0 pt-150">
                 <div  class="table-para mt-5 mb-5 mt-10 ">
-                    <h3 class="mb-4 mb-lg-5">1.Essentials of forex trading for beginners</h3>
+                    <h3 class="mb-1 mb-lg-3">1.Essentials of forex trading for beginners</h3>
                     <p class="fs-six">What is a pip in forex?</p>
                     <p class="fs-six">What is a forex pair?</p>
                     <p class="fs-six">What are the base and quote currencies?</p>
                     <p class="fs-six">What is a lot in forex trading?</p>
-                    <h3 class="mt-2 mb-2 mb-lg-5">What is a forex pair?</h3>
+                    <h3 class="mt-6 mb-1 mb-lg-2">What is a forex pair?</h3>
                     <p class="fs-six ">A pair of currencies that are traded against one another is known as a forex
                         pair. Though there are countless possible pairings, some of the most well-liked ones include the
                         US dollar versus the Japanese yen (USD/JPY), the euro against the US dollar (EUR/USD), and the
@@ -176,13 +176,13 @@
                         which indicates how much of the quote currency will be needed to purchase one base. The base
                         currency is always equal to one. So, when you’re exchanging currency, you’re constantly selling
                         one to get another.</p>
-                    <h3 class="mt-2 mb-2 mb-lg-5">What are the base and quote currencies?</h3>
+                    <h3 class="mt-6 mb-1 mb-lg-3">What are the base and quote currencies?</h3>
                     <p class="fs-six ">The first listed currency in a currency pair in forex trading is called the
                         base currency, and the second listed currency is called the quote currency. The quantity of the
                         quote currency that is equal to one unit of the base currency is represented by its value, which
                         is always equal to one unit of the base currency. For instance, the base currency in the EUR/USD
                         currency pair is EUR, while the quote currency is USD.</p>
-                    <h3 class="mt-2 mb-2 mb-lg-5">What is a pip in forex?</h3>
+                    <h3 class="mt-6 mb-1 mb-lg-3">What is a pip in forex?</h3>
                     <h5 class="fs-six">Definition :</h5>
                     <p class="fs-six ">In forex trading, a pip is the smallest unit of price change. It stands for
                         "percentage in point" or "price interest point." It shows how a currency pair's exchange rate
@@ -199,7 +199,7 @@
                     <p class="fs-six ">In forex trading, pip values are essential to calculating gains and losses.
                         They help traders by precisely measuring price changes and calculating the possible profits or
                         losses on a deal.</p>
-                    <h3 class="mt-2 mb-2 mb-lg-5">What is a lot in forex trading?</h3>
+                    <h3 class="mt-6  mb-lg-3">What is a lot in forex trading?</h3>
                     <p class="fs-six">In forex trading, a lot is defined as a specified quantity of currency
                         units. It shows the magnitude of a deal that an individual trader is making.</p>
                     <h5 class="fs-six  mb-2 mt-2">Different Lot Types : In forex trading, lots come in several
