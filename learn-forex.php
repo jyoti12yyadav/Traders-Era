@@ -43,7 +43,7 @@
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
             <div class="col-12 breadcrumb-area ">
-                <h2 class="mb-4">Forex</h2>
+                <h1 class="mb-4">Forex</h1>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb mb-0">
                         <li class="breadcrumb-item"><a href="index.html">Home</a></li>
@@ -65,7 +65,7 @@
         <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
             <div class="col-sm-10 col-lg-6 col-xxl-2 order-2 order-lg-0">
                 <div class="company-story__thumbs offers-content d-center">
-                    <h4>Forex</h4>
+                    <h2>Forex</h2>
                 </div>
             </div>
         </div>
@@ -122,8 +122,8 @@
             <div class="col-lg-7 col-xxl-6">
                 <div class="trade_on__content">
                     <!-- <span class="heading s1-color fs-five mb-5">Trade On Our</span> -->
-                    <h3 class="mb-4 mb-lg-5">A Beginner's Guide to Forex: Easy Steps to Learn Currency Trading
-                    </h3>
+                    <h2 class="mb-4 mb-lg-5">A Beginner's Guide to Forex: Easy Steps to Learn Currency Trading
+                    </h2>
                     <ul class="d-flex gap-4 flex-column mt-6">
                         <li class="d-flex align-items-center gap-3 fs-six-up" style="font-weight: 600;"><i
                                 class="ti ti-circle-check s1-color fs-four"></i><a href="#question1">Essentials of forex trading for
