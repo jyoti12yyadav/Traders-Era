@@ -65,7 +65,7 @@
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/tradersera.png" alt="Imgae">
+                    <img src="assets/images/tradersera.png" alt="What is Crypto">
                 </div>
             </div>
             <div class="col-lg-6 col-xxl-5">
@@ -126,7 +126,7 @@
             </div>
             <div class="col-md-6 col-lg-6">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/traders- last.png" alt="Imgae">
+                    <img src="assets/images/traders- last.png" alt="CFD trading for crypto">
                 </div>
             </div>
         </div>
@@ -148,7 +148,7 @@
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/tradersera.png" alt="Imgae">
+                    <img src="assets/images/tradersera.png" alt="Buy and Sell Crypto">
                 </div>
             </div>
             <div class="col-lg-6 col-xxl-5">
@@ -211,7 +211,7 @@
             </div>
             <div class="col-md-6 col-lg-6">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/traders- last.png" alt="Imgae">
+                    <img src="assets/images/traders- last.png" alt="Buying and selling cryptocurrency">
                 </div>
             </div>
         </div>
@@ -376,7 +376,7 @@
                 <div class="d-flex flex-column">
                     <div class="blog__card">
                         <div class="blog__thumbs position-relative">
-                            <img src="assets/images/blog_details.png" alt="Image" class="w-100 cus-rounded-1">
+                            <img src="assets/images/blog_details.png" alt=" Investing in Bitcoin for beginners" class="w-100 cus-rounded-1">
                         </div>
                         <div class="blog_news__content mt-5">
                             <h2 class="mb-5">Process and Methods for Investing in Bitcoin (As a Beginner):</h2>
@@ -443,10 +443,5 @@
         </div>
     </div>
 </section>
-
-
-
-
-
 
 <?php include("includes/footer.php"); ?>

@@ -86,12 +86,12 @@
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/tradersera.png" alt="Imgae">
+                    <img src="assets/images/tradersera.png" alt=" Learn about Forex Trading">
                 </div>
             </div>
             <div class="col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
-                    <h3 class="mb-4 mb-lg-5">Learn Forex </h3>
+                    <h3 class="mb-4 mb-lg-5">Learn Forex</h3>
                     <p class="fs-six mx-ch">The exchange of one currency for another is called forex trading, sometimes
                         referred to as foreign exchange or FX trading. One of the world's most regularly traded markets
                         is foreign exchange (FX), with daily transactions totalling around $6.6 trillion being made by
@@ -148,7 +148,7 @@
             </div>
             <div class="col-md-6 col-lg-6">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/traders- last.png" alt="Imgae">
+                    <img src="assets/images/traders- last.png" alt="Forex trading for beginners">
                 </div>
             </div>
         </div>
