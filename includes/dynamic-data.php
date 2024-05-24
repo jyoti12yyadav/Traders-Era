@@ -312,6 +312,33 @@ switch ($menuactive) {
         $url="https://tradersera.com/forex-cfds.php";
         break;
 
+    case 'learn-forex.php':
+        $title = "Learn Forex | Learn Forex Trading | Forex Trading Platform";
+        $description = "Start learning Forex trading and unleash your trading potential with our Forex platform. Trading Now";
+        $keywords = "Learn Forex, Learn Forex Trading, Forex Trading Platform, Currency Markets, Forex Pair, Forex Leverage";
+        $name="Forex";
+        $alternateName="Forex";
+        $url="https://tradersera.com/learn-forex.php";
+        break;
+
+    case 'learn-crypto.php':
+        $title = "Learn Crypto | Learn Crypto Investing | Cryptocurrency Trading ";
+        $description = "Learn how to invest in crypto and start your cryptocurrency trading journey. Enter the world of digital currencies today";
+        $keywords = "Learn Crypto, Learn Crypto Trading, Cryptocurrency, Cryptocurrency Trading, CFD Trading, Learn Crypto Investing, Learning about Crypto Trade, Invest in Cryptocurrency, Cryptocurrency Investment";
+        $name="Crypto";
+        $alternateName="Crypto";
+        $url="https://tradersera.com/learn-crypto.php";
+        break;
+
+
+    case 'learn-binary.php':
+        $title = "Learn Binary Options | Learn Binary Trading | Binary Option";
+        $description = "Learn about Binary Options Trading. Learn to make informed decisions and make profits in this dynamic market.";
+        $keywords = "Learn Binary Options, Learn Binary Options Trading, Forex, Stock indices, Commodities, Learn Binary Option Contracts";
+        $name="Binary";
+        $alternateName="Binary";
+        $url="https://tradersera.com/learn-binary.php";
+        break;
 
     default:
         $title = "Title Here";
