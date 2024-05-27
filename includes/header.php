@@ -271,7 +271,6 @@
         }
 
         mark {
-<<<<<<< HEAD
            background-color: #9AD953;
            border-radius: 4px;
            padding-left: 12px;
@@ -281,14 +280,5 @@
            color:black;
        }
    
-=======
-            background-color: #9AD953;
-            border-radius: 7px;
-            padding-left: 12px;
-            padding-right: 12px;
-            color:black;
-
-        }       
->>>>>>> 30b2e51a986a087ad27714315d3143a123713475
         
     </style>
