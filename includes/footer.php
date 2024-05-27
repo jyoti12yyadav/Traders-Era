@@ -332,21 +332,22 @@
 <script src="assets/js/plugins/plugin-custom.js"></script>
 <script src="assets/js/main.js"></script>
 
+<!-- schema -->
 
-        <script type="application/ld+json">
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "<?php echo $name ?>",
-  "alternateName": "<?php echo $alternateName ?>",
-  "url": "<?php echo $url ?>",
+  "name": "TradersEra",
+  "alternateName": "TradersEra",
+  "url": "https://tradersera.com/",
   "logo": "https://tradersera.com/assets/images/logo.png",
   "contactPoint": {
     "@type": "ContactPoint",
-    "telephone": "+ 44203758865",
+    "telephone": "+1 9142684555",
     "contactType": "customer service",
     "contactOption": "TollFree",
-    "areaServed": "BB",
+    "areaServed": "GB",
     "availableLanguage": "en"
   }
 }
