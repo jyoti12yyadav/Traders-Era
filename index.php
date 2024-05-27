@@ -647,7 +647,9 @@
                     </div>
                 </div>
             </div>
+
             <div class="col-sm-10 col-lg-6 col-xxl-6 ">
+                
                 <div class="row d-flex justify-content-end">
                     <div class="col-xxl-12 ">
                         <div class="company-story__part">
@@ -666,6 +668,7 @@
                             </div>
                         </div>
                     </div>
+                    
                     <div class="col-xxl-12 mt-md-10 mt-xxl-13">
                         <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
                             <div class="row">
