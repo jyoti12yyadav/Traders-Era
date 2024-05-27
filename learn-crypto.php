@@ -23,7 +23,7 @@
         padding: 35px;
         border: 1px solid #838383;
         border-radius: 14px;
-        margin: 10px 0px;
+        margin: 10px 0px; 
     }
 
     
@@ -157,6 +157,7 @@
                     <p class="fs-six mx-ch">CFDs trading are derivatives that allow you to speculate on bitcoin price
                         changes without owning the underlying currencies. You can go long ('buy') if you believe a
                         cryptocurrency will increase in value, or short ('sell') if you believe it will decrease.
+
 
                     </p>
                     <br>
