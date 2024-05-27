@@ -148,7 +148,7 @@
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/tradersera.png" alt="Buy and Sell Crypto">
+                    <img src="assets/images/CFD trading for cryptocurrency.png"  alt="Buy and Sell Crypto">
                 </div>
             </div>
             <div class="col-lg-6 col-xxl-5">
@@ -211,7 +211,7 @@
             </div>
             <div class="col-md-6 col-lg-6">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/traders- last.png" alt="Buying and selling cryptocurrency">
+                    <img src="assets/images/Buyingandsellingcryptocurrencythroughanexchange.png"  alt="Buying and selling cryptocurrency">
                 </div>
             </div>
         </div>
