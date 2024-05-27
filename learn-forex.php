@@ -224,12 +224,12 @@
         </div>
 </section>
 
-<section class="provide-world pt-60 position-relative z-0 pb-60">
+<section class="provide-world pt-60 position-relative z-0 pb-30">
     <div class="container">
         <div class="row justify-content-center">
-            <div id="question2" class="row gy-6 gy-xxl-0">
-                <div class="pt-150">
-                    <div class="table-para mt-5 mb-5">
+            <div id="question2" class="row gy-5 gy-xxl-0">
+                <div class="pt-30">
+                    <div class="table-para mt-1 mb-2">
                         <h3 class="mb-4 mb-lg-5">2.What is the process of trading forex?</h3>
                         <h5 class="mt-2 mb-2 mb-lg-5">As a beginner, understanding how trading in forex works is crucial for
                             your success. Here's a simplified explanation</h5>
@@ -287,7 +287,7 @@
 <section class="provide-world pt-60 position-relative z-0 pb-60">
     <div class="container">
         <div class="row justify-content-center">
-            <div id="question3" class="row gy-6 gy-xxl-0 pt-150">
+            <div id="question3" class="row gy-6 gy-xxl-0 pt-120">
                 <div  class="table-para mt-5 mb-5 ">
                     <h3 class="mb-4 mb-lg-5">3.Why do people engage in forex trading?</h3>
                     <p class="fs-six  ">People trade forex for various reasons, including the potential for
@@ -325,7 +325,7 @@
 <section class="provide-world pt-60 position-relative z-0 pb-60">
     <div class="container">
         <div class="row justify-content-center">
-            <div id="question4" class="row gy-6 gy-xxl-0 pt-150">
+            <div id="question4" class="row gy-6 gy-xxl-0 pt-120">
                 <div class="table-para mt-5 mb-5">
                     <h3 class="mb-4 mb-lg-5">4.Discover how the currency markets operate.</h3>
                     <h5 class="fs-six  mb-2 mt-2">Central Banks :</h5>
@@ -355,19 +355,19 @@
 <section class="provide-world pt-60 position-relative z-0 pb-60 pb-120">
     <div class="container">
         <div class="row justify-content-center">
-            <div id="question5" class="row gy-6 gy-xxl-0 pt-150">
+            <div id="question5" class="row gy-6 gy-xxl-0 pt-120">
                 <div class="table-para mt-5 mb-5">
                     <h3 class="mb-4 mb-lg-5">5. How To Start Trading Forex</h3>
-                    <h5 class="fs-six  mb-2 mt-2">Key Steps for Becoming a Forex Trader :</h5>
-                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>Learn about forex trading essentials including currency pairings, pip movements, leverage, and risk management.</p>
-                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>Select a reputable forex broker with regulatory oversight, user-friendly interfaces, competitive spreads, and exceptional customer service. </p>
-                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>Open a trading account, starting with a demo account to gain experience and confidence.</p>
-                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>Create a detailed trading strategy that includes goals, risk tolerance, techniques, and money management guidelines.</p>
-                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>Before moving on to live trading with real money, make sure you practice regularly on a demo account.</p>
-                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>Stay informed about market changes, economic news, and trading ideas.</p>
-                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>Seek mentoring and connect with the forex trading community for advice and assistance.</p>
-                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>Implement excellent risk management measures and practice discipline in trade execution.</p>
-                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>During market swings, maintain patience and fortitude while focused on long-term success.</p>
+                    <h5 class="fs-six mb-2 mt-2">Key Steps for Becoming a Forex Trader :</h5>
+                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i> Learn about forex trading essentials including currency pairings, pip movements, leverage, and risk management.</p>
+                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i> Select a reputable forex broker with regulatory oversight, user-friendly interfaces, competitive spreads, and exceptional customer service. </p>
+                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i> Open a trading account, starting with a demo account to gain experience and confidence.</p>
+                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i> Create a detailed trading strategy that includes goals, risk tolerance, techniques, and money management guidelines.</p>
+                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i> Before moving on to live trading with real money, make sure you practice regularly on a demo account.</p>
+                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i> Stay informed about market changes, economic news, and trading ideas.</p>
+                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i> Seek mentoring and connect with the forex trading community for advice and assistance.</p>
+                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i> Implement excellent risk management measures and practice discipline in trade execution.</p>
+                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i> During market swings, maintain patience and fortitude while focused on long-term success.</p>
                 </div>
             </div>
         </div>
