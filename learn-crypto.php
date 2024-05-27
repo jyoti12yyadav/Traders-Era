@@ -212,7 +212,7 @@
             </div>
             <div class="col-md-6 col-lg-6">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/Buyingandsellingcryptocurrencythroughanexchange.png"  alt="Buying and selling cryptocurrency">
+                    <img src="assets/images/Buying and Selling cryptocurrency through an exchange.png"  alt="Buying and selling cryptocurrency">
                 </div>
             </div>
         </div>
