@@ -256,9 +256,9 @@ switch ($menuactive) {
         break;
 
     case 'bonus.php':
-        $title = "Forex Bonus on Deposit | Get 100% Deposit Bonus | Earn Rewards";
-        $description = "Get a whopping 100% deposit bonus and Boost your trading power with TradersEra! Join us today!";
-        $keywords = "Forex Bonus Deposit, Deposit Bonus, 100% Deposit Bonus, Forex market, Forex trading, Currency Pairs, Cryptocurrencies, Get 100% Deposit Bonus, maximum deposit bonus  ";
+        $title = "Forex Bonus on Deposit | Get 50% Deposit Bonus | Earn Rewards";
+        $description = "Get a whopping 50% deposit bonus and Boost your trading power with TradersEra! Join us today!";
+        $keywords = "Forex Bonus Deposit, Deposit Bonus, 50% Deposit Bonus, Forex market, Forex trading, Currency Pairs, Cryptocurrencies, Get 100% Deposit Bonus, maximum deposit bonus  ";
         $name="Bonus";
         $alternateName="Bonus";
         $url="https://tradersera.com/bonus.php";
@@ -268,8 +268,8 @@ switch ($menuactive) {
         $title = "AI Invest";
         $description = "AI Invest";
         $keywords = "AI Invest";
-        $name="100% Bonus";
-        $alternateName="100% Bonus";
+        $name="50% Bonus";
+        $alternateName="50% Bonus";
         $url="";
         break;
     
@@ -282,15 +282,64 @@ switch ($menuactive) {
         $url="https://tradersera.com/learn.php";
         break;
 
-        case 'binary-options-Crypto':
-            $title = "Binary Crypto | Crypto Binary Trading | Binary Options Crypto";
-            $description = "Our web-based application simplifies binary options trading on cryptocurrencies. Monitor rates, marketplaces, and place bets effortlessly. Learn more.";
-            $keywords = "Binary Options, Binary Crypto Trading, Crypto Binary Trading, Binary Trading, Binary Options Trading, Binary Crypto Options, Binary Options Trading Platform, Binary Options Trading Strategy, Trade Binary Options, Financial Instruments, Forex Binary Options, Forex Binary Trading, Forex Binary Trading Platforms, Trade Binary Options, ";
-            $name="Binary Options-Crypto";
-            $alternateName="Binary Options-Crypto";
-            $url="https://tradersera.com/binary-options-Crypto.php";
-            break;    
-        
+
+    case 'cfd-partner.php':
+        $title = " Introducing Broker | CFD Partner | Forex IB Program | CFDs";
+        $description = "Join the TradersEra CFD Partner Program and unlock lucrative opportunities in forex trading, AI forex trading,  Binary Options. Collaborate with us to grow";
+        $keywords = "CFD Partner, forex ib program, Forex Introducing Brokers, forex ib commission, Introducing Broker, IB agents, Become an IB, CFD, Trade Shares, Stocks, Commodities, Gold, Oil, Forex, Cryptocurrencies";
+        $name="CFD Partner";
+        $alternateName="CFD Partner";
+        $url="http://tradersera.com/cfd-partner.php";
+        break;
+
+
+    case 'binary-trading.php':
+        $title = "Binary Trading | Binary Options Platform | Forex Binary Options";
+        $description = "Our web-based application simplifies binary options trading. Monitor rates, marketplaces, and place bets effortlessly. Learn more.";
+        $keywords = "Binary Options, Binary Trading, Crypto Binary Trading, Binary Trading, Binary Options Trading, Binary Options Trading Platform, Binary Options Trading Strategy, Trade Binary Options, Financial Instruments, Forex Binary Options, Forex Binary Trading, Forex Binary Trading Platforms, Trade Binary Options.";
+        $name="Binary Trading";
+        $alternateName="Binary Trading";
+        $url="http://tradersera.com/binary-trading.php";
+        break;
+
+    
+    case 'forex-cfds.php':
+        $title = "Forex CFD  | CFD markets | Forex CFD Trading";
+        $description = "Trade on multiple markets with CFDs, the popular financial derivative.  Learn about the advantages of contract for difference on our website.";
+        $keywords = "CFD Trading, Forex CFD Trading, CFD traders, CFD trading in India, CFD markets, CFD Forex, Trade CFD, Leverage, Spreads, Forex, Indices, Stocks, Commodities, Low Spreads, Financial Instruments, CFD Units, Forex Broker";
+        $name="Forex-CFDs";
+        $alternateName="Forex-CFDs";
+        $url="https://tradersera.com/forex-cfds.php";
+        break;
+
+    case 'learn-forex.php':
+        $title = "Learn Forex | Learn Forex Trading | Forex Trading Platform";
+        $description = "Start learning Forex trading and unleash your trading potential with our Forex platform. Trading Now";
+        $keywords = "Learn Forex, Learn Forex Trading, Forex Trading Platform, Currency Markets, Forex Pair, Forex Leverage";
+        $name="Forex";
+        $alternateName="Forex";
+        $url="https://tradersera.com/learn-forex.php";
+        break;
+
+    case 'learn-crypto.php':
+        $title = "Learn Crypto | Learn Crypto Investing | Cryptocurrency Trading ";
+        $description = "Learn how to invest in crypto and start your cryptocurrency trading journey. Enter the world of digital currencies today";
+        $keywords = "Learn Crypto, Learn Crypto Trading, Cryptocurrency, Cryptocurrency Trading, CFD Trading, Learn Crypto Investing, Learning about Crypto Trade, Invest in Cryptocurrency, Cryptocurrency Investment";
+        $name="Crypto";
+        $alternateName="Crypto";
+        $url="https://tradersera.com/learn-crypto.php";
+        break;
+
+
+    case 'learn-binary.php':
+        $title = "Learn Binary Options | Learn Binary Trading | Binary Option";
+        $description = "Learn about Binary Options Trading. Learn to make informed decisions and make profits in this dynamic market.";
+        $keywords = "Learn Binary Options, Learn Binary Options Trading, Forex, Stock indices, Commodities, Learn Binary Option Contracts";
+        $name="Binary";
+        $alternateName="Binary";
+        $url="https://tradersera.com/learn-binary.php";
+        break;
+
     default:
         $title = "Title Here";
         $description = "Description Here";
@@ -300,6 +349,4 @@ switch ($menuactive) {
         $url="";
         break;
 }
-
-
 ?>

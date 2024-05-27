@@ -43,7 +43,7 @@
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
             <div class="col-12 breadcrumb-area ">
-                <h2 class="mb-4">Forex</h2>
+                <h1 class="mb-4">Forex</h1>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb mb-0">
                         <li class="breadcrumb-item"><a href="index.html">Home</a></li>
@@ -65,7 +65,7 @@
         <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
             <div class="col-sm-10 col-lg-6 col-xxl-2 order-2 order-lg-0">
                 <div class="company-story__thumbs offers-content d-center">
-                    <h4>Forex</h4>
+                   <h2>Forex</h2>
                 </div>
             </div>
         </div>
@@ -86,12 +86,12 @@
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/tradersera.png" alt="Imgae">
+                    <img src="assets/images/tradersera.png" alt=" Learn about Forex Trading">
                 </div>
             </div>
             <div class="col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
-                    <h3 class="mb-4 mb-lg-5">Learn Forex </h3>
+                    <h3 class="mb-4 mb-lg-5">Learn Forex</h3>
                     <p class="fs-six mx-ch">The exchange of one currency for another is called forex trading, sometimes
                         referred to as foreign exchange or FX trading. One of the world's most regularly traded markets
                         is foreign exchange (FX), with daily transactions totalling around $6.6 trillion being made by
@@ -122,8 +122,8 @@
             <div class="col-lg-7 col-xxl-6">
                 <div class="trade_on__content">
                     <!-- <span class="heading s1-color fs-five mb-5">Trade On Our</span> -->
-                    <h3 class="mb-4 mb-lg-5">A Beginner's Guide to Forex: Easy Steps to Learn Currency Trading
-                    </h3>
+                    <h2 class="mb-4 mb-lg-5">A Beginner's Guide to Forex: Easy Steps to Learn Currency Trading
+                    </h2>
                     <ul class="d-flex gap-4 flex-column mt-6">
                         <li class="d-flex align-items-center gap-3 fs-six-up" style="font-weight: 600;"><i
                                 class="ti ti-circle-check s1-color fs-four"></i><a href="#question1">Essentials of forex trading for
@@ -148,7 +148,7 @@
             </div>
             <div class="col-md-6 col-lg-6">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/traders- last.png" alt="Imgae">
+                    <img src="assets/images/traders- last.png" alt="Forex trading for beginners">
                 </div>
             </div>
         </div>
@@ -161,12 +161,12 @@
         <div class="row justify-content-center">
             <div id="question1" class=" row gy-6 gy-xxl-0 pt-150">
                 <div  class="table-para mt-5 mb-5 mt-10 ">
-                    <h3 class="mb-4 mb-lg-5">1.Essentials of forex trading for beginners</h3>
+                    <h3 class="mb-1 mb-lg-3">1.Essentials of forex trading for beginners</h3>
                     <p class="fs-six">What is a pip in forex?</p>
                     <p class="fs-six">What is a forex pair?</p>
                     <p class="fs-six">What are the base and quote currencies?</p>
                     <p class="fs-six">What is a lot in forex trading?</p>
-                    <h3 class="mt-2 mb-2 mb-lg-5">What is a forex pair?</h3>
+                    <h3 class="mt-6 mb-1 mb-lg-2">What is a forex pair?</h3>
                     <p class="fs-six ">A pair of currencies that are traded against one another is known as a forex
                         pair. Though there are countless possible pairings, some of the most well-liked ones include the
                         US dollar versus the Japanese yen (USD/JPY), the euro against the US dollar (EUR/USD), and the
@@ -176,13 +176,13 @@
                         which indicates how much of the quote currency will be needed to purchase one base. The base
                         currency is always equal to one. So, when you’re exchanging currency, you’re constantly selling
                         one to get another.</p>
-                    <h3 class="mt-2 mb-2 mb-lg-5">What are the base and quote currencies?</h3>
+                    <h3 class="mt-6 mb-1 mb-lg-3">What are the base and quote currencies?</h3>
                     <p class="fs-six ">The first listed currency in a currency pair in forex trading is called the
                         base currency, and the second listed currency is called the quote currency. The quantity of the
                         quote currency that is equal to one unit of the base currency is represented by its value, which
                         is always equal to one unit of the base currency. For instance, the base currency in the EUR/USD
                         currency pair is EUR, while the quote currency is USD.</p>
-                    <h3 class="mt-2 mb-2 mb-lg-5">What is a pip in forex?</h3>
+                    <h3 class="mt-6 mb-1 mb-lg-3">What is a pip in forex?</h3>
                     <h5 class="fs-six">Definition :</h5>
                     <p class="fs-six ">In forex trading, a pip is the smallest unit of price change. It stands for
                         "percentage in point" or "price interest point." It shows how a currency pair's exchange rate
@@ -199,7 +199,7 @@
                     <p class="fs-six ">In forex trading, pip values are essential to calculating gains and losses.
                         They help traders by precisely measuring price changes and calculating the possible profits or
                         losses on a deal.</p>
-                    <h3 class="mt-2 mb-2 mb-lg-5">What is a lot in forex trading?</h3>
+                    <h3 class="mt-6  mb-lg-3">What is a lot in forex trading?</h3>
                     <p class="fs-six">In forex trading, a lot is defined as a specified quantity of currency
                         units. It shows the magnitude of a deal that an individual trader is making.</p>
                     <h5 class="fs-six  mb-2 mt-2">Different Lot Types : In forex trading, lots come in several
@@ -224,12 +224,12 @@
         </div>
 </section>
 
-<section class="provide-world pt-60 position-relative z-0 pb-60">
+<section class="provide-world pt-60 position-relative z-0 pb-30">
     <div class="container">
         <div class="row justify-content-center">
-            <div id="question2" class="row gy-6 gy-xxl-0">
-                <div class="pt-150">
-                    <div class="table-para mt-5 mb-5">
+            <div id="question2" class="row gy-5 gy-xxl-0">
+                <div class="pt-30">
+                    <div class="table-para mt-1 mb-2">
                         <h3 class="mb-4 mb-lg-5">2.What is the process of trading forex?</h3>
                         <h5 class="mt-2 mb-2 mb-lg-5">As a beginner, understanding how trading in forex works is crucial for
                             your success. Here's a simplified explanation</h5>
@@ -287,7 +287,7 @@
 <section class="provide-world pt-60 position-relative z-0 pb-60">
     <div class="container">
         <div class="row justify-content-center">
-            <div id="question3" class="row gy-6 gy-xxl-0 pt-150">
+            <div id="question3" class="row gy-6 gy-xxl-0 pt-120">
                 <div  class="table-para mt-5 mb-5 ">
                     <h3 class="mb-4 mb-lg-5">3.Why do people engage in forex trading?</h3>
                     <p class="fs-six  ">People trade forex for various reasons, including the potential for
@@ -325,7 +325,7 @@
 <section class="provide-world pt-60 position-relative z-0 pb-60">
     <div class="container">
         <div class="row justify-content-center">
-            <div id="question4" class="row gy-6 gy-xxl-0 pt-150">
+            <div id="question4" class="row gy-6 gy-xxl-0 pt-120">
                 <div class="table-para mt-5 mb-5">
                     <h3 class="mb-4 mb-lg-5">4.Discover how the currency markets operate.</h3>
                     <h5 class="fs-six  mb-2 mt-2">Central Banks :</h5>
@@ -355,23 +355,23 @@
 <section class="provide-world pt-60 position-relative z-0 pb-60 pb-120">
     <div class="container">
         <div class="row justify-content-center">
-            <div id="question5" class="row gy-6 gy-xxl-0 pt-150">
+            <div id="question5" class="row gy-6 gy-xxl-0 pt-120">
                 <div class="table-para mt-5 mb-5">
                     <h3 class="mb-4 mb-lg-5">5. How To Start Trading Forex</h3>
-                    <h5 class="fs-six  mb-2 mt-2">Key Steps for Becoming a Forex Trader :</h5>
-                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>Learn about forex trading essentials including currency pairings, pip movements, leverage, and risk management.</p>
-                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>Select a reputable forex broker with regulatory oversight, user-friendly interfaces, competitive spreads, and exceptional customer service. </p>
-                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>Open a trading account, starting with a demo account to gain experience and confidence.</p>
-                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>Create a detailed trading strategy that includes goals, risk tolerance, techniques, and money management guidelines.</p>
-                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>Before moving on to live trading with real money, make sure you practice regularly on a demo account.</p>
-                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>Stay informed about market changes, economic news, and trading ideas.</p>
-                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>Seek mentoring and connect with the forex trading community for advice and assistance.</p>
-                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>Implement excellent risk management measures and practice discipline in trade execution.</p>
-                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i>During market swings, maintain patience and fortitude while focused on long-term success.</p>
+                    <h5 class="fs-six mb-2 mt-2">Key Steps for Becoming a Forex Trader :</h5>
+                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i> Learn about forex trading essentials including currency pairings, pip movements, leverage, and risk management.</p>
+                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i> Select a reputable forex broker with regulatory oversight, user-friendly interfaces, competitive spreads, and exceptional customer service. </p>
+                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i> Open a trading account, starting with a demo account to gain experience and confidence.</p>
+                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i> Create a detailed trading strategy that includes goals, risk tolerance, techniques, and money management guidelines.</p>
+                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i> Before moving on to live trading with real money, make sure you practice regularly on a demo account.</p>
+                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i> Stay informed about market changes, economic news, and trading ideas.</p>
+                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i> Seek mentoring and connect with the forex trading community for advice and assistance.</p>
+                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i> Implement excellent risk management measures and practice discipline in trade execution.</p>
+                    <p class="fs-six  mb-2 mt-2"><i class="ti ti-circle-check s1-color fs-four"></i> During market swings, maintain patience and fortitude while focused on long-term success.</p>
                 </div>
             </div>
         </div>
 </section>  
 
-
+ 
 <?php include("includes/footer.php"); ?>

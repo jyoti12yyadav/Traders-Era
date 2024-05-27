@@ -1,206 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-                            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<url>
-<loc>https://tradersera.com/index.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>1.00</priority>
-</url>
-<url>
-<loc>https://tradersera.com/prelogin.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://tradersera.com/contact-us.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://tradersera.com/fx-cfd.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://tradersera.com/crypto-cfd.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://tradersera.com/binary.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://tradersera.com/ai-Invest.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://tradersera.com/account-types.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://tradersera.com/deposit.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://tradersera.com/withdrawal.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://tradersera.com/market-hours.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://tradersera.com/refer-a-friend.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://tradersera.com/bonus.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://tradersera.com/crypto.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://tradersera.com/indices.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://tradersera.com/stocks.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://tradersera.com/forex.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://tradersera.com/commodity.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://tradersera.com/faq.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://tradersera.com/economic-calendar.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://tradersera.com/news-research.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://tradersera.com/glossary.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://tradersera.com/learn.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://tradersera.com/interest-rate.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://tradersera.com/become-an-iB.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://tradersera.com/tradersera.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://tradersera.com/safety-of-funds.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://tradersera.com/regulatory.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://tradersera.com/our-servers.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://tradersera.com/kyc-checks.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://tradersera.com/blogs/</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://tradersera.com/terms-condition.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://tradersera.com/risk-disclaimer.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://tradersera.com/privacy-policy.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://tradersera.com/aml-kyc.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.80</priority>
-</url>
-<url>
-<loc>https://tradersera.com/learn-forex.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>https://tradersera.com/learn-crypto.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>https://tradersera.com/learn-binary.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>https://tradersera.com/offers.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.64</priority>
-</url>
-<url>
-<loc>https://tradersera.com/contests.php</loc>
-<lastmod>2024-05-02T13:57:09+00:00</lastmod>
-<priority>0.64</priority>
-</url> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
+    <url>
+        <loc>https://tradersera.com/index.php</loc>
+        <lastmod>2024-05-27T09:31:52+00:00</lastmod>
+        <priority>1.00</priority>
+    </url>
+    <url>
+        <loc>https://tradersera.com/prelogin.php</loc>
+        <lastmod>2024-05-27T09:31:52+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://tradersera.com/contact-us.php</loc>
+        <lastmod>2024-05-27T09:31:52+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://tradersera.com/fx-cfd.php</loc>
+        <lastmod>2024-05-27T09:31:52+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://tradersera.com/crypto-cfd.php</loc>
+        <lastmod>2024-05-27T09:31:52+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://tradersera.com/binary.php</loc>
+        <lastmod>2024-05-27T09:31:52+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://tradersera.com/ai-Invest.php</loc>
+        <lastmod>2024-05-27T09:31:52+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://tradersera.com/binary-trading.php</loc>
+        <lastmod>2024-05-27T09:31:52+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://tradersera.com/forex-cfds.php</loc>
+        <lastmod>2024-05-27T09:31:52+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://tradersera.com/market-hours.php</loc>
+        <lastmod>2024-05-27T09:31:52+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://tradersera.com/refer-a-friend.php</loc>
+        <lastmod>2024-05-27T09:31:52+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
+    <url>
+        <loc>https://tradersera.com/bonus.php</loc>
+        <lastmod>2024-05-27T09:31:52+00:00</lastmod>
+        <priority>0.80</priority>
+    </url>
 </urlset>

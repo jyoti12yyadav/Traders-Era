@@ -495,7 +495,7 @@
         </div>
     </div>
 </section>
-<section class="provide-world pt-60 position-relative z-0 mb-10 pb-120">
+<section class="provide-world pt-60 position-relative z-0 mb-10 pt-10 pb-120" style="background-color: #000000;">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-12 col-xxl-10">
@@ -532,7 +532,7 @@
                     <br>
                 </div>
             </div>
-            <div class="table-para mt-5 mb-5">
+            <div class="table-para mt-15 mb-5">
                 <p>Whether you're looking to hedge your positions or analyze market trends.Our platform provides the
                     tools and support you need for successful trading. Our expert team is always available to assist you
                     in navigating the FX CFD markets effectively.</p>

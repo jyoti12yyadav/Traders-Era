@@ -39,7 +39,7 @@
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
             <div class="col-12 breadcrumb-area ">
-                <h2 class="mb-4">Crypto</h2>
+                <h1 class="mb-4">Crypto</h1>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb mb-0">
                         <li class="breadcrumb-item"><a href="index.html">Home</a></li>
@@ -65,12 +65,12 @@
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/tradersera.png" alt="Imgae">
+                    <img src="assets/images/tradersera.png" alt="What is Crypto">
                 </div>
             </div>
             <div class="col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
-                    <h3 class="mb-4 mb-lg-5">What is Cryptocurrency? </h3>
+                    <h2 class="mb-4 mb-lg-5">What is Cryptocurrency? </h2>
                     <p class="fs-six mx-ch">Cryptocurrency is a type of digital or virtual currency that uses
                         cryptography for security and operates independently of a central authority, such as a
                         government or bank. Unlike traditional currencies, cryptocurrencies exist only in digital form
@@ -102,8 +102,8 @@
             <div class="col-lg-7 col-xxl-6">
                 <div class="trade_on__content">
                     <!-- <span class="heading s1-color fs-five mb-5">Trade On Our</span> -->
-                    <h3 class="mb-4 mb-lg-5">CFD trading for cryptocurrency
-                    </h3>
+                    <h2 class="mb-4 mb-lg-5">CFD trading for cryptocurrency
+                    </h2>
 
 
                     <p class="fs-six mx-ch">CFDs trading are derivatives that allow you to speculate on bitcoin price
@@ -126,7 +126,7 @@
             </div>
             <div class="col-md-6 col-lg-6">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/traders- last.png" alt="Imgae">
+                    <img src="assets/images/traders- last.png" alt="CFD trading for crypto">
                 </div>
             </div>
         </div>
@@ -148,12 +148,12 @@
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/tradersera.png" alt="Imgae">
+                    <img src="assets/images/CFD trading for cryptocurrency.png"  alt="Buy and Sell Crypto">
                 </div>
             </div>
             <div class="col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
-                    <h3 class="mb-4 mb-lg-5">CFD trading for cryptocurrency </h3>
+                    <h2 class="mb-4 mb-lg-5">CFD trading for cryptocurrency </h2>
                     <p class="fs-six mx-ch">CFDs trading are derivatives that allow you to speculate on bitcoin price
                         changes without owning the underlying currencies. You can go long ('buy') if you believe a
                         cryptocurrency will increase in value, or short ('sell') if you believe it will decrease.
@@ -187,8 +187,8 @@
             <div class="col-lg-7 col-xxl-6">
                 <div class="trade_on__content">
                     <!-- <span class="heading s1-color fs-five mb-5">Trade On Our</span> -->
-                    <h3 class="mb-4 mb-lg-5">Buying and selling cryptocurrency through an exchange
-                    </h3>
+                    <h2 class="mb-4 mb-lg-5">Buying and selling cryptocurrency through an exchange
+                    </h2>
 
 
                     <p class="fs-six mx-ch">When you buy cryptocurrencies through an exchange, you are purchasing the
@@ -211,7 +211,7 @@
             </div>
             <div class="col-md-6 col-lg-6">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/traders- last.png" alt="Imgae">
+                    <img src="assets/images/Buying and Selling cryptocurrency through an exchange.png"  alt="Buying and selling cryptocurrency">
                 </div>
             </div>
         </div>
@@ -224,13 +224,13 @@
         <div class="row justify-content-center">
             <div class="row gy-6 gy-xxl-0">
                 <div class="table-para mt-5 mb-5">
-                    <h3 class="mb-5">What exactly does Bitcoin mining mean?</h3>
+                    <h3 class="mb-3">What exactly does Bitcoin mining mean?</h3>
 
                     <p class="fs-six ">bitcoin mining is the process of verifying recent Bitcoin transactions and adding
                         new blocks to the network.
 
                     </p>
-                    <h3  class="fs-six  mb-2 mt-2">Checking transactions</h3>
+                    <h3  class="fs-six  mb-2 mt-5">Checking transactions</h3>
                     <p class="fs-six">Mining machines choose pending transactions from a pool and verify that the sender
                         has enough coins to finish the transaction. This entails comparing the transaction details to
                         the transaction history kept on the blockchain. A second check ensures that the sender
@@ -376,11 +376,11 @@
                 <div class="d-flex flex-column">
                     <div class="blog__card">
                         <div class="blog__thumbs position-relative">
-                            <img src="assets/images/blog_details.png" alt="Image" class="w-100 cus-rounded-1">
+                            <img src="assets/images/blog_details.png" alt=" Investing in Bitcoin for beginners" class="w-100 cus-rounded-1">
                         </div>
                         <div class="blog_news__content mt-5">
-                            <h3 class="mb-5">Process and Methods for Investing in Bitcoin (As a Beginner):</h3>
-                            <h5 class="blog_news__content mt-5">Research:</h5>
+                            <h2 class="mb-5">Process and Methods for Investing in Bitcoin (As a Beginner):</h2>
+                            <h5 class="blog_news__content mt-5">Research:</h5><br>
                             <p class=" mb-7 mb-lg-8">Educate yourself about Bitcoin and cryptocurrency markets. Understand how they work, their potential risks and rewards, and different investment strategies.</p>
                             <!-- <div class="border-start border-color border-4 ps-4 ps-lg-5 py-1">
                                 <h4>Checking transactions</h4>
@@ -409,30 +409,30 @@
                         <p class="mt-5">Sign up for an account on your chosen exchange platform and complete the necessary verification process (Know Your Customer - KYC) to comply with regulatory requirements.</p>
                     </div>
 
-                    <h5 class="blog_news__content mt-5">Buy Bitcoin:</h5>
+                    <h5 class="blog_news__content mt-5">Buy Bitcoin:</h5><br>
                     <p class=" mb-7 mb-lg-8">Deposit funds into your exchange account and use them to purchase Bitcoin. You can choose to buy a whole Bitcoin or a fraction of it, depending on your budget.</p>
 
 
-                    <h5 class="blog_news__content mt-5">Secure Your Investment:</h5>
+                    <h5 class="blog_news__content mt-5">Secure Your Investment:</h5><br>
                     <p class=" mb-7 mb-lg-8">Transfer your purchased Bitcoin from the exchange to your chosen cryptocurrency wallet for added security. Ensure you keep your wallet's private keys safe and never share them with anyone.</p>
 
 
                     
-                    <h5 class="blog_news__content mt-5">Monitor and Manage:</h5>
+                    <h5 class="blog_news__content mt-5">Monitor and Manage:</h5><br>
                     <p class=" mb-7 mb-lg-8">Keep track of your Bitcoin investment's performance over time. Stay informed about market trends, news, and developments that may affect Bitcoin's price.</p>
 
 
 
     
-                    <h5 class="blog_news__content mt-5">Consider Diversification:</h5>
+                    <h5 class="blog_news__content mt-5">Consider Diversification:</h5><br>
                     <p class=" mb-7 mb-lg-8">While Bitcoin is the most well-known cryptocurrency, consider diversifying your investment portfolio by exploring other cryptocurrencies (commonly referred to as altcoins) to spread risk.</p>
 
-                    <h5 class="blog_news__content mt-5">Stay Informed and Updated:</h5>
+                    <h5 class="blog_news__content mt-5">Stay Informed and Updated:</h5><br>
                     <p class=" mb-7 mb-lg-8">Continuously educate yourself about Bitcoin and cryptocurrency markets. To make informed investment decisions, stay updated on regulatory changes, technological advancements, and market trends.</p>
 
 
 
-                    <h5 class="blog_news__content mt-5">Manage Risk:</h5>
+                    <h5 class="blog_news__content mt-5">Manage Risk:</h5><br>
                     <p class=" mb-7 mb-lg-8">That investing in Bitcoin carries inherent risks, including price volatility and regulatory uncertainty. Only invest what you can afford to lose, and consider seeking advice from a financial advisor if needed.</p>
                     <p class=" mb-7 mb-lg-8">By following these steps and exercising caution, you can begin investing in Bitcoin as a beginner and potentially benefit from its growth and potential as a disruptive financial asset. Remember to conduct thorough research and proceed with caution in the volatile cryptocurrency markets.</p>
 
@@ -443,10 +443,5 @@
         </div>
     </div>
 </section>
-
-
-
-
-
 
 <?php include("includes/footer.php"); ?>

@@ -1,4 +1,4 @@
-<?php $title = "Binary Options"; include("includes/header.php"); ?>
+<?php include("includes/header.php"); ?>
 <style>
     .main-table {
         display: flex;
@@ -52,7 +52,7 @@
         border-radius: 10px 10px 0px 0px;
     }
 
-    .packages>h3 {
+    .packages>h4 {
         color: #000000;
         text-align: center;
     }
@@ -117,17 +117,16 @@
     }
 </style>
 
-<!-- jyoti -->
-    
 <section class="banner-section pt-2 pb-1">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
             <div class="col-12 breadcrumb-area ">
-                <h1 class="mb-4">Binary Trading</h1>
+                <h2 class="mb-4">Binary Options - Crypto</h2>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb mb-0">
                         <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                        <li class="breadcrumb-item ms-2 ps-7 active" aria-current="page"><span>Binary Trading</span></li>
+                        <li class="breadcrumb-item ms-2 ps-7 active" aria-current="page"><span>Binary Options -
+                                Crypto</span></li>
                     </ol>
                 </nav>
             </div>
@@ -152,7 +151,7 @@
                         <img src="assets/images/icon/number-1.png" alt="number-1">
                     </span>
                     <!-- <h3 class="mt-5 mb-5">Register</h3> -->
-                    <h3 style="margin-top: 10px;">Provide Your Link for Referrals</h3>
+                    <h4 style="margin-top: 10px;">Provide Your Link for Referrals</h4>
                     <br>
                 </div>
             </div>
@@ -162,7 +161,7 @@
                         <img src="assets/images/icon/two.png" alt="two">
                     </span>
                     <!-- <h3 class="mt-5 mb-5">Verify</h3> -->
-                    <h3 style="margin-top: 10px;">Reward Yourself for Referrals</h3><br>
+                    <h4 style="margin-top: 10px;">Reward Yourself for Referrals</h4><br>
 
                 </div>
             </div>
@@ -172,7 +171,7 @@
                         <img src="assets/images/icon/number-3.png" alt="number-3">
                     </span>
                     <!-- <h3 class="mt-5 mb-5">Fund</h3> -->
-                    <h3 style="margin-top: 10px;">Trade & Take Out Your Profits Immediately</h3><br>
+                    <h4 style="margin-top: 10px;">Trade & Take Out Your Profits Immediately</h4><br>
                 </div>
             </div>
 
@@ -182,7 +181,7 @@
                         <img src="assets/images/icon/number-4.png" alt="number-4">
                     </span>
                     <!-- <h3 class="mt-5 mb-5">Trade</h3> -->
-                    <h3 style="margin-top: 10px;">Start trading with binary,spot and AI trading platform.</h3>
+                    <h4 style="margin-top: 10px;">Start trading with binary,spot and AI trading platform.</h4>
                 </div>
 
             </div>
@@ -218,7 +217,7 @@
                                             class="referred_image">
                                     </div>
                                     <h3 style="font-size: 25px">For Referred New User</h3>
-                                    <h3 style="margin-left: auto;">Welcome Bonus 25% </h3>
+                                    <h4 style="margin-left: auto;">Welcome Bonus 25% </h4>
                                 </div>
                             </div>
                         </div>
@@ -240,7 +239,7 @@
                                             class="referred_image">
                                     </div>
                                     <h3 style="font-size: 25px">For Referred New User</h3>
-                                    <h3 style="margin-left: auto;"> AI Bonus - 2%</h3>
+                                    <h4 style="margin-left: auto;"> AI Bonus - 2%</h4>
                                 </div>
                             </div>
                         </div>
@@ -262,8 +261,8 @@
                                         <img src="assets/images/icon/refer.png" alt="referral" class="referer_image">
                                     </div>
                                     <h3 style="font-size: 25px;">For Referer</h3>
-                                    <h3 style="margin-left: auto;">0.1% of the Comission from the <br> Trades traded by
-                                        the signup</h3>
+                                    <h4 style="margin-left: auto;">0.1% of the Comission from the <br> Trades traded by
+                                        the signup</h4>
                                 </div>
                             </div>
                         </div>
@@ -379,7 +378,7 @@
 
 
 
-<section class="provide-world pt-120 pb-120  position-relative z-0" style="padding-bottom:25px; background-color: #000000;">
+<section class="provide-world pt-120 pb-120  position-relative z-0" style="padding-bottom: 25px;">
     <div class="container">
         <div class="row gy-6 gy-xxl-0">
             <h2 class="mb-15 text-center">Sign Up And Share Your Link Now! </h2>
@@ -388,8 +387,8 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/verify (1).png" alt="stock-market">
                     </span>
-                    <h3 class="mt-5 mb-5">Register
-                    </h3>
+                    <h4 class="mt-5 mb-5">Register
+                    </h4>
                     <p>To obtain your referral link, sign up.
                     </p><br><br>
                 </div>
@@ -399,8 +398,8 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/sharing.png" alt="stock-market">
                     </span>
-                    <h3 class="mt-5 mb-5">Get Sharing
-                    </h3>
+                    <h4 class="mt-5 mb-5">Get Sharing
+                    </h4>
                     <p>Share your link everywhere now.
                     </p>
                     <br><br>
@@ -411,8 +410,8 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/Low-starting-amount.png" alt="stock-market">
                     </span>
-                    <h3 class="mt-5 mb-5">Receive 50% deposit.
-                    </h3>
+                    <h4 class="mt-5 mb-5">Receive 50% deposit.
+                    </h4>
                     <p>Receive 50% of your referred clients' deposits after funding.
                     </p>
                     <br>
@@ -423,8 +422,8 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/commission.png" alt="stock-market">
                     </span>
-                    <h3 class="mt-5 mb-5">Increase your income
-                    </h3>
+                    <h4 class="mt-5 mb-5">Increase your income
+                    </h4>
                     <p>With no restrictions, our referral program offers limitless earning.
                     </p>
                     <br>
