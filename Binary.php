@@ -131,11 +131,6 @@
     </div>
     <div class="container">
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
-            <div class="col-10 col-sm-8 col-md-7 col-lg-6 col-xxl-5 order-2 order-lg-0">
-                <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/Binary Trading At TradersEra.png" alt="Binary Option contracts with the EUR/USD currency pair">
-                </div>
-            </div>
             <div class="col-lg-6 col-xxl-6">
                 <div class="trade_on__content">
                     <h3 class="mb-4 mb-lg-5">Example of binary options trading </h3>
@@ -151,6 +146,11 @@
                     <br>
                     <p class="fs-six ">For this scenario, let's assume you decide to buy.</p>
                     <br>
+                </div>
+            </div>
+            <div class="col-10 col-sm-8 col-md-7 col-lg-6 col-xxl-5 order-2 order-lg-0">
+                <div class="trade_on__thumbs d-flex justify-content-end">
+                    <img src="assets/images/Binary Trading At TradersEra.png" alt="Binary Option contracts with the EUR/USD currency pair">
                 </div>
             </div>
         </div>
