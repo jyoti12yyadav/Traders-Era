@@ -273,10 +273,7 @@
         mark {
            background-color: #9AD953;
            border-radius: 4px;
-           padding-left: 12px;
-           padding-right: 12px;
-           /* padding-top:  ; 
-           padding-bottom: 6px;  */
+          
            color:black;
        }
    
