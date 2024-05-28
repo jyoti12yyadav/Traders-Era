@@ -39,7 +39,7 @@
             <div class="col-md-6 col-xxl-3 mt-6">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/isolation.png" alt="stock-market">
+                        <img src="assets/images/icon/stock.png" alt="stock-market">
                     </span>
                     
                     <h3 class="mt-5 mb-5">Segregated Accounts
@@ -62,7 +62,7 @@
             <div class="col-md-6 col-xxl-3 mt-6">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/secure-payment.png" alt="stock-market">
+                        <img src="assets/images/icon/credit-card.png" alt="stock-market">
                     </span>
                     <h3 class="mt-5 mb-5">Secure Payment Gateways
                     </h3>
