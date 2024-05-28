@@ -36,7 +36,7 @@
         <div class="row gy-6 gy-xxl-0">
             <h2 class=" mb-lg-5 d-flex justify-content-center">Ensuring the Safety of Your Funds with TradersEra </h2>
      
-            <div class="col-md-6 col-xxl-4 mt-6">
+            <div class="col-md-6 col-xxl-3 mt-6">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/Spreads.png" alt="stock-market">
@@ -44,46 +44,43 @@
                     
                     <h3 class="mt-5 mb-5">Segregated Accounts
                     </h3>
-                    <p>Your funds are held in segregated bank accounts separate from TradersEra 's operational accounts.
-                        This means that your money is never commingled with company funds and remains safely segregated
-                        at all times.
-                    </p>
-                    <br>
-                    <br>
+                    <p>Your Funds are always being kept in a separate bank account from our operational account which makes your account safe and secure.
+                    </p><br>
                 </div>
             </div>
-            <div class="col-md-6 col-xxl-4 mt-6">
+            <div class="col-md-6 col-xxl-3 mt-6">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/commission.png" alt="stock-market">
                     </span>
                     <h3 class="mt-5 mb-5">Regulatory Compliance
                     </h3>
-                    <p>TradersEra operates under the oversight of reputable regulatory authorities, ensuring compliance
-                        with strict regulatory standards. Our adherence to regulatory requirements provides an
-                        additional layer of protection for your funds and reinforces our commitment to transparency and
-                        integrity.
-                    </p>
-
-
+                    <p>TradersEra operates under the oversight of reputable regulatory authorities, ensuring compliance with strict regulatory standards.
+                    </p><br><br>
                 </div>
             </div>
-            <div class="col-md-6 col-xxl-4 mt-6">
+            <div class="col-md-6 col-xxl-3 mt-6">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/Low-starting-amount.png" alt="stock-market">
                     </span>
                     <h3 class="mt-5 mb-5">Secure Payment Gateways
                     </h3>
-                    <p>We utilize cutting-edge encryption technology and secure payment gateways to protect your
-                        financial transactions and personal information. Our robust security measures safeguard against
-                        unauthorized access and ensure the confidentiality and integrity of your data.
+                    <p>We utilize advanced encryption technology and secure payment gateways to protect your financial transactions and personal information
                     </p>
-
                 </div>
             </div>
-
-
+            <div class="col-md-6 col-xxl-3 mt-6">
+                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/Low-starting-amount.png" alt="stock-market">
+                    </span>
+                    <h3 class="mt-5 mb-5">Risk Management Protocols
+                    </h3>
+                    <p>TradersEra employs accurate risk management protocols to modify potential risks and protect against market irregularity.
+                    </p><br>
+                </div>
+            </div>
         </div>
     </div>
 
