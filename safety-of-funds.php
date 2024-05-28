@@ -94,7 +94,7 @@
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/tradersera.png" alt="Web Based Tradersera Platform ">
+                    <img src="assets/images/client fund insurence.png" alt="Web Based Tradersera Platform ">
                 </div>
             </div>
 
