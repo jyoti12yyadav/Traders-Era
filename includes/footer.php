@@ -133,7 +133,7 @@
                             <a class="n2-color" href="crypto-cfd.php">Crypto CFD</a>
                         </li>
                         <li>
-                            <a class="n2-color" href="Binary.php">Binary</a>
+                            <a class="n2-color" href="binary.php">Binary</a>
                         </li>
                         <li>
                             <a class="n2-color" href="ai-Invest.php">AI Invest</a>
