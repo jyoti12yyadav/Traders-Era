@@ -213,13 +213,7 @@
                             <td>100</td>
                         </tr>
                         <tr>
-                            <td colspan="11" class="text-start table-para"><strong>Margin Call Policy:</strong> The
-                                forced liquidation level is 50%. Please review the ThinkMarkets&nbsp;<strong><u><a
-                                            data-di-id="di-id-67700be-c93a7831"
-                                            href="/uk/support/legal-and-regulation-uk/margin-call-policy/"
-                                            target="_blank">Margin Call Policy</a></u>&nbsp;</strong>for complete
-                                details.<br>
-                                <br>
+                            <td colspan="11" class="text-start table-para">
                                 To account for positions held over the weekend, 3-Day swaps are applied at market close
                                 on Friday
                             </td>
@@ -324,9 +318,6 @@
                                 to 23:59 (Friday) GMT+2<br>
                                 <strong>Important note:</strong> There is a daily 1 hour break from 0:00 to 01:01
                                 (GMT+2) server time.<br>
-                                *Please<a data-di-id="di-id-3ab1a17b-b1a21773"
-                                    href="/getmedia/696e7160-e63b-441f-93aa-29f379649178/XAUXAG-LEVERAGE-EN-22-03-21_1.pdf.aspx">
-                                    <u>click here</u></a> for further details on maximum leverage allowance.&nbsp;<br>
                                 <br>
                                 To account for positions held over the weekend, 3-Day swaps are applied at market close
                                 on Wednesday for Gold, Gold Zero, Gold Mini, Silver, Silver Zaro and Silver

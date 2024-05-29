@@ -520,19 +520,13 @@
                         <tr>
                             <td colspan="9" class="text-start table-para">
                                 <p><strong>Margin Call Policy</strong>: The forced liquidation level is 50%. Please
-                                    review the TradersEra <a data-di-id="di-id-2d59e933-d16f0453"
-                                        href="/en/support/legal-and-regulation/margin-call-policy/"> <u>Margin Call
-                                            Policy</u></a> for complete details.</p>
+                                    review the TradersEra Margin Call
+                                            Policy for complete details.</p>
                                 <p><strong>Trading hours:</strong> The markets are open from Monday 00:03 (GMT+2) to
                                     Friday 23:55 (GMT+2). All spot FX instruments have no expiry.</p>
                                 <p>&nbsp;</p>
-                                <p>For more information on our overnight charges (swap rates), <strong><a
-                                            data-di-id="di-id-36f948dd-abf53eb7"
-                                            href="/en/forex-trading/swap-rates/"><u>please click
-                                                here.</u></a></strong><br>
-                                    Commissions may <a data-di-id="di-id-27529c98-75adcd91"
-                                        href="/en/trading-platforms/accounts/"><u><strong>apply</strong></u> </a>when
-                                    using the ThinkZero account.</p>
+                                <p>For more information on our overnight charges (swap rates)<br>
+                                   </p>
                             </td>
                         </tr>
                     </tbody>

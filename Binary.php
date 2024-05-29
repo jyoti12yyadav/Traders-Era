@@ -163,6 +163,11 @@
     </div>
     <div class="container">
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
+        <div class="col-10 col-sm-8 col-md-7 col-lg-6 col-xxl-5 order-2 order-lg-0">
+                <div class="trade_on__thumbs d-flex justify-content-end">
+                    <img src="assets/images/binary trading.png" alt="Buying and Selling on Binary Options">
+                </div>
+            </div>
             <div class="col-lg-6 col-xxl-6">
                 <div class="trade_on__content">
                     <p class="fs-six">If that's the case, there are two potential results</p>
@@ -181,11 +186,7 @@
                         by the difference between your entry and exit prices.</p>
                 </div>
             </div>
-            <div class="col-10 col-sm-8 col-md-7 col-lg-6 col-xxl-5 order-2 order-lg-0">
-                <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/binary trading.png" alt="Buying and Selling on Binary Options">
-                </div>
-            </div>
+            
         </div>
     </div>
 </section>
@@ -196,11 +197,6 @@
     </div>
     <div class="container">
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
-            <div class="col-10 col-sm-8 col-md-7 col-lg-6 col-xxl-5 order-2 order-lg-0">
-                <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/Example of binary options trading.png" alt="TradersEra,s Trading Demo Account! ">
-                </div>
-            </div>
             <div class="col-lg-6 col-xxl-6">
                 <div class="trade_on__content">
                     <h2>Key insights from binary options trading</h2>
@@ -230,6 +226,11 @@
                                 getting started with real trading.
                         </li>
                     </ul>
+                </div>
+            </div>
+            <div class="col-10 col-sm-8 col-md-7 col-lg-6 col-xxl-5 order-2 order-lg-0">
+                <div class="trade_on__thumbs d-flex justify-content-end">
+                    <img src="assets/images/Example of binary options trading.png" alt="TradersEra,s Trading Demo Account! ">
                 </div>
             </div>
         </div>

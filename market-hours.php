@@ -121,125 +121,8 @@
     </div>
 </section>
 
-<section class="faq pb-120 pt-120 position-relative z-0">
-    <div class="animation position-absolute top-0 center-0 w-100 h-100 z-n1">
-        <img src="assets/images/button.png" alt="vector"
-            class="position-absolute pt-6 pt-xl-15 previewShapeRevX d-none d-xl-flex">
-        <img src="assets/images/star2.png" alt="vector"
-            class="position-absolute push_animat end-0 top-0 mt-20 pt-5 me-xl-20 pe-10 d-none d-lg-flex">
-        <img src="assets/images/vector20.png" alt="vector"
-            class="position-absolute bottom-0 start-0 pb-11 ps-7 d-none d-xxxl-flex">
-    </div>
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-8 col-xxl-7">
-                <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h2>Frequently Asked Question</h2>
-                </div>
-            </div>
-        </div>
-        <div class="row gy-10 justify-content-center align-items-center">
-            <div class="col-md-12 col-lg-12 col-xxl-12">
-                <div class="faq__part">
-                    <div class="accordion-section d-grid gap-6">
-                        <div class="accordion-single  cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
-                            <h3 class="header-area">
-                                <button
-                                    class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
-                                    type="button"> What are the typical trading hours for the forex market?</button>
-                            </h3>
-                            <div class="content-area">
-                                <div class="content-body pt-5">
-                                    <p>The forex market operates 24 hours a day, five days a week, starting from Sunday
-                                        evening (GMT) and closing on Friday evening (GMT). This continuous operation
-                                        allows traders to participate in trading sessions across different time zones.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-single cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
-                            <h3 class="header-area">
-                                <button
-                                    class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
-                                    type="button">
-                                    When does the stock market open and close in the United States?
-                                </button>
-                            </h3>
-                            <div class="content-area">
-                                <div class="content-body pt-5">
-                                    <p>In the United States, the stock market opens at 9:30 AM Eastern Time (ET) and
-                                        closes at 4:00 PM ET, Monday through Friday. However, pre-market and after-hours
-                                        trading sessions offer limited trading opportunities outside these hours.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-single cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
-                            <h3 class="header-area">
-                                <button
-                                    class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
-                                    type="button">
-                                    What are the trading hours for cryptocurrency markets?
-                                </button>
-                            </h3>
-                            <div class="content-area">
-                                <div class="content-body pt-5">
-                                    <p>Cryptocurrency markets are decentralized and operate 24/7, unlike traditional
-                                        financial markets. This round-the-clock trading allows investors to buy, sell,
-                                        and trade digital assets at any time, including weekends and holidays.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-single cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
-                            <h3 class="header-area">
-                                <button
-                                    class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
-                                    type="button">
-                                    Are there specific hours for trading commodities like gold and oil?
-                                </button>
-                            </h3>
-                            <div class="content-area">
-                                <div class="content-body pt-5">
-                                    <p>Yes, commodity trading hours vary depending on the exchange and the asset being
-                                        traded. Generally, trading hours for commodities like gold and oil follow the
-                                        schedules of the exchanges where they are listed. For example, the COMEX
-                                        exchange typically operates from Sunday to Friday for gold futures trading.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-single cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
-                            <h3 class="header-area">
-                                <button
-                                    class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
-                                    type="button">
-                                    How do market hours affect trading volume and volatility?
-                                </button>
-                            </h3>
-                            <div class="content-area">
-                                <div class="content-body pt-5">
-                                    <p>Trading volume and volatility often peak during overlapping trading sessions when
-                                        multiple markets are open simultaneously. For instance, the overlap between the
-                                        London and New York sessions in forex trading tends to see increased activity.
-                                        Conversely, trading volume may decline during off-hours or holidays when fewer
-                                        participants are actively trading, potentially leading to lower liquidity and
-                                        increased spreads.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
-
-
-
-
-
 <div class="container my-5 table-div">
-
-    <table aria-label="table" id="Record" class="table table-striped table-dark my-3">
+<table aria-label="table" id="Record" class="table table-striped table-dark my-3">
         <thead>
             <tr>
                 <th scope="col" style="    background-color: #9ad953;
@@ -363,6 +246,126 @@
             </tr>
         </tbody>
     </table>
+</div>
+
+<section class="faq pb-120 pt-120 position-relative z-0">
+    <div class="animation position-absolute top-0 center-0 w-100 h-100 z-n1">
+        <img src="assets/images/button.png" alt="vector"
+            class="position-absolute pt-6 pt-xl-15 previewShapeRevX d-none d-xl-flex">
+        <img src="assets/images/star2.png" alt="vector"
+            class="position-absolute push_animat end-0 top-0 mt-20 pt-5 me-xl-20 pe-10 d-none d-lg-flex">
+        <img src="assets/images/vector20.png" alt="vector"
+            class="position-absolute bottom-0 start-0 pb-11 ps-7 d-none d-xxxl-flex">
+    </div>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8 col-xxl-7">
+                <div class="heading__content mb-10 mb-lg-15 text-center">
+                    <h2>Frequently Asked Question</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row gy-10 justify-content-center align-items-center">
+            <div class="col-md-12 col-lg-12 col-xxl-12">
+                <div class="faq__part">
+                    <div class="accordion-section d-grid gap-6">
+                        <div class="accordion-single  cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
+                            <h3 class="header-area">
+                                <button
+                                    class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
+                                    type="button"> What are the typical trading hours for the forex market?</button>
+                            </h3>
+                            <div class="content-area">
+                                <div class="content-body pt-5">
+                                    <p>The forex market operates 24 hours a day, five days a week, starting from Sunday
+                                        evening (GMT) and closing on Friday evening (GMT). This continuous operation
+                                        allows traders to participate in trading sessions across different time zones.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-single cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
+                            <h3 class="header-area">
+                                <button
+                                    class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
+                                    type="button">
+                                    When does the stock market open and close in the United States?
+                                </button>
+                            </h3>
+                            <div class="content-area">
+                                <div class="content-body pt-5">
+                                    <p>In the United States, the stock market opens at 9:30 AM Eastern Time (ET) and
+                                        closes at 4:00 PM ET, Monday through Friday. However, pre-market and after-hours
+                                        trading sessions offer limited trading opportunities outside these hours.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-single cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
+                            <h3 class="header-area">
+                                <button
+                                    class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
+                                    type="button">
+                                    What are the trading hours for cryptocurrency markets?
+                                </button>
+                            </h3>
+                            <div class="content-area">
+                                <div class="content-body pt-5">
+                                    <p>Cryptocurrency markets are decentralized and operate 24/7, unlike traditional
+                                        financial markets. This round-the-clock trading allows investors to buy, sell,
+                                        and trade digital assets at any time, including weekends and holidays.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-single cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
+                            <h3 class="header-area">
+                                <button
+                                    class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
+                                    type="button">
+                                    Are there specific hours for trading commodities like gold and oil?
+                                </button>
+                            </h3>
+                            <div class="content-area">
+                                <div class="content-body pt-5">
+                                    <p>Yes, commodity trading hours vary depending on the exchange and the asset being
+                                        traded. Generally, trading hours for commodities like gold and oil follow the
+                                        schedules of the exchanges where they are listed. For example, the COMEX
+                                        exchange typically operates from Sunday to Friday for gold futures trading.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-single cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
+                            <h3 class="header-area">
+                                <button
+                                    class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
+                                    type="button">
+                                    How do market hours affect trading volume and volatility?
+                                </button>
+                            </h3>
+                            <div class="content-area">
+                                <div class="content-body pt-5">
+                                    <p>Trading volume and volatility often peak during overlapping trading sessions when
+                                        multiple markets are open simultaneously. For instance, the overlap between the
+                                        London and New York sessions in forex trading tends to see increased activity.
+                                        Conversely, trading volume may decline during off-hours or holidays when fewer
+                                        participants are actively trading, potentially leading to lower liquidity and
+                                        increased spreads.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
+
+
+
+<div class="container my-5 table-div">
+
 
 
     <div class="container my-5 table-div">
