@@ -104,23 +104,7 @@
         </div>
         <div class="container">
             <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
-                <div class="col-sm-10 col-lg-6 col-xxl-2 order-2 order-lg-0">
-                    <div class="company-story__thumbs offers-content d-center">
-                        <h4>2</h4>
-                        <div>
-                  
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-10 col-lg-6 col-xxl-4 order-2 order-lg-0">
-                    <div class="company-story__thumbs offers-content d-center mtn">
-                      
-                        <div>
-                        <h2>What is cryptocurrency trading and how does it work?</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-xxl-6">
+            <div class="col-lg-6 col-xxl-6">
                     <div class="row ms-xl-3 ms-xxl-10">
                         <div class="col-md-6 col-xxl-12">
                             <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-lg-10 px-4 px-lg-9">
@@ -131,6 +115,24 @@
                         </div>  
                     </div>  
                 </div>
+                
+                <div class="col-sm-10 col-lg-6 col-xxl-4 order-2 order-lg-0">
+                    <div class="company-story__thumbs offers-content d-center mtn">
+                      
+                        <div>
+                        <h2>What is cryptocurrency trading and how does it work?</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-10 col-lg-6 col-xxl-2 order-2 order-lg-0">
+                    <div class="company-story__thumbs offers-content d-center">
+                        <h4>2</h4>
+                        <div>
+                  
+                        </div>
+                    </div>
+                </div>
+                
             </div>
         </div>
     </section>
@@ -142,7 +144,14 @@
         <div class="container">
             <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
                
-              
+            <div class="col-sm-10 col-lg-6 col-xxl-2 order-2 order-lg-0">
+                    <div class="company-story__thumbs offers-content offers-content3  d-center">
+                        <h4>3</h4>
+                        <div>
+                  
+                        </div>
+                    </div>
+                </div>
                 <div class="col-lg-6 col-xxl-6">
                     <div class="row ms-xl-3 ms-xxl-10">
                         <div class="col-md-6 col-xxl-12">
@@ -154,14 +163,7 @@
                         </div> 
                     </div>  
                 </div>
-                <div class="col-sm-10 col-lg-6 col-xxl-2 order-2 order-lg-0">
-                    <div class="company-story__thumbs offers-content offers-content3  d-center">
-                        <h4>3</h4>
-                        <div>
-                  
-                        </div>
-                    </div>
-                </div>
+               
             </div>
         </div>
     </section>
