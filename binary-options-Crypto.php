@@ -7,7 +7,6 @@
     .table-content {
         display: flex;
     }
-
     .sub-table-content {
         width: 100%;
         padding: 20px 50px;
@@ -18,7 +17,6 @@
         align-items: center;
         font-size: 20px;
     }
-
     .table-content2>.sub-table-content {
         background-color: #9ad953;
         border: 1px solid black;
@@ -27,7 +25,6 @@
         font-weight: 700;
         border-radius: 10px 10px 0px 0px;
     }
-
     .sub-table-content>span {
         display: flex;
         text-align: center;
@@ -37,86 +34,67 @@
         font-weight: 700;
         padding-bottom: 4px;
     }
-
     .sub-table-content>h4 {
         color: #000000;
     }
-
     .cus-rounded-3 {
         border-radius: 0px 0px 10px 10px;
     }
-
     .packages {
         background: #9ad953;
         padding: 25px;
         border-radius: 10px 10px 0px 0px;
     }
-
     .packages>h4 {
         color: #000000;
         text-align: center;
     }
-
     .package-para {
         font-size: 20px;
     }
-
     .pb-120 {
         padding-bottom: 60px !important;
     }
-
     .pt-120 {
         padding-top: 60px !important;
     }
-
-
     .company-story__part {
         border: solid 1px #9ad953;
         padding: 30px;
         border-radius: 19px;
     }
-
     .alt_form select {
         border-bottom: rgb(52 56 57);
     }
-
     .single-input {
         margin-top: 27px !important;
         border-bottom: 2px solid #3a3939;
     }
-
     .nice-select {
         padding-top: 10px;
         padding-bottom: 14px;
     }
-
     .nice-select:focus,
     .nice-select:hover {
         background-color: transparent;
         box-shadow: none;
     }
-
     .nice-select .list {
         background-color: #000;
     }
-
     .pb-120 {
         padding-bottom: 60px;
     }
-
     .pt-120 {
         padding-top: 60px;
     }
-
     .referred_image {
         width: 45px;
     }
-
     .referer_image {
         width: 50px;
     }
 </style>
-
 <section class="banner-section pt-2 pb-1">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
@@ -133,8 +111,6 @@
         </div>
     </div>
 </section>
-
-
 <section class="provide-world pt-120 position-relative z-0 mb-10 pb-120" style="background-color: #000;">
     <div class="container">
         <div class="row justify-content-center">
@@ -162,7 +138,6 @@
                     </span>
                     <!-- <h3 class="mt-5 mb-5">Verify</h3> -->
                     <h4 style="margin-top: 10px;">Reward Yourself for Referrals</h4><br>
-
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
@@ -174,7 +149,6 @@
                     <h4 style="margin-top: 10px;">Trade & Take Out Your Profits Immediately</h4><br>
                 </div>
             </div>
-
             <div class="col-md-6 col-xxl-3">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
@@ -183,15 +157,9 @@
                     <!-- <h3 class="mt-5 mb-5">Trade</h3> -->
                     <h4 style="margin-top: 10px;">Start trading with binary,spot and AI trading platform.</h4>
                 </div>
-
             </div>
         </div>
 </Section>
-
-
-
-
-
 <section class="pt-120 pb-120 ">
     <div class="container">
         <div class="row justify-content-center">
@@ -203,8 +171,6 @@
                 </div>
             </div>
         </div>
-
-
         <div class="row">
             <div class="col-12">
                 <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
@@ -224,9 +190,7 @@
                     </div>
                 </div>
             </div>
-
         </div>
-
         <div class="row">
             <div class="col-12">
                 <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
@@ -246,10 +210,7 @@
                     </div>
                 </div>
             </div>
-
-
         </div>
-
         <div class="row">
             <div class="col-12">
                 <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
@@ -269,17 +230,9 @@
                     </div>
                 </div>
             </div>
-
         </div>
-
-
-
     </div>
 </section>
-
-
-
-
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0" style="background-color: #000;">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="star3"
@@ -316,20 +269,13 @@
                     <br>
                 </ul>
             </div>
-
-
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0 mt-20">
                 <div class="trade_on__thumbs d-flex justify-content-end">
                     <img src="assets/images/binary options.png" alt="Web Based Tradersera Platform">
                 </div>
             </div>
-
         </div>
 </section>
-
-
-
-
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0" style="background-color: #141414;">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="vector"
@@ -354,9 +300,7 @@
                         limit on new bets from 20:31 to 22:29 UTC.
                     </p>
                     <br><br>
-
                 </div>
-
                 <div class="col-lg-6 col-xxl-8">
                     <div class="trade_on__content">
                         <h2 class="mb-4 mb-lg-4">LIMITS ON BETS</h2>
@@ -371,13 +315,6 @@
         </div>
     </div>
 </section>
-
-
-
-
-
-
-
 <section class="provide-world pt-120 pb-120  position-relative z-0" style="padding-bottom: 25px;">
     <div class="container">
         <div class="row gy-6 gy-xxl-0">
@@ -432,8 +369,6 @@
         </div>
     </div>
 </section>
-
-
 <!-- FAQ Section -->
 <section class="faq pb-120 pt-120 position-relative z-0">
     <div class="animation position-absolute top-0 center-0 w-100 h-100 z-n1">
@@ -482,7 +417,6 @@
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
                                     How can I get my revenue from referrals?
-
                                 </button>
                             </h3>
                             <div class="content-area">
@@ -492,7 +426,6 @@
                                         Simply navigate to your account's "Invite a Friend" area to view your profits,
                                         which you may transfer to your trading
                                         balance whenever you'd like.
-
                                     </p>
                                 </div>
                             </div>
@@ -503,7 +436,6 @@
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
                                     With our referral program, is it possible to earn a bigger percentage?
-
                                 </button>
                             </h3>
                             <div class="content-area">
@@ -535,13 +467,10 @@
                                 </div>
                             </div>
                         </div>
-
                     </div>
                 </div>
             </div>
-
         </div>
     </div>
 </section>
-
 <?php include("includes/footer.php"); ?>

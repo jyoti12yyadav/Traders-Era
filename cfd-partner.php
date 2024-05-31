@@ -343,9 +343,6 @@
         box-shadow: none;
     }
 </style>
-
-
-
 <section class="provide-world pt-120 position-relative z-0 mb-10 ">
     <div class="container">
         <div class="row justify-content-center">
@@ -434,16 +431,6 @@
             </div>
         </div>
 </section>
-
-
-
-
-
-
-
-
-
-
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0" style="background-color: #000;">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="vector"
@@ -451,56 +438,40 @@
     </div>
     <div class="container">
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
-
-
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
                     <h2 class="mb-4 mb-lg-5" style="font-size:35px;">Advantages for introducing brokers
                     </h2>
-
                 </div>
-
-
-
                 <ul class="d-flex gap-4 flex-column mt-6">
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>Collaborate with a reputable company that
                         you can rely on. We are committed to transparency at the highest level.
-
-
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>Stay updated on your commission payments and
                         your customers' trading activity with our real-time monitoring and reporting feature in your
                         personalized area within our system.
-
-
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>When you become an Introducing Broker,
                         you'll have a dedicated IB manager who will offer you personalized assistance.
-
                     </li>
-
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>Attractive earning potential for IBs – earn
                         up to 5% of the FTD and 20% of RevShare.
-
                     </li>
                 </ul>
-
             </div>
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
                     <img src="assets/images/advantages for introducing broker.png" alt="Become an Introducing Broker with TradersEra">
                 </div>
             </div>
-
         </div>
     </div>
 </section>
 <br><br>
-
 <!-- <div class="row justify-content-center">
     <div class="col-lg-12 col-xxl-10">
         <div class="heading__content mb-10 mb-lg-15 text-center">
@@ -508,13 +479,10 @@
                 TradersEra has made deposits and withdrawals from your trading accounts extremely convenient. One of our
                 driving forces is constant improvement and we are working every day to provide you with even more
                 options to deposit and withdraw and have an improved online trading experience.
-
             </h5>
-          
         </div>
     </div>
 </div> -->
-
 <!-- 
 <section class="provide-world pt-120 position-relative z-0 mb-10 " style="background-color: #000;">
     <div class="container">
@@ -522,7 +490,6 @@
             <div class="col-lg-12 col-xxl-10">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
                     <h2 class="mb-5 mb-lg-6">Progressing Hand in Hand with Strategic Partnerships
-
                     </h2>
                     <h4 class="mb-5 mb-lg-6">Open the door to infinite commissions, exclusive perks for partners, and other rewards
                     </h4>
@@ -537,30 +504,20 @@
                     </span>
                     <h4 class="mt-5 mb-5 text-center"> Introducing Broker
                     </h4>
-
                     <p class="text-center">Start earning unlimited commissions for every successful trading referral you make!
                     </p>
                     <ul class="d-flex gap-4 flex-column mt-6">
                         <li class="d-flex align-items-center gap-3 fs-six-up"><i
                                 class="ti ti-circle-check s1-color fs-four"></i>Begin the collaboration with a setup that is free of any complications.
-
-    
                         </li>
                         <li class="d-flex align-items-center gap-3 fs-six-up"><i
                                 class="ti ti-circle-check s1-color fs-four"></i>Contemporary and adaptable design to suit your requirements.
-
                         </li>
                         <li class="d-flex align-items-center gap-3 fs-six-up"><i
                                 class="ti ti-circle-check s1-color fs-four"></i>Experience cutting-edge real-time tracking and payout solutions.
-
-    
                         </li>
-                    
-                 
-                        
                     </ul>
                     <br><br>
-                    
                 </div>
             </div>
             <div class="col-md-6 col-xxl-4">
@@ -576,25 +533,17 @@
                     <ul class="d-flex gap-4 flex-column mt-6">
                         <li class="d-flex align-items-center gap-3 fs-six-up"><i
                                 class="ti ti-circle-check s1-color fs-four"></i>Control a financial pool using a sole central account.
-
-    
                         </li>
                         <li class="d-flex align-items-center gap-3 fs-six-up"><i
                                 class="ti ti-circle-check s1-color fs-four"></i>Trade however you like or use Expert Advisors.
-
                         </li>
                         <li class="d-flex align-items-center gap-3 fs-six-up"><i
                                 class="ti ti-circle-check s1-color fs-four"></i>Easily manage multiple accounts with multi-Terminal software.
-
-    
                         </li>
-                       
-                      
                     </ul>
                     <br><br>
                 </div>
             </div>
-
             <div class="col-md-6 col-xxl-4">
                 <div class=" nb3-bg text-left cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
@@ -603,44 +552,30 @@
                     <h4 class="mt-5 mb-5 text-center"> Liquidity Solutions
                     </h4>
                     <p class="text-center">Tier-1 liquidity pools, highest tier POP with top-notch support.
-
                     </p>
                     <ul class="d-flex gap-4 flex-column mt-6">
                         <li class="d-flex align-items-center gap-3 fs-six-up"><i
                                 class="ti ti-circle-check s1-color fs-four"></i>Explore the network of partners and third-party API connections.
-
-    
                         </li>
                         <li class="d-flex align-items-center gap-3 fs-six-up"><i
                                 class="ti ti-circle-check s1-color fs-four"></i>Access optimized liquidity pools directly, with prices from Tier-1 institutions.
-
                         </li>
                         <li class="d-flex align-items-center gap-3 fs-six-up"><i
                                 class="ti ti-circle-check s1-color fs-four"></i>Free reports are provided for clients' regulatory check, performance analysis, and risk auditing.
-
-    
                         </li>
-                    
                     </ul>
                 </div>
-
             </div>
         </div>
       <br><br>
 </section>
-
-
-
-
 <section class="provide-world position-relative z-0 mb-10 style=" >
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-12 col-xxl-10">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
                     <h2 class="mb-5 mb-lg-6 ">How can partnering with us benefit you?
-
                     </h2>
-
                 </div>
             </div>
         </div>
@@ -654,9 +589,7 @@
 
                     <p>At TradersEra, we offer a top-notch trading environment for our clients, allowing them to focus
                         on trading while we handle the rest.
-
                     </p>
-
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
@@ -681,12 +614,10 @@
                     <h4 class="mt-5 mb-5">State of the art tools and resources
                     </h4>
                     <p>Access a wide range of trading resources and tools suitable for traders of all levels.
-
                     </p>
                 <br><br>
                 </div>
             </div>
-
             <div class="col-md-6 col-xxl-3">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
@@ -697,35 +628,26 @@
                     <br>
                     <p>Get professional assistance for on-boarding, tutorials, and a dedicated manager who can
                         communicate in multiple languages.
-
                     </p>
-               
                 </div>
-
             </div>
         </div>
- 
-
 </section>
 -->
-
 <section class=" pt-120 pb-120">
     <div class="container ">
         <div class="row gy-18 justify-content-between">
             <div class="col-12 col-lg-5 col-xl-5">
                 <div class="submissions-area d-flex flex-column gap-8 gap-lg-10">
                     <div class="submissions">
-                        
                         <img src="assets/images/tradersera contact us image.png" alt="Sign Up to Become an Introducing Broker">
                     </div>
-
                 </div>
             </div>
             <div class="col-12 col-lg-7 col-xl-6 nb3-bg">
                 <form action="become-an-ib-form.php" method="POST" autocomplete="off" class="contact__form alt_form px-4 px-lg-8">
                     <h3 class="contact__title  mb-lg-7 mt-8">Sign Up Today</h3>
                     <h6 class="mb-lg-7">
-                      
                     </h6>
                     <div class="d-flex gap-3 gap-sm-5 gap-lg-8 flex-column">
                         <div class="row gap-3 gap-sm-0">
@@ -759,7 +681,6 @@
                                 </div>
                             </div>
                         </div>
-
                         <div class="row gap-3 gap-sm-0 d-flex">
                             <div class="col-sm-12">
                                 <div class="single-input">
@@ -777,7 +698,6 @@
                                     <br>
                                     <br>
                                     <label for="monthly-traders"><b>Number of monthly new traders:
-                                           
                                         </b></label>
                                     <select id="monthly-traders" name="monthly-traders" class="mt-4">
                                         <option value="1-5">1-5</option>
@@ -787,9 +707,6 @@
                                     </select>
                                 </div>
                             </div>
-
-
-
                         </div>
                         <div class="row gap-3 gap-sm-0">
                             <div class="col-sm-12 ">

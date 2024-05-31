@@ -1,6 +1,4 @@
 <!-- Footer Section Starts -->
-
-
 <style>
     .col-xxl-8 {
         flex: 0 0 auto;
@@ -19,7 +17,6 @@
         margin-bottom: 1rem !important;
     }
 </style>
-
 <footer class="footer a2-bg position-relative pt-15 pt-lg-0 z-0 ">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1 d-none d-xxxl-flex">
         <img src="assets/images/vector.png" alt="vector" class="position-absolute jello">
@@ -47,11 +44,8 @@
                 </div>
             </div>
         </div>
-
         <div class="row gy-8 gy-sm-12 gy-lg-0 pt-120 ">
             <div class="col-6 col-lg-3">
-
-
                 <div class="footer__part">
 
                     <a href="index.html" class="navbar-brand m-0 p-0 d-flex align-items-center gap-5 gap-xl-5 me-2">
@@ -93,8 +87,6 @@
                         src="assets/images/icon/tradingview white logo.png" alt="">
                 </div>
             </div>
-
-
             <div class="col-6 col-lg-2">
                 <div class="footer__part">
                     <h4 class="mb-6 mb-lg-8">Trading</h4>
@@ -119,12 +111,10 @@
                         </li>
                         <li>
                                 <a class="dropdown-item" href="bonus.php">50% Bonus</a>
-                        
                         </li>
                     </ul>
                     <br>
                     <h4 class="mb-6 mb-lg-8 mt-4">Products</h4>
-
                     <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4 mb-4">
                         <li>
                             <a class="n2-color" href="fx-cfd.php">Fx CFDs</a>
@@ -163,12 +153,9 @@
                         <li>
                             <a class="n2-color" href="faq.php">Faq</a>
                         </li>
-
                     </ul>
                     <br>
-                    
                     <h4 class="mb-6 mb-lg-8 mt-4" href="https://tradersera.com/blogs">Blogs</h4>
-            
                 </div>
             </div>
             
@@ -203,10 +190,8 @@
                     </ul>
                 </div>
             </div>
-
             <div class="col-6 col-lg-2">
                 <div class="footer__part">
-
                     <h4 class="mb-6 mb-lg-8">About Us</h4>
                     <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
                         <li>
@@ -215,7 +200,6 @@
                         <li>
                             <a class="n2-color" href="safety-of-funds.php">Safety of Funds</a>
                         </li>
-
                         <li>
                             <a class="n2-color" href="regulatory.php">Regulatory</a>
                         </li>
@@ -231,10 +215,6 @@
                     </ul>
                 </div>
             </div>
-
-           
-
-
             <!-- <div class="col-6 col-lg-3">
                     <div class="footer__part">
                         <h4 class="mb-6 mb-lg-8">Contact Us</h4>
@@ -245,8 +225,6 @@
                     </div>
                 </div> 
             </div> -->
-
-
             <!--Privacy & Policy start-->
             <section class="privacy-policy pt-20 ">
                 <div class="container">
@@ -278,16 +256,13 @@
                                             services to residents of the USA, Japan,
                                             Canada, Australia, United Kingdom, Iran, North Korea, Pakistan, New Zealand, Afghanistan, Saint Vincent and the Grenadines.
                                         </p>
-
                                     </div>
-
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </section>
-
             <div class="container-fluid">
                 <br><br>
                 <div class="row">
@@ -299,7 +274,6 @@
                                 <li><a class="n2-color" href="privacy-policy.php">Privacy Policy</a></li>
                                 <li><a class="n2-color" href="aml-kyc.php">AML & KYC Policy</a></li>
                             </ul>
-
                             <ul class="social-area d-center gap-2 gap-md-3">
                                 <li><img style=" border-radius:17px;  height:35px;"
                                         src="assets/images/_app store.png"></li>
@@ -331,9 +305,7 @@
 <script src="assets/js/plugins/plugins.js"></script>
 <script src="assets/js/plugins/plugin-custom.js"></script>
 <script src="assets/js/main.js"></script>
-
 <!-- schema -->
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -352,7 +324,6 @@
   }
 }
 </script>
-
 <!--Start of Tawk.to Script-->
 <script type="text/javascript">
     var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
@@ -367,9 +338,6 @@
 </script>
 <!--End of Tawk.to Script-->
 </body>
-
-
 <!-- Mirrored from pixner.net/tradez/main/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 16 Jan 2024 07:19:07 GMT -->
-
 </html>
 <!--Privacy & Policy end -->
