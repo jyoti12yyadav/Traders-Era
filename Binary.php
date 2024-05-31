@@ -77,9 +77,7 @@
                     <h2 class="mb-4 mb-lg-5" style="font-size:35px;">Understanding the mechanics of binary options
                         trading
                     </h2>
-                    <!-- <p class="mx-ch">Web trading platforms are safer since they use a remote server or cloud for
-                        calculations. Users only need to focus on their internet connection and routing speed. No need
-                        to download or install anything.</p> -->
+                 
                 </div>
                 <h5 class="mt-4 mb-lg-5">
                     <!-- Benefits of Web Based Trading Platforms: -->

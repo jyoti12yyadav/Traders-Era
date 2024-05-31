@@ -147,17 +147,17 @@
                     <thead>
                         <tr>
                             <th style="    background-color: #9ad953;
-    color: black;
-    text-align: center;
-    font-size: 16px;padding:20px;">Instrument</th>
+                                color: black;
+                                text-align: center;
+                                font-size: 16px;padding:20px;">Instrument</th>
                             <th style="    background-color: #9ad953;
-    color: black;
-    text-align: center;
-    font-size: 16px;padding:20px;">Currency</th>
+                                color: black;
+                                text-align: center;
+                                font-size: 16px;padding:20px;">Currency</th>
                             <th style="    background-color: #9ad953;
-    color: black;
-    text-align: center;
-    font-size: 16px;padding:20px;">Contract size</th>
+                                color: black;
+                                text-align: center;
+                                font-size: 16px;padding:20px;">Contract size</th>
                         </tr>
                     </thead>
                     <thead>

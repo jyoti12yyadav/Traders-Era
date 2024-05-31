@@ -118,13 +118,7 @@
                         <h2>Forex Trading Features</h2>
                     </div>
                     <br>
-                    <!-- <ul>
-                        <h4>Trade major currency pairs in the largest global market.</h4>
-                        <h4>Enjoy high liquidity for swift trades and minimal slippage.</h4>
-                        <h4>Access currencies, gold, oil, and indices for diverse trading.</h4>
-                        <h4>Engage in the world's largest market with major currency pairs.</h4>
-                        <h4>Benefit from high liquidity and diverse asset trading</h4>
-                    </ul> -->
+                
                     <ul class="listing-mark iq-mtb-20">
                         <li>
                             <h5>Trade major currency pairs in the largest global market.</h5>
