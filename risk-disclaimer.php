@@ -1,17 +1,12 @@
 <?php include("includes/header.php"); ?>
-
-
 <style>
-    
 .pb-120 {
     padding-bottom: 60px !important;
 }
 .pt-120 {
     padding-top: 60px !important;
 }
-
 </style>
-
 <section class="banner-section  pt-2 pb-1">
     <div class="container mt-lg-0 pt-18 pt-xl-20">
         <div class="row">
@@ -28,7 +23,6 @@
         </div>
     </div>
 </section>
-
 <section class="privacy-policy mt-20 pt-120 pb-120 ">
     <div class="container">
         <div class="row justify-content-center">
@@ -63,7 +57,6 @@
                                 both increase and decrease, clients they are liable for all these losses and damages,
                                 which could result in more than the initial invested capital once they make the decision
                                 has been made to trade.</p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">2. Acknowledgement</h5>
@@ -85,13 +78,11 @@
                                 <li>Client disregarding the applicable rules described in the Client Terminal user guide
                                     and in TradersEra Website.</li>
                             </ul>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Abnormal Market Conditions</h5>
                             <p class="mt-4 mb-5">The Client acknowledges that under Abnormal Market Conditions, the
                                 period during which the Instructions and Requests are executed may be extended.</p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Trading Platform</h5>
@@ -120,7 +111,6 @@
                                     Order triggered.</li>
                             </ul>
                         </div>
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Communication</h5>
                             <ul class="ul-decimal mt-5 d-flex gap-3 flex-column">
@@ -142,10 +132,8 @@
                                     telephone, or any other electronic means.</li>
                             </ul>
                         </div>
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">3. Risk Warning Notice for Foreign Exchange and Derivative Products</h5>
-
                             <p class="mt-4 mb-5">This notice cannot disclose all the risks and other significant aspects
                                 of foreign exchange and derivative products such as futures, options, and Contracts for
                                 Differences. You should not deal in these products unless you understand their nature
@@ -160,13 +148,9 @@
                                 all of your money. Different instruments involve different levels of exposure to risk
                                 and in deciding whether to trade in such instruments you should be aware of the
                                 following points:</p>
-
                         </div>
-
-
                         <div class="privacy-policy__part">
                             <h6 class="mb-4">Effect of Leverage</h6>
-
                             <p class="mt-4 mb-5">Under Margin Trading conditions even small market movements may have a
                                 great impact on the Client’s Trading Account. It is important to note that all accounts
                                 trade under the effect of Leverage. The Client must consider that if the market moves
@@ -183,11 +167,8 @@
                                 as a result of a profitable position (cancelled by TradersEra afterwards) opened at an
                                 Error Quote (Spike) or at a Quote received as a result of a Manifest Error.</p>
                         </div>
-
-
                         <div class="privacy-policy__part">
                             <h6 class="mb-4">High Volatile Instruments</h6>
-
                             <p class="mt-4 mb-5">Some Instruments trade within wide intraday ranges with volatile price
                                 movements. Therefore, the Client must carefully consider that there is a high risk of
                                 losses as well as profits. The price of Derivative financial instruments is derived from
@@ -196,7 +177,6 @@
                                 markets can be highly volatile. The prices of instruments and the underlying asset may
                                 fluctuate rapidly and over wide ranges and may reflect unforeseeable events or changes
                                 in conditions, none of which can be controlled by the Client or TradersEra.
-
                             </p>
                             <p class="mt-4 mb-5">Under certain market conditions it may be impossible for a Client’s
                                 order to be executed at declared price leading to losses. The prices of instruments and
@@ -205,7 +185,6 @@
                                 policies, national and international political and economic events and the prevailing
                                 psychological characteristics of the relevant market place. Therefore, Stop Loss order
                                 cannot guarantee the limit of loss.
-
                             </p>
                             <p class="mt-4 mb-5">The Client acknowledges and accepts that, regardless of any information
                                 which may be offered by TradersEra, the value of Instruments may fluctuate downwards or
@@ -214,30 +193,20 @@
                                 comparatively modest deposit or margin in terms of the overall contract value, so that a
                                 relatively small movement in the underlying market can have a disproportionately
                                 dramatic effect on the Client’s trade. </p>
-
                             <p class="mt-4 mb-5">If the underlying market movement is in the Client’s favour, the Client
                                 may achieve a good profit, but an equally small adverse market movement can not only
                                 quickly result in the loss of the Client’s entire deposit, but may also expose the
                                 Client to a large additional loss.</p>
-
-
-
                         </div>
-
-
                         <div class="privacy-policy__part">
                             <h6 class="mb-4">Liquidity</h6>
-
                             <p class="mt-4 mb-5">Some of the underlying assets may not become immediately liquid as a
                                 result of reduced demand for the underlying asset and the Client may not be able to
                                 obtain the information on the value of these or the extent of the associated risks.
                             </p>
-
                         </div>
-
                         <div class="privacy-policy__part">
                             <h6 class="mb-4">Futures</h6>
-
                             <p class="mt-4 mb-5">Transactions in futures involve the obligation to make, or to take,
                                 delivery of the underlying asset of the contract at a future date, or in some cases to
                                 settle the position with cash. They carry a high degree of risk. The gearing or leverage
@@ -247,30 +216,23 @@
                                 can work against you as well as for you. Futures transactions have a contingent
                                 liability, and you should be aware of the implications of this, in particular the
                                 margining requirements, which are set out below.</p>
-
                         </div>
-
                         <div class="privacy-policy__part">
                             <h6 class="mb-4">Options</h6>
-
                             <p class="mt-4 mb-5">There are many different types of options with different
                                 characteristics subject to the conditions mentioned below:</p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h6 class="mb-4">Buying Options:</h6>
-
                             <p class="mt-4 mb-5">Buying options involves less risk than selling options because, if the
                                 price of the underlying asset moves against you, you can simply allow the option to
                                 lapse. The maximum loss is limited to the premium, plus any commission or other
                                 transaction charges. However, if you buy a call option on a futures contract and you
                                 later exercise the option, you will acquire the future. This will expose you to the
                                 risks described under futures’ and contingent liability investment transactions.</p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h6 class="mb-4">Writing Options:</h6>
-
                             <p class="mt-4 mb-5">If you write an option, the risk involved is considerably greater than
                                 buying options. You may be liable for margin to maintain your position and a loss may be
                                 sustained well in excess of the premium received. By writing an option, you accept a
@@ -281,11 +243,9 @@
                                 underlying asset (uncovered call options) the risk can be unlimited. Only experienced
                                 persons should contemplate writing uncovered options, and then only after securing full
                                 details of the applicable conditions and potential risk exposure.</p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h6 class="mb-4">Contracts for Differences</h6>
-
                             <p class="mt-4 mb-5">The CFDs available for trading with TradersEra are non-deliverable spot
                                 transactions giving an opportunity to make profit on changes in currency rates,
                                 commodity,
@@ -309,17 +269,14 @@
                                 Differences may also have a contingent liability and you should be aware of the
                                 implications
                                 of this as set out below.</p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h6 class="mb-4">Equities</h6>
-
                             <p class="mt-4 mb-5">Equities represent a portion of a company’s share capital. The extent
                                 of the
                                 Client’s ownership in a company depends on the number of shares the Client owns in
                                 relation to
                                 the total number of shares in issue.
-
                             </p>
                             <p class="mt-4 mb-5">Shares are bought and sold on stock exchanges and their values can go
                                 down. In
@@ -344,14 +301,11 @@
                                 execution as set out in the order execution policy, to act reasonably and in accordance
                                 with the
                                 applicable Client Agreement and other Operative Agreements.
-
                             </p>
                             <p class="mt-4 mb-5">TradersEra may place the Client’s instructions to deal outside of an
                                 exchange if
                                 this is in line with the order execution policy.
-
                             </p>
-
                             <p class="mt-4 mb-5">TradersEra will arrange for the custody of the Clients instruments.
                                 All equities purchased for the Client or transferred to TradersEra by the Client, will be
                                 purchased in the name of the nominee company or TradersEra, and/or held by a nominee
@@ -361,21 +315,17 @@
                                 voting
                                 rights which he/she would have had if he/she held the investment in his/her own name.
                             </p>
-
                             <p class="mt-4 mb-5">All financial investments involve an element of risk. The value of any
                                 investment the Client makes through may fall as well as rise and the Client may get back
                                 less
                                 than his/her initial investment. Past performance is not an indication of future
                                 performance.
                             </p>
-
                             <p class="mt-4 mb-5">The risks that the Clients are exposed to will vary according to the
                                 instruments they instruct TradersEra to buy and sell on their behalf.
                                 The Clients should be aware that physical shares admitted to trading on a regulated
                                 market are
                                 not high risk financial products.
-
-
                             </p>
                             <p class="mt-4 mb-5">TradersEra services are provided on an execution only basis. TradersEra
                                 does not
@@ -386,14 +336,9 @@
                                 However,
                                 any decision to use the products or services is made by the Client.
                             </p>
-
-
                         </div>
-
-
                         <div class="privacy-policy__part">
                             <h6 class="mb-4">Collateral risks (professional/elective professionals only):</h6>
-
                             <p class="mt-4 mb-5">When Clients enter into the Collateral Agreement with TradersEra, it is
                                 agreed to take security over the assets in the Share Account in place of cash for
                                 payment of margin on their linked CFD Account. The value of shares and CFDs will rise
@@ -402,27 +347,21 @@
                                 open positions, Client may be closed out of the CFD positions on that linked account,
                                 and TradersEra will have the right to sell the assets in the Client’s Share Account in
                                 order to pay for any resulting deficit.
-
                             </p>
                             <p class="mt-4 mb-5">As the value of the assets in the Clients Share Account ﬂuctuates the
                                 value of the collateral that the Client can utilise as margin will also ﬂuctuate. The
                                 Client will need to monitor his/her Share Account and the linked CFD Account to ensure
                                 that the collateral value and any cash he/she has deposited on his/her linked CFD
                                 Account is sufficient to fund his/her open positions on that account.
-
                             </p>
                             <p class="mt-4 mb-5">The Client will only be able to use his/her collateral services to
                                 cover margin requirements on open positions on his/her linked CFD Account and he/she
                                 will need to cover any running losses using the available cash in his/her linked CFD
                                 Account.
-
                             </p>
-
-
                         </div>
                         <div class="privacy-policy__part">
                             <h6 class="mb-4">Off-exchange Transactions in Derivatives</h6>
-
                             <p class="mt-4 mb-5">CFDs, forex, and precious metals are off-exchange transactions. While
                                 some off-exchange markets are highly liquid, transactions in off-exchange or
                                 non-transferable derivatives may involve greater risk than investing in on-exchange
@@ -432,67 +371,47 @@
                                 prices and Ask prices need not be quoted, and, even where they are, they will be
                                 established by dealers in these instruments and consequently it may be difficult to
                                 establish what is a fair price.
-
                             </p>
                             <p class="mt-4 mb-5">In regards to transactions in CFDs, forex, and precious metals with
                                 TradersEra, TradersEra is using a trading platform for transactions in CFDs which does not
                                 fall into the definition of a recognized exchange as this is not a Multilateral Trading
                                 Facility and so does not have the same protection. </p>
-
-
-
                         </div>
-
                         <div class="privacy-policy__part">
                             <h6 class="mb-4">Foreign Markets</h6>
-
                             <p class="mt-4 mb-5">Foreign markets involve various risks. On request, TradersEra must
                                 provide an explanation of the relevant risks and protections (if any) which will operate
                                 in any foreign markets, including the extent to which it will accept liability for any
                                 default of a foreign firm through whom it deals. The potential for profit or loss from
                                 transactions on foreign markets or in foreign denominated contracts will be affected by
                                 fluctuations in foreign exchange rates. </p>
-
-
                         </div>
-
-
                         <div class="privacy-policy__part">
                             <h6 class="mb-4">Contingent Liability Investment Transactions</h6>
-
                             <p class="mt-4 mb-5">Contingent liability investment transactions, which are margined,
                                 require you to make a series of payments against the purchase price, instead of paying
                                 the whole purchase price immediately. The Margin requirement will depend on the
                                 underlying asset of the instrument. Margin requirements can be fixed or calculated from
                                 the current price of the underlying instrument, it can be found on the website of
                                 TradersEra.</p>
-
                             <p class="mt-4 mb-5">If you trade in futures, Contracts for Differences or sell options, you
                                 may sustain a total loss of the funds you have deposited to open and maintain a
                                 position. If the market moves against you, you may be called upon to pay substantial
                                 additional funds at short notice to maintain the position. If you fail to do so within
                                 the time required, your position may be liquidated at a loss and you will be responsible
                                 for the resulting deficit.
-
                             </p>
-
                             <p class="mt-4 mb-5">It is noted that TradersEra will not have a duty to notify the Client for
                                 any Margin Call to sustain a loss-making position.
                                 Even if a transaction is not margin, it may still carry an obligation to make further
                                 payments in certain circumstances over and above any amount paid when you entered the
                                 contract.</p>
-
                             <p class="mt-4 mb-5">Contingent liability investment transactions which are not traded on or
                                 under the rules of a recognised or designated investment exchange may expose you to
                                 substantially greater risks.</p>
-
-
                         </div>
-
-
                         <div class="privacy-policy__part">
                             <h6 class="mb-4">Collateral</h6>
-
                             <p class="mt-4 mb-5">If you deposit collateral as security with TradersEra, the way in which
                                 it will be treated will vary according to the type of transaction and where it is
                                 traded. There could be significant differences in the treatment of your collateral
@@ -502,45 +421,30 @@
                                 on your behalf are undertaken. Even if your dealings should ultimately prove profitable,
                                 you may not get back the same assets which you deposited, and may have to accept payment
                                 in cash. You should ascertain from your firm how your collateral will be dealt with.</p>
-
-
                         </div>
-
                         <div class="privacy-policy__part">
                             <h6 class="mb-4">Commissions and Taxes</h6>
-
                             <p class="mt-4 mb-5">Before you begin to trade, you should make yourself aware of all
                                 table-accordion commissions and other charges for which you will be liable. If any
                                 charges are not expressed in monetary terms (but, for example, as a percentage of
                                 contract value), you should ensure that you understand the true monetary value of the
                                 charges.
-
                             <p class="mt-4 mb-5">There is a risk that the Client’s trades in any Financial Instruments
                                 including derivative instruments may be or become subject to tax and/or any other duty
                                 for example because of changes in legislation or his personal circumstances. TradersEra
                                 does not warrant that no tax and/or any other stamp duty will be payable. The Client is
                                 responsible for any taxes and/or any other duty which may accrue in respect of his
                                 trades.</p>
-
-
                             <p class="mt-4 mb-5">The Clients are responsible for managing their tax and legal affairs
                                 including making any regulatory filings and payments and complying with applicable laws
                                 and regulations. TradersEra does not provide any regulatory, tax or legal advice. If the
                                 Clients are in any doubt as to the tax treatment or liabilities of investment products
                                 available through TradersEra, they should seek independent advice.</p>
-
-
                         </div>
-
                         <div class="privacy-policy__part">
                             <h6 class="mb-4">Suspensions of Trading</h6>
-
                             <p class="mt-4 mb-5">Under certain trading conditions it may be difficult or impossible to liquidate a position. This may occur, for example, at times of rapid price movement if the price rises or falls in one trading session to such an extent that under the rules of the relevant exchange trading is suspended or restricted. </p>
-
                             <p class="mt-4 mb-5">Placing a Stop Loss will not necessarily limit your losses to the intended amounts, because market conditions may make it impossible to execute such an Order at the stipulated price. In addition, under certain market conditions the execution of a Stop Loss Order may be worse than its stipulated price and the realized losses can be larger than expected.</p>
-
-
-                         
                         </div>
                         <div class="privacy-policy__part">
                             <h6 class="mb-4">Clearing House Protections</h6>
@@ -548,21 +452,12 @@
                             <p class="mt-4 mb-5">On many exchanges, the performance of a transaction by your firm (or third party with whom it is dealing on your behalf) is guaranteed by the exchange or clearing house. However, this guarantee is unlikely in most circumstances to cover you, the Client, and may not protect you if your firm or another party defaults on its obligations to you. </p>
 
                             <p class="mt-4 mb-5">On request, TradersEra must explain any protection provided to you under the clearing guarantee applicable to any on-exchange derivatives in which you are dealing. There is no clearing house for traditional options, nor normally for off-exchange instruments which are not traded under the rules of a recognised or designated investment exchange.</p>
-
-
-                         
                         </div>
-
                         <div class="privacy-policy__part">
                             <h6 class="mb-4">Insolvency</h6>
-
                             <p class="mt-4 mb-5">TradersEra insolvency or default, may lead to positions being liquidated or closed out without your consent. In certain circumstances, you may not get back the actual assets which you lodged as collateral and you may have to accept any available payments in cash or by any other method deemed to be appropriate. </p>
-
                             <p class="mt-4 mb-5">Segregated Funds will be subject to the protections conferred by Applicable Regulations.</p>
-
                             <p class="mt-4 mb-5">Non-segregated Funds will not be subject to the protections conferred by Applicable Regulations. Non-segregated Funds will not be segregated from TradersEra money and will be used in the course of TradersEra business, and in the event of TradersEra insolvency you will rank as a general creditor.</p>
-
-                         
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">4. Third Party Risk</h5>
@@ -578,5 +473,4 @@
         </div>
     </div>
 </section>
-
 <?php include("includes/footer.php"); ?>

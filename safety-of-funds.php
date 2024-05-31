@@ -1,17 +1,12 @@
 <?php include("includes/header.php"); ?>
-
-
 <style>
-    
 .pb-120 {
     padding-bottom: 60px !important;
 }
 .pt-120 {
     padding-top: 60px !important;
 }
-
 </style>
-
 <section class="banner-section  pt-2 pb-1">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
@@ -28,20 +23,15 @@
         </div>
     </div>
 </section>
-
-
-
 <section class="provide-world pt-120 pb-120  position-relative z-0" style="padding-bottom: 25px;">
     <div class="container">
         <div class="row gy-6 gy-xxl-0">
             <h2 class=" mb-lg-5 d-flex justify-content-center">Ensuring the Safety of Your Funds with TradersEra </h2>
-     
             <div class="col-md-6 col-xxl-3 mt-6">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/stock.png" alt="stock-market">
                     </span>
-                    
                     <h3 class="mt-5 mb-5">Segregated Accounts
                     </h3>
                     <p>Your Funds are always being kept in a separate bank account from our operational account which makes your account safe and secure.
@@ -83,7 +73,6 @@
             </div>
         </div>
     </div>
-
 </section>
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
@@ -97,7 +86,6 @@
                     <img src="assets/images/client fund insurence.png" alt="Web Based Tradersera Platform ">
                 </div>
             </div>
-
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
                     <h2 class="mb-4 mb-lg-5" style="font-size:35px;">Client Fund Insurance
@@ -112,8 +100,6 @@
                         underscores our dedication to providing you with a trustworthy and reliable trading environment.
                         Trade with peace of mind at TradersEra, where your financial security is our top priority.</p>
                 </div>
-
-
                 <h5 class="mt-4 mb-lg-5">
                     Risk Management Protocol
                 </h5>
@@ -126,10 +112,7 @@
                 <p>Our client funds insurance safeguards your money. Our top aim is to keep you stress-free as we
                     protect your money from unexpected occurrences.
                 </p>
-
             </div>
-
         </div>
 </section>
-
 <?php include("includes/footer.php"); ?>

@@ -1,16 +1,12 @@
 <?php include("includes/header.php"); ?>
-
 <style>
-  
 .pb-120 {
     padding-bottom: 60px !important;
 }
 .pt-120 {
     padding-top: 60px !important;
 }
-
 </style>
-
 <section class="banner-section  pt-2 pb-1">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
@@ -26,7 +22,6 @@
         </div>
     </div>
 </section>
-
 <!--Trade On start-->
 <section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
     <div class="animation vector position-absolute top-0 left-0 w-100 h-100 z-n1">
@@ -59,8 +54,6 @@
     </div>
 </section>
 <!-- Trade On end -->
-
-
 <!--provide-world start-->
 <section class="provide-world pt-120 position-relative z-0">
     <div class="container">
@@ -69,7 +62,6 @@
                 <div class="heading__content mb-10 mb-lg-15 text-center">
                     <h2 class="mb-5 mb-lg-6"> Why TradersEra stands out from the rest
                     </h2>
-                   
                 </div>
             </div>
         </div>
@@ -113,7 +105,6 @@
 </section>
 <br><br><br><br>
 <!-- provide-world end -->
-
 <section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/coin.png" alt="null" class="position-absolute d-none d-md-flex previewShapeRevX">
@@ -143,12 +134,10 @@
                             with a reliable provider</h4></li>
                         <p style="margin-left:35px;">Feel secure knowing you're trading with a reliable provider
                             committed to your success.</p>
-
                     </ul>
                     <br>
                     <a href="https://trading.tradersera.com/register" class="cmn-btn fs-five nb4-xxl-bg align-items-center py-3 px-6 py-lg-3 px-lg-8"
                         style="--top: 26px; --left: 113.203125px;">Open An Account</a>
-
                 </div>
             </div>
             <div class="col-md-6 col-lg-6">
@@ -159,7 +148,6 @@
         </div>
     </div>
 </section>
-
 <section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/coin.png" alt="null" class="position-absolute d-none d-md-flex previewShapeRevX">
@@ -168,7 +156,6 @@
     </div>
     <div class="container">
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
-
             <div class="col-md-8 col-lg-6">
                 <div class="trade_on__thumbs d-flex justify-content-end">
                     <img src="assets/images/traders-capamanion.png" alt="Start Trading Journey with TradersEra">
@@ -176,7 +163,6 @@
             </div>
             <div class="col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
-                
                     <h2 class="mb-4 mb-lg-5">Your Trading Companion
                     </h2>
                     <p class="fs-six mx-ch">Our platform provides a variety of tools to improve your trading journey,
@@ -196,13 +182,11 @@
                         <a href="https://trading.tradersera.com/register" class="cmn-btn fs-five nb4-xxl-bg align-items-center py-3 px-6 py-lg-3 px-lg-8"
                             style="--top: 26px; --left: 113.203125px;">Sign Up Now</a>
                     </div>
-
                 </div>
             </div>
         </div>
     </div>
 </section>
-
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="null"
@@ -216,24 +200,19 @@
                     <h2 class="mb-4 mb-lg-5" style="font-size:35px;">Boost your earnings with the help of AI</h2>
                     <p class="mx-ch">By utilizing artificial intelligence in forex trading, you can benefit from a
                         multitude of advantages.</p>
-
                 </div>
-
                 <ul class="d-flex gap-4 flex-column mt-6">
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>With lightning-fast trade execution, you'll
                         never miss a trade opportunity.
-
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>Save time and reduce operational costs with
                         efficient and fast processing.
-
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>Within seconds, data from multiple sources
                         can be processed and analyzed.
-
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>AI risk management tools have the capability
@@ -242,14 +221,11 @@
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>AI has the ability to recognize patterns
                         with greater speed and accuracy.
-
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>Decisions are made purely based on logic,
                         without any influence from intense emotions.
-
                     </li>
-
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>An AI has the ability to carry out numerous
                         forex trades at the same time.
@@ -264,7 +240,6 @@
             </div>
         </div>
 </section>
-
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0" style="background-color:#000">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="null"
@@ -277,11 +252,9 @@
                     <img src="assets/images/Our Binary Options.png" alt="TradersEra's Binary Options ">
                 </div>
             </div>
-
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
                     <h2 class="mb-4 mb-lg-5" style="font-size:35px;"> Our Binary Options
-
                     </h2>
                     <p class="mx-ch">Binary Options are financial tools enabling speculation on market price movements,
                         such as gold, oil, dollar, euro, etc.
@@ -290,7 +263,6 @@
                 <h3 class="mt-4 mb-lg-5" style="font-size: 25px;">
                     Simplified to two possibilities
                 </h3>
-
                 <ul class="d-flex gap-4 flex-column mt-6">
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>
@@ -299,15 +271,12 @@
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>Settles at 100: Earn a $100 payout per
                         contract, plus your profit (subtracting your trade's cost) remains yours.
-
                     </li>
                     <br>
                 </ul>
             </div>
         </div>
 </section>
-
-
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="null"
@@ -315,12 +284,9 @@
     </div>
     <div class="container">
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
-         
-
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
                     <h2 class="mb-4 mb-lg-5" style="font-size:35px;"> Local Deposits
-
                     </h2>
                     <p class="mx-ch">At TradersEra, we prioritize the security and efficiency of all financial
                         transactions, ensuring a seamless deposit process for our traders. If you have any questions or
@@ -328,7 +294,6 @@
                         step of the way.
                     </p>
                 </div>
-
                 <ul class="d-flex gap-4 flex-column mt-6">
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>
@@ -353,5 +318,4 @@
             </div>
         </div>
 </section>
-
 <?php include("includes/footer.php"); ?>
