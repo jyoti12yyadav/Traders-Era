@@ -217,13 +217,19 @@
                                 account. With $10,000 in virtual funds, you have nothing to lose. Practicing for free is
                                 the perfect way to gain knowledge about binary option contracts.
                         </li>
-                        <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                        </ul>
+                        <!-- <li class="d-flex align-items-center gap-3 fs-six-up"><i
                                 class="ti ti-circle-check s1-color fs-four"></i>
                             Ready to start trading binary option contracts? Sign up with TradersEra now and create a
                                 demo account! Practice with virtual funds to enhance your trading abilities before
                                 getting started with real trading.
-                        </li>
-                    </ul>
+                        </li> -->
+                    
+                    <!-- <div class="table-para">
+            <p>Ready to start trading binary option contracts? Sign up with TradersEra now and create a
+                                demo account! Practice with virtual funds to enhance your trading abilities before
+                                getting started with real trading.</p>
+        </div> -->
                 </div>
             </div>
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 col-xxl-5 order-2 order-lg-0">
