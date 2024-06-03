@@ -257,7 +257,6 @@
 <section>
     <div class="container">
     <div class="table-para-2">
-          
         
          <p>Ready to start trading binary option contracts? Sign up with TradersEra now and create a demo account! Practice with virtual funds to enhance your trading abilities before getting started with real trading.</p>
         </div>
