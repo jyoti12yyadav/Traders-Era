@@ -68,8 +68,6 @@
     .pt-120 {
         padding-top: 60px !important;
     }
-
-
 </style>
 <section class="banner-section pt-2 pb-1">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
@@ -135,7 +133,7 @@
 <section class="provide-world position-relative z-0 pb-120 pt-120" style="background-color: #000000;">
     <div class="container">
         <div class="row gy-6 gy-xxl-0">
-                <h2 class="mb-10 text-center">Tailored trading account for Forex, indices, stocks, commodities </h2>
+            <h2 class="mb-10 text-center">Tailored trading account for Forex, indices, stocks, commodities </h2>
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
@@ -184,7 +182,7 @@
             <h2 class=" mb-lg-10 d-flex justify-content-center ">Trading account types</h2>
             <div class="col-md-6 col-xxl-3 ">
                 <div class="packages">
-                    <h3 >Starter</h3>
+                    <h3>Starter</h3>
                 </div>
                 <div class="nb3-bg text-center cus-rounded-3 py-5 py-lg-10 px-4 px-lg-9">
                     <span><b>Base currency options</b></span> <br>
@@ -371,6 +369,10 @@
             </div>
         </div>
     </div>
+   
 </section>
+
+
+
 
 <?php include("includes/footer.php"); ?>
