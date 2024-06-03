@@ -541,4 +541,78 @@
             </div>
         </div>
 </section>
+<section class="company-story position-relative z-0  pt-120 pb-120 ">
+    <div class="animation position-absolute w-100 h-100 z-n1">
+        <img src="assets/images/star3.png" alt="null"
+            class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
+    </div>
+    <div class="container">
+        <div class="row gy-15 gy-lg-0 justify-content-left align-items-center">
+            <div class="container my-5">
+                <table id="Record" class="table table-striped table-dark my-3">
+                    <thead>
+                        <tr>
+                            <th scope="col"
+                                style="background-color: #9ad953;color: black;text-align: center;font-size: 16px;padding:20px;display: table-cell;">
+                                Features</th>
+                            <th scope="col"
+                                style="background-color: #F5C06D;color: black;text-align: center;font-size: 16px;padding:20px;display: table-cell;">
+                                FX CFDs</th>
+                        </tr>
+                    </thead>
+                    <tbody class="justify-content-left">
+                        <tr>
+                            <td>Instrument Type</td>
+                            <td>Contracts for Difference (CFDs)
+</td>
+                        </tr>
+                        <tr>
+                            <td>Asset Class</td>
+                            <td>Foreign Exchange (FX)</td>
+                        </tr>
+                        <tr>
+                            <td>Leverage</td>
+                            <td>Amplify your trades with flexible leverage</td>
+                        </tr>
+                        <tr>
+                            <td>Trading Hours</td>
+                            <td>Access the markets 24/5</td>
+                        </tr>
+                        <tr>
+                            <td>Variety</td>
+                            <td>Trade a wide range of currency pairs</td>
+                        </tr>
+                        <tr>
+                            <td>Hedging</td>
+                            <td>Utilize hedging strategies for risk management.</td>
+                        </tr>
+                        <tr>
+                            <td>Accessibility</td>
+                            <td>Trade from anywhere with our user-friendly platform.</td>
+                        </tr>
+                        <tr>
+                            <td>Risk Management</td>
+                            <td>Set stop-loss orders and manage risk effectively</td>
+                        </tr><tr>
+                            <td>Market Analysis</td>
+                            <td> Access real-time charts and analysis tools.</td>
+                        </tr>
+                        <tr>
+                            <td>Support</td>
+                            <td>Expert support team available for assistance
+.</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <!-- <div class="table-para">
+            <h4>Identification Documentation Needs</h4>
+            <p>Markets has to confirm your identification in order to abide by Australian Anti Money Laundering (AML)
+                and Counter Terrorism rules. While we make every effort to complete this procedure online by utilizing
+                the greatest technology available, there may be occasions when you must send your papers to our back
+                office staff. Please refer to the list below for the required paperwork.</p>
+        </div> -->
+    </div>
+</section>
 <?php include("includes/footer.php"); ?>

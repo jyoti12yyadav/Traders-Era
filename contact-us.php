@@ -106,7 +106,7 @@
                                         <h3 class="">Email Us Directly</h3>
                                         <br>
                                         <span>support@tradersera.com</span>
-</div>
+                                </div>
                                 </div>
                             </div>
                         </div>

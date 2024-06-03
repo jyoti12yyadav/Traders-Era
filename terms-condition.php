@@ -1,16 +1,12 @@
 <?php include("includes/header.php"); ?>
-
 <style>
-    
 .pb-120 {
     padding-bottom: 60px !important;
 }
 .pt-120 {
     padding-top: 60px !important;
 }
-
 </style>
-
 <section class="banner-section  pt-2 pb-1">
     <div class="container mt-lg-0 pt-18 pt-xl-20">
         <div class="row">
@@ -27,9 +23,6 @@
         </div>
     </div>
 </section>
-
-
-
 <!--Privacy & Policy start-->
 <section class="privacy-policy mt-20 pt-120 pb-120 ">
     <div class="container">
@@ -59,8 +52,6 @@
                                 our website or services, you represent and warrant that you are at least 18 years old
                                 and have the legal capacity to enter into these Terms and Conditions.
                             </p>
-
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">3. Compliance with Laws:</h5>
@@ -69,18 +60,14 @@
                                 our website and services is in compliance with such laws, rules, and regulations.
                             </p>
                         </div>
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">4. Intellectual Property:</h5>
                             <p>To the fullest extent permitted by applicable law, TradersEra shall not be liable for any
                                 indirect, incidental, special, consequential, or punitive damages, or any loss of
                                 profits or revenues, whether incurred directly or indirectly, arising out of your use of
                                 our website or services.
-
                             </p>
                         </div>
-
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">5. Limitation of Liability: </h5>
                             <p>All content on our website, including but not limited to text, graphics, logos, images,
@@ -90,16 +77,13 @@
                                 consent.
                             </p>
                         </div>
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">6. Termination: </h5>
                             <p>We reserve the right to terminate or suspend your access to our website or services at
                                 any time, for any reason, without prior notice or liability. Upon termination or
                                 suspension, your right to use our website and services will immediately cease.
-
                             </p>
                         </div>
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">7. Changes to Terms and Conditions:
                             </h5>
@@ -116,6 +100,4 @@
     </div>
 </section>
 <!--Privacy & Policy end -->
-
-
 <?php include("includes/footer.php"); ?>

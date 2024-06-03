@@ -129,59 +129,7 @@
     </div>
 </section>
 
-<!-- <section class="faq pb-120 pt-120 position-relative z-0">
-    <div class="animation position-absolute top-0 center-0 w-100 h-100 z-n1">
-        <img src="assets/images/button.png" alt="vector"
-            class="position-absolute pt-6 pt-xl-15 previewShapeRevX d-none d-xl-flex">
-        <img src="assets/images/star2.png" alt="vector"
-            class="position-absolute push_animat end-0 top-0 mt-20 pt-5 me-xl-20 pe-10 d-none d-lg-flex">
-        <img src="assets/images/vector20.png" alt="vector"
-            class="position-absolute bottom-0 start-0 pb-11 ps-7 d-none d-xxxl-flex">
-    </div>
-    <div class="container">
-        <div class="row gy-6 gy-xxl-0">
-            <center>
-                <h2 class="mb-10">Tailored trading account for Forex, indices, stocks, commodities </h2>
-            </center>
-            <div class="col-md-6 col-xxl-4">
-                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/Spreads.png" alt="stock-market">
-                    </span>
-                    <h4 class="mt-5 mb-5">Spreads from 0.4 pips
-                    </h4>
-                    <p>Our consolidated liquidity helps maintain low spreads, typically throughout trading periods.
-                    </p>
-                </div>
-            </div>
-            <div class="col-md-6 col-xxl-4">
-                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/commission.png" alt="stock-market">
-                    </span>
-                    <h4 class="mt-5 mb-5">Zero commission
-                    </h4>
-                    <p>Start trading from as low as $0 per lot on our VIP or spread-only trading accounts.
-                    </p>
-                    <br>
-                </div>
-            </div>
-            <div class="col-md-6 col-xxl-4">
-                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/Low-starting-amount.png" alt="stock-market">
-                    </span>
-                    <h4 class="mt-5 mb-5">Low starting amount
-                    </h4>
-                    <p>Begin trading by opening your account with just $10.
-                    </p>
-                    <br>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>  -->
-
+ 
 <section class="provide-world position-relative z-0 pb-120 pt-120" style="background-color: #000000;">
     <div class="container">
         <div class="row gy-6 gy-xxl-0">
