@@ -7,14 +7,12 @@
         align-items: center;
         overflow: hidden;
     }
-
     .our-clients .container ul {
         display: flex;
         flex-wrap: nowrap;
         width: 100%;
         transition: 0.3s;
     }
-
     .our-clients .container ul li {
         list-style: none;
         width: 40%;
@@ -24,7 +22,6 @@
         padding: 0 8px;
         margin-top: 25px;
     }
-
     .our-clients .container ul li p {
         background: #58585a;
         text-align: center;
@@ -32,11 +29,9 @@
         line-height: 100px;
         border-radius: 8px;
     }
-
     .our-clients {
         margin-top: 10px;
     }
-
     .get-started::after {
         position: relative;
         content: "\2192";
@@ -47,38 +42,29 @@
         left: 80px;
         color: #9ad953;
     }
-
     .nice-select:focus,
     .nice-select:hover {
         background-color: transparent;
         box-shadow: none;
     }
-
     .nice-select .list {
         background-color: #000;
     }
-
-
-
     .pb-120 {
         padding-bottom: 60px !important;
     }
-
     .pt-120 {
         padding-top: 60px !important;
     }
-
     .nice-select {
         background-color: black;
         padding: 6px 10px;
     }
-
     .nice-select:focus,
     .nice-select:hover {
         background-color: black;
         box-shadow: none;
     }
-
     .contact-img {
         height: auto !important;
         width: auto !important;
@@ -134,7 +120,6 @@
 <section class="provide-world pt-120 pb-120  position-relative z-0" style="padding-bottom: 25px;">
     <div class="container">
         <div class="row gy-6 gy-xxl-0">
-
             <center>
                 <h2 class="mb-10">Three Simple Steps to Send a Friend </h2>
                 <span class="mb-10">It's a simple process to follow. The more friends you invite, the more money you can
@@ -147,7 +132,6 @@
                     </span>
                     <h4 class="mt-5 mb-5">Provide Your Link for Referrals
                     </h4>
-
                 </div>
             </div>
             <div class="col-md-6 col-xxl-4">
@@ -168,20 +152,14 @@
                     </h4>
                 </div>
             </div>
-
-
         </div>
     </div>
-
 </section>
-
 <section class="provide-world pt-120 pb-120  position-relative z-0" style="padding-bottom: 25px;">
     <div class="container">
         <div class="row gy-6 gy-xxl-0">
-
             <center>
                 <h2 class="mb-10"> How does it Work ?</h2>
-                
             </center>
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card secondary nb3-bg text-left cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
@@ -191,7 +169,6 @@
                     <h4 class="mt-5 mb-5">Register
                     </h4>
                     <p class="mt-5 mb-5">To obtain your referral link, sign up</p>
-
                 </div>
             </div>
             <div class="col-md-6 col-xxl-4">
@@ -226,9 +203,7 @@
                     <h4 class="mt-5 mb-5">Increase your income without boundaries
                     </h4>
                     <p class="mt-5 mb-5">With no restrictions, our referral program offers limitless earning potential for a simple way to make extra money.With no restrictions, our referral program offers limitless earning potential for a simple way to make extra money.
-
 Visit TradersEra with loved ones, coworkers, and friends, and take pleasure in watching your balance increase.
-
                    </p>
                 </div>
             </div>
@@ -276,7 +251,6 @@ Visit TradersEra with loved ones, coworkers, and friends, and take pleasure in w
 This is how it operates: Just sign in to your account, visit our Trading page, and select the 'Invite a friend' tab from the menu on the left.
 Share your special referral link with your friends by copying it.
 You'll get paid 50% of each deposit your referrer makes on our platform when he joins up and completes a deposit.
-
                                     </p>
                                 </div>
                             </div>
@@ -321,7 +295,6 @@ Simply send an email to support@TradersEra.com to get in touch with our helpful 
                                     type="button">
                                     They would gladly assist you in getting in touch with our marketing division.
 What are the boundaries?
-
                                 </button>
                             </h3>
                             <div class="content-area">
@@ -332,17 +305,13 @@ You may continuously bring in more money as long as you keep referring new custo
                                 </div>
                             </div>
                         </div>
-                        
                         </div>
                     </div>
                 </div>
             </div>
-
         </div>
     </div>
 </section>
-
-
 <!-- <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0" style="background-color: #000;">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="vector"
@@ -356,43 +325,30 @@ You may continuously bring in more money as long as you keep referring new custo
                         alt="TradersEra's Global markets, liquidity, low spreads, swap-free">
                 </div>
             </div>
-
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
                     <h2 class="mb-4 mb-lg-5" style="font-size:35px;">In order to claim the bonus, your friend will need
                         to follow these steps
                     </h2>
-
                 </div>
-
-
-
                 <ul class="d-flex gap-4 flex-column mt-6">
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>Start your trading journey by opening a new
                         TradersEra Standard or TradersEra Zero account with the referral link you received.
-
-
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>To get started, you'll need to deposit at
                         least $100 or more.
-
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>To meet the requirement, you need to trade a
                         minimum volume of 1 lot or more within 30 days from your initial deposit.
-
                     </li>
                     <p>Earn more by referring friends who deposit extra funds and trade a higher volume within 30 days
                         of their initial deposit. No limit on the number of friends you can refer to!</p>
-
                     <br>
-
                 </ul>
-
             </div>
-
         </div>
     </div>
 </section>
@@ -404,8 +360,6 @@ You may continuously bring in more money as long as you keep referring new custo
                     <div class="submissions">
                         <h3>Invite your friends to sign up with a top international broker and receive a bonus for every referral.</h3>
                     </div>
-
-                 
                 </div>
             </div> 
             <div class="col-12 col-lg-5 col-xl-5">
@@ -415,7 +369,6 @@ You may continuously bring in more money as long as you keep referring new custo
                         <img class="contact-img" src="assets/images/tradersera contact us image.png"
                             alt="Sign Up to Become an Introducing Broker">
                     </div>
-
                 </div>
             </div>
             <div class="col-12 col-lg-7 col-xl-6 nb3-bg">

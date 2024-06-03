@@ -23,7 +23,7 @@
         padding: 35px;
         border: 1px solid #838383;
         border-radius: 14px;
-        margin: 10px 0px;
+        margin: 10px 0px; 
     }
 
     
@@ -158,6 +158,7 @@
                         changes without owning the underlying currencies. You can go long ('buy') if you believe a
                         cryptocurrency will increase in value, or short ('sell') if you believe it will decrease.
 
+
                     </p>
                     <br>
                     <p class="fs-six mx-ch">Both are leveraged instruments, which means you only need to make a little
@@ -211,7 +212,7 @@
             </div>
             <div class="col-md-6 col-lg-6">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/Buyingandsellingcryptocurrencythroughanexchange.png"  alt="Buying and selling cryptocurrency">
+                    <img src="assets/images/Buying and Selling cryptocurrency through an exchange.png"  alt="Buying and selling cryptocurrency">
                 </div>
             </div>
         </div>

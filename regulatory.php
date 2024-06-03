@@ -1,16 +1,12 @@
 <?php include("includes/header.php"); ?>
-
 <style>
-    
 .pb-120 {
     padding-bottom: 60px !important;
 }
 .pt-120 {
     padding-top: 60px !important;
 }
-
 </style>
-
 <section class="banner-section  pt-2 pb-1">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
@@ -26,9 +22,6 @@
         </div>
     </div>
 </section>
-
-
-
 <section class="market-details pt-120 pb-120 position-relative z-0">
     <div class="container">
         <div class="row justify-content-center">
@@ -51,7 +44,6 @@
                                 authorities . These regulatory bodies set and enforce stringent standards for financial
                                 services providers, ensuring compliance with legal and ethical requirements.
                             </p>
-
                             <h3 class="mb-4">2.Client Protections: </h3>
                             <p class="mt-4 mb-5">Regulatory compliance is central to our commitment to client
                                 protection. By adhering to regulatory standards, we safeguard the interests of our
@@ -59,7 +51,6 @@
                                 compliance efforts are aimed at enhancing the safety, security, and trustworthiness of
                                 our services.
                             </p>
-
                             <h3 class="mb-4">3.Transparency and Disclosure:</h3>
                             <p class="mt-4 mb-5">We believe in transparency and strive to provide clear and accurate
                                 information to our clients about our regulatory status, licensing, and compliance
@@ -67,7 +58,6 @@
                                 regulatory framework in which we operate and the measures we have in place to ensure
                                 compliance.
                             </p>
-
                             <h3 class="mb-4">4.Ongoing Compliance Monitoring:
                             </h3>
                             <p class="mt-4 mb-5"> TradersEra maintains robust compliance monitoring processes to ensure
@@ -87,9 +77,7 @@
                                 to integrity, transparency, and client protection. We are dedicated to maintaining the
                                 highest standards of regulatory compliance to ensure the safety and security of our
                                 clients' funds and the trust and confidence of our valued clients.
-
                             </p>
-
                         </div>
                     </div>
                 </div>
@@ -97,5 +85,4 @@
         </div>
     </div>
 </section>
-
 <?php include("includes/footer.php"); ?>

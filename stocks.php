@@ -1,10 +1,8 @@
 <?php include("includes/header.php"); ?>
-
 <style>
     .pt-120 {
         padding-top: 60px;
     }
-
     .pb-120 {
         padding-top: 60px;
     }
@@ -26,7 +24,6 @@
         text-align: center;
     }
 </style>
-
 <section class="banner-section  pt-2 pb-1">
     <div class="container mt-lg-0 pt-18 pt-xl-20">
         <div class="row">
@@ -42,7 +39,6 @@
         </div>
     </div>
 </section>
-
 <section class="trade_on pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/coin.png" alt="null" class="position-absolute d-none d-md-flex previewShapeRevX">
@@ -77,8 +73,6 @@
         </div>
     </div>
 </section>
-
-
 <section class="provide-world a2-bg pt-120 pb-120  position-relative z-0 ">
     <div class="container">
         <div class="row justify-content-center">
@@ -131,14 +125,11 @@
         </div>
     </div>
 </section>
-
 <section class="company-story position-relative z-0  pt-120 pb-120 ">
     <div class="animation position-absolute w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="null"
             class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
     </div>
-
-
     <div class="container">
         <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
             <div class="container my-5">
@@ -173,7 +164,6 @@
                         <tr class="odd">
                             <td>AAL</td>
                             <td>American Airlines Group</td>
-                          
                             <td>16:30 - 23:00</td>
                             <td>NASDAQ</td>
                         </tr>
@@ -199,90 +189,68 @@
                         <tr class="odd">
                             <td>BA</td>
                             <td>Boeing Company</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="even">
                             <td>BABA</td>
                             <td>Alibaba Group Holding Limited</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="odd">
                             <td>BAC</td>
                             <td>Bank of America Corporation</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="even">
                             <td>C</td>
                             <td>Citigroup</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="odd">
                             <td>CSCO</td>
                             <td>Cisco Systems</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NASDAQ</td>
-                            
                         </tr>
                         <tr class="even">
                             <td>DLPN</td>
                             <td>Dolphin Entertainment, Inc. </td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NASDAQ</td>
-                            
                         </tr>
                         <tr class="odd">
                             <td>CVX</td>
                             <td>Chevron Corporation</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="even">
                             <td>DIS</td>
                             <td>Walt Disney Company</td>
-                          
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="odd">
                             <td>F</td>
                             <td>Ford Motor Company</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="even">
                             <td>FDX</td>
                             <td>FedEx Corporation</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="odd">
                             <td>FNKO</td>
                             <td>Funko, Inc</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NASDAQ</td>
-                            
                         </tr>
                         <tr class="even">
                             <td>GE</td>
@@ -290,383 +258,288 @@
                            
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="odd">
                             <td>GOOGL</td>
                             <td>Alphabet Class A</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NASDAQ</td>
-                            
                         </tr>
                         <tr class="even">
                             <td>GS</td>
                             <td>Goldman Sachs Group Inc</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="odd">
                             <td>H</td>
                             <td>Hyatt Hotels Corporation</td>
-                          
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="even">
                             <td>HD</td>
                             <td>Home Depot</td>
-                         
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="odd">
                             <td>HPQ</td>
                             <td>Hewlett-Packard Company</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="even">
                             <td>IBM</td>
                             <td>International Business Machines</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="odd">
                             <td>ING</td>
                             <td>ING Group</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="even">
                             <td>INTC</td>
                             <td>Intel</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NASDAQ</td>
-                            
                         </tr>
                         <tr class="odd">
                             <td>JNJ</td>
                             <td>Johnson &amp; Johnson</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="even">
                             <td>JPM</td>
                             <td>JPMorgan Chase &amp; Co</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="odd">
                             <td>KO</td>
                             <td>Coca-Cola Company</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="even">
                             <td>MA</td>
                             <td>Mastercard</td>
-                          
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="odd">
                             <td>MAR</td>
                             <td>Marriott International</td>
-                            
                             <td>16:30 - 23:00</td>
                             <td>NASDAQ</td>
-                            
                         </tr>
                         <tr class="even">
                             <td>MAT</td>
                             <td>Mattel, Inc.</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NASDAQ</td>
-                            
                         </tr>
                         <tr class="odd">
                             <td>MCD</td>
                             <td>McDonald`s</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="even">
                             <td>MMM</td>
                             <td>3M Company</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="odd">
                             <td>MRK</td>
                             <td>Merck &amp; Company</td>
-                          
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="even">
                             <td>MSFT</td>
                             <td>Microsoft Corporation</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NASDAQ</td>
-                            
                         </tr>
                         <tr class="odd">
                             <td>META</td>
                             <td>Meta Platforms</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NASDAQ</td>
-                            
                         </tr>
                         <tr class="even">
                             <td>NDAQ</td>
                             <td>NASDAQ OMX Group</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NASDAQ</td>
-                            
                         </tr>
                         <tr class="odd">
                             <td>NET</td>
                             <td>CloudFlare</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NASDAQ</td>
-                            
                         </tr>
                         <tr class="even">
                             <td>NFLX</td>
                             <td>Netflix</td>
-                            
                             <td>16:30 - 23:00</td>
                             <td>NASDAQ</td>
-                            
                         </tr>
                         <tr class="odd">
                             <td>NKE</td>
                             <td>Nike</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="even">
                             <td>ORCL</td>
                             <td>Oracle Corporation</td>
-                           
                             <td>16:30 - 23:00</td>
-                            <td>NYSE</td>
-                            
+                            <td>NYSE</td>                            
                         </tr>
                         <tr class="odd">
                             <td>PEP</td>
                             <td>Pepsico</td>
-                            
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="even">
                             <td>PG</td>
                             <td>Procter &amp; Gamble Company</td>
-                            
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="odd">
                             <td>T</td>
                             <td>AT&amp;T</td>
-                            
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="even">
                             <td>TSLA</td>
                             <td>Tesla</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="odd">
                             <td>UAL</td>
                             <td>United Continental Holdings</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NASDAQ</td>
-                            
                         </tr>
                         <tr class="even">
                             <td>UNH</td>
                             <td>UnitedHealth Group</td>
-                            
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="odd">
                             <td>V</td>
                             <td>Visa</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="even">
                             <td>VZ</td>
                             <td>Verizon Communications</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="odd">
                             <td>WFC</td>
                             <td>Wells Fargo &amp; Company</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="even">
                             <td>WKHS</td>
                             <td>Workhorse Group</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NASDAQ</td>
-                            
                         </tr>
                         <tr class="odd">
                             <td>WMT</td>
                             <td>Wal-Mart Stores</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="even">
                             <td>XOM</td>
                             <td>Exxon Mobil Corporation</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="odd">
                             <td>NVDA</td>
                             <td>Nvidia</td>
-                          
                             <td>16:30 - 23:00</td>
                             <td>NASDAQ</td>
-                            
                         </tr>
                         <tr class="even">
                             <td>PLBY</td>
                             <td>Mountain Crest Acquisition Corp</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NASDAQ</td>
-                            
                         </tr>
                         <tr class="odd">
                             <td>TKAT</td>
                             <td>Takung Art Co. Ltd. Common Stock</td>
-                            
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="even">
                             <td>GLD</td>
                             <td>SPDR Gold Trust</td>
-                         
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="odd">
                             <td>IWM</td>
                             <td>iShares Russell 2000</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="even">
                             <td>QQQ</td>
                             <td>Invesco QQQ</td>
-                            
                             <td>16:30 - 23:00</td>
                             <td>NASDAQ</td>
-                            
                         </tr>
                         <tr class="odd">
                             <td>SCHD</td>
                             <td>Schwab US Dividend equity</td>
-                          
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="even">
                             <td>TQQQ</td>
                             <td>ProShares UltraPro QQQ</td>
-                          
                             <td>16:30 - 23:00</td>
                             <td>NASDAQ</td>
-                            
                         </tr>
                         <tr class="odd">
                             <td>USO</td>
                             <td>United States Oil Fund</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="even">
                             <td>VEA</td>
                             <td>Vanguard FTSE DM</td>
-                           
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                         <tr class="odd">
                             <td>VOO</td>
                             <td>Vanguard S&amp;P500</td>
-                         
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
-                            
                         </tr>
                     </tbody>
                 </table>
@@ -679,7 +552,6 @@
                         <!-- <li>Access the leverage/margin values &amp; unlock the potential for maximizing returns by <a href="https://capitalxtend.com/leverage-and-margin-requirements" target="_blank" style="color: #0D68F9;">clicking here</a>.</li> -->
                         </ul>
                 </div>
-               
             </div>
         </div>
     </div>

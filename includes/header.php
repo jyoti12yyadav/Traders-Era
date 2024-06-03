@@ -271,11 +271,11 @@
         }
 
         mark {
-            background-color: #9AD953;
-            color:black;
-            border-radius: 7px;
-            padding: 2px !important;
-
-        }       
+           background-color: #9AD953;
+           border-radius: 4px;
+          
+           color:black;
+       }
+   
         
     </style>

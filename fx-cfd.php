@@ -77,6 +77,11 @@
     </div>
     <div class="container">
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
+        <div class="col-md-8 col-lg-6">
+                <div class="trade_on__thumbs d-flex justify-content-end">
+                    <img src="assets/images/Foreign Exchange Contracts.png" alt="Trade Forex CFDs on TradersEra Paltform">
+                </div>
+            </div>
             <div class="col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
                     <h2 class="mb-4 mb-lg-5">Foreign Exchange Contracts</h2>
@@ -94,11 +99,7 @@
                     </p>
                 </div>
             </div>
-            <div class="col-md-8 col-lg-6">
-                <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/Foreign Exchange Contracts.png" alt="Trade Forex CFDs on TradersEra Paltform">
-                </div>
-            </div>
+            
         </div>
     </div>
 </section>

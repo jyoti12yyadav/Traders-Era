@@ -77,9 +77,7 @@
                     <h2 class="mb-4 mb-lg-5" style="font-size:35px;">Understanding the mechanics of binary options
                         trading
                     </h2>
-                    <!-- <p class="mx-ch">Web trading platforms are safer since they use a remote server or cloud for
-                        calculations. Users only need to focus on their internet connection and routing speed. No need
-                        to download or install anything.</p> -->
+                 
                 </div>
                 <h5 class="mt-4 mb-lg-5">
                     <!-- Benefits of Web Based Trading Platforms: -->
@@ -131,11 +129,6 @@
     </div>
     <div class="container">
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
-            <div class="col-10 col-sm-8 col-md-7 col-lg-6 col-xxl-5 order-2 order-lg-0">
-                <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/Binary Trading At TradersEra.png" alt="Binary Option contracts with the EUR/USD currency pair">
-                </div>
-            </div>
             <div class="col-lg-6 col-xxl-6">
                 <div class="trade_on__content">
                     <h3 class="mb-4 mb-lg-5">Example of binary options trading </h3>
@@ -153,6 +146,11 @@
                     <br>
                 </div>
             </div>
+            <div class="col-10 col-sm-8 col-md-7 col-lg-6 col-xxl-5 order-2 order-lg-0">
+                <div class="trade_on__thumbs d-flex justify-content-end">
+                    <img src="assets/images/Binary Trading At TradersEra.png" alt="Binary Option contracts with the EUR/USD currency pair">
+                </div>
+            </div>
         </div>
     </div>
 </section>
@@ -163,6 +161,11 @@
     </div>
     <div class="container">
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
+        <div class="col-10 col-sm-8 col-md-7 col-lg-6 col-xxl-5 order-2 order-lg-0">
+                <div class="trade_on__thumbs d-flex justify-content-end">
+                    <img src="assets/images/binary trading.png" alt="Buying and Selling on Binary Options">
+                </div>
+            </div>
             <div class="col-lg-6 col-xxl-6">
                 <div class="trade_on__content">
                     <p class="fs-six">If that's the case, there are two potential results</p>
@@ -181,11 +184,7 @@
                         by the difference between your entry and exit prices.</p>
                 </div>
             </div>
-            <div class="col-10 col-sm-8 col-md-7 col-lg-6 col-xxl-5 order-2 order-lg-0">
-                <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/binary trading.png" alt="Buying and Selling on Binary Options">
-                </div>
-            </div>
+            
         </div>
     </div>
 </section>
@@ -196,11 +195,6 @@
     </div>
     <div class="container">
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
-            <div class="col-10 col-sm-8 col-md-7 col-lg-6 col-xxl-5 order-2 order-lg-0">
-                <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/Example of binary options trading.png" alt="TradersEra,s Trading Demo Account! ">
-                </div>
-            </div>
             <div class="col-lg-6 col-xxl-6">
                 <div class="trade_on__content">
                     <h2>Key insights from binary options trading</h2>
@@ -230,6 +224,11 @@
                                 getting started with real trading.
                         </li>
                     </ul>
+                </div>
+            </div>
+            <div class="col-10 col-sm-8 col-md-7 col-lg-6 col-xxl-5 order-2 order-lg-0">
+                <div class="trade_on__thumbs d-flex justify-content-end">
+                    <img src="assets/images/Example of binary options trading.png" alt="TradersEra,s Trading Demo Account! ">
                 </div>
             </div>
         </div>
