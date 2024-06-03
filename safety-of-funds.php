@@ -1,12 +1,11 @@
 <?php include("includes/header.php"); ?>
 <style>
-    .pb-120 {
-        padding-bottom: 60px !important;
-    }
-
-    .pt-120 {
-        padding-top: 60px !important;
-    }
+.pb-120 {
+    padding-bottom: 60px !important;
+}
+.pt-120 {
+    padding-top: 60px !important;
+}
 </style>
 <section class="banner-section  pt-2 pb-1">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
@@ -27,9 +26,8 @@
 <section class="provide-world pt-120 pb-120  position-relative z-0" style="padding-bottom: 25px;">
     <div class="container">
         <div class="row gy-6 gy-xxl-0">
-            <h2 class=" mb-lg-5 d-flex justify-content-center">Ensuring the Safety of Your Funds with TradersEra</h2>
-
-            <div class="col-md-6 col-xxl-4 mt-6">
+            <h2 class=" mb-lg-5 d-flex justify-content-center">Ensuring the Safety of Your Funds with TradersEra </h2>
+            <!-- <div class="col-md-6 col-xxl-3 mt-6">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/stock.png" alt="stock-market">
@@ -38,6 +36,17 @@
                     </h3>
                     <p>Your Funds are always being kept in a separate bank account from our operational account which makes your account safe and secure.
                     </p><br>
+                </div>
+            </div> -->
+            <div class="col-md-6 col-xxl-3 mt-6">
+                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/policy.png" alt="stock-market">
+                    </span>
+                    <h3 class="mt-5 mb-5">Segregated Accounts
+                    </h3>
+                    <p>Your Funds are always being kept in a separate bank account from our operational account which makes your account safe 
+                    </p><br><br>
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3 mt-6">
