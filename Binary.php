@@ -11,6 +11,16 @@
         .pt-120 {
             padding-top: 60px !important;
         }
+
+
+        .table-para-2 {
+        background-color: #292929;
+        padding: 35px;
+        border: 1px solid #838383;
+        border-radius: 14px;
+        margin: 10px 0px;
+    }
+
 </style>
 <section class="banner-section  pt-2 pb-1">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
@@ -239,61 +249,22 @@
             </div>
         </div>
     </div>
+
+    
 </section>
 
 
-
-
-<section class="company-story position-relative z-0  pt-120 pb-120 ">
-    <div class="animation position-absolute w-100 h-100 z-n1">
-        <img src="assets/images/star3.png" alt="null"
-            class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
-    </div>
+<section>
     <div class="container">
-        <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
-            <div class="container my-5">
-                <table id="Record" class="table table-striped table-dark my-3">
-                    <thead>
-                        <tr>
-                            <th scope="col"
-                                style="background-color: #9ad953;color: black;text-align: center;font-size: 16px;padding:20px;display: table-cell;">
-                                KYC Checks</th>
-                            <th scope="col"
-                                style="background-color: #F5C06D;color: black;text-align: center;font-size: 16px;padding:20px;display: table-cell;">
-                                Description</th>
-                        </tr>
-                    </thead>
-                    <tbody class="justify-content-center text-start">
-                        <tr>
-                            <td>Identity Verification</td>
-                            <td>Verify customers' identities using government-issued ID documents such as passports or
-                                driver's licenses.</td>
-                        </tr>
-                        <tr>
-                            <td>Document Authentication</td>
-                            <td>Confirm the validity and authenticity of provided identification documents through
-                                manual review or automated verification systems.</td>
-                        </tr>
-                        <tr>
-                            <td>Due Diligence Procedures</td>
-                            <td>Conduct thorough checks to ensure compliance with regulatory requirements and to prevent
-                                fraudulent activities.</td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
-        </div>
-        <div class="table-para">
-            <h4>Identification Documentation Needs</h4>
-            <p>Markets has to confirm your identification in order to abide by Australian Anti Money Laundering (AML)
-                and Counter Terrorism rules. While we make every effort to complete this procedure online by utilizing
-                the greatest technology available, there may be occasions when you must send your papers to our back
-                office staff. Please refer to the list below for the required paperwork.</p>
+    <div class="table-para-2">
+          
+        
+         <p>Ready to start trading binary option contracts? Sign up with TradersEra now and create a demo account! Practice with virtual funds to enhance your trading abilities before getting started with real trading.</p>
         </div>
     </div>
 </section>
 
-
+<br>
 
 
 <?php include("includes/footer.php"); ?>
