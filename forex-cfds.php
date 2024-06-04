@@ -355,6 +355,7 @@
                     <br>
                 </div>
             </div>
+
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
@@ -369,7 +370,6 @@
             </div>
         </div>
     </div>
-   
 </section>
 
 
