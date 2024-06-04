@@ -7,12 +7,12 @@
 
     .social-area {
         margin-left: -65px;
-        /* margin-top: 25px; */
     }
 
     .trad img {
         height: 70px;
     }
+
     .mb-lg-8 {
         margin-bottom: 1rem !important;
     }
@@ -38,24 +38,22 @@
                 </div>
                 <div class="col-sm-4 text-sm-end">
                     <a href="https://trading.tradersera.com/register"
-                        class="cmn-btn secondary-alt ms-auto fs-five nb4-xxl-bg gap-2 align-items-center  py-2 px-4 py-lg-3 px-lg-5">Open
-                        An
-                        Account <i class="ti ti-arrow-right fs-four"></i></a>
+                        class="cmn-btn secondary-alt ms-auto fs-five nb4-xxl-bg gap-2 align-items-center  py-2 px-4 py-lg-3 px-lg-5">Open An Account <i class="ti ti-arrow-right fs-four"></i></a>
                 </div>
             </div>
         </div>
         <div class="row gy-8 gy-sm-12 gy-lg-0 pt-120 ">
             <div class="col-6 col-lg-3">
                 <div class="footer__part">
-
                     <a href="index.html" class="navbar-brand m-0 p-0 d-flex align-items-center gap-5 gap-xl-5 me-2">
                         <img src="assets/images/fav.png" class="logo small_logo d-sm-none" alt="logo">
                         <img src="assets/images/logo.png" class="logo d-none d-sm-flex" alt="logo">
                     </a>
-                    <p>Your all-in-one online platform for binary and Forex trading. With our user interface and wide range of tools you'll have all the support
+                    <p>Your all-in-one online platform for binary and Forex trading. With our user interface and wide
+                        range of tools you'll have all the support
                         to make informed decisions and maximize your profits. </p>
-                        <br>
-                    <ul class="social-area d-center gap-2 gap-md-3" style="margin-left:-20px" >
+                    <br>
+                    <ul class="social-area d-center gap-2 gap-md-3" style="margin-left:-20px">
                         <li>
                             <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-facebook"></i></a>
                         </li>
@@ -72,45 +70,32 @@
                         <li>
                             <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-youtube"></i></a>
                         </li>
-                        <li>
-
-                        </li>
-                        <li>
-
-                        </li>
                     </ul>
                 </div>
                 <br>
-            <div class="trading-img" class="mt-10;">
-            <h5 class="mb-6 ">Powered By</h5>
-                    <img  style="height:50px; "
-                        src="assets/images/icon/tradingview white logo.png" alt="">
+                <div class="trading-img" class="mt-10;">
+                    <h5 class="mb-6 ">Powered By</h5>
+                    <img style="height:50px; " src="assets/images/icon/tradingview white logo.png" alt="">
                 </div>
             </div>
             <div class="col-6 col-lg-2">
                 <div class="footer__part">
                     <h4 class="mb-6 mb-lg-8">Trading</h4>
                     <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
-                    <li>
+                        <li>
                             <a class="n2-color d-flex align-items-center" href="binary-trading.php">Binary Trading</a>
                         </li>
                         <li>
                             <a class="n2-color d-flex align-items-center" href="forex-cfds.php">Forex CFDs</a>
                         </li>
-                        <!-- <li>
-                            <a class="n2-color" href="deposit.php">Deposit</a>
+                        <li>
+                            <a class="dropdown-item" href="market-hours.php">Market Hours</a>
                         </li>
                         <li>
-                            <a class="n2-color" href="withdrawal.php">Withdrawal</a>
-                        </li> -->
-                        <li>
-                        <a class="dropdown-item" href="market-hours.php">Market Hours</a>
+                            <a class="dropdown-item" href="refer-a-friend.php">Refer a Friend</a>
                         </li>
                         <li>
-                               <a class="dropdown-item" href="refer-a-friend.php">Refer a Friend</a>
-                        </li>
-                        <li>
-                                <a class="dropdown-item" href="bonus.php">50% Bonus</a>
+                            <a class="dropdown-item" href="bonus.php">50% Bonus</a>
                         </li>
                     </ul>
                     <br>
@@ -158,11 +143,9 @@
                     <h4 class="mb-6 mb-lg-8 mt-4" href="https://tradersera.com/blogs">Blogs</h4>
                 </div>
             </div>
-            
             <div class="col-6 col-lg-2">
                 <div class="footer__part">
                     <h4 class="mb-6 mb-lg-8">Tools</h4>
-
                     <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
                         <li>
                             <a class="n2-color" href="economic-calendar.php">Economic Calendar</a>
@@ -215,17 +198,6 @@
                     </ul>
                 </div>
             </div>
-            <!-- <div class="col-6 col-lg-3">
-                    <div class="footer__part">
-                        <h4 class="mb-6 mb-lg-8">Contact Us</h4>
-                        <div class="d-flex flex-column gap-2 gap-sm-3 gap-md-4">
-                            <a href="https://pixner.net/cdn-cgi/l/email-protection#f39a9d959cb3968b929e839f96dd909c9e"><span class="__cf_email__" data-cfemail="ed84838b82ad88958c809d8188c38e8280">[email&#160;protected]</span></a>
-                            <a href="tel:+123456789">+0123 456 789</a>
-                        </div>
-                    </div>
-                </div> 
-            </div> -->
-            <!--Privacy & Policy start-->
             <section class="privacy-policy pt-20 ">
                 <div class="container">
                     <div class="row justify-content-center">
@@ -254,7 +226,8 @@
                                         </p>
                                         <p class="mt-4 mb-5" style="font-size: 15px;">TradersEra does not provide
                                             services to residents of the USA, Japan,
-                                            Canada, Australia, United Kingdom, Iran, North Korea, Pakistan, New Zealand, Afghanistan, Saint Vincent and the Grenadines.
+                                            Canada, Australia, United Kingdom, Iran, North Korea, Pakistan, New Zealand,
+                                            Afghanistan, Saint Vincent and the Grenadines.
                                         </p>
                                     </div>
                                 </div>
@@ -275,8 +248,8 @@
                                 <li><a class="n2-color" href="aml-kyc.php">AML & KYC Policy</a></li>
                             </ul>
                             <ul class="social-area d-center gap-2 gap-md-3">
-                                <li><img style=" border-radius:17px;  height:35px;"
-                                        src="assets/images/_app store.png"></li>
+                                <li><img style=" border-radius:17px;  height:35px;" src="assets/images/_app store.png">
+                                </li>
                                 <li><img style=" border-radius:17px;  height:35px;"
                                         src="assets/images/_google play store.png"></li>
                                 <li><img style=" border-radius:17px;  height:35px;"

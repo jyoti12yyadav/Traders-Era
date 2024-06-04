@@ -77,7 +77,6 @@ RewriteCond %{HTTP_USER_AGENT} ^Xaldon\ WebSpider [OR]
 RewriteCond %{HTTP_USER_AGENT} ^Zeus
 RewriteRule ^.* - [F,L]
 
-
 RewriteEngine On
 RewriteCond %{HTTP_HOST} www.tradersera.com
 RewriteRule (.*) https://tradersera.com/$1 [R=301,L]

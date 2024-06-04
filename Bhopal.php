@@ -399,7 +399,6 @@
             <div class="row">
                 <div class="col-sm-12">
                     <div class="heading-title">
-
                         <h2 class="title">Open an account in 4 simple steps</h2>
                     </div>
                 </div>
