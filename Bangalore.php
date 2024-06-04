@@ -63,8 +63,8 @@
                             <img src="images/icon/logo.png" alt="logo" class="img-logomain">
                             <br>
                             <br>
-                            <h1 class="text-white iq-tw-7 iq-mb-17">Trade Forex In Bangalore With TradersEra's 
-                                 <b class="iq-font-yellow">All-in-One Online Platform</b>
+                            <h1 class="text-white iq-tw-7 iq-mb-17">Trade Forex In Bangalore With TradersEra's
+                                <b class="iq-font-yellow">All-in-One Online Platform</b>
                             </h1><br>
                         </div>
                     </div>
@@ -73,8 +73,9 @@
                             <h2 class="text-white">Experience Our Binary, AI Assistance, and Forex Trading Options
                             </h2>
                             <br><br>
-             <p>Welcome to Bangalore, TradersEra’s own platform offers diverse options and advanced features for all traders. Join us Bangalore for a journey towards financial empowerment.
-</p>
+                            <p>Welcome to Bangalore, TradersEra’s own platform offers diverse options and advanced
+                                features for all traders. Join us Bangalore for a journey towards financial empowerment.
+                            </p>
                             <!-- <h5>Get Access to a Range of Trading Options with Just a Minimum Deposit!</h5> -->
                             <br>
                             <a class="button iq-mt-50" href="https://tradersera.com/prelogin.php" target="_blank"> <svg
@@ -95,8 +96,6 @@
         </div>
     </div>
     <!-- banner -->
- <!-- Our Mission -->
-    <!-- Our Mission END -->
     <!-- What is OVEX -->
     <section class="overview-block-ptb trending-2">
         <div class="container">
@@ -110,7 +109,6 @@
                         <h2>Forex Trading Features</h2>
                     </div>
                     <br>
-                   
                     <ul class="listing-mark iq-mtb-20">
                         <li>
                             <h5>Trade major currency pairs in the largest global market.</h5>
@@ -118,7 +116,9 @@
                         <li>
                             <h5>Enjoy high liquidity for swift trades and minimal slippage.</h5>
                         </li>
-                        <li><h5>Low starting amount: Begin trading with just $10 for accessibility.</h5></li>
+                        <li>
+                            <h5>Low starting amount: Begin trading with just $10 for accessibility.</h5>
+                        </li>
                         <li>
                             <h5>Access currencies, gold, oil, and indices for diverse trading.</h5>
                         </li>
@@ -174,7 +174,7 @@
                             <h4 style="color:black"><b>Smarter Choices</b></h4>
                         </div>
                         <br>
-                        <h5>  Make better trading decisions with<br> AI-driven support.</h5><br>
+                        <h5> Make better trading decisions with<br> AI-driven support.</h5><br>
                     </div>
                 </div>
                 <div class="col-lg-4 r9-mt-40">
@@ -230,8 +230,8 @@
         </div>
     </section>
     <!-- timeline -->
-<br><br>
-<br><br>
+    <br><br>
+    <br><br>
     <section id="benefit" class="iq-Tranding-platform light-bg ">
         <div class="container">
             <div class="row">
@@ -252,7 +252,7 @@
                             <h4 style="color:black"><b>Hassle-Free Trading</b></h4>
                         </div>
                         <p>
-                        <h5>  Enjoy ease with binary options.
+                        <h5> Enjoy ease with binary options.
                         </h5>
                         </p>
                     </div>
@@ -278,79 +278,82 @@
     <!-- dk -->
     <!-- Tranding platform -->
     <section id="benefit" class="iq-Tranding-platform light-bg">
-    <div class="container">
-        <div class="row">
-            <div class="heading-title col-sm-12">
-                <h2 class="title">Trading Benefits with TradersEra</h2>
-            </div>
-            <div class="item col-lg-4 col-md-4 col-sm-12">
-                <div class="iq-blog-box">
-                    <div class="iq-blog-image clearfix">
-                        <img class="img-fluid center-block"
-                            src="images/tradersera landing page trading options png-compressed.jpg"
-                            alt="#">
-                    </div>
-                    <div class="iq-blog-detail">
-                        <div class="blog-title"> <a href="#">
-                                <h5 class="iq-tw-7 iq-mb-10">Trading Options</h5>
-                            </a> </div>
-                        <div class="blog-content">
-                            <p>TradersEra offers diverse trading options, including cryptocurrency, FX, and traditional assets.</p>
-                        </div><br><br>
-                    </div>
+        <div class="container">
+            <div class="row">
+                <div class="heading-title col-sm-12">
+                    <h2 class="title">Trading Benefits with TradersEra</h2>
                 </div>
-            </div>
-            <div class="item col-lg-4 col-md-4 col-sm-12">
-                <div class="iq-blog-box">
-                    <div class="iq-blog-image clearfix">
-                        <img class="img-fluid center-block"
-                            src="images/tradersera landing page user friendly interface png-compressed.jpg"
-                            alt="#">
-                    </div>
-                    <div class="iq-blog-detail">
-                        <div class="blog-title"> <a href="#">
-                                <h5 class="iq-tw-7 iq-mb-10">User-Friendly Interface</h5>
-                            </a> </div>
-                        <div class="blog-content">
-                            <p>TradersEra focuses on user experience with its easy-to-use interface, catering to both experienced traders and beginners for seamless navigation and fast transactions. </p>
+                <div class="item col-lg-4 col-md-4 col-sm-12">
+                    <div class="iq-blog-box">
+                        <div class="iq-blog-image clearfix">
+                            <img class="img-fluid center-block"
+                                src="images/tradersera landing page trading options png-compressed.jpg" alt="#">
+                        </div>
+                        <div class="iq-blog-detail">
+                            <div class="blog-title"> <a href="#">
+                                    <h5 class="iq-tw-7 iq-mb-10">Trading Options</h5>
+                                </a> </div>
+                            <div class="blog-content">
+                                <p>TradersEra offers diverse trading options, including cryptocurrency, FX, and
+                                    traditional assets.</p>
+                            </div><br><br>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="item col-lg-4 col-md-4 col-sm-12">
-                <div class="iq-blog-box">
-                    <div class="iq-blog-image clearfix">
-                        <img class="img-fluid center-block"
-                            src="images/tradersera landing page advanced security measures png-compressed (2).jpg"
-                            alt="#">
-                    </div>
-                    <div class="iq-blog-detail">
-                        <div class="blog-title"> <a href="#">
-                                <h5 class="iq-tw-7 iq-mb-10">Advanced Security Measures</h5>
-                            </a> </div>
-                        <div class="blog-content">
-                            <p>TradersEra provides top-notch security for online businesses with advanced protocols like encryption, multi-factor authentication, and more for data and asset protection.</p>
+                <div class="item col-lg-4 col-md-4 col-sm-12">
+                    <div class="iq-blog-box">
+                        <div class="iq-blog-image clearfix">
+                            <img class="img-fluid center-block"
+                                src="images/tradersera landing page user friendly interface png-compressed.jpg" alt="#">
+                        </div>
+                        <div class="iq-blog-detail">
+                            <div class="blog-title"> <a href="#">
+                                    <h5 class="iq-tw-7 iq-mb-10">User-Friendly Interface</h5>
+                                </a> </div>
+                            <div class="blog-content">
+                                <p>TradersEra focuses on user experience with its easy-to-use interface, catering to
+                                    both experienced traders and beginners for seamless navigation and fast
+                                    transactions. </p>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-sm-12 d-flex justify-content-center">
-                <a class="button iq-mt-70" href="https://tradersera.com/prelogin.php" target="_blank"><svg
-                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                        <g data-name="Circle Right">
-                            <path
-                                d="m17.706 11.292-3-3a1 1 0 0 0-1.414 1.414L14.586 11H7a1 1 0 0 0 0 2h7.586l-1.293 1.293a1 1 0 1 0 1.414 1.414l3-3a1 1 0 0 0-.001-1.415z"
-                                style="fill:#1c1b1e" />
-                            <path
-                                d="M12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8.009 8.009 0 0 1-8 8z"
-                                style="fill:#1c1b1e" />
-                        </g>
-                    </svg>Want To Open An Account
-                </a>
+                <div class="item col-lg-4 col-md-4 col-sm-12">
+                    <div class="iq-blog-box">
+                        <div class="iq-blog-image clearfix">
+                            <img class="img-fluid center-block"
+                                src="images/tradersera landing page advanced security measures png-compressed (2).jpg"
+                                alt="#">
+                        </div>
+                        <div class="iq-blog-detail">
+                            <div class="blog-title"> <a href="#">
+                                    <h5 class="iq-tw-7 iq-mb-10">Advanced Security Measures</h5>
+                                </a> </div>
+                            <div class="blog-content">
+                                <p>TradersEra provides top-notch security for online businesses with advanced protocols
+                                    like encryption, multi-factor authentication, and more for data and asset
+                                    protection.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 d-flex justify-content-center">
+                    <a class="button iq-mt-70" href="https://tradersera.com/prelogin.php" target="_blank"><svg
+                            xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                            <g data-name="Circle Right">
+                                <path
+                                    d="m17.706 11.292-3-3a1 1 0 0 0-1.414 1.414L14.586 11H7a1 1 0 0 0 0 2h7.586l-1.293 1.293a1 1 0 1 0 1.414 1.414l3-3a1 1 0 0 0-.001-1.415z"
+                                    style="fill:#1c1b1e" />
+                                <path
+                                    d="M12 2a10 10 0 1 0 10 10A10.011 10.011 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8.009 8.009 0 0 1-8 8z"
+                                    style="fill:#1c1b1e" />
+                            </g>
+                        </svg>Want To Open An Account
+                    </a>
+                </div>
             </div>
         </div>
-    </div>
-</section>
+    </section>
     <section id="account" class="iq-tranding-Platform overview-block-pb trending-2 iq-ptb-100">
         <div class="container">
             <div class="row">
@@ -369,11 +372,13 @@
                 <div class="col-lg-6 align-self-center mt-5 mt-lg-0">
                     <ul class="listing-mark iq-mtb-20">
                         <li><b>Low spreads :</b> spreads as low as 0.4 pips consistently.</li>
-                        <li><b>No commission :</b> Trade with no commission fees, starting from $0 per lot on VIP or spread-only accounts.</li>
+                        <li><b>No commission :</b> Trade with no commission fees, starting from $0 per lot on VIP or
+                            spread-only accounts.</li>
                         <li>Low starting amount: Begin trading with just $10 for accessibility.</li>
-                        <li><b>High leverage:</b>  Maximize potential with up to 1:1000 leverage.</li>
+                        <li><b>High leverage:</b> Maximize potential with up to 1:1000 leverage.</li>
                         <li>Fast order execution: Execute trades within milliseconds to minimize slippage.</li>
-                        <li>Micro lot trading: Start with micro lot trading from $0.10 per pip to manage risk effectively.</li>
+                        <li>Micro lot trading: Start with micro lot trading from $0.10 per pip to manage risk
+                            effectively.</li>
                     </ul>
                 </div>
                 <div class="col-sm-12 ">
@@ -398,7 +403,7 @@
                 <div class="row">
                     <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40 ">
                         <div class="iq-small-icon">
-                        <img src="images/icon/Register.png" alt="icon" class="img-fluid"><br>
+                            <img src="images/icon/Register.png" alt="icon" class="img-fluid"><br>
                             <h5 style="margin-top:15px;"><b>Register</b></h5>
                             <br>
                             <p>Create an account with your Bank Details and login to the dashboard.</p>
@@ -406,24 +411,24 @@
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40 ">
                         <div class="iq-small-icon">
-                        <img src="images/icon/Verify.png" alt="icon" class="img-fluid"><br>
-                        <h5 style="margin-top:15px;"><b>Verify</b></h5>
+                            <img src="images/icon/Verify.png" alt="icon" class="img-fluid"><br>
+                            <h5 style="margin-top:15px;"><b>Verify</b></h5>
                             <br>
                             <p>Our online verification tool provides your details and documents.</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40 ">
                         <div class="iq-small-icon active">
-                        <img src="images/icon/Fund.png" alt="icon" class="img-fluid"><br>
-                        <h5 style="margin-top:15px;"><b>Fund</b></h5>
+                            <img src="images/icon/Fund.png" alt="icon" class="img-fluid"><br>
+                            <h5 style="margin-top:15px;"><b>Fund</b></h5>
                             <br>
                             <p>Our various funding options to deposit money into your trading account.</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6 iq-r-mt-40 ">
                         <div class="iq-small-icon active">
-                        <img src="images/icon/Trade.png" alt="icon" class="img-fluid">
-                         <h5 style="margin-top:15px;"><b>Trade</b></h5>
+                            <img src="images/icon/Trade.png" alt="icon" class="img-fluid">
+                            <h5 style="margin-top:15px;"><b>Trade</b></h5>
                             <br>
                             <p>Start a trading journey with binary and spot trading options.</p>
                         </div>
@@ -460,7 +465,8 @@
                         <h3>Become a Partner</h3>
                     </div>
                     <p><b>For Your Clients : </b>Access award-winning MetaTrader 5 for diverse, liquid markets.</p>
-                    <p><b>For Introducing Brokers: </b>Partner with a reputable company for real-time support and earning potential.</p>
+                    <p><b>For Introducing Brokers: </b>Partner with a reputable company for real-time support and
+                        earning potential.</p>
                 </div>
                 <div class="col-sm-12 iq-mt-60">
                     <div class="heading-title">
@@ -490,8 +496,10 @@
                     </div>
                     <div class="col-lg-12 text-center">
                         <div class="iq-countdown">
-                            <p>Join TradersEra Bangalore to reshape your trading experience. With a user-friendly interface and top-notch security, we're your trusted partner in the world of trading. Let's shape the future together.
-</p>
+                            <p>Join TradersEra Bangalore to reshape your trading experience. With a user-friendly
+                                interface and top-notch security, we're your trusted partner in the world of trading.
+                                Let's shape the future together.
+                            </p>
                             <!-- <h5>Get Access to a Range of Trading Options with Just a Minimum Deposit!</h5> -->
                             <br>
                         </div>

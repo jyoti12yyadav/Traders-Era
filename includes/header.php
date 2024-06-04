@@ -3,7 +3,6 @@
 <!doctype html>
 <html lang="en">
 <!-- Mirrored from pixner.net/tradez/main/index-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 16 Jan 2024 07:19:13 GMT -->
-
 <head>
     <!-- required meta -->
     <meta charset="UTF-8">
@@ -27,28 +26,23 @@
         href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
         rel="stylesheet">
 </head>
-
 <body>
     <!--  Preloader  -->
     <div class="preloader">
         <span class="loader"></span>
     </div>
     <!-- end preloader -->
-
     <!-- Scroll To Top Start-->
     <button class="scrollToTop d-none d-md-flex d-center rounded" aria-label="scroll Bar Button"><i
             class="mat-icon fs-four nb4-color ti ti-arrow-up"></i></button>
     <!-- Scroll To Top End -->
-
     <!-- Start Custom Cursor -->
     <div class="mouse-follower">
         <span class="cursor-outline"></span>
         <span class="cursor-dot"></span>
     </div>
     <!-- End Custom Cursor -->
-
     <!-- header-section start -->
-
     <header class="header-section a2-bg header-menu w-100">
         <div class="container-fluid bg-upper-header upper-header">
             <div class="container">
@@ -60,11 +54,9 @@
                                         href="mailto:support@tradersera.com">support@tradersera.com</a></li>
                                 <li><img class="mx-2" src="assets/images/icon/call icon png.png" alt=""><a href="tel:+ 44203758865">+1 9142684555</a></li>
                             </ul>
-
                         </div>
                     </div>
                 </div>
-
                 <div class="right-area position-relative  ms-0 d-end gap-1 gap-xl-4 d-none d-lg-flex">
                     <div class="single-item" style="  margin-right: 10px; ">
                         <a href="javascript:void(Tawk_API.toggle())"
@@ -99,7 +91,6 @@
                 </div>
                 <div class="nav_alt">
                     <div class="right-area position-relative ms-0 d-center gap-1 gap-xl-4 d-lg-none">
-                       
                         <div class="single-item">
                             <a href="contact-us.php"
                                 class="cmn-btn fw-bold py-2 px-2 px-sm-3 px-lg-4 align-items-center gap-1"> Contact Us
@@ -111,8 +102,6 @@
                     <ul class="navbar-nav gap-2 gap-lg-3 gap-xxl-8  align-self-center mx-auto mt-4 mt-lg-0">
                         <li class="">
                             <a class="dropdown-item" href="index.php">Home</a>
-
-
                         </li>
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
@@ -126,11 +115,9 @@
                         </li>
                         <mark>
                         <li class="dropdown show-dropdown">
-                           
                                 <button type="button" aria-label="Navbar Dropdown Button" class="dropdown-toggle dropdown-nav" onmouseover="this.style.color='black'" onmouseout="this.style.color=''">
                                     Trading 
                                 </button>
-                            
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item" href="binary-trading.php">Binary Trading</a></li>
                                 <li><a class="dropdown-item" href="forex-cfds.php">Forex CFDs</a></li>
@@ -140,7 +127,6 @@
                             </ul>
                         </li>
                         </mark>
-             
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
                                 class="dropdown-toggle dropdown-nav ">Markets</button>
@@ -153,7 +139,6 @@
                                 <li><a class="dropdown-item" href="faq.php">FAQ</a></li>
                             </ul>
                         </li>
-
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
                                 class="dropdown-toggle dropdown-nav">Tools</button>
@@ -165,16 +150,13 @@
                                 <li><a class="dropdown-item " href="interest-rate.php">Interest Rate</a></li>
                             </ul>
                         </li>
-
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
                                 class="dropdown-toggle dropdown-nav">Partners</button>
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item" href="cfd-partner.php">CFD Partner</a></li>
-                              
                             </ul>
                         </li>
-
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
                                 class="dropdown-toggle dropdown-nav">About Us</button>
@@ -188,16 +170,13 @@
                                 <li><a class="dropdown-item" href="kyc-checks.php">KYC Checks</a></li>
                             </ul>
                         </li>
-                    
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button" class="dropdown-nav"><a
                                     class="dropdown-item" href="https://tradersera.com/blogs">Blog</a></button>
                         </li>
-
                     </ul>
                 </div>
                 <div class="right-area position-relative  ms-0 d-center gap-1 gap-xl-4 d-none d-lg-flex">
-                  
                     <div class="single-item">
                         <a href="contact-us.php"
                             class="cmn-btn fw-bold py-2 px-2 px-sm-3 px-lg-4 align-items-center gap-1">Contact Us<i
@@ -208,26 +187,17 @@
         </div>
     </header>
     <!-- header-section end -->
-
     <style>
         .contact img {
             height: 25px;
             width: 25px;
             max-width: 100%;
-
         }
-
-        
-
-
-
         .contact li {
             margin-right: 25px;
             /* Adjust the value as per your design */
         }
     </style>
-
-
     <style>
         .dropbtn {
             background-color: #04AA6D;
@@ -236,12 +206,10 @@
             font-size: 16px;
             border: none;
         }
-
         .dropdown {
             position: relative;
             display: inline-block;
         }
-
         .dropdown-content {
             display: none;
             position: absolute;
@@ -250,32 +218,24 @@
             box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
             z-index: 1;
         }
-
         .dropdown-content a {
             color: black;
             padding: 12px 16px;
             text-decoration: none;
             display: block;
         }
-
         .dropdown-content a:hover {
             background-color: #ddd;
         }
-
         .dropdown:hover .dropdown-content {
             display: block;
         }
-
         .dropdown:hover .dropbtn {
             background-color: #3e8e41;
         }
-
         mark {
            background-color: #9AD953;
-           border-radius: 4px;
-          
+           border-radius: 4px; 
            color:black;
-       }
-   
-        
+       } 
     </style>

@@ -31,9 +31,6 @@
         }
     </style>
 </head>
-<!-- 
-h
- -->
 <body data-spy="scroll" data-offset="80">
     <!-- loading -->
     <div id="loading">
@@ -99,8 +96,6 @@ h
         </div>
     </div>
     <!-- banner -->
-    <!-- Our Mission -->
-    <!-- Our Mission END -->
     <!-- What is OVEX -->
     <section class="overview-block-ptb trending-2">
         <div class="container">
@@ -114,7 +109,6 @@ h
                         <h2>Forex Trading Features</h2>
                     </div>
                     <br>
-                  
                     <ul class="listing-mark iq-mtb-20">
                         <li>
                             <h5>Trade major currency pairs in the largest global market.</h5>
@@ -684,5 +678,4 @@ h
     <script src="js/countdown.js"></script>
 </body>
 <!-- Mirrored from templates.iqonic.design/coinex-dist/theme/ico/index-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 20 Apr 2024 07:57:20 GMT -->
-
 </html>
