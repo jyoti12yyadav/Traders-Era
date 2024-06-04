@@ -68,6 +68,14 @@
     .pt-120 {
         padding-top: 60px !important;
     }
+
+    .table-para-2 {
+        background-color: #292929;
+        padding: 35px;
+        border: 1px solid #838383;
+        border-radius: 14px;
+        margin: 10px 0px;
+    }
 </style>
 <section class="banner-section pt-2 pb-1">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
@@ -373,6 +381,19 @@
 </section>
 
 
+<section>
+    <div class="container">
+    <div class="table-para-2">
+        
+         <p>Your all-in-one online platform for binary and Forex trading. Say goodbye to cumbersome downloads and installations. With our user interface and wide range of tools you'll have all the support to make informed decisions and maximize your profits. Trade Smarter, Not Harder
+
+
+</p>
+        </div>
+    </div>
+</section>
+
+<br>
 
 
 <?php include("includes/footer.php"); ?>

@@ -11,6 +11,16 @@
         .pt-120 {
             padding-top: 60px !important;
         }
+
+
+        .table-para-2 {
+        background-color: #292929;
+        padding: 35px;
+        border: 1px solid #838383;
+        border-radius: 14px;
+        margin: 10px 0px;
+    }
+
 </style>
 <section class="banner-section  pt-2 pb-1">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
@@ -217,13 +227,19 @@
                                 account. With $10,000 in virtual funds, you have nothing to lose. Practicing for free is
                                 the perfect way to gain knowledge about binary option contracts.
                         </li>
-                        <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                        </ul>
+                        <!-- <li class="d-flex align-items-center gap-3 fs-six-up"><i
                                 class="ti ti-circle-check s1-color fs-four"></i>
                             Ready to start trading binary option contracts? Sign up with TradersEra now and create a
                                 demo account! Practice with virtual funds to enhance your trading abilities before
                                 getting started with real trading.
-                        </li>
-                    </ul>
+                        </li> -->
+                    
+                    <!-- <div class="table-para">
+            <p>Ready to start trading binary option contracts? Sign up with TradersEra now and create a
+                                demo account! Practice with virtual funds to enhance your trading abilities before
+                                getting started with real trading.</p>
+        </div> -->
                 </div>
             </div>
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 col-xxl-5 order-2 order-lg-0">
@@ -233,5 +249,21 @@
             </div>
         </div>
     </div>
+
+    
 </section>
+
+
+<section>
+    <div class="container">
+    <div class="table-para-2">
+        
+         <p>Ready to start trading binary option contracts? Sign up with TradersEra now and create a demo account! Practice with virtual funds to enhance your trading abilities before getting started with real trading.</p>
+        </div>
+    </div>
+</section>
+
+<br>
+
+
 <?php include("includes/footer.php"); ?>

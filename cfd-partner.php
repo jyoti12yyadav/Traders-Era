@@ -527,13 +527,10 @@
     </div>
 </section>
 <br><br>
-<<<<<<< HEAD
 
 
 
 
-=======
->>>>>>> 7b2c1d5d877a5e938d78024b7479867b1e2696d2
 <!-- <div class="row justify-content-center">
     <div class="col-lg-12 col-xxl-10">
         <div class="heading__content mb-10 mb-lg-15 text-center">
@@ -702,13 +699,9 @@
             <div class="col-12 col-lg-5 col-xl-5">
                 <div class="submissions-area d-flex flex-column gap-8 gap-lg-10">
                     <div class="submissions">
-<<<<<<< HEAD
 
                         <img src="assets/images/tradersera contact us image.png"
                             alt="Sign Up to Become an Introducing Broker">
-=======
-                        <img src="assets/images/tradersera contact us image.png" alt="Sign Up to Become an Introducing Broker">
->>>>>>> 7b2c1d5d877a5e938d78024b7479867b1e2696d2
                     </div>
                 </div>
             </div>
@@ -717,10 +710,6 @@
                     class="contact__form alt_form px-4 px-lg-8">
                     <h3 class="contact__title  mb-lg-7 mt-8">Sign Up Today</h3>
                     <h6 class="mb-lg-7">
-<<<<<<< HEAD
-
-=======
->>>>>>> 7b2c1d5d877a5e938d78024b7479867b1e2696d2
                     </h6>
                     <div class="d-flex gap-3 gap-sm-5 gap-lg-8 flex-column">
                         <div class="row gap-3 gap-sm-0">
@@ -768,10 +757,6 @@
                                     <br>
                                     <br>
                                     <label for="monthly-traders"><b>Number of monthly new traders:
-<<<<<<< HEAD
-
-=======
->>>>>>> 7b2c1d5d877a5e938d78024b7479867b1e2696d2
                                         </b></label>
                                     <select id="monthly-traders" name="monthly-traders" class="mt-4">
                                         <option value="1-5">1-5</option>
