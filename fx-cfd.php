@@ -37,7 +37,6 @@
         </div>
     </div>
 </section>
-
 <section class="trade_on a2-bg pt-120 pb-120 position-relative z-0" style="background-color:rgb(20,20,20)">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <!-- <img src="assets/images/coin.png" alt="null" class="position-absolute d-none d-md-flex previewShapeRevX">
@@ -68,7 +67,6 @@
         </div>
     </div>
 </section>
-
 <section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/coin.png" alt="null" class="position-absolute d-none d-md-flex previewShapeRevX">
@@ -99,7 +97,6 @@
                     </p>
                 </div>
             </div>
-            
         </div>
     </div>
 </section>
@@ -496,7 +493,6 @@
         </div>
     </div>
 </section>
-
 <section class="provide-world pt-60 position-relative z-0 mb-10 pt-10 pb-120" style="background-color: #000000;">
     <div class="container">
         <div class="row justify-content-center">

@@ -1,7 +1,6 @@
 <!doctype html>
 <html lang="en">
 <!-- Mirrored from templates.iqonic.design/coinex-dist/theme/ico/index-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 20 Apr 2024 07:56:48 GMT -->
-
 <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -24,7 +23,6 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <!-- Responsive CSS -->
     <link rel="stylesheet" type="text/css" href="css/responsive.css">
-
     <style>
         @media (max-width:430px) {
             .title {
@@ -32,10 +30,7 @@
             }
         }
     </style>
-
-
 </head>
-
 <body data-spy="scroll" data-offset="80">
     <!-- loading -->
     <div id="loading">

@@ -1,15 +1,11 @@
 <?php include("includes/header.php"); ?>
-
-
 <style>
     .main-table {
         display: flex;
     }
-
     .table-content {
         display: flex;
     }
-
     .sub-table-content {
         width: 100%;
         padding: 20px 50px;
@@ -20,7 +16,6 @@
         align-items: center;
         font-size: 20px;
     }
-
     .table-content2>.sub-table-content {
         background-color: #9ad953;
         border: 1px solid black;
@@ -29,7 +24,6 @@
         font-weight: 700;
         border-radius: 10px 10px 0px 0px;
     }
-
     .sub-table-content>span {
         display: flex;
         text-align: center;
@@ -39,40 +33,31 @@
         font-weight: 700;
         padding-bottom: 4px;
     }
-
     .sub-table-content>h4 {
         color: #000000;
     }
-
     .cus-rounded-3 {
         border-radius: 0px 0px 10px 10px;
     }
-
     .packages {
         background: #9ad953;
         padding: 25px;
         border-radius: 10px 10px 0px 0px;
     }
-
     .packages>h4 {
         color: #000000;
         text-align: center;
     }
-
     .package-para {
         font-size: 20px;
     }
-
-
     .pb-120 {
         padding-bottom: 60px !important;
     }
-
     .pt-120 {
         padding-top: 60px !important;
     }
 </style>
-
 <section class="banner-section pt-2 pb-1">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
@@ -88,7 +73,6 @@
         </div>
     </div>
 </section>
-
 <section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 center-0 w-100 h-100 z-n1">
         <!-- <img src="assets/images/coin.png" alt="null" class="position-absolute d-none d-md-flex previewShapeRevX">
@@ -120,7 +104,6 @@
         </div>
     </div>
 </section>
-
 <div class="container my-5 table-div">
 <table aria-label="table" id="Record" class="table table-striped table-dark my-3">
         <thead>
@@ -129,33 +112,25 @@
                 color: black;
                 text-align: center;
                 font-size: 16px;padding:20px;display: table-cell;">
-
                     Name
-
                 </th>
                 <th scope="col" style="    background-color: #9ad953;
                 color: black;
                 text-align: center;
                 font-size: 16px;padding:20px;display: table-cell;">
-
                     Market Open
-
                 </th>
                 <th scope="col" style="    background-color: #9ad953;
                 color: black;
                 text-align: center;
                 font-size: 16px;padding:20px;display: table-cell;">
-
                     Market Close
-
                 </th>
                 <th scope="col" style="    background-color: #9ad953;
                 color: black;
                 text-align: center;
                 font-size: 16px;padding:20px;display: table-cell;">
-
                     Trading Break
-
                 </th>
             </tr>
         </thead>
@@ -247,7 +222,6 @@
         </tbody>
     </table>
 </div>
-
 <section class="faq pb-120 pt-120 position-relative z-0">
     <div class="animation position-absolute top-0 center-0 w-100 h-100 z-n1">
         <img src="assets/images/button.png" alt="vector"
@@ -359,17 +333,8 @@
         </div>
     </div>
 </section>
-
-
-
-
-
 <div class="container my-5 table-div">
-
-
-
     <div class="container my-5 table-div">
-
         <table aria-label="table" id="Record" class="table table-striped table-dark my-3">
             <thead>
                 <tr>
@@ -377,24 +342,19 @@
                 color: black;
                 text-align: center;
                 font-size: 16px;padding:20px;display: table-cell;">
-
                         Name
-
                     </th>
                     <th scope="col" style="    background-color: #9ad953;
                 color: black;
                 text-align: center;
                 font-size: 16px;padding:20px;display: table-cell;">
-
                         Symbol
-
                     </th>
                     <th scope="col" style="    background-color: #9ad953;
                 color: black;
                 text-align: center;
                 font-size: 16px;padding:20px;display: table-cell;">
                         Trading Hours (GMT+3, MON-FRI)
-
                     </th>
                 </tr>
             </thead>
@@ -580,18 +540,6 @@
                 </tr>
             </tbody>
         </table>
-
     </div>
-
 </div>
-
-
-
-
-
-
-
-
-
-
 <?php include("includes/footer.php"); ?>

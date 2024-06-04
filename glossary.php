@@ -1,5 +1,4 @@
 <?php include("includes/header.php"); ?>
-
 <section class="banner-section  pt-2 pb-1">
     <div class="container mt-lg-0 pt-18 pt-xl-20">
         <div class="row">
@@ -15,20 +14,14 @@
         </div>
     </div>
 </section>
-
-
 <style>
-   
 .pb-120 {
     padding-bottom: 60px !important;
 }
 .pt-120 {
     padding-top: 60px !important;
 }
-
 </style>
-
-
 <!-- a section -->
 <section class="privacy-policy mt-20 pb-10 ">
     <div class="container">
@@ -36,13 +29,9 @@
         <div class="row justify-content-center">
             <div class="col-lg-10 col-xxl-10">
                 <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
-                    
                     <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
                         <div class="privacy-policy__part">
-
-
                         </div>
-
                         <div class="privacy-policy__part">
                             <h2 class="A">A</h2>
                             <br>
@@ -53,8 +42,6 @@
                         <div class="privacy-policy__part">
                             <h4 class="mb-4">Arbitrage
                             </h4>
-
-
                             <p class="mt-4 mb-5">A risk-free type of trading where the same instrument is bought and
                                 sold simultaneously in two different markets in order to cash in on the difference in
                                 these markets.</p>
@@ -99,28 +86,21 @@
                                 strike price and the average spot rate over the contract period. Sometimes called an
                                 “Asian option”.</p>
                         </div>
-
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
-
 <!-- b section -->
-
 <section class="privacy-policy pb-120 ">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10 col-xxl-10">
                 <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
-
                     <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
                         <div class="privacy-policy__part">
-
-
                         </div>
-
                         <div class="privacy-policy__part">
                             <h2 class="A">B</h2>
                             <br>
@@ -130,8 +110,6 @@
                         <div class="privacy-policy__part">
                             <h4 class="mb-4">Balance-of-Payments
                             </h4>
-
-
                             <p class="mt-4 mb-5">System of recording a country’s economic transactions</p>
                         </div>
                         <div class="privacy-policy__part">
@@ -224,19 +202,14 @@
             </div>
         </div>
 </section>
-
 <section class="privacy-policy pb-120 ">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10 col-xxl-10">
                 <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
-
                     <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
                         <div class="privacy-policy__part">
-
-
                         </div>
-
                         <div class="privacy-policy__part">
                             <h2 class="A">C</h2>
                             <br>
@@ -244,7 +217,6 @@
                             <p class="mt-3">A term used in the foreign exchange market for the US Dollar/British Pound
                                 rate.</p>
                         </div>
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Call
                             </h5>
@@ -357,21 +329,14 @@
             </div>
         </div>
 </section>
-
-
-
 <section class="privacy-policy pb-120 ">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10 col-xxl-10">
                 <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
-
                     <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
                         <div class="privacy-policy__part">
-
-
                         </div>
-
                         <div class="privacy-policy__part">
                             <h2 class="A">D</h2>
                             <br>
@@ -379,14 +344,12 @@
                             <p class="mt-3">Speculators who take positions in commodities which are then liquidated
                                 prior to the close of the same trading day.</p>
                         </div>
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Deal Ticket/Deal Slip
                             </h5>
                             <p class="mt-4">The primary method of recording the basic information relating to a
                                 transaction.
                             </p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Dealer</h5>
@@ -403,16 +366,13 @@
                             <h5 class="mb-4">Declaration Date</h5>
                             <p class="mt-3">The latest day or time by which the buyer of an option must indicate to the
                                 seller his intention to the option.
-
                             </p>
                         </div>
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Default
                             </h5>
                             <p class="mt-4">The latest day or time by which the buyer of an option must indicate to the
                                 seller his intention to the option.</p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Delivery Date</h5>
@@ -485,28 +445,19 @@
                                 life span in excess of three years.
                             </p>
                         </div>
-
-
                     </div>
                 </div>
             </div>
         </div>
 </section>
-
-
-
 <section class="privacy-policy pb-120 ">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10 col-xxl-10">
                 <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
-
                     <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
                         <div class="privacy-policy__part">
-
-
                         </div>
-
                         <div class="privacy-policy__part">
                             <h2 class="A">E</h2>
                             <br>
@@ -514,7 +465,6 @@
                             <p class="mt-3">Reflects the impact of foreign exchange changes on the future competitive
                                 position of a company.</p>
                         </div>
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Economic and Monetary Union (EMU)
                             </h5>
@@ -524,7 +474,6 @@
                                 nature. All countries which fulfil the five convergence criteria in 1998 will proceed to
                                 EMU in 2000. The UK and Denmark have secured opt-outs from EMU. Sweden’s joining is
                                 subject to ratification by parliament.</p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">European Currency Unit</h5>
@@ -564,27 +513,19 @@
                                 to prevent overexposure to any single borrower. In trading operations, it is the
                                 potential for running a profit or loss from fluctuations in market prices.</p>
                         </div>
-
                     </div>
                 </div>
             </div>
         </div>
 </section>
-
-
-
 <section class="privacy-policy pb-120 ">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10 col-xxl-10">
                 <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
-
                     <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
                         <div class="privacy-policy__part">
-
-
                         </div>
-
                         <div class="privacy-policy__part">
                             <h2 class="A">F</h2>
                             <br>
@@ -593,20 +534,17 @@
                                 non-durable goods. The non-durable goods orders consist of food , clothing , light
                                 industrial products and products designed for the maintenance of the durable goods.</p>
                         </div>
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Fedwire
                             </h5>
                             <p class="mt-4">An automated communications and settlement system linking the Federal
                                 Reserve banks with other banks and with depository institutions.
                             </p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Fill or Kill</h5>
                             <p class="mt-3">An order which must be entered for trading, normally in a pit three times,
                                 if not filled is immediately cancelled.
-
                             </p>
                         </div>
                         <div class="privacy-policy__part">
@@ -669,29 +607,19 @@
                                 actively-traded derivative contract. The Chicago Mercantile Exchange’s Eurodollar
                                 contract has the world’s largest open interest.</p>
                         </div>
-
-
                     </div>
                 </div>
             </div>
         </div>
 </section>
-
-
-
-
 <section class="privacy-policy pb-120 ">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10 col-xxl-10">
                 <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
-
                     <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
                         <div class="privacy-policy__part">
-
-
                         </div>
-
                         <div class="privacy-policy__part">
                             <h2 class="A">G</h2>
                             <br>
@@ -699,21 +627,18 @@
                             <p class="mt-3">The seven leading industrial countries: The United States, Germany, Japan,
                                 France, United Kingdom, Canada, and Italy.</p>
                         </div>
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Gap
                             </h5>
                             <p class="mt-4">The price Gap between consecutive trading ranges (i.e. the low of the
                                 current range is higher than the high of the previous range)
                             </p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Globex</h5>
                             <p class="mt-3">A system for global after hours electronic trading in futures and options
                                 developed by Reuters for CME and CBOT for use in conjunction with various exchanges
                                 around the world.
-
                             </p>
                         </div>
                         <div class="privacy-policy__part">
@@ -760,27 +685,19 @@
                                 investment or work abroad.
                             </p>
                         </div>
-
                     </div>
                 </div>
             </div>
         </div>
 </section>
-
-
-
 <section class="privacy-policy pb-120 ">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10 col-xxl-10">
                 <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
-
                     <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
                         <div class="privacy-policy__part">
-
-
                         </div>
-
                         <div class="privacy-policy__part">
                             <h2 class="A">H</h2>
                             <br>
@@ -788,7 +705,6 @@
                             <p class="mt-3">A currency whose value is expected to remain stable or increase in terms of
                                 other currencies.</p>
                         </div>
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Head and Shoulders
                             </h5>
@@ -799,13 +715,11 @@
                                 the shoulder. A further modest rise or level will indicate a that a further major fall
                                 is imminent. The breach of the neckline is the indication to sell.
                             </p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Hedging</h5>
                             <p class="mt-3">A strategy used to offset market risk, whereby one position protects
                                 another.
-
                             </p>
                         </div>
                         <div class="privacy-policy__part">
@@ -813,25 +727,19 @@
                             <p class="mt-3">The number of futures or options required to hedge a given exposure in the
                                 cash market.</p>
                         </div>
-
                     </div>
                 </div>
             </div>
         </div>
 </section>
-
 <section class="privacy-policy pb-120 ">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10 col-xxl-10">
                 <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
-
                     <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
                         <div class="privacy-policy__part">
-
-
                         </div>
-
                         <div class="privacy-policy__part">
                             <h2 class="A">I</h2>
                             <br>
@@ -839,20 +747,17 @@
                             <p class="mt-3">International Commodities Clearing House Limited, a clearing house based in
                                 London operating world wide for many futures markets.</p>
                         </div>
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">IFEMA
                             </h5>
                             <p class="mt-4">International Foreign Exchange Master Agreement
                             </p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">IMF</h5>
                             <p class="mt-3">International Monetary Fund, established in 1946 to provide international
                                 liquidity on a short and medium term and encourage liberalization of exchange rates. The
                                 IMF supports countries with balance of payments problems with the provision of loans.
-
                             </p>
                         </div>
                         <div class="privacy-policy__part">
@@ -884,7 +789,6 @@
                             <h5 class="mb-4">Inconvertible Currency</h5>
                             <p class="mt-3">Currency which cannot be exchanged for other currencies, either because this
                                 is forbidden by the foreign exchange regulations.
-
                             </p>
                         </div>
                         <div class="privacy-policy__part">
@@ -893,7 +797,6 @@
                                 rates or loan values to an economic index, usually of prices.
                             </p>
                         </div>
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Indicative Quote</h5>
                             <p class="mt-3">A market-maker’s price which is not firm.
@@ -923,7 +826,6 @@
                             <p class="mt-3">The specification of the banks at which funds shall be paid upon settlement.
                             </p>
                         </div>
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Inter-bank Rates</h5>
                             <p class="mt-3">The bid and offer rates at which international banks place deposits with
@@ -962,8 +864,6 @@
                                 both OTC and by exchanges.
                             </p>
                         </div>
-
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Interest Rate Cap</h5>
                             <p class="mt-3">An agreement that provides the buyer of a cap with a maximum interest rate
@@ -996,7 +896,6 @@
                                 exchange rates.
                             </p>
                         </div>
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Intra-Day limit</h5>
                             <p class="mt-3">Limit set by bank management on the size of each dealer’s Intra Day
@@ -1021,29 +920,19 @@
                             <p class="mt-3">Index and Options Market part of the Chicago Mercantile Exchange
                             </p>
                         </div>
-
                     </div>
                 </div>
             </div>
         </div>
 </section>
-
-
-
-
-
 <section class="privacy-policy pb-120 ">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10 col-xxl-10">
                 <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
-
                     <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
                         <div class="privacy-policy__part">
-
-
                         </div>
-
                         <div class="privacy-policy__part">
                             <h2 class="A">J</h2>
                             <br>
@@ -1053,7 +942,6 @@
                                 increase.
                             </p>
                         </div>
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">
                                 Jawbone
@@ -1061,42 +949,29 @@
                             <p class="mt-4">Announcements and statements by politicians or monetary authorities to
                                 influence decisions by business, consumer, or trade union sectors, often associated with
                                 forecasts and policy implications.
-
-
                             </p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Jurisdiction Risk</h5>
                             <p class="mt-3">(1) The risk inherent in placing funds in the Centre where they will be
                                 under the jurisdiction of a foreign legal authority.
-
                             </p>
                             <p class="mt-3">(2) The risk in making a loan subject to the laws of another country.
-
                             </p>
                         </div>
-
                     </div>
                 </div>
             </div>
         </div>
 </section>
-
-
-
 <section class="privacy-policy pb-120 ">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10 col-xxl-10">
                 <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
-
                     <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
                         <div class="privacy-policy__part">
-
-
                         </div>
-
                         <div class="privacy-policy__part">
                             <h2 class="A">K</h2>
                             <br>
@@ -1106,19 +981,16 @@
                                 implied volatility.
                             </p>
                         </div>
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Key currency
                             </h5>
                             <p class="mt-4">Small countries, which are highly dependent on exports, orientates their
                                 currencies to their major trading partners, the constituents of a currency basket.
                             </p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Kiwi</h5>
                             <p class="mt-3">Slang for the New Zealand dollar.
-
                             </p>
                         </div>
                         <div class="privacy-policy__part">
@@ -1129,31 +1001,19 @@
                                 may permanently cease to exist.
                             </p>
                         </div>
-
                     </div>
                 </div>
             </div>
         </div>
 </section>
-
-
-
-
-
-
-
 <section class="privacy-policy pb-120 ">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10 col-xxl-10">
                 <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
-
                     <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
                         <div class="privacy-policy__part">
-
-
                         </div>
-
                         <div class="privacy-policy__part">
                             <h2 class="A">L</h2>
                             <br>
@@ -1163,29 +1023,22 @@
                                 deal by maturity date, and the net position at each future date arising.
                             </p>
                         </div>
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Lagging Indicator
                             </h5>
                             <p class="mt-4">A measure of economic activity which tends to change after change has
                                 occurred in the overall economy e.g. CPI.
                             </p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Lapsed Rights</h5>
                             <p class="mt-3">Rights for which call payments have not been made by the acceptance date.
-
                             </p>
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Last Trading Day</h5>
                             <p class="mt-3">The day on which trading ceases for an expiring contract.</p>
                         </div>
-
-
-
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Lay Off</h5>
                             <p class="mt-3">To carry out a transaction in the market to offset a previous transaction
@@ -1239,9 +1092,6 @@
                             <p class="mt-3">The maximum price decline from the previous trading day’s settlement price
                                 permitted in one trading session.</p>
                         </div>
-
-
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Limit Move</h5>
                             <p class="mt-3">A price that has advanced or declined the permissible limit permitted during
@@ -1266,36 +1116,25 @@
                             <p class="mt-3">(3) The amount that one bank is prepared to trade with another.</p>
                             <p class="mt-3">(4) The amount that a dealer is permitted to trade in a given currency.
                             </p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Limited Convertibility</h5>
                             <p class="mt-3">When residents of a country are prohibited from buying other currencies even
                                 though non-residents may be completely free to buy or sell the national currency.</p>
                         </div>
-
-
                     </div>
                 </div>
             </div>
         </div>
 </section>
-
-
-
-
 <section class="privacy-policy pb-120 ">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10 col-xxl-10">
                 <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
-
                     <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
                         <div class="privacy-policy__part">
-
-
                         </div>
-
                         <div class="privacy-policy__part">
                             <h2 class="A">M</h2>
                             <br>
@@ -1305,20 +1144,17 @@
                                 variations between the precise definitions used by national financial authorities.
                             </p>
                         </div>
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Lagging Indicator
                             </h5>
                             <p class="mt-4">A measure of economic activity which tends to change after change has
                                 occurred in the overall economy e.g. CPI.
                             </p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">M2</h5>
                             <p class="mt-3">Includes demand deposits time deposits and money market mutual funds
                                 excluding large CDs.
-
                             </p>
                         </div>
                         <div class="privacy-policy__part">
@@ -1326,14 +1162,9 @@
                             <p class="mt-3">In the UK it is M1 plus public and private sector time deposits and sight
                                 deposits held by the public sector.</p>
                         </div>
-
-
-
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">M4</h5>
                             <p class="mt-3">In the US it is M2 plus negotiable CDs.
-
                             </p>
                         </div>
                         <div class="privacy-policy__part">
@@ -1390,9 +1221,6 @@
                             <h5 class="mb-4">Market Amount</h5>
                             <p class="mt-3">The minimum amount conventionally dealt for between banks.</p>
                         </div>
-
-
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Market Maker</h5>
                             <p class="mt-3">A market maker is a person or firm authorised to create and maintain a
@@ -1413,18 +1241,12 @@
                             <h5 class="mb-4">Marry</h5>
                             <p class="mt-3">Where a dealer is able to match two customer deals which off set one
                                 another.</p>
-
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Matched Book</h5>
                             <p class="mt-3">If the distribution of the maturities of a banks liabilities equal that of
                                 its assets , it is said to be running a matched book.</p>
                         </div>
-
-
-
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Matching</h5>
                             <p class="mt-3">The process of ensuring that purchases and sales in each currency and
@@ -1441,23 +1263,17 @@
                             <p class="mt-3">(2) Date on which a bond matures, at which time the face value will be
                                 returned to the purchaser. Sometimes the maturity date is not one specified date but a
                                 range of dates during which the bond may be repaid.</p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Mid-price or Middle Rate</h5>
                             <p class="mt-3">The price half-way between the two prices, or the average of both buying and
                                 selling prices offered by the market makers.</p>
-
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Minimum Price Fluctuation</h5>
                             <p class="mt-3">The smallest increment of market price movement possible in a given futures
                                 contract.</p>
                         </div>
-
-
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Minimum Reserve</h5>
                             <p class="mt-3">Reserves required to be deposited at central banks by commercial banks and
@@ -1473,13 +1289,10 @@
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">MITI</h5>
                             <p class="mt-3">Japanese ministry of International Trade & Industry.</p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">MM</h5>
                             <p class="mt-3">Money Markets.</p>
-
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Monetarism</h5>
@@ -1487,9 +1300,6 @@
                                 the principal tool for implementing monetary policy, especially against inflation.
                                 Policies include cuts in public spending and high interest rates.</p>
                         </div>
-
-
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Monetary Base</h5>
                             <p class="mt-3">Currency in circulation plus banks’ required and excess deposits at the
@@ -1499,7 +1309,6 @@
                             <h5 class="mb-4">Monetary Easing</h5>
                             <p class="mt-3">A modest loosening of monetary constraint by changing interest rate, money
                                 supply, deposit ratios.</p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Monetary Policy</h5>
@@ -1508,23 +1317,18 @@
                                 in the economy is the key to controlling prices and therefore inflation. However,
                                 central banks’ monetary capability is severely limited by global money movements. This
                                 forces them to use the indirect tool of exchange rate manipulation.</p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Monetary Union</h5>
                             <p class="mt-3">An agreement between countries to maintain a fixed exchange rate between
                                 their currencies. A process which the EMS is intended to lead to, especially after the
                                 Maastricht Treaty.</p>
-
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Money Market</h5>
                             <p class="mt-3">A market consisting of financial institutions and dealers in money or credit
                                 who wish to either borrow or lend.</p>
                         </div>
-
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Money Market Operations</h5>
                             <p class="mt-3">Comprises the acceptance and re-lending of deposits on the money market.</p>
@@ -1533,13 +1337,11 @@
                             <h5 class="mb-4">Money Supply</h5>
                             <p class="mt-3">The amount of money in the economy, which can be measured in a number of
                                 ways. See definitions of M0-M4.</p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Most Favoured Nation (MFN)</h5>
                             <p class="mt-3">An undertaking to give the rate of tariff concession offered to members of
                                 the GATT. More concessionaire rates can exist.</p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Moving Average</h5>
@@ -1551,19 +1353,14 @@
             </div>
         </div>
 </section>
-
 <section class="privacy-policy pb-120 ">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10 col-xxl-10">
                 <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
-
                     <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
                         <div class="privacy-policy__part">
-
-
                         </div>
-
                         <div class="privacy-policy__part">
                             <h2 class="A">N</h2>
                             <br>
@@ -1575,8 +1372,6 @@
                         <div class="privacy-policy__part">
                             <h4 class="mb-4">Narrow Money
                             </h4>
-
-
                             <p class="mt-4 mb-5">Limited definition of money to include cash or near cash, i.e. M1 or
                                 M0.</p>
                         </div>
@@ -1636,19 +1431,14 @@
             </div>
         </div>
 </section>
-
 <section class="privacy-policy pb-120 ">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10 col-xxl-10">
                 <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
-
                     <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
                         <div class="privacy-policy__part">
-
-
                         </div>
-
                         <div class="privacy-policy__part">
                             <h2 class="A">O</h2>
                             <br>
@@ -1658,8 +1448,6 @@
                         <div class="privacy-policy__part">
                             <h4 class="mb-4">OECD
                             </h4>
-
-
                             <p class="mt-4 mb-5">Organisation of Economic Co-operation and Development. Membership is
                                 the more than developed countries.</p>
                         </div>
@@ -1727,7 +1515,6 @@
                             <p class="mt-3">All options of the same class having the same exercise/strike price and
                                 expiration date.</p>
                         </div>
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Original Margin</h5>
                             <p class="mt-3">See Initial Margin.</p>
@@ -1791,19 +1578,14 @@
             </div>
         </div>
 </section>
-
 <section class="privacy-policy pb-120 ">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10 col-xxl-10">
                 <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
-
                     <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
                         <div class="privacy-policy__part">
-
-
                         </div>
-
                         <div class="privacy-policy__part">
                             <h2 class="A">P</h2>
                             <br>
@@ -1885,7 +1667,6 @@
                                 <li>Minimum fluctuation or smallest increment of price movement.</li>
                             </ul>
                         </div>
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Portfolio Insurance</h5>
                             <p class="mt-3">An option hedging strategy to protect long cash market positions.</p>
@@ -1983,19 +1764,14 @@
             </div>
         </div>
 </section>
-
 <section class="privacy-policy pb-120 ">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10 col-xxl-10">
                 <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
-
                     <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
                         <div class="privacy-policy__part">
-
-
                         </div>
-
                         <div class="privacy-policy__part">
                             <h2 class="A">Q</h2>
                             <br>
@@ -2017,20 +1793,14 @@
             </div>
         </div>
 </section>
-
-
 <section class="privacy-policy pb-120 ">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10 col-xxl-10">
                 <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
-
                     <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
                         <div class="privacy-policy__part">
-
-
                         </div>
-
                         <div class="privacy-policy__part">
                             <h2 class="A">S</h2>
                             <br>
@@ -2101,7 +1871,6 @@
                             <p>The term short forward refers to period up to two months, although it is more commonly
                                 used with respect to maturities of less than one month.</p>
                         </div>
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Short Sale</h5>
                             <p class="mt-3">The sale of a currency futures not owned by the seller at the time of the
@@ -2173,9 +1942,6 @@
                             <p class="mt-3">The price at which the currency is currently trading in the spot market.
                             </p>
                         </div>
-
-
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Spot Week</h5>
                             <p class="mt-3">A standard period of one week swap measured from the current value date of
@@ -2188,7 +1954,6 @@
                             <p class="mt-3">(3) For options, transactions involving two or more option series on the
                                 same underlying currency.</p>
                         </div>
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Square</h5>
                             <p class="mt-3">Purchase and sales are in balance and thus the dealer has no open position.
@@ -2323,28 +2088,20 @@
             </div>
         </div>
 </section>
-
-
-
 <section class="privacy-policy pb-120 ">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10 col-xxl-10">
                 <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
-
                     <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
                         <div class="privacy-policy__part">
-
-
                         </div>
-
                         <div class="privacy-policy__part">
                             <h2 class="A">T</h2>
                             <br>
                             <h5 class="mb-4">Talking Up</h5>
                             <p>Statements made normally by the central bank or government minister designed to bolster
                                 market sentiment with respect to the currency.</p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h4 class="mb-4">Technical Analysis
@@ -2417,7 +2174,6 @@
                             <h5 class="mb-4">Ticket</h5>
                             <p>See Deal Slip.</p>
                         </div>
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Tier One</h5>
                             <p class="mt-3">A measure of a banks financial strength used by the BIS being the
@@ -2439,7 +2195,6 @@
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Time Decay</h5>
                             <p class="mt-3">The decline in the time value of an option as the expiry approaches.
-
                             </p>
                         </div>
                         <div class="privacy-policy__part">
@@ -2470,7 +2225,6 @@
                             <p class="mt-3">Simultaneous buying of a currency for delivery the following day and selling
                                 for the spot day or vice versa.
                             </p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Trade Date</h5>
@@ -2480,119 +2234,87 @@
                             <h5 class="mb-4">Trade Deficit/Surplus</h5>
                             <p class="mt-3">The difference between the value of imports and exports. Often only reported
                                 in visible trade terms.</p>
-
                         </div>
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Trade-weighted Exchange Rate
                             </h5>
                             <p class="mt-3">The changes in the exchange rate against a trade weighted basket including
                                 the currencies of the county’s principal trading partners.
-
                             </p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Traded Options</h5>
                             <p class="mt-3">Transferable options with the right to buy and sell a standardised amount of
                                 a currency at a fixed price within a specified period.
-
                             </p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Tradeable Amount</h5>
                             <p class="mt-3">Smallest transaction size acceptable.</p>
-
                         </div>
-
-
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Trade Ticket
                             </h5>
                             <p class="mt-3">See deal ticket.</p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Transaction Date</h5>
                             <p class="mt-3">The date on which a trade occurs.</p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Tranche</h5>
                             <p class="mt-3">A portion of, specifically used for borrowings from the IMF.</p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Transaction</h5>
                             <p class="mt-3">The buying or selling of securities resulting from the execution of an order.</p>
-
                         </div>
-
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Transaction Exposure</h5>
                             <p class="mt-3">Potential profit and loss generated by current foreign exchange transactions.</p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">
                                 Translation Exposure</h5>
                             <p class="mt-3">The calculation of loss or profit resulting from the valuation of foreign assets and liabilities for balance sheet purposes, when consolidating into the base currency.</p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Treasury Bills</h5>
                             <p class="mt-3">Short-term obligations of a Government issued for periods of one year or less. Treasury bills do not carry a rate of interest and are issued at a discount on the par value. Treasury bills are repaid at par on the due date. In the UK they are normally for 91 days, and are offered at weekly tenders. In the US they are auctioned.</p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Turnover</h5>
                             <p class="mt-3">The total money value of currency contracts traded is calculated by multiplying size by the number of contracts traded.</p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Two-Tier Market</h5>
                             <p class="mt-3">A dual exchange rate system where normally only one rate is open to market pressure, e.g. South Africa.
-
                             </p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Two-Way Quotation</h5>
                             <p class="mt-3">When a dealer quotes both buying and selling rates for foreign exchange transactions.
-
                             </p>
-
                         </div>
-
                     </div>
                 </div>
             </div>
         </div>
 </section>
-
-
-
 <section class="privacy-policy pb-120 ">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10 col-xxl-10">
                 <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
-
                     <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
                         <div class="privacy-policy__part">
-
-
                         </div>
-
                         <div class="privacy-policy__part">
                             <h2 class="A">U</h2>
                             <br>
                             <h5 class="mb-4">Uncovered
                             </h5>
                             <p>Another term for an open position.</p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h4 class="mb-4">Under Reference (Order)
@@ -2611,7 +2333,6 @@
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Unload</h5>
                             <p class="mt-3">Term for sale of assets or unwinding positions either to limit loss or to undermine other market participants positions.</p>
-                        
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Unmatched Book</h5>
@@ -2633,35 +2354,25 @@
                             <h5 class="mb-4">U.S. Quote</h5>
                             <p class="mt-3">Exchange rate quotation on a reciprocal basis. Also known as an American Quote.</p>
                         </div>
-                       
-
                     </div>
                 </div>
             </div>
         </div>
 </section>
-
-
-
 <section class="privacy-policy pb-120 ">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10 col-xxl-10">
                 <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
-
                     <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
                         <div class="privacy-policy__part">
-
-
                         </div>
-
                         <div class="privacy-policy__part">
                             <h2 class="A">V</h2>
                             <br>
                             <h5 class="mb-4">Value at Risk
                             </h5>
                             <p>The expected loss from an adverse market movement.</p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h4 class="mb-4">Value Date
@@ -2684,7 +2395,6 @@
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Velocity of Money</h5>
                             <p class="mt-3">The speed with which money circulates or turnover in the economy. It is calculated as the annual national income: average money stock in the period.</p>
-                        
                         </div>
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">Vertical (bear or bull) Spread</h5>
@@ -2702,34 +2412,25 @@
                             <h5 class="mb-4">Vostro Account</h5>
                             <p class="mt-3">A local currency account maintained with a bank by another bank. The term is normally applied to the counterparty’s account from which funds may be paid into or withdrawn, as a result of a transaction.</p>
                         </div>
-                        
                     </div>
                 </div>
             </div>
         </div>
 </section>
-
-
-
 <section class="privacy-policy pb-120 ">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10 col-xxl-10">
                 <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
-
                     <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
                         <div class="privacy-policy__part">
-
-
                         </div>
-
                         <div class="privacy-policy__part">
                             <h2 class="A">W</h2>
                             <br>
                             <h5 class="mb-4">Whipsaw
                             </h5>
                             <p>Term for where a trader takes a position, then has to move against it, triggering stop-loss limits and liquidation of positions, then having to move in the original direction. Normally occurs in volatile markets.</p>
-
                         </div>
                         <div class="privacy-policy__part">
                             <h4 class="mb-4">Wholesale Money
@@ -2748,42 +2449,30 @@
                         <div class="privacy-policy__part">
                             <h5 class="mb-4">World Bank</h5>
                             <p class="mt-3">A bank made up of members of the IMF whose aim is to assist in the development of member states by making loans where private capital is not available.</p>
-                        
                         </div>
-                       
                     </div>
                 </div>
             </div>
         </div>
 </section>
-
-
-
 <section class="privacy-policy pb-120 ">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10 col-xxl-10">
                 <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
-
                     <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
                         <div class="privacy-policy__part">
-
-
                         </div>
-
                         <div class="privacy-policy__part">
                             <h2 class="A">Y</h2>
                             <br>
                             <h5 class="mb-4">Yield Curve
                             </h5>
                             <p>The graph showing changes in yield on instruments depending on time to maturity. A system originally developed in the bond markets is now broadly applied to various financial futures. A positive sloping curve has lower interest rates at the shorter maturities and higher at the longer maturities. A negative sloping curve has higher interest rates at the shorter maturities.</p>
-
                         </div>
-                       
                     </div>
                 </div>
             </div>
         </div>
 </section>
-
 <?php include("includes/footer.php"); ?>

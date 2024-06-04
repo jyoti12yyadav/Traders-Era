@@ -1,16 +1,12 @@
 <?php include("includes/header.php"); ?>
-
 <style>
-    
 .pb-120 {
     padding-bottom: 60px !important;
 }
 .pt-120 {
     padding-top: 60px !important;
 }
-
 </style>
-
 <section class="banner-section  pt-2 pb-1">
     <div class="container mt-lg-0 pt-18 pt-xl-20">
         <div class="row">
@@ -26,7 +22,6 @@
         </div>
     </div>
 </section>
-
 <section class="company-story position-relative z-0  pt-120 pb-120">
     <div class="container">
     <div class="row justify-content-center text-center mb-10 mb-lg-15">

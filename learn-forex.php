@@ -1,12 +1,10 @@
 <?php include("includes/header.php"); ?>
-
 <style>
     .offers-content>h4 {
         font-size: 80px;
         padding-top: 40px;
         padding-bottom: 40px;
     }
-
     .offers-content3::before {
         position: relative;
         top: -80px;
@@ -16,7 +14,6 @@
         font-weight: 700;
         left: 130px;
     }
-
     .table-para {
         background-color: #292929;
         padding: 35px;
@@ -24,8 +21,6 @@
         border-radius: 14px;
         margin: 10px 0px;
     }
-
-
     .pb-120 {
     padding-bottom: 60px !important;
 }
@@ -34,11 +29,8 @@
 }
 .pt-150{
     padding-top: 150px;
-
 }
-
 </style>
-
 <section class="banner-section  pt-2 pb-1">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
@@ -55,7 +47,6 @@
         </div>
     </div>
 </section>
-
 <section class="company-story position-relative z-0  pt-60 pb-60 " style="background-color: #000;">
     <div class="animation position-absolute w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="vector"
@@ -71,7 +62,6 @@
         </div>
     </div>
 </section>
-
 <!--Trade On start-->
 <section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
     <div class="animation vector position-absolute top-0 left-0 w-100 h-100 z-n1">
@@ -111,8 +101,6 @@
     </div>
 </section>
 <!-- Trade On end -->
-
-
 <section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/coin.png" alt="vector" class="position-absolute d-none d-md-flex previewShapeRevX">
@@ -141,7 +129,6 @@
                         <li class="d-flex align-items-center gap-3 fs-six-up" style="font-weight: 600;"><i
                                 class="ti ti-circle-check s1-color fs-four" style="font-weight: 600;"></i><a href="#question5">How to start
                                     trading forex</a></li>
-
                     </ul>
                     <br>
                 </div>
@@ -154,8 +141,6 @@
         </div>
     </div>
 </section>
-
-
 <section class="provide-world pt-60 position-relative z-0 pb-120">
     <div  class="container">
         <div class="row justify-content-center">
@@ -223,7 +208,6 @@
             </div>
         </div>
 </section>
-
 <section class="provide-world pt-60 position-relative z-0 pb-30">
     <div class="container">
         <div class="row justify-content-center">
@@ -279,11 +263,9 @@
                             caution, discipline, and a sound risk management strategy.</p>
                     </div>
                 </div>
-                
             </div>
         </div>
 </section>
-
 <section class="provide-world pt-60 position-relative z-0 pb-60">
     <div class="container">
         <div class="row justify-content-center">
@@ -321,7 +303,6 @@
             </div>
         </div>
 </section>
-
 <section class="provide-world pt-60 position-relative z-0 pb-60">
     <div class="container">
         <div class="row justify-content-center">
@@ -351,7 +332,6 @@
             </div>
         </div>
 </section>
-
 <section class="provide-world pt-60 position-relative z-0 pb-60 pb-120">
     <div class="container">
         <div class="row justify-content-center">
@@ -372,6 +352,4 @@
             </div>
         </div>
 </section>  
-
- 
 <?php include("includes/footer.php"); ?>

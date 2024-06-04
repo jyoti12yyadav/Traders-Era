@@ -3,18 +3,15 @@
     .pt-120 {
         padding-top: 60px;
     }
-
     .pb-120 {
         padding-top: 60px;
     }
-
     .table-para {
         background-color: #292929;
         padding: 35px !important;
         border: 1px solid #838383;
         margin: 10px 0px;
     }
-
     .table-para-2 {
         background-color: #292929;
         padding: 35px;
@@ -22,7 +19,6 @@
         border-radius: 14px;
         margin: 10px 0px;
     }
-
     tr {
         text-align: center;
     }
@@ -162,7 +158,6 @@
                     </thead>
                     <thead>
                         <tr>
-
                         </tr>
                     </thead>
                     <tbody>
@@ -262,7 +257,6 @@
                     </thead>
                     <thead>
                         <tr>
-
                         </tr>
                     </thead>
                     <tbody>
@@ -306,7 +300,6 @@
                                 Copper</td>
                             <td>USD</td>
                             <td>10000</td>
-
                         </tr>
                         <tr>
                             <td>Gold in EUR</td>

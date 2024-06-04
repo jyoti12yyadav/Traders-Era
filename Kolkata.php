@@ -23,7 +23,6 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <!-- Responsive CSS -->
     <link rel="stylesheet" type="text/css" href="css/responsive.css">
-
     <style>
         @media (max-width:430px) {
             .title {
@@ -31,8 +30,6 @@
             }
         }
     </style>
-
-
 </head>
 <body data-spy="scroll" data-offset="80">
     <!-- loading -->
@@ -74,7 +71,6 @@
                     </div>
                     <div class="col-lg-12 text-center">
                         <div class="iq-countdown">
-
                             <h2 class="text-white">Dive into the World of Binary Options, AI Assistance, and Forex
                                 Trading
                             </h2>

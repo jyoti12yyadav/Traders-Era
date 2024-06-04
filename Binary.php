@@ -11,8 +11,6 @@
         .pt-120 {
             padding-top: 60px !important;
         }
-
-
         .table-para-2 {
         background-color: #292929;
         padding: 35px;
@@ -20,7 +18,6 @@
         border-radius: 14px;
         margin: 10px 0px;
     }
-
 </style>
 <section class="banner-section  pt-2 pb-1">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
@@ -87,7 +84,6 @@
                     <h2 class="mb-4 mb-lg-5" style="font-size:35px;">Understanding the mechanics of binary options
                         trading
                     </h2>
-                 
                 </div>
                 <h5 class="mt-4 mb-lg-5">
                     <!-- Benefits of Web Based Trading Platforms: -->
@@ -193,8 +189,7 @@
                         position at the current market price. In this scenario, your profit or loss will be determined
                         by the difference between your entry and exit prices.</p>
                 </div>
-            </div>
-            
+            </div> 
         </div>
     </div>
 </section>
@@ -249,21 +244,13 @@
             </div>
         </div>
     </div>
-
-    
 </section>
-
-
 <section>
     <div class="container">
     <div class="table-para-2">
-        
          <p>Ready to start trading binary option contracts? Sign up with TradersEra now and create a demo account! Practice with virtual funds to enhance your trading abilities before getting started with real trading.</p>
         </div>
     </div>
 </section>
-
 <br>
-
-
 <?php include("includes/footer.php"); ?>

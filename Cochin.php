@@ -23,7 +23,6 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <!-- Responsive CSS -->
     <link rel="stylesheet" type="text/css" href="css/responsive.css">
-
     <style>
         @media (max-width:430px) {
             .title {
@@ -31,8 +30,6 @@
             }
         }
     </style>
-
-
 </head>
 <body data-spy="scroll" data-offset="80">
     <!-- loading -->
@@ -118,7 +115,6 @@
                         <h2>Forex Trading Features</h2>
                     </div>
                     <br>
-                
                     <ul class="listing-mark iq-mtb-20">
                         <li>
                             <h5>Trade major currency pairs in the largest global market.</h5>
@@ -220,7 +216,6 @@
                     <div class="fancy-box">
                         <div class="heading ">
                             <h4 style="color:black"><B>Simplify Binary Options</B></h4>
-
                         </div>
                         <p>
                         <h5> Predict asset movements within set time frames.
@@ -390,7 +385,6 @@
                 </div>
                 <div class="col-sm-12 ">
                     <div class="heading-title">
-
                     </div>
                 </div>
             </div>
@@ -439,7 +433,6 @@
                             <h5 style="margin-top:15px;"><b>Trade</b></h5>
                             <br>
                             <p>Start a trading journey with binary and spot trading options.</p>
-
                         </div>
                     </div>
                 </div>
@@ -502,7 +495,6 @@
             <div class="container">
                 <div class="row justify-content-md-center">
                     <div class="col-lg-12">
-
                     </div>
                     <div class="col-lg-12 text-center">
                         <div class="iq-countdown">

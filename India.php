@@ -24,7 +24,6 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <!-- Responsive CSS -->
     <link rel="stylesheet" type="text/css" href="css/responsive.css">
-
     <style>
         @media (max-width:430px) {
             .title {
@@ -32,8 +31,6 @@
             }
         }
     </style>
-
-
 </head>
 <body data-spy="scroll" data-offset="80">
     <!-- loading -->
@@ -75,9 +72,7 @@
                     </div>
                     <div class="col-lg-12 text-center">
                         <div class="iq-countdown">
-
                             <h2 class="text-white">Providing Binary Options                                                                         features, AI Assistance, and Forex Trading.</h2>
-
                             <br>
                             <a class="button iq-mt-50" href="https://tradersera.com/prelogin.php" target="_blank"> <svg
                                     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
@@ -407,7 +402,6 @@
                 </div>
                 <div class="col-sm-12 ">
                     <div class="heading-title">
-
                     </div>
                 </div>
             </div>
@@ -648,7 +642,6 @@
             </div>
         </section> -->
     <!-- Our Mission END -->
-
     <!-- About Us -->
     <!-- <section id="product" class="overview-block-pb">
             <div class="container">
@@ -875,7 +868,6 @@
                 </div>
             </div>
         </section> -->
-
     <!-- timeline -->
     <!-- <section class="iq-tranding-Platform overview-block-pb trending-2">
             <div class="container">

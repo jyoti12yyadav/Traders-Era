@@ -23,8 +23,6 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <!-- Responsive CSS -->
     <link rel="stylesheet" type="text/css" href="css/responsive.css">
-
-
     <style>
         @media (max-width:430px) {
             .title {
@@ -32,8 +30,6 @@
             }
         }
     </style>
-
-
 </head>
 <body data-spy="scroll" data-offset="80">
     <!-- loading -->
@@ -77,7 +73,6 @@
 
                             <h2 class="text-white">Ultimate Online Platform for Binary Options, AI Assistance, and Forex
                                 Trading
-
                             </h2>
                             <br><br>
                             <p>Delhi traders,TradersEra, your friendly platform that opens up a world of trading options
@@ -121,7 +116,6 @@
                         <h2>Forex Trading Features</h2>
                     </div>
                     <br>
-                    
                     <ul class="listing-mark iq-mtb-20">
                         <li>
                             <h5>Trade major currency pairs in the largest global market.</h5>
@@ -395,7 +389,6 @@
                 </div>
                 <div class="col-sm-12 ">
                     <div class="heading-title">
-
                     </div>
                 </div>
             </div>
