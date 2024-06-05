@@ -1,11 +1,9 @@
 <?php
 header('Access-Control-Allow-Origin: https://tradersera.com/');
 if(isset($_POST['email'])) {
- 
     // EDIT THE 2 LINES BELOW AS REQUIRED
     $email_to = "support@tradersera.com";
     $email_subject = "TradersEra contact form";
-
     function died($error) {
         echo "We are very sorry, but there were error(s) found with the form you submitted. ";
         echo "These errors appear below.<br /><br />";
@@ -13,7 +11,6 @@ if(isset($_POST['email'])) {
         echo "Please go back and fix these errors.<br /><br />";
         die();
     }
- 
     if(!isset($_POST['fname']) ||
         !isset($_POST['lname']) ||
         !isset($_POST['email']) ||
@@ -22,7 +19,6 @@ if(isset($_POST['email'])) {
         {
         died('We are sorry, but there appears to be a problem with the form you submitted.');       
     }
- 
     $fname = $_POST['fname'];
     $lname = $_POST['lname'];
     $email = $_POST['email'];

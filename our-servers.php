@@ -1,16 +1,12 @@
 <?php include("includes/header.php"); ?>
-
 <style>
-    
 .pb-120 {
     padding-bottom: 60px !important;
 }
 .pt-120 {
     padding-top: 60px !important;
 }
-
 </style>
-
 <section class="banner-section  pt-2 pb-1">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
@@ -27,7 +23,6 @@
         </div>
     </div>
 </section>
-
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="null"
@@ -60,8 +55,6 @@
         </div>
     </div>
 </section>
-
-
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0" style="background-color:#000;">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="null"
@@ -82,7 +75,6 @@
                     <h2 class="mb-4 mb-lg-5" style="font-size: 32px;">
                     Gain quick and reliable entry to international markets
                     </h2>
-                 
                         <p>Get access to the most competitive prices and deepest liquidity for every trade! Thanks to our high trading volume with liquidity providers, we can offer you the best prices available.</p>
                         <br>
                 </div>
@@ -91,8 +83,6 @@
         </div>
     </div>
 </section>
-
-
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="null"
@@ -107,10 +97,8 @@
                     <span class="heading p1-color fs-six mb-5"></span>
                     <h2 class="mb-4 mb-lg-5" style="font-size: 32px;">
                     Get Quicker Trade Execution Today!
-
                     </h2>
                     <p>Gain access to the deepest liquidity pools with our cutting-edge pricing engine for lightning-fast trade execution!</p>
-
                     <p>Experience lightning-fast trade execution with our Equinix data centers. By connecting trading servers globally through fiber optics to Tier 1 liquidity providers, your orders are swiftly sent to the nearest center, ensuring instant execution.</p>
                 </div>
             </div>
@@ -122,8 +110,4 @@
         </div>
     </div>
 </section>
-
-
-
-
 <?php include("includes/footer.php"); ?>

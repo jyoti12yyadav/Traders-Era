@@ -22,7 +22,6 @@
         background-color:#9ad953;
         transition:ease 
     }
-    
     .provide-world__card_1:hover .offers-title-use {
         transition: color 0.3s ease-in-out;
     color: black;
@@ -31,16 +30,12 @@
     border-bottom: 1px solid #353535;
     padding-bottom: 30px;
 }
-
-
 .pb-120 {
     padding-bottom: 60px !important;
 }
 .pt-120 {
     padding-top: 60px !important;
 }
-
-
 </style>
 <section class="banner-section pt-2 pb-1">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
@@ -57,7 +52,6 @@
         </div>
     </div>
 </section>
-
     <section class="company-story position-relative z-0  pt-120 pb-120 " style="background-color: #000;">
         <div class="animation position-absolute w-100 h-100 z-n1">
             <img src="assets/images/star3.png" alt="vector" class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
@@ -97,7 +91,6 @@
             </div>
         </div>
     </section>
-
     <section class="company-story position-relative z-0  pt-120 pb-120 " >
         <div class="animation position-absolute w-100 h-100 z-n1">
             <img src="assets/images/star3.png" alt="vector" class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
@@ -157,15 +150,12 @@
             </div>
         </div>
     </section>
-
     <section class="company-story position-relative z-0  pt-120 pb-120 " style="background-color: #000;">
         <div class="animation position-absolute w-100 h-100 z-n1">
             <img src="assets/images/star3.png" alt="vector" class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
         </div>
         <div class="container">
             <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
-               
-              
                 <div class="col-lg-6 col-xxl-6">
                     <div class="row ms-xl-3 ms-xxl-10">
                         <div class="col-md-6 col-xxl-12">
@@ -188,7 +178,6 @@
             </div>
         </div>
     </section>
-
     <section class="company-story position-relative z-0  pt-120 pb-120 ">
         <div class="animation position-absolute w-100 h-100 z-n1">
             <img src="assets/images/star3.png" alt="vector" class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
@@ -235,7 +224,6 @@
                                     <div class="d-flex "><p>50% bonus we provide</p> <p style="padding-left: 175px;">$200</p></div><hr><br>
                                     <div class="d-flex "><p>Divide your bonus by half</p> <p style="padding-left: 157px;">$200/2</p></div><hr><br>
                                     <div class="d-flex "><h6>Number of lots to trade</h6> <h6 style="padding-left: 140px;">100 lots</h6></div>
-                                    
                                 </div>
                             </div>
                         </div> 
@@ -246,11 +234,9 @@
     </section>
     <section class="privacy-policy  ">
         <div class="container">
-            <div class="row justify-content-center">
-                
+            <div class="row justify-content-center"> 
                 <div class="col-lg-10 col-xxl-10">
                     <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 mb-10 p-lg-15 cus-rounded-2">
-
                         <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
                             <h2 class="text-center">Promotion rules</h2>
                             <ul style="list-style-type: circle;">
@@ -306,7 +292,6 @@
                                 <div dir="ltr" role="presentation" style="text-align: justify;"><span>Octa reserves the right to change, update or cancel this promotion with notification in the </span><a href="#"><span>Company news</span></a><span>.</span></div>
                                 </li>
                                 </ul>
-
                         </div>
                     </div>
                 </div>
