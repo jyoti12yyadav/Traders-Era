@@ -6,7 +6,6 @@
         border: 1px solid #838383;
         margin: 10px 0px;
     }
-
     .table-para-2 {
         background-color: #292929;
         padding: 35px;
@@ -14,15 +13,12 @@
         border-radius: 14px;
         margin: 10px 0px;
     }
-
     tr {
         text-align: center;
     }
-
     .pb-120 {
         padding-bottom: 60px !important;
     }
-
     .pt-120 {
         padding-top: 60px !important;
     }

@@ -23,7 +23,6 @@
         background-color:#9ad953;
         transition:ease 
     }
-    
     .provide-world__card_1:hover .offers-title-use {
         transition: color 0.3s ease-in-out;
     color: black;
@@ -32,16 +31,12 @@
     border-bottom: 1px solid #353535;
     padding-bottom: 30px;
 }
-
-
 .pb-120 {
     padding-bottom: 60px !important;
 }
 .pt-120 {
     padding-top: 60px !important;
 }
-
-
 </style>
 <section class="banner-section pt-2 pb-1">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
@@ -58,7 +53,6 @@
         </div>
     </div>
 </section>
-
     <section class="company-story position-relative z-0  pt-120 pb-120 " >
         <div class="animation position-absolute w-100 h-100 z-n1">
             <img src="assets/images/star3.png" alt="vector" class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
@@ -97,7 +91,6 @@
             </div>
         </div>
     </section>
-
     <section class="company-story position-relative z-0  pt-120 pb-120 " style="background-color: #000;" >
         <div class="animation position-absolute w-100 h-100 z-n1">
             <img src="assets/images/star3.png" alt="vector" class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
@@ -115,10 +108,8 @@
                         </div>  
                     </div>  
                 </div>
-                
                 <div class="col-sm-10 col-lg-6 col-xxl-4 order-2 order-lg-0">
                     <div class="company-story__thumbs offers-content d-center mtn">
-                      
                         <div>
                         <h2>What is cryptocurrency trading and how does it work?</h2>
                         </div>
@@ -128,15 +119,12 @@
                     <div class="company-story__thumbs offers-content d-center">
                         <h4>2</h4>
                         <div>
-                  
                         </div>
                     </div>
                 </div>
-                
             </div>
         </div>
     </section>
-
     <section class="company-story position-relative z-0  pt-120 pb-120 ">
         <div class="animation position-absolute w-100 h-100 z-n1">
             <img src="assets/images/star3.png" alt="vector" class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
@@ -148,7 +136,6 @@
                     <div class="company-story__thumbs offers-content offers-content3  d-center">
                         <h4>3</h4>
                         <div>
-                  
                         </div>
                     </div>
                 </div>
@@ -163,7 +150,6 @@
                         </div> 
                     </div>  
                 </div>
-               
             </div>
         </div>
     </section>

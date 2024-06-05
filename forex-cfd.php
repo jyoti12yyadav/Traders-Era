@@ -1,14 +1,11 @@
 <?php include("includes/header.php"); ?>
-
 <style>
     .main-table {
         display: flex;
     }
-
     .table-content {
         display: flex;
     }
-
     .sub-table-content {
         width: 100%;
         padding: 20px 50px;
@@ -19,7 +16,6 @@
         align-items: center;
         font-size: 20px;
     }
-
     .table-content2>.sub-table-content {
         background-color: #9ad953;
         border: 1px solid black;
@@ -28,7 +24,6 @@
         font-weight: 700;
         border-radius: 10px 10px 0px 0px;
     }
-
     .sub-table-content>span {
         display: flex;
         text-align: center;
@@ -38,34 +33,27 @@
         font-weight: 700;
         padding-bottom: 4px;
     }
-
     .sub-table-content>h4 {
         color: #000000;
     }
-
     .cus-rounded-3 {
         border-radius: 0px 0px 10px 10px;
     }
-
     .packages {
         background: #9ad953;
         padding: 25px;
         border-radius: 10px 10px 0px 0px;
     }
-
     .packages>h4 {
         color: #000000;
         text-align: center;
     }
-
     .package-para {
         font-size: 20px;
     }
-
     .pb-120 {
         padding-bottom: 60px !important;
     }
-
     .pt-120 {
         padding-top: 60px !important;
     }
@@ -85,10 +73,6 @@
         </div>
     </div>
 </section>
-
-
-
-
 <section class="faq pb-120 pt-120 position-relative z-0">
     <div class="animation position-absolute top-0 center-0 w-100 h-100 z-n1">
         <img src="assets/images/button.png" alt="vector"
@@ -131,7 +115,6 @@
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
                                     How can I start a contract that is Up/Down?
-
                                 </button>
                             </h3>
                             <div class="content-area">
@@ -165,13 +148,10 @@
                                         When you trade using the Allows Equals criterion, you're assuming that the entry
                                         and exit prices of the
                                         contract will be equal.
-
                                         Higher/Lower contracts: these involve setting a barrier before contract opening
                                         and speculating on the market
                                         as to whether the price of the underlying asset will finish up above or below
                                         the predefined barrier.
-
-
                                     </p>
                                 </div>
                             </div>
@@ -182,7 +162,6 @@
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
                                     Is it possible to close a position before it expires?
-
                                 </button>
                             </h3>
                             <div class="content-area">
@@ -203,7 +182,6 @@
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
                                     Can I choose the Rise/Fall and Higher/Lower transactions' duration or expiration time?
-
                                 </button>
                             </h3>
                             <div class="content-area">
@@ -216,15 +194,12 @@
                                 </div>
                             </div>
                         </div>
-
                         <div class="accordion-single cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
                             <h3 class="header-area">
                                 <button
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
                                     Can I enter more than one Up/Down contract at once?
-
-
                                 </button>
                             </h3>
                             <div class="content-area">
@@ -236,47 +211,34 @@
                                         regulations and restrictions on the number of contracts you can enter at once. 
                                         ome might limit how many contracts you can sign, while others might have other 
                                         particular requirements that might provide you more flexibility.
-                                        
                                     </p>
                                 </div>
                             </div>
                         </div>
-
-
                         <div class="accordion-single cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
                             <h3 class="header-area">
                                 <button
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
                                     How can I determine how much money I might make on a higher/lower or rise/fall trade?
-
-
                                 </button>
                             </h3>
                             <div class="content-area">
                                 <div class="content-body pt-5">
                                     <p>If your market predictions are correct and the trade's specifics are known, the possible reward is fixed.
                                         Potential rewards for Rise/Fall contracts typically fall between 85% and 95% of your stake.
-                                        
                                         Potential payments for Higher/Lower contracts might vary according to where the barrier is set, from 1% to 3,900% of your bet.
                                         Before you enter the transaction, the possible payment and possible loss (your initial stake) will be shown to you in plain sight.
-                                        
-                                        
                                     </p>
                                 </div>
                             </div>
                         </div>
-
-
                         <div class="accordion-single cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
                             <h3 class="header-area">
                                 <button
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
                                     What distinguishes Higher/Lower contracts from Rise/Fall contracts?
-
-
-
                                 </button>
                             </h3>
                             <div class="content-area">
@@ -289,76 +251,50 @@
                                 </div>
                             </div>
                         </div>
-
-
                         <div class="accordion-single cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
                             <h3 class="header-area">
                                 <button
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
                                     Do Higher/Lower contracts and High/Low Ticks have the same meaning?
-
-
-
-
                                 </button>
                             </h3>
                             <div class="content-area">
                                 <div class="content-body pt-5">
                                     <p>They are not the same, sorry.
-
                                         Trading a Higher/Lower contract entails making predictions about the long-term price movement of the underlying asset.
-                                        
                                         You forecast which tick in a 5-tick contract will be the highest when you trade High/Low Ticks.
-                                        
                                     </p>
                                 </div>
                             </div>
                         </div>
-
-
-
-
                         <div class="accordion-single cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
                             <h3 class="header-area">
                                 <button
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
                                     How can I predict price movement in a trade that is either higher or lower or rise/fall?
-
                                 </button>
                             </h3>
                             <div class="content-area">
                                 <div class="content-body pt-5">
                                     <p>To ascertain the probability of prices increasing or decreasing within a specified timeframe, 
                                         traders generally examine the underlying market and pricing patterns.
-
                                         There are several things to take into account when looking for trends, such as:
                                         - Late price fluctuations and market turbulence
-                                        
                                         Economic events and news;
                                         - Trends identified through the use of technical indicators.
-                                        
-                                        
                                     </p>
                                 </div>
                             </div>
                         </div>
-
-
-                        
                     </div>
                 </div>
             </div>
-
         </div>
     </div>
 </section>
-
-
 </div>
 </div>
 </section>
-
-
 <?php include("includes/footer.php"); ?>
