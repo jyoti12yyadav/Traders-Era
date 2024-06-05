@@ -138,8 +138,8 @@
                             <h5>Access currencies, gold, oil, and indices for diverse trading.</h5>
                         </li>
                         <li>
-                            <h5>Engage in the world's largest market with major currency pairs.</h5>
-                        </li>
+                            <h5></h5>
+                        </li>Engage in the world's largest market with major currency pairs.
                         <li>
                             <h5>Benefit from high liquidity and diverse asset trading</h5>
                         </li>
