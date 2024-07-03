@@ -5,10 +5,6 @@
         width: 100.666667%;
     }
 
-    .social-area {
-        margin-left: -65px;
-    }
-
     .trad img {
         height: 70px;
     }
@@ -53,7 +49,7 @@
                         range of tools you'll have all the support
                         to make informed decisions and maximize your profits. </p>
                     <br>
-                    <ul class="social-area d-center gap-2 gap-md-3" style="margin-left:-20px">
+                    <ul class="social-area d-center gap-2 gap-md-3">
                         <li>
                             <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-facebook"></i></a>
                         </li>
@@ -78,6 +74,7 @@
                     <img style="height:50px; " src="assets/images/icon/tradingview white logo.png" alt="">
                 </div>
             </div>
+
             <div class="col-6 col-lg-2">
                 <div class="footer__part">
                     <h4 class="mb-6 mb-lg-8">Trading</h4>
@@ -250,7 +247,7 @@
                             <ul class="social-area d-center gap-2 gap-md-3">
                                 <li><img style=" border-radius:17px;  height:35px;" src="assets/images/_app store.png">
                                 </li>
-                                <li><img style=" border-radius:17px;  height:35px;"
+                                <li><img style=" border-radius:17px;  height:50px;"
                                         src="assets/images/_google play store.png"></li>
                                 <li><img style=" border-radius:17px;  height:35px;"
                                         src="assets/images/_download APK.png"></li>

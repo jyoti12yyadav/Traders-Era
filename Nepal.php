@@ -23,7 +23,6 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <!-- Responsive CSS -->
     <link rel="stylesheet" type="text/css" href="css/responsive.css">
-
     <style>
         @media (max-width:430px) {
             .title {
@@ -31,8 +30,6 @@
             }
         }
     </style>
-
-
 </head>
 <body data-spy="scroll" data-offset="80">
     <!-- loading -->
@@ -67,16 +64,13 @@
                             <br>
                             <br>
                             <h1 class="text-white iq-tw-7 iq-mb-17">Best Trading Platform For
-
                                 <b class="iq-font-yellow">Low-Cost Deposits In Nepal</b>
                             </h1>
                         </div>
                     </div>
                     <div class="col-lg-12 text-center">
                         <div class="iq-countdown">
-
                             <h2 class="text-white">Get Access to a Range of Trading Options with Just a Minimum Deposit
-
                             </h2>
                             <br>
                             <h5>Get Access to a Range of Trading Options with Just a Minimum Deposit!</h5>
@@ -227,7 +221,6 @@
                     <div class="fancy-box">
                         <div class="heading ">
                             <h4 style="color:black"> <b>Simplify Binary Options</b></h4>
-
                         </div>
                         <p>
                         <h5> Easily predict asset movements within set time frames, simplifying the trading process.

@@ -23,7 +23,6 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <!-- Responsive CSS -->
     <link rel="stylesheet" type="text/css" href="css/responsive.css">
-
     <style>
         @media (max-width:430px) {
             .title {
@@ -31,8 +30,6 @@
             }
         }
     </style>
-
-
 </head>
 <body data-spy="scroll" data-offset="80">
     <!-- loading -->
@@ -73,7 +70,6 @@
                     </div>
                     <div class="col-lg-12 text-center">
                         <div class="iq-countdown">
-
                             <h2 class="text-white">Unleash Your Trading Potential with Our All-in-One Online Platform!
                             </h2>
                             <br><br>
@@ -138,8 +134,8 @@
                             <h5>Access currencies, gold, oil, and indices for diverse trading.</h5>
                         </li>
                         <li>
-                            <h5>Engage in the world's largest market with major currency pairs.</h5>
-                        </li>
+                            <h5></h5>
+                        </li>Engage in the world's largest market with major currency pairs.
                         <li>
                             <h5>Benefit from high liquidity and diverse asset trading</h5>
                         </li>
@@ -365,10 +361,6 @@
         </div>
     </div>
 </section>
-
-
-
-
     <section id="account" class="iq-tranding-Platform overview-block-pb trending-2 iq-ptb-100">
         <div class="container">
             <div class="row">
@@ -468,7 +460,6 @@
                 </a>
             </div>
         </div>
-
     </section>
     <!-- About Us -->
     <!-- Our Mission -->
@@ -700,6 +691,5 @@
     <!-- countdown javascript -->
     <script src="js/countdown.js"></script>
 </body>
-
 <!-- Mirrored from templates.iqonic.design/coinex-dist/theme/ico/index-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 20 Apr 2024 07:57:20 GMT -->
 </html>

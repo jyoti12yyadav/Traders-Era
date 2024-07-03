@@ -20,38 +20,32 @@
         margin: 0 auto;
         max-width: auto;
     }
-
     .slide_viewer {
         height: 760px;
         overflow: hidden;
         position: relative;
         margin-top: -45px;
     }
-
     .slide_group {
         height: 100%;
         position: relative;
         width: 100%;
     }
-
     .slide {
         display: none;
         height: 100%;
         position: absolute;
         width: 100%;
     }
-
     .slide:first-child {
         display: block;
     }
-
     .slide_buttons {
         left: 0;
         position: absolute;
         right: 0;
         text-align: center;
     }
-
     a.slide_btn {
         color: #474544;
         font-size: 42px;
@@ -62,13 +56,11 @@
         -o-transition: all 0.4s ease-in-out;
         transition: all 0.4s ease-in-out;
     }
-
     .slide_btn.active,
     .slide_btn:hover {
         color: #428CC6;
         cursor: pointer;
     }
-
     .directional_nav {
         height: 0px;
         margin: 0 auto;
@@ -76,7 +68,6 @@
         position: relative;
         top: -340px;
     }
-
     .previous_btn {
         bottom: 0;
         left: 100px;
@@ -84,7 +75,6 @@
         position: absolute;
         top: 0;
     }
-
     .next_btn {
         bottom: 0;
         margin: auto;
@@ -92,7 +82,6 @@
         right: 100px;
         top: 0;
     }
-
     .previous_btn,
     .next_btn {
         cursor: pointer;
@@ -105,72 +94,58 @@
         transition: opacity 0.4s ease-in-out;
         width: 65px;
     }
-
     .previous_btn:hover,
     .next_btn:hover {
         opacity: 1;
     }
-
     @media only screen and (max-width: 767px) {
         .previous_btn {
             left: 50px;
         }
-
         .next_btn {
             right: 50px;
         }
     }
-
     .fs-three,
     h3,
     h3>a {
         font-size: 22px;
     }
-
     .company-story__part {
         border: solid 1px white;
         padding: 30px;
         border-radius: 19px;
     }
-
     .p1-xxl-bg2 {
         background-color: #f5c06d;
     }
-
     /* > Process Styles */
     .process-wrap {
         width: 55%;
         margin: 100px auto;
         margin-left: -50px
     }
-
     .process-main {
         width: 100%;
         min-width: 320px;
         display: flex;
     }
-
     .col-3 {
         width: 50%;
         position: relative;
     }
-
     .col-3:first-child .process-step:before {
         content: '1';
     }
-
     .col-3:nth-child(2) .process-step:before {
         content: '2';
     }
-
     .col-3:nth-child(3) .process-step:before {
         content: '3';
     }
-
     .col-3:last-child .process-step:before {
         content: '4';
     }
-
     .process-main .col-3:not(:first-child):before {
         content: "";
         display: block;
@@ -188,7 +163,6 @@
         -webkit-transition: .8s;
         transition: .8s;
     }
-
     .process-step-cont {
         font-family: sans-serif;
         font-size: 16px;
@@ -201,7 +175,6 @@
         justify-content: center;
         align-content: space-between;
     }
-
     .process-step {
         border: 5px #ebebeb solid;
         border-radius: 100%;
@@ -220,14 +193,12 @@
         z-index: 4;
         cursor: pointer;
     }
-
     .process-label {
         color: #959595;
         font-weight: 600;
         width: 100%;
         text-align: center;
     }
-
     .process-dots {
         width: 10px;
         height: 10px;
@@ -235,7 +206,6 @@
         background-color: #ebebeb;
         cursor: pointer;
     }
-
     .process-dot-cont {
         display: flex;
         justify-content: space-around;
@@ -243,7 +213,6 @@
         width: 60%;
         padding-top: 5px;
     }
-
     .active-step1 .col-3:first-child .process-step,
     .active-step1 .col-3:first-child .process-dots:first-child,
     .active-step1-mini2 .col-3:first-child .process-step,
@@ -254,34 +223,29 @@
     .active-step1-mini4 .col-3:first-child .process-dots:nth-child(-n+4) {
         background-color: #f89828;
     }
-
     .active-step1-mini2 .col-3:first-child .process-dots:first-child,
     .active-step1-mini3 .col-3:first-child .process-dots:nth-child(-n+2),
     .active-step1-mini4 .col-3:first-child .process-dots:nth-child(-n+3) {
         background-color: #fbcb93;
     }
-
     .active-step1 .col-3:first-child .process-label,
     .active-step1-mini3 .col-3:first-child .process-label,
     .active-step1-mini2 .col-3:first-child .process-label,
     .active-step1-mini4 .col-3:first-child .process-label {
         color: #f89828;
     }
-
     .active-step2 .col-3:first-child,
     .active-step3 .col-3:nth-child(-n+2),
     .active-step4 .col-3:nth-child(-n+3) {
         opacity: 0.5;
         /*pointer-events: none;*/
     }
-
     .active-step2 .col-3:first-child .process-step:before,
     .active-step3 .col-3:nth-child(-n+2) .process-step:before,
     .active-step4 .col-3:nth-child(-n+3) .process-step:before {
         content: '\2713';
         padding: 7px;
     }
-
     .active-step2 .col-3:nth-child(-n+2) .process-step,
     .active-step2 .col-3:nth-child(-n+2) .process-dots,
     .active-step3 .col-3:nth-child(-n+3) .process-step,
@@ -290,35 +254,29 @@
     .active-step4 .col-3:nth-child(-n+4) .process-dots {
         background-color: #f89828;
     }
-
     .active-step2 .col-3:nth-child(-n+2) .process-label,
     .active-step3 .col-3:nth-child(-n+3) .process-label,
     .active-step4 .col-3:nth-child(-n+4) .process-label {
         color: #f89828;
     }
-
     .active-step2 .col-3:nth-child(-n+2):before,
     .active-step3 .col-3:nth-child(-n+3):before,
     .active-step4 .col-3:nth-child(-n+4):before {
         background: #f89828 !important;
     }
-
     @media screen and (max-width: 640px) {
         .process-main {
             flex-wrap: wrap;
         }
-
         .col-3 {
             width: 50%;
         }
-
         .process-main .col-3:nth-of-type(3):not(:first-child):before {
             top: -19.5px;
             left: calc(-50% + 145px);
             transform: rotate(150deg);
         }
     }
-
     .our-clients .container {
         width: 100%;
         height: 35%;
@@ -326,14 +284,12 @@
         align-items: center;
         overflow: hidden;
     }
-
     .our-clients .container ul {
         display: flex;
         flex-wrap: nowrap;
         width: 100%;
         transition: 0.3s;
     }
-
     .our-clients .container ul li {
         list-style: none;
         width: 40%;
@@ -343,7 +299,6 @@
         padding: 0 8px;
         margin-top: 25px;
     }
-
     .our-clients .container ul li p {
         background: #58585a;
         text-align: center;
@@ -351,11 +306,9 @@
         line-height: 100px;
         border-radius: 8px;
     }
-
     .our-clients {
         margin-top: 10px;
     }
-
     .get-started::after {
         position: relative;
         content: "\2192";
@@ -366,30 +319,24 @@
         left: 80px;
         color: #9ad953;
     }
-
     .nice-select:focus,
     .nice-select:hover {
         background-color: transparent;
         box-shadow: none;
     }
-
     .nice-select .list {
         background-color: #000;
     }
-
     .pb-120 {
         padding-bottom: 60px !important;
     }
-
     .pt-120 {
         padding-top: 60px !important;
     }
-
     .nice-select {
         background-color: black;
         padding: 6px 10px;
     }
-
     .nice-select:focus,
     .nice-select:hover {
         background-color: black;
@@ -527,10 +474,6 @@
     </div>
 </section>
 <br><br>
-
-
-
-
 <!-- <div class="row justify-content-center">
     <div class="col-lg-12 col-xxl-10">
         <div class="heading__content mb-10 mb-lg-15 text-center">
@@ -745,7 +688,6 @@
                                 <div class="single-input">
                                     <label for="introducing-broker"><b>Are you an Introducing Broker with any other
                                             brokers?</b></label>
-
                                     <select id="introducing-broker" name="introducing-broker" class="mt-4">
                                         <option value="yes">Yes</option>
                                         <option value="no">No</option>
@@ -772,7 +714,6 @@
                                 <div class="single-input">
                                     <br>
                                     <label for="monthly-traders"><b>Which countries will most of your clients come from?
-
                                         </b></label>
                                     <select id="monthly-traders" name="countries" class="mt-4">
                                         <option value="Afghanistan">Afghanistan</option>
@@ -989,7 +930,6 @@
                                 </div>
                             </div>
                         </div>
-
                         <div class="row gap-3 gap-sm-0 ">
                             <div class="col-sm-12">
                                 <div class="single-input">
@@ -1027,7 +967,5 @@
         </div>
     </div>
 </section>
-
 <br><br><br>
-
 <?php include("includes/footer.php"); ?>

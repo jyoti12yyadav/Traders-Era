@@ -23,7 +23,6 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <!-- Responsive CSS -->
     <link rel="stylesheet" type="text/css" href="css/responsive.css">
-
     <style>
         @media (max-width:430px) {
             .title {
@@ -31,8 +30,6 @@
             }
         }
     </style>
-
-
 </head>
 <body data-spy="scroll" data-offset="80">
     <!-- loading -->
@@ -73,13 +70,10 @@
                     </div>
                     <div class="col-lg-12 text-center">
                         <div class="iq-countdown">
-
                             <h2 class="text-white">Diverse Forex Trading Options and Seamless Support
-
                             </h2>
                             <br>
                             <h5>Maximize Investments with Our All-in-One Online Trading Platform for Binary Options, AI Assistance, and Forex Trading
-
                             </h5>
                             <br>
                             <a class="button iq-mt-50" href="https://tradersera.com/prelogin.php" target="_blank"> <svg
@@ -123,7 +117,6 @@
                     <ul class="listing-mark iq-mtb-20">
                         <li>
                             <h5><b>Trade Major Currency Pairs : </b>  Engage in global markets with major currency pairs, including the Burmese kyat.
-
                             </h5>
                         </li>
                         <li>

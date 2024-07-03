@@ -1,5 +1,4 @@
 <?php include("includes/header.php"); ?>
-
 <style>
     .table-para {
         background-color: #292929;
@@ -8,11 +7,9 @@
         border-radius: 14px;
         margin: 10px 0px;
     }
-
     tr {
         text-align: center;
     }
-
     .idverify {
         font-weight: 700;
         color:white;
@@ -23,10 +20,8 @@
     border-radius: 19px;
 }
 .alt_form select{
-    border-bottom:rgb(52 56 57);
-    
+    border-bottom:rgb(52 56 57); 
 }
-
 .single-input{
     margin-top: 27px !important;
     border-bottom: 2px solid #3a3939;
@@ -43,17 +38,13 @@
 .nice-select .list{
     background-color:#000;
 }
-
-
 .pb-120 {
     padding-bottom: 60px !important;
 }
 .pt-120 {
     padding-top: 60px !important;
 }
-
 </style>
-
 <section class="banner-section  pt-2 pb-1">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
@@ -69,8 +60,6 @@
         </div>
     </div>
 </section>
-
-
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="null"
@@ -78,15 +67,10 @@
     </div>
     <div class="container">
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
-
-
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
                     <h2 class="mb-4 mb-lg-5" style="font-size:35px;">KYC Checks</h2>
                 </div>
-
-
-
                 <ul class="d-flex gap-4 flex-column mt-6">
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>Verify the identity of customers through
@@ -115,17 +99,14 @@
                         background checks, or seeking approval from senior management.
                     </li>
                 </ul>
-
             </div>
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
                     <img src="assets/images/KYC checks.png" alt="Forex KYC Checks ">
                 </div>
             </div>
-
         </div>
 </section>
-
 <section class="company-story position-relative z-0  pt-120 pb-120 ">
     <div class="animation position-absolute w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="null"
@@ -174,13 +155,6 @@
         </div>
     </div>
 </section>
-
-
-
-
-
-
-
 <section class="provide-world a2-bg pt-120 pb-120  position-relative z-0">
     <div class="container">
         <div class="row justify-content-center">
@@ -209,7 +183,6 @@
                     <p> Authentic Proof of Age card.</p>
                     <br>
                     <br>
-
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
@@ -222,7 +195,6 @@
                     <hr>
                     <p> Statement from a bank or credit card </p>
                     <hr>
-
                     <p>Tax Document Issued by the Government
                     </p>
                 </div>
@@ -232,8 +204,6 @@
         </div>
     </div>
 </section>
-
-
 <section class="provide-world  pt-120 pb-120  position-relative z-0">
     <div class="container">
         <div class="row justify-content-center">
@@ -270,7 +240,6 @@
                    <br>
                    <p>Our smart system utilizes OCR technology to automatically extract data from the document.</p>
                    <br>
-                   
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
@@ -318,19 +287,16 @@
                         <p>Embrace the future of digital identity verification by taking the next step. Our Address Verification integration offers more than just technology - it promises excellence, efficiency, and top-notch security. </p>
                     </div>
                 </div>
-           
             </div>
         </div>
     </div>
 </div>
 </section>
-
         <section class="provide-world  pt-120 pb-120  position-relative z-0">
             <div class="container">
                 <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
         <div class="container text-center pt-10 pb-120">
             <h2>Our Address Verification integration ensures</h2>
-
         </div>
         <div class="col-xxl-4 mt-4">
             <div class="company-story__part">
@@ -339,7 +305,6 @@
                         <div class="row text-center">
                             <h3 class="text-center">Instant sync</h3>
                         </div>
-
                     </div>
                 </div>
             </div>
@@ -352,7 +317,6 @@
                         <div class="row">
                             <h3 class="">High security</h3>
                         </div>
-
                     </div>
                 </div>
             </div>
@@ -364,7 +328,6 @@
                         <div class="row">
                             <h3 class="">Trusted support team</h3>
                         </div>
-
                     </div>
                 </div>
             </div>
@@ -377,7 +340,6 @@
                         <div class="row">
                             <h3 class="">Easily integrate with systems</h3>
                         </div>
-
                     </div>
                 </div>
             </div>
@@ -390,7 +352,6 @@
                         <div class="row">
                             <h3 class="">Compatible on all platforms</h3>
                         </div>
-
                     </div>
                 </div>
             </div>
@@ -398,5 +359,4 @@
     </div>
 </div>
 </section>
-
 <?php include("includes/footer.php"); ?>

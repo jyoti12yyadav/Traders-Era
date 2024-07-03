@@ -23,7 +23,6 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <!-- Responsive CSS -->
     <link rel="stylesheet" type="text/css" href="css/responsive.css">
-
     <style>
         @media (max-width:430px) {
             .title {
@@ -31,8 +30,6 @@
             }
         }
     </style>
-
-
 </head>
 <body data-spy="scroll" data-offset="80">
     <!-- loading -->
@@ -114,7 +111,6 @@
                         <h2>Forex Trading Features</h2>
                     </div>
                     <br>
-                   
                     <ul class="listing-mark iq-mtb-20">
                         <li>
                             <h5>Trade major currency pairs in the largest global market.</h5>
@@ -151,7 +147,6 @@
                 </div>
             </div>
         </div>
-
     </section>
     <!-- What is OVEX END -->
     <section id="benefit" class="iq-Tranding-platform light-bg ">
@@ -196,7 +191,6 @@
                 </div>
                 <div class="col-sm-12 iq-mt-30">
                     <div class="heading-title">
-
                     </div>
                 </div>
             </div>
@@ -387,7 +381,6 @@
                 </div>
                 <div class="col-sm-12 ">
                     <div class="heading-title">
-
                     </div>
                 </div>
             </div>

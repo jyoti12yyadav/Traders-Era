@@ -1,16 +1,12 @@
 <?php include("includes/header.php"); ?>
- 
 <style>
-    
 .pb-120 {
     padding-bottom: 60px !important;
 }
 .pt-120 {
     padding-top: 60px !important;
 }
-
 </style>
-
 <section class="banner-section  pt-2 pb-1">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
@@ -22,14 +18,10 @@
                         <li class="breadcrumb-item ms-2 ps-7 active" aria-current="page"><span>Help Center</span></li>
                     </ol>
                 </nav>
-                
             </div>
         </div>
     </div>
 </section>
-
-
-
 <section class="market-details pt-120 pb-120 position-relative z-0">
     <div class="container">
         <div class="row justify-content-center">
@@ -54,7 +46,6 @@
                                 articles. Whether you have questions about account registration, deposit and withdrawal
                                 procedures, trading strategies, or technical issues, our knowledge base is here to help.
                             </p>
-
                             <h5 class="mb-4">Contact Our Support Team:
                             </h5>
                             <p class="mt-4 mb-5">If you can't find the answers you're looking for in our knowledge base,
@@ -63,14 +54,12 @@
                                 personalized assistance to address your inquiries and resolve any issues you may
                                 encounter.
                             </p>
-
                             <h5 class="mb-4">Stay Informed:</h5>
                             <p class="mt-4 mb-5">Stay up-to-date with the latest news, updates, and announcements from
                                 TradersEra by subscribing to our newsletter and following us on social media. We'll keep
                                 you informed about platform enhancements, new features, market insights, and educational
                                 resources to help you stay ahead of the curve in your trading journey.
                             </p>
-
                             <h5 class="mb-4">Submit Feedback:
                             </h5>
                             <p class="mt-4 mb-5"> Your feedback is invaluable to us as we strive to continually improve
@@ -79,15 +68,11 @@
                                 with TradersEra , we welcome your input and encourage you to share your thoughts with
                                 us.
                             </p>
-
                             <p class="mt-4 mb-5">At TradersEra, our commitment to customer satisfaction is unwavering.
                                 We're here to support you, guide you, and empower you to achieve your financial goals.
                                 Explore our Help Center, reach out to our support team, and let us be your trusted
                                 partner in the world of online trading.
-
                             </p>
-
-
                         </div>
                     </div>
                 </div>
@@ -95,5 +80,4 @@
         </div>
     </div>
 </section>
-
 <?php include("includes/footer.php"); ?>

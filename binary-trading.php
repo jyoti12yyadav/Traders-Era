@@ -137,7 +137,6 @@
                     </span>
                     <!-- <h3 class="mt-5 mb-5">Verify</h3> -->
                     <h3 style="margin-top: 10px;">Reward Yourself for Referrals</h3><br>
-
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
@@ -166,7 +165,6 @@
             <div class="col-lg-8 col-xxl-7">
                 <div class="heading__content  text-center">
                     <h2 style="letter-spacing: 2px;">Benefits
-
                     </h2>
                 </div>
             </div>
@@ -415,7 +413,6 @@
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
                                     How can I get my revenue from referrals?
-
                                 </button>
                             </h3>
                             <div class="content-area">
@@ -425,7 +422,6 @@
                                         Simply navigate to your account's "Invite a Friend" area to view your profits,
                                         which you may transfer to your trading
                                         balance whenever you'd like.
-
                                     </p>
                                 </div>
                             </div>
@@ -436,7 +432,6 @@
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
                                     With our referral program, is it possible to earn a bigger percentage?
-
                                 </button>
                             </h3>
                             <div class="content-area">

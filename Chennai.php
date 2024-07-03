@@ -23,7 +23,6 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <!-- Responsive CSS -->
     <link rel="stylesheet" type="text/css" href="css/responsive.css">
-    
     <style>
         @media (max-width:430px) {
             .title {
@@ -31,8 +30,6 @@
             }
         }
     </style>
-
-
 </head>
 <body data-spy="scroll" data-offset="80">
     <!-- loading -->
@@ -115,7 +112,6 @@
                         <h2>Forex Trading Features</h2>
                     </div>
                     <br>
-                
                     <ul class="listing-mark iq-mtb-20">
                         <li>
                             <h5>Trade major currency pairs in the largest global market.</h5>
@@ -378,7 +374,6 @@
                         <li><b>Low spreads :</b> spreads as low as 0.4 pips consistently.</li>
                         <li><b>No commission :</b> Trade with no commission fees, starting from $0 per lot on VIP or
                             spread-only accounts.</li>
-
                         <li>Low starting amount: Begin trading with just $10 for accessibility.</li>
                         <li><b>High leverage:</b> Maximize potential with up to 1:1000 leverage.</li>
                         <li>Fast order execution: Execute trades within milliseconds to minimize slippage.</li>

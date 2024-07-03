@@ -5,38 +5,32 @@
         margin: 0 auto;
         max-width: auto;
     }
-
     .slide_viewer {
         height: 760px;
         overflow: hidden;
         position: relative;
         margin-top: -45px;
     }
-
     .slide_group {
         height: 100%;
         position: relative;
         width: 100%;
     }
-
     .slide {
         display: none;
         height: 100%;
         position: absolute;
         width: 100%;
     }
-
     .slide:first-child {
         display: block;
     }
-
     .slide_buttons {
         left: 0;
         position: absolute;
         right: 0;
         text-align: center;
     }
-
     a.slide_btn {
         color: #474544;
         font-size: 42px;
@@ -47,13 +41,11 @@
         -o-transition: all 0.4s ease-in-out;
         transition: all 0.4s ease-in-out;
     }
-
     .slide_btn.active,
     .slide_btn:hover {
         color: #428CC6;
         cursor: pointer;
     }
-
     .directional_nav {
         height: 0px;
         margin: 0 auto;
@@ -61,7 +53,6 @@
         position: relative;
         top: -340px;
     }
-
     .previous_btn {
         bottom: 0;
         left: 100px;
@@ -69,7 +60,6 @@
         position: absolute;
         top: 0;
     }
-
     .next_btn {
         bottom: 0;
         margin: auto;
@@ -77,7 +67,6 @@
         right: 100px;
         top: 0;
     }
-
     .previous_btn,
     .next_btn {
         cursor: pointer;
@@ -90,73 +79,58 @@
         transition: opacity 0.4s ease-in-out;
         width: 65px;
     }
-
     .previous_btn:hover,
     .next_btn:hover {
         opacity: 1;
     }
-
     @media only screen and (max-width: 767px) {
         .previous_btn {
             left: 50px;
         }
-
         .next_btn {
             right: 50px;
         }
     }
-
     .fs-three,
     h3,
     h3>a {
         font-size: 22px;
     }
-
     .company-story__part {
         border: solid 1px white;
         padding: 30px;
         border-radius: 19px;
     }
-
     .p1-xxl-bg2 {
         background-color: #f5c06d;
     }
-
-
     /* > Process Styles */
     .process-wrap {
         width: 55%;
         margin: 100px auto;
         margin-left: -50px
     }
-
     .process-main {
         width: 100%;
         min-width: 320px;
         display: flex;
     }
-
     .col-3 {
         width: 50%;
         position: relative;
     }
-
     .col-3:first-child .process-step:before {
         content: '1';
     }
-
     .col-3:nth-child(2) .process-step:before {
         content: '2';
     }
-
     .col-3:nth-child(3) .process-step:before {
         content: '3';
     }
-
     .col-3:last-child .process-step:before {
         content: '4';
     }
-
     .process-main .col-3:not(:first-child):before {
         content: "";
         display: block;
@@ -174,7 +148,6 @@
         -webkit-transition: .8s;
         transition: .8s;
     }
-
     .process-step-cont {
         font-family: sans-serif;
         font-size: 16px;
@@ -187,7 +160,6 @@
         justify-content: center;
         align-content: space-between;
     }
-
     .process-step {
         border: 5px #ebebeb solid;
         border-radius: 100%;
@@ -206,14 +178,12 @@
         z-index: 4;
         cursor: pointer;
     }
-
     .process-label {
         color: #959595;
         font-weight: 600;
         width: 100%;
         text-align: center;
     }
-
     .process-dots {
         width: 10px;
         height: 10px;
@@ -221,7 +191,6 @@
         background-color: #ebebeb;
         cursor: pointer;
     }
-
     .process-dot-cont {
         display: flex;
         justify-content: space-around;
@@ -229,7 +198,6 @@
         width: 60%;
         padding-top: 5px;
     }
-
     .active-step1 .col-3:first-child .process-step,
     .active-step1 .col-3:first-child .process-dots:first-child,
     .active-step1-mini2 .col-3:first-child .process-step,
@@ -240,34 +208,29 @@
     .active-step1-mini4 .col-3:first-child .process-dots:nth-child(-n+4) {
         background-color: #f89828;
     }
-
     .active-step1-mini2 .col-3:first-child .process-dots:first-child,
     .active-step1-mini3 .col-3:first-child .process-dots:nth-child(-n+2),
     .active-step1-mini4 .col-3:first-child .process-dots:nth-child(-n+3) {
         background-color: #fbcb93;
     }
-
     .active-step1 .col-3:first-child .process-label,
     .active-step1-mini3 .col-3:first-child .process-label,
     .active-step1-mini2 .col-3:first-child .process-label,
     .active-step1-mini4 .col-3:first-child .process-label {
         color: #f89828;
     }
-
     .active-step2 .col-3:first-child,
     .active-step3 .col-3:nth-child(-n+2),
     .active-step4 .col-3:nth-child(-n+3) {
         opacity: 0.5;
         /*pointer-events: none;*/
     }
-
     .active-step2 .col-3:first-child .process-step:before,
     .active-step3 .col-3:nth-child(-n+2) .process-step:before,
     .active-step4 .col-3:nth-child(-n+3) .process-step:before {
         content: '\2713';
         padding: 7px;
     }
-
     .active-step2 .col-3:nth-child(-n+2) .process-step,
     .active-step2 .col-3:nth-child(-n+2) .process-dots,
     .active-step3 .col-3:nth-child(-n+3) .process-step,
@@ -276,13 +239,11 @@
     .active-step4 .col-3:nth-child(-n+4) .process-dots {
         background-color: #f89828;
     }
-
     .active-step2 .col-3:nth-child(-n+2) .process-label,
     .active-step3 .col-3:nth-child(-n+3) .process-label,
     .active-step4 .col-3:nth-child(-n+4) .process-label {
         color: #f89828;
     }
-
     .active-step2 .col-3:nth-child(-n+2):before,
     .active-step3 .col-3:nth-child(-n+3):before,
     .active-step4 .col-3:nth-child(-n+4):before {
@@ -296,20 +257,15 @@
         .process-main {
             flex-wrap: wrap;
         }
-
         .col-3 {
             width: 50%;
         }
-
         .process-main .col-3:nth-of-type(3):not(:first-child):before {
             top: -19.5px;
             left: calc(-50% + 145px);
             transform: rotate(150deg);
         }
     }
-
-
-
     .our-clients .container {
         width: 100%;
         height: 35%;
@@ -317,14 +273,12 @@
         align-items: center;
         overflow: hidden;
     }
-
     .our-clients .container ul {
         display: flex;
         flex-wrap: nowrap;
         width: 100%;
         transition: 0.3s;
     }
-
     .our-clients .container ul li {
         list-style: none;
         width: 40%;
@@ -334,7 +288,6 @@
         padding: 0 8px;
         margin-top: 25px;
     }
-
     .our-clients .container ul li p {
         background: #58585a;
         text-align: center;
@@ -342,11 +295,9 @@
         line-height: 100px;
         border-radius: 8px;
     }
-
     .our-clients {
         margin-top: 10px;
     }
-
     .get-started::after {
         position: relative;
         content: "\2192";
@@ -357,18 +308,13 @@
         left: 80px;
         color: #9ad953;
     }
-
-
 .pb-120 {
     padding-bottom: 60px !important;
 }
 .pt-120 {
     padding-top: 60px !important;
 }
-
 </style>
-
-
 <iframe
     src="https://fxpricing.com/fx-widget/ticker-tape-widget.php?id=1,2,3,5,14,20&border=show&speed=50&click_target=blank&theme=dark&tm-cr=212529&hr-cr=FFFFFF13&by-cr=28A745&sl-cr=DC3545&flags=circle&d_mode=regular&column=&lang=en&font=Arial, sans-serif"
     width="100%" height="85" style="border: unset;margin-top:132px"></iframe>
@@ -381,7 +327,6 @@
         margin-bottom: 10px;
         color: #9db2bd;
     }
-
     #fx-pricing-widget-copyright a {
         text-decoration: unset;
         color: #bb3534;
@@ -398,15 +343,12 @@
                         class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX">
                 </div>
                 <div class="container">
-                    <div
-                        class="row pt-4 pt-lg-10 gy-12 gy-lg-0 justify-content-center justify-content-lg-between align-items-center">
+                    <div class="row pt-4 pt-lg-10 gy-12 gy-lg-0 justify-content-center justify-content-lg-between align-items-center">
                         <div class="col-lg-6 col-xxl-7">
                             <div class="hero-card p1-xxl-bg pt-xl-20 pb-xl-20 position-relative">
                                 <div class="pt-xxl-10 pb-xxl-10">
                                     <div
                                         class="first d-center cus-z1 position-absolute end-0 top-0 d-none d-xxl-flex  me-lg-10 mt-lg-10">
-
-
                                     </div>
                                     <span class="heading p1-max-xxl nb4-xxl-color fs-five mb-3">Master the
                                         Markets</span>
@@ -419,7 +361,6 @@
                                             <img  class="mx-4" src="assets/images/icon/openai.png" alt="openai" style="height: 35px;">
                                             <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png" alt="Equinix_logo" style="height: 40px;">
                                         </div>
-                                       
                                     <div
                                         class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8 mt-lg-10">
                                         <a href="https://tradersera.com/prelogin.php"
@@ -428,7 +369,6 @@
                                         <a href="https://trading.tradersera.com/register"
                                             class="cmn-btn link link-xxl-color fs-five  gap-2 gap-lg-3 align-items-center "><i
                                                 class="ti ti-arrow-narrow-right fs-four"></i> Try demo account</a>
-                                               
                                     </div>
                                 </div>
                             </div>
@@ -438,7 +378,6 @@
                                 <img src="assets/images/banner one.png" class="max-auto max-xxl-un" alt="banner one">
                             </div>
                         </div>
-
                     </div>
                 </div>
             </div>
@@ -460,7 +399,6 @@
                                 <div class="pt-xxl-10 pb-xxl-10">
                                     <div
                                         class=" first d-center cus-z1 position-absolute end-0 top-0 d-none d-xxl-flex  me-lg-10 mt-lg-10">
-
                                     </div>
                                     <span class="heading p1-max-xxl nb4-xxl-color fs-five mb-3"
                                         style="transform: scaleX(-1);">Empower Your
@@ -468,7 +406,6 @@
                                     <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6" style="transform: scaleX(-1);">
                                         Binary Trading Is Now Possible
                                         with TradersEra
-
                                     </h1>
                                     <p class="fs-six-up fw_500 nb4-xxl-color" style="transform: scaleX(-1);">Trade
                                         smarter with TradingEra's insights,
@@ -486,14 +423,11 @@
                                         <a href="https://trading.tradersera.com/register"
                                             class="cmn-btn link link-xxl-color fs-five  gap-2 gap-lg-3 align-items-center "
                                             style="transform: scaleX(-1);"><i
-                                                class="ti ti-arrow-narrow-right fs-four"></i> Try demo account</a>
-                                                
+                                                class="ti ti-arrow-narrow-right fs-four"></i> Try demo account</a>     
                                     </div>
                                 </div>
                             </div>
                         </div>
-
-
                     </div>
                 </div>
             </div>
@@ -576,11 +510,8 @@
         <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
     </div>
 </div>
-
-
 <!--Trade On start-->
 <section class="pt-120 pb-120" style="background-color: #000;">
-
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-8 col-xxl-7">
@@ -592,7 +523,6 @@
             </div>
         </div>
         <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
-
             <div class="col-sm-10 col-lg-6 col-xxl-6">
                 <div class="row d-flex justify-content-end">
                     <div class="col-xxl-12">
@@ -606,7 +536,6 @@
                                         <h3 class="">Forex, Crypto & Binary Trading</h3>
                                         <span>Multiple Assets and Trading type under one Roof.</span>
                                     </div>
-
                                 </div>
                             </div>
                         </div>
@@ -622,11 +551,8 @@
                                         <h3 class="">Open AI and AI for Trading</h3>
                                         <span>Use AI for Investment Management and Trading</span>
                                     </div>
-
-
                                 </div>
                             </div>
-
                         </div>
                     </div>
                     <div class="col-xxl-12 mt-8 mt-md-10 mt-xxl-13">
@@ -640,20 +566,16 @@
                                         <h3 class="">Web Platform for All</h3>
                                         <span>No download, No setup, No fuss Trade on the go.</span>
                                     </div>
-
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-
             <div class="col-sm-10 col-lg-6 col-xxl-6 ">
-                
                 <div class="row d-flex justify-content-end">
                     <div class="col-xxl-12 ">
                         <div class="company-story__part">
-
                             <div class="row">
                                 <div class="col-lg-2 d-flex align-items-center">
                                     <img src="assets/images/icon/Multiple Funding.png" alt="Multiple Funding">
@@ -663,18 +585,15 @@
                                         <h3 class="">Multiple Funding Options</h3>
                                         <span>Pay via cards,banks,local transfer and cryptose.</span>
                                     </div>
-
                                 </div>
                             </div>
                         </div>
                     </div>
-                    
                     <div class="col-xxl-12 mt-md-10 mt-xxl-13">
                         <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
                             <div class="row">
                                 <div class="col-lg-2 d-flex align-items-center">
                                     <img src="assets/images/icon/active-user.png" alt="active-user">
-
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
@@ -682,8 +601,6 @@
                                         <span>Safeguarding you and all peers with top security and regulatory frameworks
                                             practices.</span>
                                     </div>
-
-
                                 </div>
                             </div>
                         </div>
@@ -708,8 +625,6 @@
         </div>
     </div>
 </section>
-
-
 <!-- <section class="provide-world bg nb4-bg pt-120 pb-120  position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1 d-none d-md-flex">
         <img src="assets/images/button.png" alt="vector" class="position-absolute pt-6 pt-xl-15 previewShapeRevX">
@@ -730,28 +645,24 @@
                         <div class="process-step-cont">
                             <div class="process-step step-1"></div>
                             <h4 class="process-label">Sign Up </h4>
-                           
                         </div>
                     </div>
                     <div class="col-3 ">
                         <div class="process-step-cont">
                             <div class="process-step step-2"></div>
                             <h4 class="process-label">Do Your KYC</h4>
-                    
                         </div>
                     </div>
                     <div class="col-3">
                         <div class="process-step-cont">
                             <div class="process-step step-3"></div>
                             <h4 class="process-label">Deposit With Multiple Payment Option </h4>
-                           
                         </div>
                     </div>
                     <div class="col-3">
                         <div class="process-step-cont">
                             <div class="process-step step-4"></div>
-                            <h4 class="process-label">Start Your Trading</h4>
-                            
+                            <h4 class="process-label">Start Your Trading</h4>  
                         </div>
                     </div>
                 </div>
@@ -759,8 +670,6 @@
         </div>
     </div>
 </section> -->
-
-
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="star3"
@@ -773,7 +682,6 @@
                     <img src="assets/images/tradersera.png" alt="Web Based Tradersera Platform ">
                 </div>
             </div>
-
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
                     <h2 class="mb-4 mb-lg-5" style="font-size:35px;">TradersEra - Trading Platform
@@ -781,10 +689,7 @@
                     <p class="mx-ch">Web trading platforms are safer since they use a remote server or cloud for
                         calculations. Users only need to focus on their internet connection and routing speed. No need
                         to download or install anything.</p>
-
                 </div>
-
-
                 <h5 class="mt-4 mb-lg-5">
                     Benefits of Web Based Trading Platforms:
                 </h5>
@@ -792,7 +697,6 @@
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>Accessible anytime and anywhere, no need for
                         installation.
-
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>Cross-Device Compatibility, Works across
@@ -800,7 +704,6 @@
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>Platform updates are hassle-free.
-
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>No need for high-end hardware, suitable for
@@ -811,7 +714,6 @@
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>Requires minimal disk space as data is
                         stored in the cloud.
-
                     </li>
                     <br>
                     <h3>Platforms Supported:</h3>
@@ -821,15 +723,11 @@
                         <li><img style=" height:35px;" src="assets/images/icon/icon safari.webp" alt="safari"></li>
                         <li><img style=" height:35px;" src="assets/images/icon/icon fire fox.webp" alt="fire fox"></li>
                         <li><img style=" height:35px;" src="assets/images/icon/icon CROME.webp" alt="CROME"></li>
-
                     </ul>
                 </ul>
-
             </div>
-
         </div>
 </section>
-
 <section class="provide-world pt-120 position-relative z-0 mb-10 pb-120" style="background-color: #000;">
     <div class="container">
         <div class="row justify-content-center">
@@ -857,7 +755,6 @@
                     </span>
                     <h3 class="mt-5 mb-5">Verify</h3>
                     <h4 >Use our online verification tool and submit your details and document.</h4>
-                   
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
@@ -878,7 +775,6 @@
                     <h4>Start trading with binary,spot and AI trading platform.</h4>
                     <br>
                 </div>
-
             </div>
         </div>
         <br>
@@ -905,9 +801,7 @@
                     </div>
                 </div>
             </div>
-
         </div>
-
 </section>
 <!-- 
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
@@ -930,7 +824,6 @@
                     <br>
                     <p class="mx-ch">All you require in a single app.</p>
                     <br>
-
                     <div class="col-4 mt-4" style="display: flex; justify-content: space-evenly; ">
                         <img style="border:1px solid white; border-radius:10px;" src="assets/images/_app store.png">
                         <img style="border:1px solid white; border-radius:10px; margin-left:20px;"
@@ -948,9 +841,7 @@
         </div>
     </div>
 </section> -->
-
 <!-- Trade On end -->
-
 <section class="provide-world pt-120 pb-120  position-relative z-0" >
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/vector.png" alt="vector"
@@ -968,7 +859,6 @@
                     <br>
                     <span class="heading p1-color fs-six mb-5 mt-2"><h3>Learn and understand markets with our available
                         market table.</h3></span>
-
                 </div>
             </div>
         </div>
@@ -1178,7 +1068,6 @@
                     <br>
                     <p class="mx-ch">All you require in a single app.</p>
                     <br>
-
                     <div class="col-4 mt-4" style="display: flex; justify-content: space-evenly; ">
                         <img style="border-radius:10px;" src="assets/images/_app store.png" alt="_app store">
                         <img style="border-radius:10px; margin-left:20px;"
@@ -1219,7 +1108,6 @@
                             <br>
                         </div>
                     </div>
-
                     <ul class=" d-flex   gap-md-3 mt-4">
                         <li><img style=" height:35px;" src="assets/images/icon/a. visa white _logo.png" alt="visa"></li>
                         <li><img style=" height:35px;" src="assets/images/icon/a. mastercard.png" alt=" mastercard"></li>
@@ -1234,7 +1122,6 @@
         </div>
     </div>
 </section>
-
 <!-- <section style="background-color: white;" class="our-clients">
     <div class="container">
         <div class="row">
@@ -1257,20 +1144,7 @@
         </div>
     </div>
 </section> -->
-
-
-
-
-
-
-
-
-
-
-
-
 <script>
-
 $('.slider').each(function () {
     var $this = $(this);
     var $group = $this.find('.slide_group');
@@ -1279,19 +1153,14 @@ $('.slider').each(function () {
     var currentIndex = 0;
     var timeout;
     var animationDuration = 1200; // Adjust this value to control the animation speed
-
     function move(newIndex) {
         var animateLeftFirst, slideLeftFirst, animateLeftSecond, slideLeftSecond;
-
         advance();
-
         if ($group.is(':animated') || currentIndex === newIndex) {
             return;
         }
-
         bulletArray[currentIndex].removeClass('active');
         bulletArray[newIndex].addClass('active');
-
         if (newIndex > currentIndex) {
             slideLeftFirst = '50%';
             animateLeftFirst = '0%';
@@ -1303,28 +1172,22 @@ $('.slider').each(function () {
             slideLeftSecond = '-50%';
             animateLeftSecond = '0%';
         }
-
         $slides.eq(newIndex).css({
             display: 'block',
             left: slideLeftSecond
         });
-
         $group.animate({
             left: animateLeftFirst
         }, animationDuration);
-
         $slides.eq(newIndex).animate({
             left: 0
         }, animationDuration);
-
         $slides.eq(currentIndex).css({
             display: 'none',
             left: 0
         });
-
         currentIndex = newIndex;
     }
-
     function advance() {
         clearTimeout(timeout);
         timeout = setTimeout(function () {
@@ -1335,7 +1198,6 @@ $('.slider').each(function () {
             }
         }, 7000); // Timeout between slides
     }
-
     $('.next_btn').on('click', function () {
         if (currentIndex < ($slides.length - 1)) {
             move(currentIndex + 1);
@@ -1343,7 +1205,6 @@ $('.slider').each(function () {
             move(0);
         }
     });
-
     $('.previous_btn').on('click', function () {
         if (currentIndex !== 0) {
             move(currentIndex - 1);
@@ -1351,7 +1212,6 @@ $('.slider').each(function () {
             move($slides.length - 1);
         }
     });
-
     $.each($slides, function (index) {
         var $button = $('<a class="slide_btn">&bull;</a>');
 
@@ -1363,10 +1223,8 @@ $('.slider').each(function () {
         }).appendTo('.slide_buttons');
         bulletArray.push($button);
     });
-
     advance();
 });
-
     /**This is just a demo to add the process classes**/
     $(document).ready(function ($) {
         $(".process-step").click(function () {
@@ -1392,7 +1250,6 @@ $('.slider').each(function () {
                     $(".process-wrap").attr('class', 'process-wrap');
             }
         })
-
         $(".process-dots").click(function () {
             if ($(this).hasClass("ship-process-dot-1")) {
                 $(".process-wrap").attr('class', 'process-wrap active-step1')
@@ -1414,32 +1271,21 @@ $('.slider').each(function () {
                 $(this).parents().find(".process-wrap").addClass("active-step1-mini4")
             }
         });
-
     });
-
-
-
     //  script our partners start slider
-
     var clientSlider = document.getElementById('client-slider');
     var clientList = clientSlider.getElementsByTagName('li');
-
     setInterval(() => {
         clientSlider.style.transform = "translateX(-20%)";
     }, 3000);
-
     clientSlider.addEventListener('transitionend', function () {
         clientSlider.appendChild(clientSlider.firstElementChild);
-
         clientSlider.style.transition = "none";
         clientSlider.style.transform = "translateX(0)";
         setTimeout(() => {
             clientSlider.style.transition = "0.3s";
         });
     })
-
     // script our partners end slider
-
 </script>
-
 <?php include("includes/footer.php") ?>

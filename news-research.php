@@ -15,9 +15,7 @@
         </div>
     </div>
 </section>
-
 <style>
-
 .pb-120 {
     padding-bottom: 60px !important;
 }
@@ -30,8 +28,6 @@
    
 }
 </style>
-
-
 <section class="pt-60 pb-60">
     <div class="container">
         <section class="provide-world   position-relative z-0">
@@ -41,12 +37,9 @@
                     <center>
                         <h3 class="mb-7"> Stay Ahead of Market Trends and Opportunities with Regular, Timely Updates on Forex Developments.</h3>
                     </center>
-        
                 </div>
             </div>
-        
         </section>
-      
         <!-- TradingView Widget BEGIN -->
         <div class="tradingview-widget-container">
             <div class="tradingview-widget-container__widget"></div>
@@ -75,17 +68,13 @@
                     <center>
                         <h3 class="mb-7"> Experience Real-time Currency Strength Visualization for Immediate Market Analysis and Informed Trading Decisions.</h3>
                     </center>
-        
                 </div>
             </div>
-        
         </section>
-      
         <!-- TradingView Widget BEGIN -->
         <!-- TradingView Widget BEGIN -->
         <div class="pb-120">
             <div class="tradingview-widget-container__widget"></div>
-          
             <script type="text/javascript"
                 src="https://s3.tradingview.com/external-embedding/embed-widget-forex-heat-map.js" async>
                     {
@@ -133,8 +122,6 @@
                         world of forex trading and brokerage. Our dedicated team of experts scours the markets to bring
                         you timely updates, expert commentary, and in-depth research to help you make informed decisions
                         and maximize your trading potential.</p>
-
-
                     <a href="signup.html"
                         class="cmn-btn fs-six-up nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-4 py-lg-3 px-lg-5 mt-7 mt-xxl-8">Start
                         Learning <i class="ti ti-arrow-right fs-four"></i></a>
@@ -143,8 +130,6 @@
         </div>
     </div>
 </section> -->
-
-
 <!--Our Mission start-->
 <!-- <section class="provide-world our_mission pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
@@ -158,7 +143,6 @@
                 <h3>Empower Your Trading Journey with TradersEra's News & Research Hub!
                 </h3>
             </div>
-
         </div>
         <div class="row gy-6 gy-xxl-0">
             <div class="col-md-6 col-xxl-4">
@@ -198,12 +182,9 @@
                         of forex trading.</p>
                 </div>
             </div>
-
         </div>
-
         <div class="container">
             <div class="row justify-content-between align-items-center mb-10 mb-lg-15">
-               
             </div>
             <div class="row gy-6 gy-xxl-0">
                 <div class="col-md-6 col-xxl-4">
@@ -244,13 +225,9 @@
                             offer valuable insights to guide your decision-making proces</p>
                     </div>
                 </div>
-
             </div>
-
 </section> -->
 <!-- Our Mission end -->
-
-
 <!--Customers start-->
 <!-- <section class="customers position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
@@ -268,13 +245,10 @@
                 <div class="customers__content me-xxl-18">
                     <h4 class="mb-4">Ready to take your trading to the next level? Explore our News & Research section
                         now!
-
                     </h4>
                     <p class="mx-ch">At TradersEra, we're committed to providing you with the tools, insights, and
                         resources you need to succeed in the fast-paced world of forex trading. Bookmark this page and
                         make it your go- to destination for staying informed and empowered in your trading journey.</p>
-
-
                 </div>
             </div>
             <div class="col-10 col-sm-8 col-lg-6 col-xxl-6 ">
@@ -285,5 +259,4 @@
         </div>
     </div>
 </section> -->
-
 <?php include("includes/footer.php"); ?>

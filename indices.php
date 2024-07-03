@@ -1,5 +1,4 @@
 <?php include("includes/header.php"); ?>
-
 <style>
     .pt-120 {
         padding-top: 60px;
@@ -24,7 +23,6 @@
         text-align: center;
     }
 </style>
-
 <section class="banner-section  pt-2 pb-1">
         <div class="container mt-lg-0 pt-18 pt-xl-20">
             <div class="row">
@@ -40,8 +38,6 @@
             </div>
         </div>
     </section>
-
-
     <section class="trade_on  pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/coin.png" alt="null" class="position-absolute d-none d-md-flex previewShapeRevX">
@@ -73,8 +69,6 @@
         </div>
     </div>
 </section>
-
-
     <section class="provide-world a2-bg pt-120 pb-120  position-relative z-0">
         <div class="container">
             <div class="row justify-content-center">
@@ -115,13 +109,10 @@
             </div>
         </div>
     </section>
-
     <section class="company-story position-relative z-0  pt-120 pb-120 ">
     <div class="animation position-absolute w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="null" class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
     </div>
-
-
     <div class="container">
         <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
             <div class="container my-5">
@@ -147,7 +138,6 @@
                     </tr>
                     </thead>
 <tr>
-
 </tr>
 </thead>
 <tbody>
@@ -167,89 +157,67 @@
     <tr>
     <td>German DAX 40</td>
     <td>GER40</td>
-   
     <td>1</td>
-   
     <td>01:00 - 24:00&nbsp;</td>
     </tr>
     <tr>
     <td>EuroStoxx 50</td>
     <td>ESTX50</td>
-    
     <td>1</td>
-    
     <td>01:00 - 24:00&nbsp;</td>
     </tr>
     <tr>
     <td>Spain&nbsp;35</td>
     <td>SPAIN35</td>
-    
     <td>1</td>
-   
     <td>01:00 - 24:00&nbsp;</td>
     </tr>
     <tr>
     <td>FTSE100</td>
     <td>UK100</td>
-    
     <td>1</td>
-   
     <td>01:00 - 24:00&nbsp;</td>
     </tr>
     <tr>
     <td>S&amp;P&nbsp;500</td>
     <td>SPX500</td>
-  
     <td>10</td>
-
     <td>01:00 - 24:00&nbsp;</td>
     </tr>
     <tr>
     <td>Dow Jones Index</td>
     <td>US30</td>
-   
     <td>1</td>
-    
     <td>01:00 - 24:00&nbsp;</td>
     </tr>
     <tr>
     <td>Nasdaq</td>
     <td>NAS100</td>
-    
     <td>1</td>
-   
     <td>01:00 - 24:00&nbsp;</td>
     </tr>
     <tr>
     <td>US Dollar Index</td>
     <td>USDINDEX</td>
-    
     <td>100</td>
-   
     <td>03:00 - 24:00</td>
     </tr>
     <tr>
     <td>Russell 2000</td>
     <td>US2000</td>
-    
     <td>1</td>
-   
     <td>01:00 - 24:00</td>
     </tr>
     <tr>
     <td>Nikkei&nbsp;225</td>
     <td>JPN225</td>
-   
     <td>100</td>
-   
     <td>01:00 - 24:00&nbsp;</td>
     </tr>
     <tr>
     <td>Hong Kong HS50</td>
     <td>HK50</td>
-    
     <td>1</td>
-   
     <td>04:15 - 07:00 and<br>
     08:00 - 11:30 and&nbsp;<br>
     12:15 - 20:00</td>
@@ -257,34 +225,26 @@
     <tr>
     <td>China A50</td>
     <td>CHINA50</td>
-   
     <td>1</td>
-   
     <td>04:00 - 11:30 and&nbsp;<br>
     12:00&nbsp; - 21:00&nbsp;</td>
     </tr>
     <tr>
     <td>Taiwan Stock Exchange Weighted Index</td>
     <td>TAIEX</td>
-   
     <td>1</td>
-    
     <td>01:00 - 24:00</td>
     </tr>
     <tr>
     <td>AEX Netherlands 25 Index</td>
     <td>NETH25</td>
-   
     <td>1</td>
-   
     <td>01:00 - 24:00&nbsp;</td>
     </tr>
     <tr>
     <td>Switzerland 20 index</td>
     <td>SWI20</td>
-   
     <td>1</td>
-   
     <td>01:00 - 24:00&nbsp;</td>
     </tr>
     <tr >

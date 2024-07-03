@@ -3,11 +3,9 @@
     .main-table {
         display: flex;
     }
-
     .table-content {
         display: flex;
     }
-
     .sub-table-content {
         width: 100%;
         padding: 20px 50px;
@@ -18,7 +16,6 @@
         align-items: center;
         font-size: 20px;
     }
-
     .table-content2>.sub-table-content {
         background-color: #9ad953;
         border: 1px solid black;
@@ -27,7 +24,6 @@
         font-weight: 700;
         border-radius: 10px 10px 0px 0px;
     }
-
     .sub-table-content>span {
         display: flex;
         text-align: center;
@@ -37,38 +33,30 @@
         font-weight: 700;
         padding-bottom: 4px;
     }
-
     .sub-table-content>h4 {
         color: #000000;
     }
-
     .cus-rounded-3 {
         border-radius: 0px 0px 10px 10px;
     }
-
     .packages {
         background: #9ad953;
         padding: 25px;
         border-radius: 10px 10px 0px 0px;
     }
-
     .packages>h3 {
         color: #000000;
         text-align: center;
     }
-
     .package-para {
         font-size: 20px;
     }
-
     .pb-120 {
         padding-bottom: 60px !important;
     }
-
     .pt-120 {
         padding-top: 60px !important;
     }
-
     .table-para-2 {
         background-color: #292929;
         padding: 35px;
@@ -92,7 +80,6 @@
         </div>
     </div>
 </section>
-
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0" style="background-color: #141414;">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="vector"
@@ -113,9 +100,7 @@
                         item without purchasing the actual asset.
                     </p>
                     <br>
-
                 </div>
-
                 <div class="col-lg-6 col-xxl-8">
                     <div class="trade_on__content">
                         <h2 class="mb-4 mb-lg-4">Benefits To Trade CFD’s With Us</h2>
@@ -125,7 +110,6 @@
                         </p><br>
                         <p class="fs-six "><b>Tight spreads :</b> The spread is the difference between the purchase and
                             sale prices. The narrower the gap, the lower the cost of entering the market.
-
                         </p>
                         <br>
                         <br>
@@ -135,8 +119,6 @@
         </div>
     </div>
 </section>
-
- 
 <section class="provide-world position-relative z-0 pb-120 pt-120" style="background-color: #000000;">
     <div class="container">
         <div class="row gy-6 gy-xxl-0">
@@ -179,10 +161,6 @@
         </div>
     </div>
 </section>
-
-
-
-
 <section class="provide-world pt-120 pb-120  position-relative z-0">
     <div class="container">
         <div class="row gy-6 gy-xxl-0">
@@ -294,7 +272,6 @@
                     <br>
                 </div>
             </div>
-
             <div class="col-md-6 col-xxl-3">
                 <div class="packages" style="background: #F5C06D;">
                     <h3>Proffessional</h3>
@@ -362,6 +339,7 @@
                     <br>
                 </div>
             </div>
+
             <div class="col-md-6 col-xxl-4">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
@@ -376,23 +354,14 @@
             </div>
         </div>
     </div>
-   
 </section>
-
-
 <section>
     <div class="container">
-    <div class="table-para-2">
-        
+    <div class="table-para-2">       
          <p>Your all-in-one online platform for binary and Forex trading. Say goodbye to cumbersome downloads and installations. With our user interface and wide range of tools you'll have all the support to make informed decisions and maximize your profits. Trade Smarter, Not Harder
-
-
 </p>
         </div>
     </div>
 </section>
-
 <br>
-
-
 <?php include("includes/footer.php"); ?>

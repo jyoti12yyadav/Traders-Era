@@ -1,16 +1,12 @@
 <!doctype html>
 <html lang="en">
-
-
 <!-- Mirrored from pixner.net/tradez/main/index-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 16 Jan 2024 07:19:13 GMT -->
-
 <head>
     <!-- required meta -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- #keywords -->
-
     <title></title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content=" " />
@@ -26,11 +22,9 @@
         href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
         rel="stylesheet">
 </head>
-
 <body>
     <style>
         @media (min-width: 1400px) {
-
             .container-xxl,
             .container-xl,
             .container-lg,
@@ -40,15 +34,12 @@
                 max-width: 1510px;
             }
         }
-
         .display-one {
             font-size: 85px;
         }
-
         .cmn-btn2:hover {
             color: black !important;
         }
-
         .sign {
             min-height: 85vh;
         }
@@ -76,11 +67,8 @@
                                 class="cmn-btn cmn-btn2 py-3 px-5 px-lg-6 mt-7 mt-lg-8 w-20 d-center mx-2" name="submit"
                                 id="submit"
                                 style="--top: 43px; --left: 301px;background-color: rgb(0 0 0);color: #ffffff; width: 25%">Register</a>
-
                         </div>
-
                     </div>
-
                 </div>
                 <div class="col-12 col-md-6 col-lg-5 col-xxl-6 offset-xxl-1 text-center ms-xl-auto mx-auto">
                     <div class="animation position-absolute top-0 left-100 w-100 h-100 z-n1">
@@ -89,14 +77,11 @@
                     </div>
                     <div class="welcome alt-color text-center text-md-start pt-120 pb-120 position-relative z-0"
                         style="padding-left: 70px;">
-
                         <!-- <h1 class="display-one" style="color: #9ad953;">I want to Trade on Binary</h1>
                         <br> -->
                         <br>
                         <br>
                         <br>
-
-
                         <h1 style="color: #9ad953;">Cryptocurrency Ecosystem for Trading & Investments </h1>
                         <br>
                         <h4 style="color: #9ad953;">Trade Binary Options, Manage Crypto & Invest using multiple programs</h4>
@@ -108,9 +93,7 @@
                             <a href="https://trading.tradersera.com/register" type="submit"
                                 class="cmn-btn py-3 px-5 px-lg-6   d-center" name="submit" id="submit"
                                 style="width:25%">Register</a>
-
                         </div>
-
                     </div>
                     <button href="" type="submit" class="cmn-btn cmn-btn2 py-3 px-5 px-lg-6 mt-7 mt-lg-8 d-center"
                         name="submit" id="submit" style="background-color: #f5c06d;color: #000000;    margin: auto;
@@ -119,16 +102,13 @@
                         top: 0px;;
                         left: -375px;"><a style="color:black;" href="index.php"><b>Back to Home</b></a></button>
                 </div>
-
             </div>
         </div>
     </section>
     <div class="container-fluid">
-
         <div class="row">
             <div class="col-4 border-top border-color opac-20 py-7 py-xxl-8 d-flex align-items-end">
                 <div class="footer__copyright d-center gap-15 flex-wrap justify-content-md-between">
-
                     <ul class=" d-center gap-2 gap-md-3">
                         <li><a class="n2-color" href="terms-condition.php">Terms & Conditions</a></li>
                         <li><a class="n2-color" href="risk-disclaimer.php">Risk Disclaimer</a></li>
@@ -164,16 +144,12 @@
                     </ul>
                 </div>
             </div>
-
         </div>
     </div <script data-cfasync="false" src="assets/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js">
     </script>
     <script src="assets/js/plugins/plugins.js"></script>
     <script src="assets/js/plugins/plugin-custom.js"></script>
     <script src="assets/js/main.js"></script>
-
-
-
     <!--Start of Tawk.to Script-->
     <script type="text/javascript">
         var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
@@ -188,8 +164,6 @@
     </script>
     <!--End of Tawk.to Script-->
 </body>
-
-
 <!-- Mirrored from pixner.net/tradez/main/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 16 Jan 2024 07:19:07 GMT -->
 
 </html>
