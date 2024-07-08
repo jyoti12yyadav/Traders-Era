@@ -1,5 +1,19 @@
 <!-- Footer Section Starts -->
 <style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     .col-xxl-8 {
         flex: 0 0 auto;
         width: 100.666667%;
