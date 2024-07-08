@@ -4,7 +4,13 @@
 <head>
 
 
-<link rel="stylesheet" type="text/css" media="screen" href="https://www.ifcmarkets.co.in/css/widget/live_quotes_ifc_widget_scroll.css" /><link rel="stylesheet" type="text/css" media="screen" href="https://www.ifcmarkets.co.in/css/front/quotesline.css" /><script type="text/javascript">var lang_lqs='en';var hname_lqs="www.ifcmarkets.co.in";var vi=document.createElement('script');vi.type='text/javascript';vi.async = true;vi.src = 'https://www.ifcmarkets.co.in/js/live_quotes_ifc_widget_scroll.js';var instrument_list="EURUSD,GBPUSD,USDJPY,AUDUSD,USDCHF,USDCAD,XAUUSD,XAGUSD";var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(vi, s);</script><div id="ifc_widgetlivequotes_scrl" class="ifc_widgetlivequotes_scrl"><div class="live_quotations" id="scroller_container"><div id="scroller"></div></div></div><div  id="ifc_nedlivequotes_scrl" class="ifc_nedlivequotes_scrl" style=""><a href="https://www.ifcmarkets.co.in/en/informers" target="_blank" rel="nofollow"><img src="https://www.ifcmarkets.co.in/uploads/informers/lq_provided_by.png" alt="IFC Markets Live Quotes"/></a></div>
+
+
+
+
+
+
+
 
     <!-- Required meta tags -->
     <meta charset="utf-8">
