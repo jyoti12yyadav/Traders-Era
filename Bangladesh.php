@@ -1,4 +1,5 @@
 <!doctype html>
+
 <html lang="en">
 <!-- Mirrored from templates.iqonic.design/coinex-dist/theme/ico/index-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 20 Apr 2024 07:56:48 GMT -->
 <head>
@@ -7,13 +8,6 @@
 
 
 <div id="quotesWidgetTicker"></div>
-<script async type="text/javascript" data-type="quotes-widget" src="https://c.mql5.com/js/widgets/quotes/widget.js?v=1">
-  {"type":"ticker","filter":["EURUSD","USDJPY","GBPUSD","AUDUSD","USDCAD","USDCHF","NZDUSD"],"width":"100%","height":50,"id":"quotesWidgetTicker"}
-</script>
-
-
-
-
 
     <!-- Required meta tags -->
     <meta charset="utf-8">
