@@ -1,36 +1,44 @@
 <?php include("includes/header.php") ?>
 <!-- header-section start -->
+
+
 <style>
     .slider {
         margin: 0 auto;
         max-width: auto;
     }
+
     .slide_viewer {
         height: 760px;
         overflow: hidden;
         position: relative;
         margin-top: -45px;
     }
+
     .slide_group {
         height: 100%;
         position: relative;
         width: 100%;
     }
+
     .slide {
         display: none;
         height: 100%;
         position: absolute;
         width: 100%;
     }
+
     .slide:first-child {
         display: block;
     }
+
     .slide_buttons {
         left: 0;
         position: absolute;
         right: 0;
         text-align: center;
     }
+
     a.slide_btn {
         color: #474544;
         font-size: 42px;
@@ -41,11 +49,13 @@
         -o-transition: all 0.4s ease-in-out;
         transition: all 0.4s ease-in-out;
     }
+
     .slide_btn.active,
     .slide_btn:hover {
         color: #428CC6;
         cursor: pointer;
     }
+
     .directional_nav {
         height: 0px;
         margin: 0 auto;
@@ -53,6 +63,7 @@
         position: relative;
         top: -340px;
     }
+
     .previous_btn {
         bottom: 0;
         left: 100px;
@@ -60,6 +71,7 @@
         position: absolute;
         top: 0;
     }
+
     .next_btn {
         bottom: 0;
         margin: auto;
@@ -67,6 +79,7 @@
         right: 100px;
         top: 0;
     }
+
     .previous_btn,
     .next_btn {
         cursor: pointer;
@@ -79,58 +92,72 @@
         transition: opacity 0.4s ease-in-out;
         width: 65px;
     }
+
     .previous_btn:hover,
     .next_btn:hover {
         opacity: 1;
     }
+
     @media only screen and (max-width: 767px) {
         .previous_btn {
             left: 50px;
         }
+
         .next_btn {
             right: 50px;
         }
     }
+
     .fs-three,
     h3,
     h3>a {
         font-size: 22px;
     }
+
     .company-story__part {
         border: solid 1px white;
         padding: 30px;
         border-radius: 19px;
     }
+
     .p1-xxl-bg2 {
         background-color: #f5c06d;
     }
+
     /* > Process Styles */
     .process-wrap {
         width: 55%;
         margin: 100px auto;
         margin-left: -50px
     }
+
     .process-main {
         width: 100%;
         min-width: 320px;
         display: flex;
     }
+
     .col-3 {
         width: 50%;
         position: relative;
     }
+
     .col-3:first-child .process-step:before {
         content: '1';
     }
+
     .col-3:nth-child(2) .process-step:before {
         content: '2';
     }
+
     .col-3:nth-child(3) .process-step:before {
         content: '3';
     }
+
     .col-3:last-child .process-step:before {
         content: '4';
     }
+
     .process-main .col-3:not(:first-child):before {
         content: "";
         display: block;
@@ -148,6 +175,7 @@
         -webkit-transition: .8s;
         transition: .8s;
     }
+
     .process-step-cont {
         font-family: sans-serif;
         font-size: 16px;
@@ -160,6 +188,7 @@
         justify-content: center;
         align-content: space-between;
     }
+
     .process-step {
         border: 5px #ebebeb solid;
         border-radius: 100%;
@@ -178,12 +207,14 @@
         z-index: 4;
         cursor: pointer;
     }
+
     .process-label {
         color: #959595;
         font-weight: 600;
         width: 100%;
         text-align: center;
     }
+
     .process-dots {
         width: 10px;
         height: 10px;
@@ -191,6 +222,7 @@
         background-color: #ebebeb;
         cursor: pointer;
     }
+
     .process-dot-cont {
         display: flex;
         justify-content: space-around;
@@ -198,6 +230,7 @@
         width: 60%;
         padding-top: 5px;
     }
+
     .active-step1 .col-3:first-child .process-step,
     .active-step1 .col-3:first-child .process-dots:first-child,
     .active-step1-mini2 .col-3:first-child .process-step,
@@ -208,29 +241,34 @@
     .active-step1-mini4 .col-3:first-child .process-dots:nth-child(-n+4) {
         background-color: #f89828;
     }
+
     .active-step1-mini2 .col-3:first-child .process-dots:first-child,
     .active-step1-mini3 .col-3:first-child .process-dots:nth-child(-n+2),
     .active-step1-mini4 .col-3:first-child .process-dots:nth-child(-n+3) {
         background-color: #fbcb93;
     }
+
     .active-step1 .col-3:first-child .process-label,
     .active-step1-mini3 .col-3:first-child .process-label,
     .active-step1-mini2 .col-3:first-child .process-label,
     .active-step1-mini4 .col-3:first-child .process-label {
         color: #f89828;
     }
+
     .active-step2 .col-3:first-child,
     .active-step3 .col-3:nth-child(-n+2),
     .active-step4 .col-3:nth-child(-n+3) {
         opacity: 0.5;
         /*pointer-events: none;*/
     }
+
     .active-step2 .col-3:first-child .process-step:before,
     .active-step3 .col-3:nth-child(-n+2) .process-step:before,
     .active-step4 .col-3:nth-child(-n+3) .process-step:before {
         content: '\2713';
         padding: 7px;
     }
+
     .active-step2 .col-3:nth-child(-n+2) .process-step,
     .active-step2 .col-3:nth-child(-n+2) .process-dots,
     .active-step3 .col-3:nth-child(-n+3) .process-step,
@@ -239,33 +277,41 @@
     .active-step4 .col-3:nth-child(-n+4) .process-dots {
         background-color: #f89828;
     }
+
     .active-step2 .col-3:nth-child(-n+2) .process-label,
     .active-step3 .col-3:nth-child(-n+3) .process-label,
     .active-step4 .col-3:nth-child(-n+4) .process-label {
         color: #f89828;
     }
+
     .active-step2 .col-3:nth-child(-n+2):before,
     .active-step3 .col-3:nth-child(-n+3):before,
     .active-step4 .col-3:nth-child(-n+4):before {
         background: #f89828 !important;
     }
-    @media (min-width: 991px){
-.pb-lg-120 {
-    padding-bottom: 180px !important;
-}}
+
+    @media (min-width: 991px) {
+        .pb-lg-120 {
+            padding-bottom: 180px !important;
+        }
+    }
+
     @media screen and (max-width: 640px) {
         .process-main {
             flex-wrap: wrap;
         }
+
         .col-3 {
             width: 50%;
         }
+
         .process-main .col-3:nth-of-type(3):not(:first-child):before {
             top: -19.5px;
             left: calc(-50% + 145px);
             transform: rotate(150deg);
         }
     }
+
     .our-clients .container {
         width: 100%;
         height: 35%;
@@ -273,12 +319,14 @@
         align-items: center;
         overflow: hidden;
     }
+
     .our-clients .container ul {
         display: flex;
         flex-wrap: nowrap;
         width: 100%;
         transition: 0.3s;
     }
+
     .our-clients .container ul li {
         list-style: none;
         width: 40%;
@@ -288,6 +336,7 @@
         padding: 0 8px;
         margin-top: 25px;
     }
+
     .our-clients .container ul li p {
         background: #58585a;
         text-align: center;
@@ -295,9 +344,11 @@
         line-height: 100px;
         border-radius: 8px;
     }
+
     .our-clients {
         margin-top: 10px;
     }
+
     .get-started::after {
         position: relative;
         content: "\2192";
@@ -308,31 +359,31 @@
         left: 80px;
         color: #9ad953;
     }
-.pb-120 {
-    padding-bottom: 60px !important;
-}
-.pt-120 {
-    padding-top: 60px !important;
-}
+
+    .pb-120 {
+        padding-bottom: 60px !important;
+    }
+
+    .pt-120 {
+        padding-top: 60px !important;
+    }
 </style>
-<iframe
+
+
+
+<!-- <iframe
     src="https://fxpricing.com/fx-widget/ticker-tape-widget.php?id=1,2,3,5,14,20&border=show&speed=50&click_target=blank&theme=dark&tm-cr=212529&hr-cr=FFFFFF13&by-cr=28A745&sl-cr=DC3545&flags=circle&d_mode=regular&column=&lang=en&font=Arial, sans-serif"
-    width="100%" height="85" style="border: unset;margin-top:132px"></iframe>
-<style type="text/css">
-    #fx-pricing-widget-copyright {
-        text-align: center;
-        font-size: 13px;
-        font-family: sans-serif;
-        margin-top: 10px;
-        margin-bottom: 10px;
-        color: #9db2bd;
-    }
-    #fx-pricing-widget-copyright a {
-        text-decoration: unset;
-        color: #bb3534;
-        font-weight: 600;
-    }
-</style>
+    width="100%" height="85" style="border: unset;margin-top:132px"></iframe> -->
+
+
+
+<iframe
+    src="https://fxpricing.com/fx-widget/ticker-tape-widget.php?id=1,20,39,19,1984,1975,1972,25,6729&border=show&speed=50&click_target=blank&theme=dark&tm-cr=212529&hr-cr=FFFFFF13&by-cr=28A745&sl-cr=DC3545&flags=circle&d_mode=regular&column=ask,bid,spread&lang=en&font=Arial, sans-serif"
+    width="100%" height="85" style="border: unset;margin-top:132px"></iframe> 
+
+
+
+
 <!-- slider -->
 <div class="slider">
     <div class="slide_viewer">
@@ -343,7 +394,8 @@
                         class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX">
                 </div>
                 <div class="container">
-                    <div class="row pt-4 pt-lg-10 gy-12 gy-lg-0 justify-content-center justify-content-lg-between align-items-center">
+                    <div
+                        class="row pt-4 pt-lg-10 gy-12 gy-lg-0 justify-content-center justify-content-lg-between align-items-center">
                         <div class="col-lg-6 col-xxl-7">
                             <div class="hero-card p1-xxl-bg pt-xl-20 pb-xl-20 position-relative">
                                 <div class="pt-xxl-10 pb-xxl-10">
@@ -357,10 +409,12 @@
                                     </h1>
                                     <p class="fs-six-up fw_500 nb4-xxl-color">TradingEra helps you trade smarter with
                                         tools and insights, making navigating financial markets easier.</p>
-                                        <div class="d-flex mt-8">
-                                            <img  class="mx-4" src="assets/images/icon/openai.png" alt="openai" style="height: 35px;">
-                                            <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png" alt="Equinix_logo" style="height: 40px;">
-                                        </div>
+                                    <div class="d-flex mt-8">
+                                        <img class="mx-4" src="assets/images/icon/openai.png" alt="openai"
+                                            style="height: 35px;">
+                                        <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png"
+                                            alt="Equinix_logo" style="height: 40px;">
+                                    </div>
                                     <div
                                         class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8 mt-lg-10">
                                         <a href="https://tradersera.com/prelogin.php"
@@ -410,10 +464,12 @@
                                     <p class="fs-six-up fw_500 nb4-xxl-color" style="transform: scaleX(-1);">Trade
                                         smarter with TradingEra's insights,
                                         maximizing your financial potential.</p>
-                                        <div class="d-flex mt-8" style="transform: scaleX(-1);">
-                                            <img  class="mx-4" src="assets/images/icon/openai.png" alt="openai" style="height: 35px;">
-                                            <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png" alt="Equinix_logo" style="height: 35px;">
-                                        </div>
+                                    <div class="d-flex mt-8" style="transform: scaleX(-1);">
+                                        <img class="mx-4" src="assets/images/icon/openai.png" alt="openai"
+                                            style="height: 35px;">
+                                        <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png"
+                                            alt="Equinix_logo" style="height: 35px;">
+                                    </div>
                                     <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8
                                         mt-lg-10">
                                         <a href="https://tradersera.com/prelogin.php"
@@ -423,7 +479,7 @@
                                         <a href="https://trading.tradersera.com/register"
                                             class="cmn-btn link link-xxl-color fs-five  gap-2 gap-lg-3 align-items-center "
                                             style="transform: scaleX(-1);"><i
-                                                class="ti ti-arrow-narrow-right fs-four"></i> Try demo account</a>     
+                                                class="ti ti-arrow-narrow-right fs-four"></i> Try demo account</a>
                                     </div>
                                 </div>
                             </div>
@@ -456,7 +512,8 @@
             <div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-active"
                 data-swiper-slide-index="3" role="group" aria-label="4 / 7"
                 style="width: 230.571px; margin-right: 50px;">
-                <img src="assets/images/icon/logo investor in people logo black.png" alt="logo investor in people logo black">
+                <img src="assets/images/icon/logo investor in people logo black.png"
+                    alt="logo investor in people logo black">
             </div>
             <div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-next"
                 data-swiper-slide-index="4" role="group" aria-label="5 / 7"
@@ -477,7 +534,8 @@
             </div>
             <div class="swiper-slide text-center swiper-slide-active" data-swiper-slide-index="3" role="group"
                 aria-label="4 / 7" style="width: 230.571px; margin-right: 50px;">
-                <img src="assets/images/icon/logo investor in people logo black.png" alt="logo investor in people logo black">
+                <img src="assets/images/icon/logo investor in people logo black.png"
+                    alt="logo investor in people logo black">
             </div>
             <div class="swiper-slide text-center swiper-slide-next" data-swiper-slide-index="4" role="group"
                 aria-label="5 / 7" style="width: 230.571px; margin-right: 50px;">
@@ -744,7 +802,7 @@
                         <img src="assets/images/icon/number-1.png" alt="number-1">
                     </span>
                     <h3 class="mt-5 mb-5">Register</h3>
-                    <h4 >Sign up using your bank details and login to dashboard.</h4>
+                    <h4>Sign up using your bank details and login to dashboard.</h4>
                     <br>
                 </div>
             </div>
@@ -754,7 +812,7 @@
                         <img src="assets/images/icon/two.png" alt="two">
                     </span>
                     <h3 class="mt-5 mb-5">Verify</h3>
-                    <h4 >Use our online verification tool and submit your details and document.</h4>
+                    <h4>Use our online verification tool and submit your details and document.</h4>
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
@@ -763,7 +821,7 @@
                         <img src="assets/images/icon/number-3.png" alt="number-3">
                     </span>
                     <h3 class="mt-5 mb-5">Fund</h3>
-                    <h4 >Fund your trading account using a wide range of funding methods.</h4>
+                    <h4>Fund your trading account using a wide range of funding methods.</h4>
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
@@ -842,7 +900,7 @@
     </div>
 </section> -->
 <!-- Trade On end -->
-<section class="provide-world pt-120 pb-120  position-relative z-0" >
+<section class="provide-world pt-120 pb-120  position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/vector.png" alt="vector"
             class="position-absolute top-0 pt-120 ms-20 ps-xxl-20 jello d-none d-xl-flex">
@@ -857,8 +915,10 @@
                 <div class="heading__content mb-10 mb-lg-15 text-center">
                     <h2 class="">Markets Data</h2>
                     <br>
-                    <span class="heading p1-color fs-six mb-5 mt-2"><h3>Learn and understand markets with our available
-                        market table.</h3></span>
+                    <span class="heading p1-color fs-six mb-5 mt-2">
+                        <h3>Learn and understand markets with our available
+                            market table.</h3>
+                    </span>
                 </div>
             </div>
         </div>
@@ -1049,11 +1109,16 @@
 <!--People Trust start-->
 <section class="worldwide alt-color p1-bg pseudo_element_after">
     <div class="animation vector position-absolute top-0 left-0 w-100 h-100 z-n1">
-        <img src="assets/images/cross.png" alt="cross" class="position-absolute push_animat ms-lg-20 ps-4 top-0 pt-120 mt-20 start-0 d-none d-xxxl-flex">
-        <img src="assets/images/star.png" alt="star" class="position-absolute push_animat end-0 top-0 mt-20 pt-xl-15 me-xl-20 pe-10 d-none d-md-flex">
-        <img src="assets/images/vector2.png" alt="vector2" class="position-absolute bottom-0 start-0 d-none d-xxxl-flex">
-        <img src="assets/images/vector_rocket2.png" alt="vector_rocket2" class="position-absolute d-none d-xxxl-flex bottom-0 end-0  pe-12 pb-10 fadeInTopLeft">
-        <img src="assets/images/cross2.png" alt="cross2" class="position-absolute push_animat ms-lg-20 ps-4 top-0 start-50 pt-120 mt-20 d-none d-xxxl-flex">
+        <img src="assets/images/cross.png" alt="cross"
+            class="position-absolute push_animat ms-lg-20 ps-4 top-0 pt-120 mt-20 start-0 d-none d-xxxl-flex">
+        <img src="assets/images/star.png" alt="star"
+            class="position-absolute push_animat end-0 top-0 mt-20 pt-xl-15 me-xl-20 pe-10 d-none d-md-flex">
+        <img src="assets/images/vector2.png" alt="vector2"
+            class="position-absolute bottom-0 start-0 d-none d-xxxl-flex">
+        <img src="assets/images/vector_rocket2.png" alt="vector_rocket2"
+            class="position-absolute d-none d-xxxl-flex bottom-0 end-0  pe-12 pb-10 fadeInTopLeft">
+        <img src="assets/images/cross2.png" alt="cross2"
+            class="position-absolute push_animat ms-lg-20 ps-4 top-0 start-50 pt-120 mt-20 d-none d-xxxl-flex">
     </div>
     <div class="container position-relative">
         <div class="row gy-10 gy-lg-0 justify-content-center justify-content-lg-between align-items-end">
@@ -1070,16 +1135,17 @@
                     <br>
                     <div class="col-4 mt-4" style="display: flex; justify-content: space-evenly; ">
                         <img style="border-radius:10px;" src="assets/images/_app store.png" alt="_app store">
-                        <img style="border-radius:10px; margin-left:20px;"
-                            src="assets/images/_google play store.png" alt="_google play store">
-                        <img style="border-radius:10px; margin-left:20px;"
-                            src="assets/images/_download APK.png" alt="_download APK">
+                        <img style="border-radius:10px; margin-left:20px;" src="assets/images/_google play store.png"
+                            alt="_google play store">
+                        <img style="border-radius:10px; margin-left:20px;" src="assets/images/_download APK.png"
+                            alt="_download APK">
                     </div>
                 </div>
             </div>
             <div class="col-8 col-sm-7 col-lg-6 col-xxl-5">
                 <div class="worldwide_thumb d-flex ms-lg-15 ms-xl-0">
-                    <img src="assets/images/tradersera logo on phone.png" class="max-xl-un" alt="TradersEra Trading app ">
+                    <img src="assets/images/tradersera logo on phone.png" class="max-xl-un"
+                        alt="TradersEra Trading app ">
                 </div>
             </div>
         </div>
@@ -1090,7 +1156,8 @@
         <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
             <div class="col-sm-10 col-lg-6 col-xxl-5 order-2 order-lg-0">
                 <div class="company-story__thumbs d-center">
-                    <img src="assets/images/deposite.png" class="cus-rounded-1 w-100" alt="TradersEra's Visa, Mastercard, wire transfer, or crypto  your funding ">
+                    <img src="assets/images/deposite.png" class="cus-rounded-1 w-100"
+                        alt="TradersEra's Visa, Mastercard, wire transfer, or crypto  your funding ">
                 </div>
             </div>
             <div class="col-lg-6 col-xxl-7">
@@ -1110,11 +1177,14 @@
                     </div>
                     <ul class=" d-flex   gap-md-3 mt-4">
                         <li><img style=" height:35px;" src="assets/images/icon/a. visa white _logo.png" alt="visa"></li>
-                        <li><img style=" height:35px;" src="assets/images/icon/a. mastercard.png" alt=" mastercard"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/a. mastercard.png" alt=" mastercard">
+                        </li>
                         <li><img style=" height:35px;" src="assets/images/icon/a.bitcoin-logo.png" alt="bitcoin"></li>
                         <li><img style=" height:35px;" src="assets/images/icon/Tether.png" alt="Tether"></li>
-                        <li><img style=" height:35px;" src="assets/images/icon/Perfect-Money- white logo.png" alt="Perfect"></li>
-                        <li><img style=" height:35px;" src="assets/images/icon/a. Wire Transfer white logo.png" alt="Wire"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/Perfect-Money- white logo.png"
+                                alt="Perfect"></li>
+                        <li><img style=" height:35px;" src="assets/images/icon/a. Wire Transfer white logo.png"
+                                alt="Wire"></li>
                         <li><img style=" height:35px;" src="assets/images/icon/Upi-Payment.png" alt="Payment"></li>
                     </ul>
                 </div>
@@ -1145,86 +1215,86 @@
     </div>
 </section> -->
 <script>
-$('.slider').each(function () {
-    var $this = $(this);
-    var $group = $this.find('.slide_group');
-    var $slides = $this.find('.slide');
-    var bulletArray = [];
-    var currentIndex = 0;
-    var timeout;
-    var animationDuration = 1200; // Adjust this value to control the animation speed
-    function move(newIndex) {
-        var animateLeftFirst, slideLeftFirst, animateLeftSecond, slideLeftSecond;
-        advance();
-        if ($group.is(':animated') || currentIndex === newIndex) {
-            return;
+    $('.slider').each(function () {
+        var $this = $(this);
+        var $group = $this.find('.slide_group');
+        var $slides = $this.find('.slide');
+        var bulletArray = [];
+        var currentIndex = 0;
+        var timeout;
+        var animationDuration = 1200; // Adjust this value to control the animation speed
+        function move(newIndex) {
+            var animateLeftFirst, slideLeftFirst, animateLeftSecond, slideLeftSecond;
+            advance();
+            if ($group.is(':animated') || currentIndex === newIndex) {
+                return;
+            }
+            bulletArray[currentIndex].removeClass('active');
+            bulletArray[newIndex].addClass('active');
+            if (newIndex > currentIndex) {
+                slideLeftFirst = '50%';
+                animateLeftFirst = '0%';
+                slideLeftSecond = '50%';
+                animateLeftSecond = '0%';
+            } else {
+                slideLeftFirst = '-100%';
+                animateLeftFirst = '0%';
+                slideLeftSecond = '-50%';
+                animateLeftSecond = '0%';
+            }
+            $slides.eq(newIndex).css({
+                display: 'block',
+                left: slideLeftSecond
+            });
+            $group.animate({
+                left: animateLeftFirst
+            }, animationDuration);
+            $slides.eq(newIndex).animate({
+                left: 0
+            }, animationDuration);
+            $slides.eq(currentIndex).css({
+                display: 'none',
+                left: 0
+            });
+            currentIndex = newIndex;
         }
-        bulletArray[currentIndex].removeClass('active');
-        bulletArray[newIndex].addClass('active');
-        if (newIndex > currentIndex) {
-            slideLeftFirst = '50%';
-            animateLeftFirst = '0%';
-            slideLeftSecond = '50%';
-            animateLeftSecond = '0%';
-        } else {
-            slideLeftFirst = '-100%';
-            animateLeftFirst = '0%';
-            slideLeftSecond = '-50%';
-            animateLeftSecond = '0%';
+        function advance() {
+            clearTimeout(timeout);
+            timeout = setTimeout(function () {
+                if (currentIndex < ($slides.length - 1)) {
+                    move(currentIndex + 1);
+                } else {
+                    move(0);
+                }
+            }, 7000); // Timeout between slides
         }
-        $slides.eq(newIndex).css({
-            display: 'block',
-            left: slideLeftSecond
-        });
-        $group.animate({
-            left: animateLeftFirst
-        }, animationDuration);
-        $slides.eq(newIndex).animate({
-            left: 0
-        }, animationDuration);
-        $slides.eq(currentIndex).css({
-            display: 'none',
-            left: 0
-        });
-        currentIndex = newIndex;
-    }
-    function advance() {
-        clearTimeout(timeout);
-        timeout = setTimeout(function () {
+        $('.next_btn').on('click', function () {
             if (currentIndex < ($slides.length - 1)) {
                 move(currentIndex + 1);
             } else {
                 move(0);
             }
-        }, 7000); // Timeout between slides
-    }
-    $('.next_btn').on('click', function () {
-        if (currentIndex < ($slides.length - 1)) {
-            move(currentIndex + 1);
-        } else {
-            move(0);
-        }
-    });
-    $('.previous_btn').on('click', function () {
-        if (currentIndex !== 0) {
-            move(currentIndex - 1);
-        } else {
-            move($slides.length - 1);
-        }
-    });
-    $.each($slides, function (index) {
-        var $button = $('<a class="slide_btn">&bull;</a>');
+        });
+        $('.previous_btn').on('click', function () {
+            if (currentIndex !== 0) {
+                move(currentIndex - 1);
+            } else {
+                move($slides.length - 1);
+            }
+        });
+        $.each($slides, function (index) {
+            var $button = $('<a class="slide_btn">&bull;</a>');
 
-        if (index === currentIndex) {
-            $button.addClass('active');
-        }
-        $button.on('click', function () {
-            move(index);
-        }).appendTo('.slide_buttons');
-        bulletArray.push($button);
+            if (index === currentIndex) {
+                $button.addClass('active');
+            }
+            $button.on('click', function () {
+                move(index);
+            }).appendTo('.slide_buttons');
+            bulletArray.push($button);
+        });
+        advance();
     });
-    advance();
-});
     /**This is just a demo to add the process classes**/
     $(document).ready(function ($) {
         $(".process-step").click(function () {

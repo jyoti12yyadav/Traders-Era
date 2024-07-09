@@ -1,18 +1,11 @@
+<iframe
+    src="https://fxpricing.com/fx-widget/ticker-tape-widget.php?id=1,20,39,19,1984,1975,1972,25,6729&border=show&speed=50&click_target=blank&theme=dark&tm-cr=212529&hr-cr=FFFFFF13&by-cr=28A745&sl-cr=DC3545&flags=circle&d_mode=regular&column=ask,bid,spread&lang=en&font=Arial, sans-serif"
+    width="100%" height="85" style="border: unset;margin-top:132px"></iframe> 
+
 <!doctype html>
 <html lang="en">
 <!-- Mirrored from templates.iqonic.design/coinex-dist/theme/ico/index-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 20 Apr 2024 07:56:48 GMT -->
 <head>
-
-
-
-
-<iframe src="https://fxpricing.com/fx-widget/ticker-tape-widget.php?id=1,2,3,5,14,20&d_mode=compact-name" width="100%" height="85" style="border: unset;"></iframe> <div id="fx-pricing-widget-copyright"> <span>Powered by </span><a href="https://fxpricing.com/" target="_blank">FX Pricing</a> </div> <style type="text/css"> #fx-pricing-widget-copyright{ text-align: center; font-size: 13px; font-family: sans-serif; margin-top: 10px; margin-bottom: 10px; color: #9db2bd; } #fx-pricing-widget-copyright a{ text-decoration: unset; color: #bb3534; font-weight: 600; } </style>
-
-
-
-
-
-
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -43,6 +36,7 @@
     </style>
 </head>
 <body data-spy="scroll" data-offset="80">
+    
     <!-- loading -->
     <div id="loading">
         <div id="loading-center">
