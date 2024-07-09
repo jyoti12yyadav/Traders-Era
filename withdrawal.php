@@ -130,6 +130,7 @@
                             <td>1-3 hours to approve the withdrawal and up to 30 minutes to transfer the funds.</td>
                             <td><button class="button-deposit"><a href="https://trading.tradersera.com/login"> WITHDRAW
                                     </a></button></td>
+                                    
                         </tr>
                         <tr>
                             <th scope="row"><img src="assets/images/icon-dw/a  logo Dogecoin.png" alt="mastercard"
