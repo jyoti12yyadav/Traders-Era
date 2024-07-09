@@ -2,6 +2,47 @@
 <html lang="en">
 <!-- Mirrored from templates.iqonic.design/coinex-dist/theme/ico/index-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 20 Apr 2024 07:56:48 GMT -->
 <head>
+
+
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+    <div class="tradingview-widget-container__widget"></div>
+    <div class="tradingview-widget-copyright"><a href="https://in.tradingview.com/" rel="noopener nofollow" target="_blank"><span class="blue-text">Track all markets on TradingView</span></a></div>
+    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-tickers.js" async>
+    {
+    "symbols": [
+      {
+        "proName": "FOREXCOM:SPXUSD",
+        "title": "S&P 500 Index"
+      },
+      {
+        "proName": "FOREXCOM:NSXUSD",
+        "title": "US 100 Cash CFD"
+      },
+      {
+        "proName": "FX_IDC:EURUSD",
+        "title": "EUR to USD"
+      },
+      {
+        "proName": "BITSTAMP:BTCUSD",
+        "title": "Bitcoin"
+      },
+      {
+        "proName": "BITSTAMP:ETHUSD",
+        "title": "Ethereum"
+      }
+    ],
+    "isTransparent": false,
+    "showSymbolLogo": true,
+    "colorTheme": "light",
+    "locale": "in"
+  }
+    </script>
+  </div>
+  <!-- TradingView Widget END -->
+
+
+
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -683,3 +724,4 @@
 </body>
 <!-- Mirrored from templates.iqonic.design/coinex-dist/theme/ico/index-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 20 Apr 2024 07:57:20 GMT -->
 </html>
+
