@@ -568,6 +568,9 @@
         <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
     </div>
 </div>
+
+
+
 <!--Trade On start-->
 <section class="pt-120 pb-120" style="background-color: #000;">
     <div class="container">
@@ -683,6 +686,9 @@
         </div>
     </div>
 </section>
+
+
+
 <!-- <section class="provide-world bg nb4-bg pt-120 pb-120  position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1 d-none d-md-flex">
         <img src="assets/images/button.png" alt="vector" class="position-absolute pt-6 pt-xl-15 previewShapeRevX">
@@ -789,11 +795,72 @@
 
 
 
+768 * 1023
 
 
+<!-- section 3-->
 
+<section class="pt-120 pb-120">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8 col-xxl-7">
+                <div class="heading__content mb-10 mb-lg-15 text-center">
+                    <h2 class="mb-5 mb-lg-6">Features Of TradersEra</h2>
+                </div>
+            </div>
+        </div>
 
+        <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">       
+            <div class="col-sm-6 col-lg-3 col-xxl-3 text-center">
+                <div class="company-story__part1 mb-lg-6">
+                    <img src="images/icon/withdrawal.png" class="img-fluid medium-image" alt="Quick Withdrawals">
+                    <div class="mt-4">
+                        <h3 class="mb-3">Quick Withdrawals</h3>
+                        <span>Simple access to your money at all times and places</span>
+                    </div>
+                </div>
 
+                <div class="company-story__part1 mt-15">
+                    <img src="images/icon/compatibility.png" class="img-fluid medium-image" alt="High Compatibility">
+                    <div class="mt-4">
+                        <h3 class="mb-3">High Compatibility</h3>
+                        <span>Cross-Device Compatibility, Works across multiple devices.</span>
+                    </div>
+                </div>
+            </div>
+
+           
+            <div class="col-sm-6 col-lg-6 col-xxl-6 text-center">
+                <img src="images/icon/featuresoftradersera.png" class="img-fluid medium-image" style="border: none;" alt="Middle Image">
+            </div>
+
+            
+            <div class="col-sm-6 col-lg-3 col-xxl-3 text-center">
+                <div class="company-story__part1 mb-lg-6">
+                    <img src="images/icon/stable.png" class="img-fluid medium-image" alt="Low and stable spreads">
+                    <div class="mt-4">
+                        <h3 class="mb-3">Low and stable spreads</h3>
+                        <span>Stable trading with tight spreads starting from 0 pips.</span>
+                    </div>
+                </div>
+
+                <div class="company-story__part1 mt-15">
+                    <img src="images/icon/fundingoptions.png" class="img-fluid medium-image" alt="Multiple Funding Options">
+                    <div class="mt-4">
+                        <h3 class="mb-3">Multiple Funding Options</h3>
+                        <span>Choose a method that works for you and start trading.</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<style>
+    .medium-image {
+        max-width: 350px; 
+    }
+</style>
 
 
 
