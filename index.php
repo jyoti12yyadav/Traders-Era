@@ -462,7 +462,7 @@
                                         with TradersEra
                                     </h1>
                                     <p class="fs-six-up fw_500 nb4-xxl-color" style="transform: scaleX(-1);">Trade
-                                        smarter with TradingEra's insights,
+                                        smarter with TradersEra's insights,
                                         maximizing your financial potential.</p>
                                     <div class="d-flex mt-8" style="transform: scaleX(-1);">
                                         <img class="mx-4" src="assets/images/icon/openai.png" alt="openai"
