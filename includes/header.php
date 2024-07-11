@@ -74,10 +74,14 @@
                     </div>
                 </div>
                 <div class="right-area position-relative  ms-0 d-end gap-1 gap-xl-4 d-none d-lg-flex">
-                    <div class="single-item" style="  margin-right: 10px; ">
+                    <!-- <div class="single-item" style="  margin-right: 10px; ">
                         <a href="javascript:void(Tawk_API.toggle())"
                             class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button"> Support </a>
-                    </div>
+                    </div> -->
+                <div class="single-item" style="margin-right: 10px; ">
+                        <a href="https://download.mql5.com/cdn/web/blackridge.trading.ltd/mt5/blackridgetrading5setup.exe"
+                            class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button">Download MT5</a>
+                    </div> 
                     <div class="single-item" style="  margin-right: 10px; ">
                         <a href="https://trading.tradersera.com/register"
                             class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button" target="new">
@@ -135,7 +139,7 @@
                                     Trading 
                                 </button>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="forex-cfds.php">Compare Accounts</a></li>
+                                <li><a class="dropdown-item" href="compare-accounts.php">Compare Accounts</a></li>
                                 <li><a class="dropdown-item" href="market-hours.php">Market Hours</a></li>
                                 <li><a class="dropdown-item" href="refer-a-friend.php">Refer a Friend</a></li>
                                 <li><a class="dropdown-item" href="bonus.php">50% Bonus</a></li>

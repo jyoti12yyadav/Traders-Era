@@ -147,7 +147,7 @@
                             <a class="n2-color" href="commodity.php">Commodity</a>
                         </li>
                         <li>
-                            <a class="n2-color" href="faq.php">Faq</a>
+                            <a class="n2-color" href="faq.php">FAQ's</a>
                         </li>
                     </ul>
                     <br>
@@ -257,6 +257,8 @@
                                 <li><a class="n2-color" href="risk-disclaimer.php">Risk Disclaimer</a></li>
                                 <li><a class="n2-color" href="privacy-policy.php">Privacy Policy</a></li>
                                 <li><a class="n2-color" href="aml-kyc.php">AML & KYC Policy</a></li>
+                                <li><a class="n2-color" href="IB-agreement.php">IB Agreement</a></li>
+                                <li><a class="n2-color" href="Refund-policy.php">Refund Policy</a></li>
                             </ul>
                             <ul class="social-area d-center gap-2 gap-md-3">
                                 <li><img style=" border-radius:17px;  height:35px;" src="assets/images/_app store.png">

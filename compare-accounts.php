@@ -379,15 +379,15 @@
                         <tr>
                             <th scope="col"
                                 style="background-color: #9ad953;color: black;text-align: center;font-size: 16px;padding:20px;display: table-cell;">
-                                Currency</th>
+                                </th>
                             <th scope="col"
-                                style="background-color: #F5C06D;color: black;text-align: center;font-size: 16px;padding:20px;display: table-cell;">
+                                style="background-color: #F5C06D;color: black;font-size: 16px;padding:20px;display: table-cell;">
                                 Standard</th>
                             <th scope="col"
-                                style="background-color: #F5C06D;color: black;text-align: center;font-size: 16px;padding:20px;display: table-cell;">
+                                style="background-color: #F5C06D;color: black;font-size: 16px;padding:20px;display: table-cell;">
                                 Pro </th>
                             <th scope="col"
-                                style="background-color: #F5C06D;color: black;text-align: center;font-size: 16px;padding:20px;display: table-cell;">
+                                style="background-color: #F5C06D;color: black;font-size: 16px;padding:20px;display: table-cell;">
                                 VIP</th>
                         </tr>
                     </thead>
@@ -426,65 +426,89 @@
                             <td>Leverage</td>
                             <td>Upto 400</td>
                             <td>Upto 200</td>
-                            <td> Minimum 10K in base currency</td>
+                            <td>Upto 100</td>
                             
                             
                         </tr>
                         <tr>
-                            <td>AUD/USD</td>
-                            <td>US$1</td>
-                            <td>0.3 Pips</td>
-                            <td> Minimum 10K in base currency</td>
+                            <td>Margin Call</td>
+                            <td>70%</td>
+                            <td>70%</td>
+                            <td>70%</td>
                             
                             
                         </tr>
                         <tr>
-                            <td>CAD/CHF</td>
-                            <td>CHF1</td>
-                            <td>1.9 Pips</td>
-                            <td>Minimum 10K in base currency</td>
+                            <td>Stop Out</td>
+                            <td>30%</td>
+                            <td>20%</td>
+                            <td>10%</td>
                            
                             
                         </tr>
                         <tr>
-                            <td>CAD/JPY</td>
-                            <td>¥100</td>
-                            <td>1.5 Pips</td>
-                            <td>Minimum 10K in base currency</td>
+                            <td>Execution</td>
+                            <td>Market</td>
+                            <td>Market</td>
+                            <td>Market</td>
                           
                             
                         </tr>
                         <tr>
-                            <td>CAD/SGD</td>
-                            <td> S$1</td>
-                            <td>2.3 Pips</td>
-                            <td>Minimum 10K in base currency</td>
+                            <td>Islamic Count</td>
+                            <td>NA</td>
+                            <td>NA</td>
+                            <td>Available**</td>
                             
                            
                         </tr>
                         <tr>
-                            <td>CHF/JPY</td>
-                            <td> ¥100</td>
-                            <td> 1.7 Pips</td>
-                            <td>Minimum 10K in base currency</td>
+                            <td>Suitable for</td>
+                            <td>Beginners</td>
+                            <td>Intermediate</td>
+                            <td>Professionals</td>
                             
                             
                         </tr>
                         <tr>
-                            <td>CHF/SGD</td>
-                            <td> S$1</td>
-                            <td>2.5 Pips</td>
-                            <td>Minimum 10K in base currency</td>
-                            
+                            <td>Personalized News</td>
+                            <td>X</td>
+                            <td>X</td>
+                            <td>Yes</td>                 
                         </tr>
 
+                        <tr>
+                            <td></td>
+                            <td>
+                                <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-2
+                                        mt-lg-1">
+                                        <a href="https://trading.tradersera.com/register"
+                                            class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center  py-lg-1 px-lg-2"
+                                            style="transform: scaleX(1);">Open an account
+                                        </a>
+                                </div>
+                            </td>
+
+                            <td><div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-2
+                                        mt-lg-1">
+                                        <a href="https://trading.tradersera.com/register"
+                                            class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center  py-lg-1 px-lg-2"
+                                            style="transform: scaleX(1);">Open an account
+                                        </a>
+                                </div>
+                            </td>
+                            <td><div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-2
+                                        mt-lg-1">
+                                        <a href="https://trading.tradersera.com/register"
+                                            class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center  py-lg-1 px-lg-2"
+                                            style="transform: scaleX(1);">Open an Account
+                                        </a>
+                                </div>
+                            </td>                 
+                        </tr>
                     </tbody>
                 </table>
             </div>
-        </div>
-        <div class="table-para">
-            <p>Trade foreign exchange (FX) with Contracts for Difference (CFDs) and experience the flexibility and
-                convenience it offers. With our FX CFDs.</p>
         </div>
     </div>
 </section>
