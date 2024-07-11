@@ -99,6 +99,8 @@
         </div>
     </div>
 </section>
+
+
 <section class="company-story position-relative z-0  pt-120 pb-120 ">
     <div class="animation position-absolute w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="null"
@@ -492,6 +494,10 @@
         </div>
     </div>
 </section>
+
+
+
+
 <section class="provide-world pt-60 position-relative z-0 mb-10 pt-10 pb-120" style="background-color: #000000;">
     <div class="container">
         <div class="row justify-content-center">
