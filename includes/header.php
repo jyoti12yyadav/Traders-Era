@@ -135,8 +135,7 @@
                                     Trading 
                                 </button>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="binary-trading.php">Binary Trading</a></li>
-                                <li><a class="dropdown-item" href="forex-cfds.php">Forex CFDs</a></li>
+                                <li><a class="dropdown-item" href="forex-cfds.php">Compare Accounts</a></li>
                                 <li><a class="dropdown-item" href="market-hours.php">Market Hours</a></li>
                                 <li><a class="dropdown-item" href="refer-a-friend.php">Refer a Friend</a></li>
                                 <li><a class="dropdown-item" href="bonus.php">50% Bonus</a></li>

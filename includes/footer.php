@@ -94,10 +94,7 @@
                     <h4 class="mb-6 mb-lg-8">Trading</h4>
                     <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
                         <li>
-                            <a class="n2-color d-flex align-items-center" href="binary-trading.php">Binary Trading</a>
-                        </li>
-                        <li>
-                            <a class="n2-color d-flex align-items-center" href="forex-cfds.php">Forex CFDs</a>
+                            <a class="n2-color d-flex align-items-center" href="forex-cfds.php">Compare Accounts</a>
                         </li>
                         <li>
                             <a class="dropdown-item" href="market-hours.php">Market Hours</a>

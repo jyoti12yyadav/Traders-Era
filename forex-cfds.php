@@ -363,5 +363,132 @@
         </div>
     </div>
 </section>
+
+
+
+<section class="company-story position-relative z-0  pt-120 pb-120 ">
+    <div class="animation position-absolute w-100 h-100 z-n1">
+        <img src="assets/images/star3.png" alt="null"
+            class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
+    </div>
+    <div class="container">
+        <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
+            <div class="container my-5 table-div" >
+                <table id="Record" class="table table-striped table-dark my-3">
+                    <thead>
+                        <tr>
+                            <th scope="col"
+                                style="background-color: #9ad953;color: black;text-align: center;font-size: 16px;padding:20px;display: table-cell;">
+                                Currency</th>
+                            <th scope="col"
+                                style="background-color: #F5C06D;color: black;text-align: center;font-size: 16px;padding:20px;display: table-cell;">
+                                Standard</th>
+                            <th scope="col"
+                                style="background-color: #F5C06D;color: black;text-align: center;font-size: 16px;padding:20px;display: table-cell;">
+                                Pro </th>
+                            <th scope="col"
+                                style="background-color: #F5C06D;color: black;text-align: center;font-size: 16px;padding:20px;display: table-cell;">
+                                VIP</th>
+                        </tr>
+                    </thead>
+                    <tbody class="justify-content-center text-start">
+                        <tr>
+                            <td>Platform</td>
+                            <td>MT5</td>
+                            <td>MT5</td>
+                            <td>MT5</td>
+                            
+                        </tr>
+                        <tr>
+                            <td>Minimum Deposit</td>
+                            <td>$50</td>
+                            <td>$500</td>
+                            <td>$1000</td>
+                            
+                        </tr>
+                        <tr>
+                            <td>Spread Pips</td>
+                            <td> 1.5 Pip</td>
+                            <td>1 Pip</td>
+                            <td>0 Pip</td>
+                           
+                           
+                        </tr>
+                        <tr>
+                            <td>Comissions</td>
+                            <td>USD 0 Per Side</td>
+                            <td>USD 3.5 Per Side</td>
+                            <td>USD 5 Per Side</td>
+                            
+                            
+                        </tr>
+                        <tr>
+                            <td>Leverage</td>
+                            <td>Upto 400</td>
+                            <td>Upto 200</td>
+                            <td> Minimum 10K in base currency</td>
+                            
+                            
+                        </tr>
+                        <tr>
+                            <td>AUD/USD</td>
+                            <td>US$1</td>
+                            <td>0.3 Pips</td>
+                            <td> Minimum 10K in base currency</td>
+                            
+                            
+                        </tr>
+                        <tr>
+                            <td>CAD/CHF</td>
+                            <td>CHF1</td>
+                            <td>1.9 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                           
+                            
+                        </tr>
+                        <tr>
+                            <td>CAD/JPY</td>
+                            <td>¥100</td>
+                            <td>1.5 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                          
+                            
+                        </tr>
+                        <tr>
+                            <td>CAD/SGD</td>
+                            <td> S$1</td>
+                            <td>2.3 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            
+                           
+                        </tr>
+                        <tr>
+                            <td>CHF/JPY</td>
+                            <td> ¥100</td>
+                            <td> 1.7 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            
+                            
+                        </tr>
+                        <tr>
+                            <td>CHF/SGD</td>
+                            <td> S$1</td>
+                            <td>2.5 Pips</td>
+                            <td>Minimum 10K in base currency</td>
+                            
+                        </tr>
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="table-para">
+            <p>Trade foreign exchange (FX) with Contracts for Difference (CFDs) and experience the flexibility and
+                convenience it offers. With our FX CFDs.</p>
+        </div>
+    </div>
+</section>
+
+
 <br>
 <?php include("includes/footer.php"); ?>
