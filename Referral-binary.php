@@ -283,7 +283,7 @@ Simply navigate to your account's "Invite a Friend" area to view your profits, w
                                 <div class="content-body pt-5">
                                     <p>Yes, indeed! It is very feasible to receive a commission from clients you have recommended that is greater than 20%.
 
-Simply send an email to support@TradersEra.com to get in touch with our helpful support staff to find out more and discuss the increased commission rates.
+Simply send an email to support@tradersera.com to get in touch with our helpful support staff to find out more and discuss the increased commission rates.
 </p>
                                 </div>
                             </div>
