@@ -407,7 +407,7 @@
                                     <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Trade Smart With AI Trading And
                                         Make Profit
                                     </h1>
-                                    <p class="fs-six-up fw_500 nb4-xxl-color">TradingEra helps you trade smarter with
+                                    <p class="fs-six-up fw_500 nb4-xxl-color">TradersEra helps you trade smarter with
                                         tools and insights, making navigating financial markets easier.</p>
                                     <div class="d-flex mt-8">
                                         <img class="mx-4" src="assets/images/icon/openai.png" alt="openai"

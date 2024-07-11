@@ -139,6 +139,7 @@
                                 <li><a class="dropdown-item" href="market-hours.php">Market Hours</a></li>
                                 <li><a class="dropdown-item" href="refer-a-friend.php">Refer a Friend</a></li>
                                 <li><a class="dropdown-item" href="bonus.php">50% Bonus</a></li>
+                                <li><a class="dropdown-item" href="Download-MT5.php">Download MT5</a></li>
                             </ul>
                         </li>
                         </mark>

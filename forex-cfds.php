@@ -274,7 +274,7 @@
             </div>
             <div class="col-md-6 col-xxl-3">
                 <div class="packages" style="background: #F5C06D;">
-                    <h3>Proffessional</h3>
+                    <h3>Professional</h3>
                 </div>
                 <div class="nb3-bg text-center cus-rounded-3 py-5 py-lg-10 px-4 px-lg-9">
                     <span><b>Base currency options</b></span>
