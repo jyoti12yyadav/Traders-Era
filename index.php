@@ -15,7 +15,7 @@
         margin-top: -45px;
     }
 
-    .slide_group {
+    .slide_group {``
         height: 100%;
         position: relative;
         width: 100%;
@@ -795,7 +795,6 @@
 
 
 
-768 * 1023
 
 
 <!-- section 3-->
