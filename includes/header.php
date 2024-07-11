@@ -79,8 +79,8 @@
                             class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button"> Support </a>
                     </div> -->
                 <div class="single-item" style="margin-right: 10px; ">
-                        <a href="https://download.mql5.com/cdn/web/blackridge.trading.ltd/mt5/blackridgetrading5setup.exe"
-                            class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button">Download MT5</a>
+                        <a href=""
+                            class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button">Download UTIP</a>
                     </div> 
                     <div class="single-item" style="  margin-right: 10px; ">
                         <a href="https://trading.tradersera.com/register"
