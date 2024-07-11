@@ -144,7 +144,7 @@
                             <a class="n2-color" href="commodity.php">Commodity</a>
                         </li>
                         <li>
-                            <a class="n2-color" href="faq.php">Faq</a>
+                            <a class="n2-color" href="faq.php">FAQ's</a>
                         </li>
                     </ul>
                     <br>
