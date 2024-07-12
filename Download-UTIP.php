@@ -231,13 +231,9 @@
 
 <section class="provide-world pt-120 position-relative z-0 mb-10 pb-120" style="background-color: #000000;">
     <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-8 col-xxl-7">
-                <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <!-- <span class="heading p1-color fs-five mb-5">Global Trust, Unbeatable Rates</span> -->
-                    <h2 class="mb-5 mb-lg-6">UTIP on Various Devices
-                    </h2>
-                </div>
+        <div class="col-lg-12 col-xxl-10">
+            <div class="heading__content mb-10 mb-lg-15 text-center">
+                <h2 class="mb-5 mb-lg-6"   style="margin-top:80px;">UTIP on Various Devices</h2>
             </div>
         </div>
         <div class="platform-container">
