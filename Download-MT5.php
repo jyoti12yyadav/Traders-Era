@@ -138,29 +138,29 @@
         </div>
     </div>
 </section>
-<section class="benefits hidden-xs" style= "margin-top: 80px;">
+<section class="benefits hidden-xs" style="margin-top: 80px;">
     <div class="benefits__container container">
-        <h2>
-            Platform Features:
-        </h2>
-
+        <h2>Platform Features:</h2>
         <div class="row">
             <div class="col-md-4">
-                <ul class="benefits__list"><br><br>
+                <ul class="benefits__list" style="list-style-type: disc; padding-left: 20px;">
+                    <br><br>
                     <li class="benefits__item"><p>Intuitive interface</p></li>
                     <li class="benefits__item"><p>Advanced charting tools</p></li>
                     <li class="benefits__item"><p>Market data and news (some features available with live accounts)</p></li>
                 </ul>
             </div>
             <div class="col-md-4">
-                <ul class="benefits__list"><br><br>
+                <ul class="benefits__list" style="list-style-type: disc; padding-left: 20px;">
+                    <br><br>
                     <li class="benefits__item"><p>Access to a wide range of financial instruments</p></li>
                     <li class="benefits__item"><p>Trading robots</p></li>
                     <li class="benefits__item"><p>Expanded market depth data</p></li>
                 </ul>
             </div>
             <div class="col-md-4">
-                <ul class="benefits__list"><br><br>
+                <ul class="benefits__list" style="list-style-type: disc; padding-left: 20px;">
+                    <br><br>
                     <li class="benefits__item"><p>Virtual Private Server support for improved stability and security</p></li>
                 </ul>
             </div>
@@ -168,46 +168,79 @@
     </div>
 </section>
 
+
 </section>
 <section class="provide-world pt-60 position-relative z-0 mb-10 pb-120">
     <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-12 col-xxl-10">
-                <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h2 class="mb-5 mb-lg-6">Benefits And Features Of Cryptocurrency </h2>
+        <div class="col-lg-12 col-xxl-10">
+            <div class="heading__content mb-10 mb-lg-15 text-center">
+                <!-- <h2 class="mb-5 mb-lg-6">Benefits And Features Of Cryptocurrency</h2> -->
+            </div>
+        </div>
+        <div class="platform-container">
+            <div class="container">
+            <h2 class="mb-4 text-center mt-10">MetaTrader 5 on Other Devices</h2>
+                <div class="platform row">
+                
+                    <div class="col-md-4 provide-world__card text-center nb3-bg py-5 px-4 px-lg-5">
+                    
+                        <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                            <img src="assets/images/icon/number-1.png" alt="null">
+                        </span>
+                        <h4 class="mt-5 mb-5">Cryptocurrency CFDs</h4>
+                        <p>Trade popular cryptocurrencies like Bitcoin, Ethereum, and more.</p>
+                        <button style="background-color: rgb(0, 173, 12); color: white; border: none; padding: 10px 20px; cursor: pointer;" onmouseover="this.style.backgroundColor='black'; this.style.color='white';" onmouseout="this.style.backgroundColor='rgb(154,217,83)'; this.style.color='white';">Learn More</button>
+                    </div>
+                    <div class="col-md-4 provide-world__card text-center nb3-bg py-5 px-4 px-lg-5">
+                    
+                        <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                            <img src="assets/images/icon/two.png" alt="null">
+                        </span>
+                        <h4 class="mt-5 mb-5">Leveraged Trading</h4>
+                        <p>Maximize potential gains with leverage</p>
+                    </div>
+                    <div class="col-md-4 provide-world__card text-center nb3-bg py-5 px-4 px-lg-5">
+                        <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                            <img src="assets/images/icon/number-3.png" alt="null">
+                        </span>
+                        <h4 class="mt-5 mb-5">Long and Short Trading</h4>
+                        <p>Benefit from market movements whether prices rise (long) or fall (short).</p>
+                    </div>
                 </div>
             </div>
         </div>
-        <div class="row gy-6 gy-xxl-0">
-            <!-- <div class="col-md-6 col-xxl-4"> -->
-                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/number-1.png" alt="null">
-                    </span>
-                    <h4 class="mt-5 mb-5">Cryptocurrency CFDs</h4>
-                    <p>Trade popular cryptocurrencies like Bitcoin, Ethereum, and more.</p>
-                </div>
-            <!-- </div> -->
-            <!-- <div class="col-md-6 col-xxl-4"> -->
-                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/two.png" alt="null">
-                    </span>
-                    <h4 class="mt-5 mb-5">Leveraged Trading</h4>
-                    <p>Maximize potential gains with leverage</p>
-                    <br>
-                </div>
-            <!-- </div> -->
-            <!-- <div class="col-md-6 col-xxl-4"> -->
-                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/number-3.png" alt="null">
-                    </span>
-                    <h4 class="mt-5 mb-5">Long and Short Trading</h4>
-                    <p>Benefit from market movements whether prices rise (long) or fall (short).</p>
-                </div>
-            <!-- </div> -->
-        </div>
-        
+    </div>
 </section>
+<section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
+    <div class="animation position-absolute top-0 center-0 w-100 h-100 z-n1">
+        <!-- <img src="assets/images/coin.png" alt="null" class="position-absolute d-none d-md-flex previewShapeRevX">
+        <img src="assets/images/coin_vector.png" alt="null"
+            class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX opacity-50"> -->
+    </div>
+    <div class="container">
+        <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
+            <div class="col-lg-6 col-xxl-5">
+                <div class="trade_on__content">
+                    <h2 class="mb-4 mb-lg-5">Financial Markets Trading Hours</h2>
+                    <p class="fs-six mx-ch">One significant advantage of Forex and commodities trading is that they all
+                        trade almost 24 hours a day, five days per week. That is from 5 p.m. New York on Sunday to 5
+                        p.m. New York on Friday, and practically every weekday of the year. That's a lot of trades and
+                        chances!
+                    </p>
+                    <br>
+                    <p class="fs-six mx-ch">Trading hours can also be seen below or inside the MetaTrader trading
+                        interface.
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-8 col-lg-6">
+                <div class="trade_on__thumbs d-flex justify-content-end">
+                    <img src="assets/images/financial markets trading hours.png"
+                        alt="Trade Forex CFDs on TradersEra Paltform">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 <?php include("includes/footer.php"); ?>
