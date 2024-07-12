@@ -249,7 +249,6 @@
     <li>Keep an eye on market trends, analyze instrument charts, and stay updated with the latest market news.</li>
 </ul>
 
-
                     </p>
                 </div>
             </div>
