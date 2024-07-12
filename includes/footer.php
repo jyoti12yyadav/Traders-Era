@@ -88,7 +88,7 @@
                 <br>
                 <div class="trading-img" class="mt-10;">
                     <h6 class="mb-6 ">Powered By
-                    <img style="height:50px; " src="assets/images/icon/tradingview white logo.png" alt=""></h6>
+                    <img style="height:45px; " src="assets/images/icon/tradingview white logo.png" alt=""></h6>
                 </div>
             </div>
 

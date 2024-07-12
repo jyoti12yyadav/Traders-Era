@@ -450,12 +450,12 @@
                 <div class="container">
                     <div
                         class="row pt-4 pt-lg-10 gy-12 gy-lg-0 justify-content-center justify-content-lg-between align-items-center row-reverse">
-                        <div class="col-sm-10 col-lg-6 col-xxl-5">
+                        <div class="col-sm-10 col-lg-6 col-xxl-6">
                             <div class="hero-section__thumbs hero-section-2 pb-xxl-10">
                                 <img src="assets/images/banner two.png" class="max-auto max-xxl-un" alt="banner two">
                             </div>
                         </div>
-                        <div class="col-lg-6 col-xxl-7">
+                        <div class="col-lg-6 col-xxl-6">
                             <div class="hero-card hero-card2 p1-xxl-bg2 pt-xl-20 pb-xl-20 position-relative">
                                 <div class="pt-xxl-10 pb-xxl-10">
                                     <div
