@@ -617,7 +617,7 @@
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
                                         <h3 class="">Trading Across Many Platforms</h3>
-                                        <span>Trading trading using simple options on several platforms</span>
+                                        <span>Trading using simple options on several platforms like MT5 & UTIP.</span>
                                     </div>
                                 </div>
                             </div>
