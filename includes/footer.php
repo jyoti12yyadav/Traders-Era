@@ -81,7 +81,7 @@
                             <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-youtube"></i></a>
                         </li> -->
                         <li><a class="d-center cus-rounded-1 fs-four" href="https://www.linkedin.com/company/tradersera_fxbroker"><i class="fa-brands fa-linkedin"></i></a></li>
-                                          <li><a class="d-center cus-rounded-1 fs-four" href="https://x.com/TradersEraFX"><i class="fa-brands fa-square-x-twitter"></i></a></li>
+                        <li><a class="d-center cus-rounded-1 fs-four" href="https://x.com/TradersEraFX"><i class="fab fa-x"></i></a></li>
                               
                     </ul>
                 </div>
@@ -283,7 +283,8 @@
                                 <li><a class="d-center cus-rounded-1 fs-four" href="#"><i
                                             class="ti ti-brand-youtube"></i></a></li> -->
                                            <li><a class="d-center cus-rounded-1 fs-four" href="https://www.linkedin.com/company/tradersera_fxbroker"><i class="fa-brands fa-linkedin"></i></a></li>
-                                          <li><a class="d-center cus-rounded-1 fs-four" href="https://x.com/TradersEraFX"><i class="fa-brands fa-square-x-twitter"></i></a></li>
+                                          <li><a class="d-center cus-rounded-1 fs-four" href="https://x.com/TradersEraFX"><i class="fab fa-x"></i>
+                                          </a></li>
                               
                             </ul>
                         </div>
