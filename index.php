@@ -393,10 +393,10 @@
     <div class="slide_viewer">
         <div class="slide_group">
             <div class="slide hero-section--secondary hero-section position-relative z-0 ">
-                <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
+                <!-- <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
                     <img src="assets/images/hero_vector.png" alt="hero_vector"
                         class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX">
-                </div>
+                </div> -->
                 <div class="container">
                     <div
                         class="row pt-4 pt-lg-10 gy-12 gy-lg-0 justify-content-center justify-content-lg-between align-items-center">
@@ -410,15 +410,14 @@
                                     </div>
                                     <span class="heading p1-max-xxl nb4-xxl-color fs-five mb-3">Master the
                                         Markets</span>
-                                    <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Trade Smart With AI Trading And
-                                        Make Profit
+                                    <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6"> UTIP Platform, with cutting edge technology.
                                     </h1>
-                                    <p class="fs-six-up fw_500 nb4-xxl-color">TradingEra helps you trade smarter with
-                                        tools and insights, making navigating financial markets easier.</p>
-                                        <!-- <div class="d-flex mt-8">
-                                            <img  class="mx-4" src="assets/images/icon/openai.png" alt="openai" style="height: 35px;">
-                                            <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png" alt="Equinix_logo" style="height: 40px;">
-                                        </div> -->
+                                    <p class="fs-six-up fw_500 nb4-xxl-color"> Polish your Trading skills with Zero Risk Demo Accounts.</p>
+                                        <div class="d-flex mt-8">
+                                      
+                                            <img  class="mx-4" src="assets/images/UTIP logo.png" alt="openai" style="height: 35px;">
+                                            <!-- <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png" alt="Equinix_logo" style="height: 40px;"> -->
+                                        </div>
                                        
                                     <div
                                         class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8 mt-lg-10">
@@ -435,7 +434,7 @@
                         </div>
                         <div class="col-sm-10 col-lg-6 col-xxl-5">
                             <div class="hero-section__thumbs pb-xxl-10">
-                                <img src="assets/images/banner one.png" class="max-auto max-xxl-un" alt="banner one">
+                                <img src="assets/images/fst banner.png" class="max-auto max-xxl-un" alt="banner one">
                             </div>
                         </div>
 
@@ -443,16 +442,16 @@
                 </div>
             </div>
             <div class="slide hero-section--secondary hero-section2 position-relative z-0 ">
-                <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
+                <!-- <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
                     <img src="assets/images/hero_vector.png" alt="hero_vector"
                         class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX">
-                </div>
+                </div> -->
                 <div class="container">
                     <div
                         class="row pt-4 pt-lg-10 gy-12 gy-lg-0 justify-content-center justify-content-lg-between align-items-center row-reverse">
                         <div class="col-sm-10 col-lg-6 col-xxl-5">
                             <div class="hero-section__thumbs hero-section-2 pb-xxl-10">
-                                <img src="assets/images/banner two.png" class="max-auto max-xxl-un" alt="banner two">
+                                <img src="assets/images/scd banner.png" class="max-auto max-xxl-un" alt="banner two">
                             </div>
                         </div>
                         <div class="col-lg-6 col-xxl-7">
@@ -466,17 +465,15 @@
                                         style="transform: scaleX(-1);">Empower Your
                                         Trades</span>
                                     <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6" style="transform: scaleX(-1);">
-                                       Trading Is Now Possible
-                                        with TradersEra
+                                    Range of Markets, with Safety & Service Quality.
 
                                     </h1>
-                                    <p class="fs-six-up fw_500 nb4-xxl-color" style="transform: scaleX(-1);">Trade
-                                        smarter with TradingEra's insights,
-                                        maximizing your financial potential.</p>
-                                        <!-- <div class="d-flex mt-8" style="transform: scaleX(-1);">
-                                            <img  class="mx-4" src="assets/images/icon/openai.png" alt="openai" style="height: 35px;">
-                                            <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png" alt="Equinix_logo" style="height: 35px;">
-                                        </div> -->
+                                    <p class="fs-six-up fw_500 nb4-xxl-color" style="transform: scaleX(-1);">Trade smarter with personalised support & market insights.</p>
+                                        <div class="d-flex mt-8" style="transform: scaleX(-1);">
+                                      
+                                            <img  class="mx-4" src="assets/images/UTIP logo.png" alt="openai" style="height: 35px;"></h3>
+                                            <!-- <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png" alt="Equinix_logo" style="height: 35px;"> -->
+                                        </div>
                                     <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8
                                         mt-lg-10">
                                         <a href="https://tradersera.com/prelogin.php"
@@ -611,7 +608,7 @@
                             </div>
                         </div>
                     </div>
-                    <!-- <div class="col-xxl-12 mt-8 mt-md-10 mt-xxl-13">
+                    <div class="col-xxl-12 mt-8 mt-md-10 mt-xxl-13">
                         <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
                             <div class="row">
                                 <div class="col-lg-2 d-flex align-items-center">
@@ -619,13 +616,13 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">Open AI and AI for Trading</h3>
-                                        <span>Use AI for Investment Management and Trading</span>
+                                        <h3 class="">Trading Across Many Platforms</h3>
+                                        <span>Trading trading using simple options on several platforms</span>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    </div> -->
+                    </div>
                     <div class="col-xxl-12 mt-8 mt-md-10 mt-xxl-13">
                         <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
                             <div class="row">
@@ -911,7 +908,7 @@
                     <h4>Fund your trading account using a wide range of funding methods.</h4>
                 </div>
             </div>
-            <!-- <div class="col-md-6 col-xxl-3">
+            <div class="col-md-6 col-xxl-3">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/number-4.png" alt="number-4">
@@ -920,7 +917,7 @@
                     <h4>Start trading with binary,spot and AI trading platform.</h4>
                     <br>
                 </div>
-            </div> -->
+            </div>
         </div>
         <br>
         <br>

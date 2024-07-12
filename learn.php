@@ -143,7 +143,7 @@
                     <div class="row ms-xl-3 ms-xxl-10">
                         <div class="col-md-6 col-xxl-12">
                             <div class="provide-world__card text-start cus-rounded-1 py-5 px-4 px-lg-9">
-                               <h2 class="mt-5 mb-5 offers-title">What are binary options and how do they work?</h2>
+                               <h2 class="mt-5 mb-5 offers-title">What are options and how do they work?</h2>
                                <hr>
                                <a href="learn-binary.php" class="cmn-btn secondary-alt ms-auto fs-five nb4-xxl-bg gap-2 align-items-center  py-2 px-4 py-lg-3 px-lg-5" style="--top: 48.109375px; --left: 114.5625px;">Learn More<i class="ti ti-arrow-right fs-four"></i></a>
                             </div>

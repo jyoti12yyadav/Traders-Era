@@ -84,7 +84,7 @@
                         <br>
                         <h1 style="color: #9ad953;">Cryptocurrency Ecosystem for Trading & Investments </h1>
                         <br>
-                        <h4 style="color: #9ad953;">Trade Binary Options, Manage Crypto & Invest using multiple programs</h4>
+                        <h4 style="color: #9ad953;">Trade, Manage Crypto & Invest using multiple programs</h4>
                         <br>
                         <div class=" mt-7 mt-lg-4 d-flex">
                             <a href="https://trading.tradersera.com/login" type="submit"
