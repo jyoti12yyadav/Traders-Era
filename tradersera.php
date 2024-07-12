@@ -240,6 +240,8 @@
             </div>
         </div>
 </section>
+
+<!--
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0" style="background-color:#000">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="null"
@@ -277,6 +279,9 @@
             </div>
         </div>
 </section>
+
+-->
+
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="null"
