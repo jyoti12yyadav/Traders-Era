@@ -3089,12 +3089,12 @@ iframe {
     }
 }
 
-.provide-world.bg {
+/* .provide-world.bg {
     background: url("../images/bg.png") no-repeat center;
     background-size: cover
-}
+} */
 
-.provide-world .provide-world__card {
+/* .provide-world .provide-world__card {
     transition: var(--transition)
 }
 
@@ -3105,7 +3105,7 @@ iframe {
 
 .provide-world .provide-world__card.secondary i {
     transition: var(--transition)
-}
+} */
 
 /* .provide-world .provide-world__card:hover {
     background: rgba(var(--p1), 1)
@@ -3164,7 +3164,7 @@ iframe {
     position: absolute;
     bottom: 0;
     left: 0;
-    background: rgba(var(--a2), 1);
+    /* background: rgba(var(--a2), 1); */
     height: 38%;
     width: 100%;
     z-index: -2
