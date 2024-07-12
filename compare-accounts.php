@@ -80,45 +80,8 @@
         </div>
     </div>
 </section>
-<section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0" style="background-color: #141414;">
-    <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-        <img src="assets/images/star3.png" alt="vector"
-            class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
-    </div>
-    <div class="container">
-        <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
-            <div class="col-10 col-sm-8 col-md-7 col-lg-6 col-xxl-5 order-2 order-lg-0">
-                <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/what is CFD.png"
-                        alt="Binary Option contracts with the EUR/USD currency pair">
-                </div>
-            </div>
-            <div class="col-lg-6 col-xxl-6">
-                <div class="trade_on__content">
-                    <h2 class="mb-4 mb-lg-5">What is CFD trading?</h2>
-                    <p class="fs-six ">A contract for difference (CFD) allows you to trade on the price movement of an
-                        item without purchasing the actual asset.
-                    </p>
-                    <br>
-                </div>
-                <div class="col-lg-6 col-xxl-8">
-                    <div class="trade_on__content">
-                        <h2 class="mb-4 mb-lg-4">Benefits To Trade CFD’s With Us</h2>
-                        <p class="fs-six "><b>High leverage :</b> Enables you to open larger positions while maintaining
-                            a lower balance in your trading account. The bigger the leverage, the less money you'll
-                            require.
-                        </p><br>
-                        <p class="fs-six "><b>Tight spreads :</b> The spread is the difference between the purchase and
-                            sale prices. The narrower the gap, the lower the cost of entering the market.
-                        </p>
-                        <br>
-                        <br>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+
+
 <section class="provide-world position-relative z-0 pb-120 pt-120" style="background-color: #000000;">
     <div class="container">
         <div class="row gy-6 gy-xxl-0">
@@ -161,209 +124,6 @@
         </div>
     </div>
 </section>
-<section class="provide-world pt-120 pb-120  position-relative z-0">
-    <div class="container">
-        <div class="row gy-6 gy-xxl-0">
-            <h2 class=" mb-lg-10 d-flex justify-content-center ">Trading account types</h2>
-            <div class="col-md-6 col-xxl-3 ">
-                <div class="packages">
-                    <h3>Starter</h3>
-                </div>
-                <div class="nb3-bg text-center cus-rounded-3 py-5 py-lg-10 px-4 px-lg-9">
-                    <span><b>Base currency options</b></span> <br>
-                    <p>USD, GBP, EUR
-                        <hr>
-                    </p>
-                    <span><b>Assets</b></span> <br> <br>
-                    <p>Crypto
-                        <hr>
-                    </p>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>Spreads from
-                            </b></span>
-                        <p class="package-para">1.0</p>
-                    </div>
-                    <hr>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>Leverage</b></span>
-                        <p class="package-para">500</p>
-                    </div>
-                    <hr>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>Hedging</b></span><img
-                            src="assets/images/icon/check-1.png" alt="check-1"></div>
-                    <hr>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>Binary</b></span>
-                        <p class="package-para">Yes</p>
-                    </div>
-                    <hr>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>AI
-                                Trader</b></span><img src="assets/images/icon/check-1.png" alt="check-1"></div>
-                    <hr>
-                    <br>
-                </div>
-            </div>
-            <div class="col-md-6 col-xxl-3">
-                <div class="packages" style="background: #F5C06D;">
-                    <h3>Standard</h3>
-                </div>
-                <div class="nb3-bg text-center cus-rounded-3 py-5 py-lg-10 px-4 px-lg-9">
-                    <span><b>Base currency options</b></span>
-                    <p>USD, GBP, EUR
-                        <hr>
-                    </p>
-                    <span><b>Assets</b></span>
-                    <p>Crypto, Stocks, Forex,
-                        Commodities, Indices
-                        <hr>
-                    </p>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>Spreads from
-                            </b></span>
-                        <p class="package-para">0.6</p>
-                    </div>
-                    <hr>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>Leverage</b></span>
-                        <p class="package-para">200</p>
-                    </div>
-                    <hr>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>Hedging</b></span><img
-                            src="assets/images/icon/check-1.png" alt="check-1"></div>
-                    <hr>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>Binary</b></span>
-                        <p class="package-para">Yes</p>
-                    </div>
-                    <hr>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>AI
-                                Trader</b></span><img src="assets/images/icon/check-1.png" alt="check-1"></div>
-                    <hr>
-                    <br>
-                </div>
-            </div>
-            <div class="col-md-6 col-xxl-3">
-                <div class="packages">
-                    <h3>Advanced</h3>
-                </div>
-                <div class="nb3-bg text-center cus-rounded-3 py-5 py-lg-10 px-4 px-lg-9">
-                    <span><b>Base currency options</b></span>
-                    <p>USD, GBP, EUR
-                        <hr>
-                    </p>
-                    <span><b>Assets</b></span>
-                    <p>Crypto, Stocks, Forex,
-                        Commodities, Indices
-                        <hr>
-                    </p>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>Spreads from
-                            </b></span>
-                        <p class="package-para">0.4</p>
-                    </div>
-                    <hr>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>Leverage</b></span>
-                        <p class="package-para">200</p>
-                    </div>
-                    <hr>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>Hedging</b></span><img
-                            src="assets/images/icon/check-1.png" alt="check-1"></div>
-                    <hr>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>Binary</b></span>
-                        <p class="package-para">Yes</p>
-                    </div>
-                    <hr>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>AI
-                                Trader</b></span><img src="assets/images/icon/check-1.png" alt="check-1"></div>
-                    <hr>
-                    <br>
-                </div>
-            </div>
-            <div class="col-md-6 col-xxl-3">
-                <div class="packages" style="background: #F5C06D;">
-                    <h3>Professional</h3>
-                </div>
-                <div class="nb3-bg text-center cus-rounded-3 py-5 py-lg-10 px-4 px-lg-9">
-                    <span><b>Base currency options</b></span>
-                    <p>USD, GBP, EUR
-                        <hr>
-                    </p>
-                    <span><b>Assets</b></span>
-                    <p>Crypto, Stocks, Forex,
-                        Commodities, Indices
-                        <hr>
-                    </p>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>Spreads from
-                            </b></span>
-                        <p class="package-para">0</p>
-                    </div>
-                    <hr>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>Leverage</b></span>
-                        <p class="package-para">100</p>
-                    </div>
-                    <hr>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>Hedging</b></span><img
-                            src="assets/images/icon/check-1.png" alt="check-1"></div>
-                    <hr>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>Binary</b></span>
-                        <p class="package-para">Yes</p>
-                    </div>
-                    <hr>
-                    <div class=" d-flex justify-content-xxl-between align-items-center"><span><b>AI
-                                Trader</b></span><img src="assets/images/icon/check-1.png" alt="check-1"></div>
-                    <hr>
-                    <br>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="provide-world position-relative z-0 pb-120">
-    <div class="container">
-        <div class="row gy-6 gy-xxl-0">
-            <div class="col-md-6 col-xxl-4">
-                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/profits.png" alt="stock-market">
-                    </span>
-                    <h3 class="mt-5 mb-5">High Leverage
-                    </h3>
-                    <p>Utilize leverage of up to 1:1000 for trading
-                    </p>
-                    <br>
-                    <br>
-                </div>
-            </div>
-            <div class="col-md-6 col-xxl-4">
-                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/sales-marketing.png" alt="stock-market">
-                    </span>
-                    <h3 class="mt-5 mb-5">Fast order execution
-                    </h3>
-                    <p>Trades are typically executed within milliseconds, with minimal slippage
-                    </p>
-                    <br>
-                </div>
-            </div>
-
-            <div class="col-md-6 col-xxl-4">
-                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/growth.png" alt="stock-market">
-                    </span>
-                    <h3 class="mt-5 mb-5">
-                        Micro lot trading
-                    </h3>
-                    <p>Begin trading from just $0.10 per pip, perfect for smaller accounts and improved risk management.
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section>
-    <div class="container">
-    <div class="table-para-2">       
-         <p>Your all-in-one online platform for binary and Forex trading. Say goodbye to cumbersome downloads and installations. With our user interface and wide range of tools you'll have all the support to make informed decisions and maximize your profits. Trade Smarter, Not Harder
-</p>
-        </div>
-    </div>
-</section>
-
 
 
 <section class="company-story position-relative z-0  pt-120 pb-120 ">
@@ -394,8 +154,8 @@
                     <tbody class="justify-content-center text-start">
                         <tr>
                             <td>Platform</td>
-                            <td>MT5</td>
-                            <td>MT5</td>
+                            <td>UTIP</td>
+                            <td>UTIP</td>
                             <td>MT5</td>
                             
                         </tr>
@@ -403,7 +163,7 @@
                             <td>Minimum Deposit</td>
                             <td>$50</td>
                             <td>$500</td>
-                            <td>$1000</td>
+                            <td>$2500</td>
                             
                         </tr>
                         <tr>
@@ -512,6 +272,67 @@
         </div>
     </div>
 </section>
+
+
+<section class="provide-world position-relative z-0 pb-120">
+    <div class="container">
+        <div class="row gy-6 gy-xxl-0">
+            <div class="col-md-6 col-xxl-4">
+                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/profits.png" alt="stock-market">
+                    </span>
+                    <h3 class="mt-5 mb-5">High Leverage
+                    </h3>
+                    <p>Utilize leverage of up to 1:1000 for trading
+                    </p>
+                    <br>
+                    <br>
+                </div>
+            </div>
+            <div class="col-md-6 col-xxl-4">
+                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/sales-marketing.png" alt="stock-market">
+                    </span>
+                    <h3 class="mt-5 mb-5">Fast order execution
+                    </h3>
+                    <p>Trades are typically executed within milliseconds, with minimal slippage
+                    </p>
+                    <br>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-xxl-4">
+                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/growth.png" alt="stock-market">
+                    </span>
+                    <h3 class="mt-5 mb-5">
+                        Micro lot trading
+                    </h3>
+                    <p>Begin trading from just $0.10 per pip, perfect for smaller accounts and improved risk management.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+<section>
+    <div class="container">
+    <div class="table-para-2">       
+         <p>Your all-in-one online platform for binary and Forex trading. Say goodbye to cumbersome downloads and installations. With our user interface and wide range of tools you'll have all the support to make informed decisions and maximize your profits. Trade Smarter, Not Harder
+</p>
+        </div>
+    </div>
+</section>
+
+
 
 
 <br>
