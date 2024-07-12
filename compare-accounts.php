@@ -326,7 +326,7 @@
 <section>
     <div class="container">
     <div class="table-para-2">       
-         <p>Your all-in-one online platform for binary and Forex trading. Say goodbye to cumbersome downloads and installations. With our user interface and wide range of tools you'll have all the support to make informed decisions and maximize your profits. Trade Smarter, Not Harder
+         <p>Your all-in-one online platform for Forex trading. Say goodbye to cumbersome downloads and installations. With our user interface and wide range of tools you'll have all the support to make informed decisions and maximize your profits. Trade Smarter, Not Harder
 </p>
         </div>
     </div>
