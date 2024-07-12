@@ -65,27 +65,30 @@
                     <br>
                     <ul class="social-area d-center gap-2 gap-md-3">
                         <li>
-                            <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-facebook"></i></a>
+                            <a class="d-center cus-rounded-1 fs-four" href="https://www.facebook.com/TradersEra"><i class="ti ti-brand-facebook"></i></a>
                         </li>
-                        <li>
+                        <!-- <li>
                             <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-twitch"></i></a>
-                        </li>
+                        </li> -->
                         <li>
-                            <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-instagram"></i></a>
+                            <a class="d-center cus-rounded-1 fs-four" href="https://www.instagram.com/tradersera_fxbroker/"><i class="ti ti-brand-instagram"></i></a>
                         </li>
-                        <li>
+                        <!-- <li>
                             <a class="d-center cus-rounded-1 fs-four" href="#"><i
                                     class="ti ti-brand-discord-filled"></i></a>
-                        </li>
-                        <li>
+                        </li> -->
+                        <!-- <li>
                             <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-youtube"></i></a>
-                        </li>
+                        </li> -->
+                        <li><a class="d-center cus-rounded-1 fs-four" href="https://www.linkedin.com/company/tradersera_fxbroker"><i class="fa-brands fa-linkedin"></i></a></li>
+                                          <li><a class="d-center cus-rounded-1 fs-four" href="https://x.com/TradersEraFX"><i class="fa-brands fa-square-x-twitter"></i></a></li>
+                              
                     </ul>
                 </div>
                 <br>
                 <div class="trading-img" class="mt-10;">
-                    <h5 class="mb-6 ">Powered By</h5>
-                    <img style="height:50px; " src="assets/images/icon/tradingview white logo.png" alt="">
+                    <h6 class="mb-6 ">Powered By
+                    <img style="height:50px; " src="assets/images/icon/tradingview white logo.png" alt=""></h6>
                 </div>
             </div>
 
@@ -269,16 +272,19 @@
                                         src="assets/images/_download APK.png"></li>
                             </ul>
                             <ul class="social-area d-center gap-2 gap-md-3">
-                                <li><a class="d-center cus-rounded-1 fs-four" href="#"><i
+                                <li><a class="d-center cus-rounded-1 fs-four" href="https://www.facebook.com/TradersEra"><i
                                             class="ti ti-brand-facebook"></i></a></li>
-                                <li><a class="d-center cus-rounded-1 fs-four" href="#"><i
-                                            class="ti ti-brand-twitch"></i></a></li>
-                                <li><a class="d-center cus-rounded-1 fs-four" href="#"><i
+                                <!-- <li><a class="d-center cus-rounded-1 fs-four" href="#"><i
+                                            class="ti ti-brand-twitch"></i></a></li> -->
+                                <li><a class="d-center cus-rounded-1 fs-four" href="https://www.instagram.com/tradersera_fxbroker/"><i
                                             class="ti ti-brand-instagram"></i></a></li>
-                                <li><a class="d-center cus-rounded-1 fs-four" href="#"><i
+                                <!-- <li><a class="d-center cus-rounded-1 fs-four" href="#"><i
                                             class="ti ti-brand-discord-filled"></i></a></li>
                                 <li><a class="d-center cus-rounded-1 fs-four" href="#"><i
-                                            class="ti ti-brand-youtube"></i></a></li>
+                                            class="ti ti-brand-youtube"></i></a></li> -->
+                                           <li><a class="d-center cus-rounded-1 fs-four" href="https://www.linkedin.com/company/tradersera_fxbroker"><i class="fa-brands fa-linkedin"></i></a></li>
+                                          <li><a class="d-center cus-rounded-1 fs-four" href="https://x.com/TradersEraFX"><i class="fa-brands fa-square-x-twitter"></i></a></li>
+                              
                             </ul>
                         </div>
                     </div>
