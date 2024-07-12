@@ -43,8 +43,8 @@
             <div class="row gy-6 w-100 text-center text-sm-start align-items-center justify-content-sm-between">
                 <div class="col-sm-8">
                     <h4>Deposit $10 at TradersEra and Start Trading.</h4>
-                    <p class="fs-six-up fw_500 mt-5">Trade crypto, forex and use AI for Investments.
-                    </p>
+                    <!-- <p class="fs-six-up fw_500 mt-5">Trade crypto, forex and use AI for Investments.
+                    </p> -->
                 </div>
                 <div class="col-sm-4 text-sm-end">
                     <a href="https://trading.tradersera.com/register"

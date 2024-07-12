@@ -135,9 +135,9 @@
         </div>
     </div>
 </section>
-<section class="benefits hidden-xs" style="margin-top: 80px;">
+<section class="benefits hidden-xs pb-120 pt-120" >
     <div class="benefits__container container">
-        <h2>Platform Features:</h2>
+        <h2>Platform Features</h2>
         <div class="row">
             <div class="col-md-4">
                 <ul class="benefits__list" style="list-style-type: disc; padding-left: 20px;">
@@ -167,11 +167,15 @@
 
 <!-- <div class="provide-world__card text-center mt-10" style="padding-left:50px; font-size: 21px;">MetaTrader 5 on Various Devices</div> -->
 </section>
-<section class="provide-world pt-60 position-relative z-0 mb-10 pb-120" >
+<section class="provide-world pt-60 position-relative z-0 mb-10 pb-120 pt-120 " style="background-color: #000000;"  >
     <div class="container">
-        <div class="col-lg-12 col-xxl-10">
-            <div class="heading__content mb-10 mb-lg-15 text-center">
-                <h2 class="mb-5 mb-lg-6"   style="margin-top:80px;">MetaTrader 5 on Various Devices</h2>
+    <div class="row justify-content-center">
+            <div class="col-lg-8 col-xxl-7">
+                <div class="heading__content mb-10 mb-lg-15 text-center">
+                    <!-- <span class="heading p1-color fs-five mb-5">Global Trust, Unbeatable Rates</span> -->
+                    <h2 class="mb-5 mb-lg-6">MetaTrader 5 on Various Devices
+                    </h2>
+                </div>
             </div>
         </div>
         <div class="platform-container">
@@ -242,7 +246,7 @@
     color: white !important; /* Keeps the text color unchanged on hover */
 }
 </style>
-<section class="trade_on a2-bg pt-120 pb-120 position-relative z-0" style="color:141414;">
+<section class="trade_on a2-bg pt-120 pb-120 position-relative z-0" style="background-color: #141414;">
     <div class="animation position-absolute top-0 center-0 w-100 h-100 z-n1">
         <!-- <img src="assets/images/coin.png" alt="null" class="position-absolute d-none d-md-flex previewShapeRevX">
         <img src="assets/images/coin_vector.png" alt="null"
@@ -264,7 +268,6 @@
     <li>Explore trading and investing opportunities in stocks, ETFs, and CFDs across various asset classes and more.</li>
     <li>Keep an eye on market trends, analyze instrument charts, and stay updated with the latest market news.</li>
 </ul>
-
 
                     </p>
                 </div>
