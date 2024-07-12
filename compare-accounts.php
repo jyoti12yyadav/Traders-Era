@@ -239,6 +239,13 @@
 
                         <tr>
                             <td></td>
+                            <td style="text-align:center; font-size: 25px; margin-left:100px; letter-spacing: 3px;">Powered by Tradersera</td>
+                            <td></td>
+                            <td style="font-size: 25px; letter-spacing: 3px;">Powered by BlackRidge</td>                 
+                        </tr>
+
+                        <tr>
+                            <td></td>
                             <td>
                                 <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-2
                                         mt-lg-1">
