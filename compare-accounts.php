@@ -239,19 +239,12 @@
 
                         <tr>
                             <td></td>
-                            <td style="text-align:center; font-size: 25px; margin-left:100px; letter-spacing: 3px;">Powered by Tradersera</td>
-                            <td></td>
-                            <td style="font-size: 25px; letter-spacing: 3px;">Powered by BlackRidge</td>                 
-                        </tr>
-
-                        <tr>
-                            <td></td>
                             <td>
                                 <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-2
                                         mt-lg-1">
                                         <a href="https://trading.tradersera.com/register"
-                                            class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center  py-lg-1 px-lg-2"
-                                            style="transform: scaleX(1);">Open an account
+                                            class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center  py-lg-1 px-lg-2 "
+                                            style="transform: scaleX(1); background-color: #9ad953; color: #000000;">Open an account
                                         </a>
                                 </div>
                             </td>
@@ -260,7 +253,7 @@
                                         mt-lg-1">
                                         <a href="https://trading.tradersera.com/register"
                                             class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center  py-lg-1 px-lg-2"
-                                            style="transform: scaleX(1);">Open an account
+                                            style="transform: scaleX(1); background-color: #9ad953; color: #000000;">Open an account
                                         </a>
                                 </div>
                             </td>
@@ -268,7 +261,7 @@
                                         mt-lg-1">
                                         <a href="https://trading.tradersera.com/register"
                                             class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center  py-lg-1 px-lg-2"
-                                            style="transform: scaleX(1);">Open an Account
+                                            style="transform: scaleX(1); background-color: #9ad953; color: #000000;">Open an Account
                                         </a>
                                 </div>
                             </td>                 
