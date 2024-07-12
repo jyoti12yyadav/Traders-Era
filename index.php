@@ -367,6 +367,13 @@
     .pt-120 {
         padding-top: 60px !important;
     }
+
+    .display-two{
+      
+        font-size: 45px;
+        font-weight: 700;
+
+    }
 </style>
 
 
@@ -389,26 +396,26 @@
     <div class="slide_viewer">
         <div class="slide_group">
             <div class="slide hero-section--secondary hero-section position-relative z-0 ">
-                <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
+                <!-- <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
                     <img src="assets/images/hero_vector.png" alt="hero_vector"
                         class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX">
-                </div>
+                </div> -->
                 <div class="container">
                     <div
                         class="row pt-4 pt-lg-10 gy-12 gy-lg-0 justify-content-center justify-content-lg-between align-items-center">
-                        <div class="col-lg-6 col-xxl-7">
+                        
+                        <div class="col-lg-6 col-xxl-6">
                             <div class="hero-card p1-xxl-bg pt-xl-20 pb-xl-20 position-relative">
                                 <div class="pt-xxl-10 pb-xxl-10">
                                     <div
                                         class="first d-center cus-z1 position-absolute end-0 top-0 d-none d-xxl-flex  me-lg-10 mt-lg-10">
                                     </div>
-                                    <span class="heading p1-max-xxl nb4-xxl-color fs-five mb-3">Master the
-                                        Markets</span>
-                                    <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Trade Smart With AI Trading And
-                                        Make Profit
+                                    <!-- <span class="heading p1-max-xxl nb4-xxl-color fs-five mb-3">Master the
+                                        Markets</span> -->
+                                    <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Trade Forex, CFDs, Commodities, Indices, Currency Options, and many others
                                     </h1>
-                                    <p class="fs-six-up fw_500 nb4-xxl-color">TradersEra helps you trade smarter with
-                                        tools and insights, making navigating financial markets easier.</p>
+                                    <!-- <p class="fs-six-up fw_500 nb4-xxl-color">TradersEra helps you trade smarter with
+                                        tools and insights, making navigating financial markets easier.</p> -->
                                     <div class="d-flex mt-8">
                                         <img class="mx-4" src="assets/images/icon/openai.png" alt="openai"
                                             style="height: 35px;">
@@ -427,19 +434,19 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-10 col-lg-6 col-xxl-5">
+                        <div class="col-sm-10 col-lg-6 col-xxl-6">
                             <div class="hero-section__thumbs pb-xxl-10">
-                                <img src="assets/images/banner one.png" class="max-auto max-xxl-un" alt="banner one">
+                                <img src="assets/images/first banner.png" class="max-auto max-xxl-un" alt="banner one" >
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="slide hero-section--secondary hero-section2 position-relative z-0 ">
-                <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
+                <!-- <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
                     <img src="assets/images/hero_vector.png" alt="hero_vector"
                         class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX">
-                </div>
+                </div> -->
                 <div class="container">
                     <div
                         class="row pt-4 pt-lg-10 gy-12 gy-lg-0 justify-content-center justify-content-lg-between align-items-center row-reverse">
@@ -455,15 +462,14 @@
                                         class=" first d-center cus-z1 position-absolute end-0 top-0 d-none d-xxl-flex  me-lg-10 mt-lg-10">
                                     </div>
                                     <span class="heading p1-max-xxl nb4-xxl-color fs-five mb-3"
-                                        style="transform: scaleX(-1);">Empower Your
-                                        Trades</span>
+                                        style="transform: scaleX(-1);">Train your inner Trader</span>
                                     <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6" style="transform: scaleX(-1);">
-                                        Binary Trading Is Now Possible
-                                        with TradersEra
+                                    Learn to trade with Demo Account and Free Educational Resources
+
                                     </h1>
-                                    <p class="fs-six-up fw_500 nb4-xxl-color" style="transform: scaleX(-1);">Trade
+                                    <!-- <p class="fs-six-up fw_500 nb4-xxl-color" style="transform: scaleX(-1);">Trade
                                         smarter with TradersEra's insights,
-                                        maximizing your financial potential.</p>
+                                        maximizing your financial potential.</p> -->
                                     <div class="d-flex mt-8" style="transform: scaleX(-1);">
                                         <img class="mx-4" src="assets/images/icon/openai.png" alt="openai"
                                             style="height: 35px;">
@@ -487,6 +493,27 @@
                     </div>
                 </div>
             </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
         </div>
     </div>
 </div><!-- End // .slider -->
