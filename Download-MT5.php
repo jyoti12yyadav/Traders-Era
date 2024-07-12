@@ -224,12 +224,27 @@
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                             <img src="assets/images/icon/number-1.png" alt="null">
                         </span>
-                        <h4 class="mt-5 mb-5">Download MT5 for Android</h4>
-                        <p style="padding-left:50px; padding-right: 50px;">Access market data, news, charting tools, and
-                            essential trading features on the go using the MT5 Android app on your smartphone or tablet
-                        </p>
-
+                        <h4 class="mt-5 mb-5" >Download MT5 for Android</h4>
+                        <p style="padding-left:50px; padding-right: 50px;">Access market data, news, charting tools, and essential trading features on the go using the MT5 Android app on your smartphone or tablet</p>
+                        
                     </div>
+                    <style>
+                        .border-button {
+    display: inline-block;
+    padding: 10px 20px;
+    border: 2px solid #9AD953; /* Border color */
+    color: #9AD953; /* Text color */
+    text-decoration: none;
+    border-radius: 4px;
+    transition: color 0.3s ease, border-color 0.3s ease;
+}
+
+.border-button:hover {
+    color: #9AD951; /* Text color on hover */
+    border-color: #9AD951; /* Border color on hover */
+}
+
+                    </style>
                     <div class="col-md-4 provide-world__card text-center nb3-bg py-5 px-4 px-lg-5">
 
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
@@ -249,6 +264,7 @@
                         <p style="padding-left:50px; padding-right: 50px;">Are you using a Mac? You can get a really
                             strong desktop program for your computer!
                             Just get the MT5 terminal for Mac OS X, set it up, and start trading!</p>
+                            <a href="#" class="border-button" style="margin-top: 10px;">Click Me</a>
                     </div>
                 </div>
             </div>

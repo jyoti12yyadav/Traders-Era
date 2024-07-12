@@ -509,18 +509,18 @@
             </div>
             <div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="1" role="group"
                 aria-label="2 / 7" style="width: 230.571px; margin-right: 50px;">
-                <img src="assets/images/icon/logo FX . edge logo black.png" alt="edge logo black">
+                <img src="assets/images/icon/logo UTIP logo black(1).png" alt="logo UTIP logo black(1)">
             </div>
             <div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-prev"
                 data-swiper-slide-index="2" role="group" aria-label="3 / 7"
                 style="width: 230.571px; margin-right: 50px;">
-                <img src="assets/images/icon/logo GEO trust  logo black.png" alt="logo black">
+                <img src="assets/images/icon/logo marketcheese  logo black.png" alt="logo marketcheese  logo black">
             </div>
             <div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-active"
                 data-swiper-slide-index="3" role="group" aria-label="4 / 7"
                 style="width: 230.571px; margin-right: 50px;">
-                <img src="assets/images/icon/logo investor in people logo black.png"
-                    alt="logo investor in people logo black">
+                <img src="assets/images/icon/logo SSL secured logo black.png"
+                    alt="logo SSL secured logo black">
             </div>
             <div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-next"
                 data-swiper-slide-index="4" role="group" aria-label="5 / 7"
@@ -533,11 +533,11 @@
             </div>
             <div class="swiper-slide text-center" data-swiper-slide-index="1" role="group" aria-label="2 / 7"
                 style="width: 230.571px; margin-right: 50px;">
-                <img src="assets/images/icon/logo FX . edge logo black.png" alt="logo FX . edge logo black">
+                <img src="assets/images/icon/logo UTIP logo black(1).png" alt="logo UTIP logo black(1)">
             </div>
             <div class="swiper-slide text-center swiper-slide-prev" data-swiper-slide-index="2" role="group"
                 aria-label="3 / 7" style="width: 230.571px; margin-right: 50px;">
-                <img src="assets/images/icon/logo GEO trust  logo black.png" alt="logo GEO trust  logo black">
+                <img src="assets/images/icon/logo marketcheese  logo black.png" alt="logo marketcheese  logo black">
             </div>
             <div class="swiper-slide text-center swiper-slide-active" data-swiper-slide-index="3" role="group"
                 aria-label="4 / 7" style="width: 230.571px; margin-right: 50px;">
@@ -554,12 +554,12 @@
             </div>
             <div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="1" role="group"
                 aria-label="2 / 7" style="width: 230.571px; margin-right: 50px;">
-                <img src="assets/images/icon/logo FX . edge logo black.png" alt=" edge logo black">
+                <img src="assets/images/icon/logo UTIP logo black(1).png" alt="logo UTIP logo black(1)">
             </div>
             <div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-prev"
                 data-swiper-slide-index="2" role="group" aria-label="3 / 7"
                 style="width: 230.571px; margin-right: 50px;">
-                <img src="assets/images/icon/logo GEO trust  logo black.png" alt="trust  logo black">
+                <img src="assets/images/icon/logo marketcheese  logo black.png" alt="logo marketcheese  logo black">
             </div>
             <div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-active"
                 data-swiper-slide-index="3" role="group" aria-label="4 / 7"
