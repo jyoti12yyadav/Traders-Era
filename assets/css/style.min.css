@@ -3107,26 +3107,26 @@ iframe {
     transition: var(--transition)
 }
 
-.provide-world .provide-world__card:hover {
+/* .provide-world .provide-world__card:hover {
     background: rgba(var(--p1), 1)
-}
+} */
 
-.provide-world .provide-world__card:hover h4,
+/* .provide-world .provide-world__card:hover h4,
 .provide-world .provide-world__card:hover p,
 .provide-world .provide-world__card:hover h3,
 .provide-world .provide-world__card:hover h2,
 .provide-world .provide-world__card:hover hr {
     color: rgba(var(--nb4))
-}
+} */
 
-.provide-world .provide-world__card:hover.secondary a,
+/* .provide-world .provide-world__card:hover.secondary a,
 .provide-world .provide-world__card:hover.secondary a i {
     color: rgba(var(--nb4))
-}
+} */
 
-.provide-world .provide-world__card:hover.secondary .third-link {
+/* .provide-world .provide-world__card:hover.secondary .third-link {
     border-color: rgba(var(--nb4))
-}
+} */
 
 .provide-world .provide-card__icon {
     width: 80px;

@@ -122,11 +122,8 @@
             <div class="col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
                     <h2 class="mb-4 mb-lg-5">MetaTrader 5 For Windows</h2>
-                    <p class="fs-six mx-ch">Discover the exciting world of Crypto CFDs with our platform. Trade popular
-                        cryptocurrencies such as Bitcoin (BTC), Ethereum (ETH), Ripple (XRP), Litecoin (LTC), and
-                        Bitcoin Cash (BCH) with competitive margin requirements and leverage options. Take advantage of
-                        our user-friendly interface and robust trading tools to capitalize on crypto market movements
-                        effectively.
+                    <p class="fs-six mx-ch">Traders and investors worldwide prefer MetaTrader 5 for trading various assets like Forex, CFDs, and futures.
+                         It provides advanced tools for charting, trading, and automated trading.
                     </p>
                 </div>
             </div>
@@ -145,23 +142,23 @@
             <div class="col-md-4">
                 <ul class="benefits__list" style="list-style-type: disc; padding-left: 20px;">
                     <br><br>
-                    <li class="benefits__item"><p>Intuitive interface</p></li>
-                    <li class="benefits__item"><p>Advanced charting tools</p></li>
-                    <li class="benefits__item"><p>Market data and news (some features available with live accounts)</p></li>
+                    <li class="benefits__item"><p>User-friendly design</p></li>
+                    <li class="benefits__item"><p>Sophisticated chart tools</p></li>
+                    <li class="benefits__item"><p>Real-time market updates and news (certain features accessible with active accounts)</p></li>
                 </ul>
             </div>
             <div class="col-md-4">
                 <ul class="benefits__list" style="list-style-type: disc; padding-left: 20px;">
                     <br><br>
-                    <li class="benefits__item"><p>Access to a wide range of financial instruments</p></li>
-                    <li class="benefits__item"><p>Trading robots</p></li>
-                    <li class="benefits__item"><p>Expanded market depth data</p></li>
+                    <li class="benefits__item"><p>Access variety of financial tools</p></li>
+                    <li class="benefits__item"><p>Automated Trading system</p></li>
+                    <li class="benefits__item"><p>Increased market depth information</p></li>
                 </ul>
             </div>
             <div class="col-md-4">
                 <ul class="benefits__list" style="list-style-type: disc; padding-left: 20px;">
                     <br><br>
-                    <li class="benefits__item"><p>Virtual Private Server support for improved stability and security</p></li>
+                    <li class="benefits__item"><p>Improved security and stability through virtual private server support</p></li>
                 </ul>
             </div>
         </div>
@@ -187,24 +184,27 @@
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                             <img src="assets/images/icon/number-1.png" alt="null">
                         </span>
-                        <h4 class="mt-5 mb-5">Cryptocurrency CFDs</h4>
-                        <p>Trade popular cryptocurrencies like Bitcoin, Ethereum, and more.</p>
-                        <button style="background-color: rgb(0, 173, 12); color: white; border: none; padding: 10px 20px; cursor: pointer;" onmouseover="this.style.backgroundColor='black'; this.style.color='white';" onmouseout="this.style.backgroundColor='rgb(154,217,83)'; this.style.color='white';">Learn More</button>
+                        <h4 class="mt-5 mb-5">Download MT5 for Android</h4>
+                        <p>Access market data, news, charting tools, and essential trading features on the go using the MT5 Android app on your smartphone or tablet</p>
+                        <button style="background-color: DFAF65; color: white; border: none; padding: 10px 20px; cursor: pointer;" onmouseover="this.style.backgroundColor='black'; this.style.color='white';" onmouseout="this.style.backgroundColor='rgb(154,217,83)'; this.style.color='white';">Android Button
+                        </button>
                     </div>
                     <div class="col-md-4 provide-world__card text-center nb3-bg py-5 px-4 px-lg-5">
                     
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                             <img src="assets/images/icon/two.png" alt="null">
                         </span>
-                        <h4 class="mt-5 mb-5">Leveraged Trading</h4>
-                        <p>Maximize potential gains with leverage</p>
+                        <h4 class="mt-5 mb-5">Download MT5 for iOS</h4>
+                        <p>Download MetaTrader 5 on your iOS device to start trading on the go. This versatile app is compatible with all iOS devices,
+                             giving you the freedom to trade anytime, anywhere.</p>
                     </div>
                     <div class="col-md-4 provide-world__card text-center nb3-bg py-5 px-4 px-lg-5">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                             <img src="assets/images/icon/number-3.png" alt="null">
                         </span>
-                        <h4 class="mt-5 mb-5">Long and Short Trading</h4>
-                        <p>Benefit from market movements whether prices rise (long) or fall (short).</p>
+                        <h4 class="mt-5 mb-5" style="padding-left: 50px; padding-right: 50px;">Download MT5 for Mac </h4>
+                        <p>Are you using a Mac? You can get a really strong desktop program for your computer! 
+                            Just get the MT5 terminal for Mac OS X, set it up, and start trading!</p>
                     </div>
                 </div>
             </div>
