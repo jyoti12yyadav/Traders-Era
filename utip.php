@@ -187,7 +187,7 @@ This platform is tailored for brokerage services in various financial markets li
     <div class="container">
         <div class="col-lg-12 col-xxl-10">
             <div class="heading__content mb-10 mb-lg-15 text-center">
-                <h2 class="mb-5 mb-lg-6"   style="margin-top:80px;">UTIP on Various Devices</h2>
+                <h2  style="margin-top:80px;">UTIP on Various Devices</h2>
             </div>
         </div>
         <div class="platform-container">
