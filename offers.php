@@ -81,7 +81,7 @@
                             <div class="provide-world__card_1 nb3-bg text-center cus-rounded-1 py-lg-10 px-4 px-lg-9">
                                <h3 class="mt-5 mb-5 offers-title-use title-border">Use Our TradersEra Web Platform</h3>
                                
-                               <h4><span class="offers-title-use">With AI & Binary Option</span></h4>
+                               <!-- <h4><span class="offers-title-use">With AI & Binary Option</span></h4> -->
                             </div>
                         </div> 
                         <div class="col-xxl-12 mt-8 mt-md-10 mt-xxl-13">

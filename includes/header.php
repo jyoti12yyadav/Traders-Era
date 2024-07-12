@@ -129,8 +129,8 @@
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item" href="fx-cfd.php">FX CFDs</a></li>
                                 <li><a class="dropdown-item" href="crypto-cfd.php">Crypto CFD </a></li>
-                                <li><a class="dropdown-item" href="binary.php">Binary </a></li>
-                                <li><a class="dropdown-item" href="ai-Invest.php">AI Invest </a></li>
+                                <!-- <li><a class="dropdown-item" href="binary.php">Binary </a></li>
+                                <li><a class="dropdown-item" href="ai-Invest.php">AI Invest </a></li> -->
                             </ul>
                         </li>
                         <mark>

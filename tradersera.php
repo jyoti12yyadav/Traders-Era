@@ -197,7 +197,7 @@
 
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
-                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;">Boost your earnings with the help of AI</h2>
+                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;">Boost your earnings</h2>
                     <p class="mx-ch">By utilizing artificial intelligence in forex trading, you can benefit from a
                         multitude of advantages.</p>
                 </div>
@@ -214,22 +214,12 @@
                             class="ti ti-circle-check s1-color fs-four"></i>Within seconds, data from multiple sources
                         can be processed and analyzed.
                     </li>
-                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>AI risk management tools have the capability
-                        to automatically evaluate and reduce potential harm.
-                    </li>
-                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>AI has the ability to recognize patterns
-                        with greater speed and accuracy.
-                    </li>
+                   
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>Decisions are made purely based on logic,
                         without any influence from intense emotions.
                     </li>
-                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>An AI has the ability to carry out numerous
-                        forex trades at the same time.
-                    </li>
+                  
                     <br>
                 </ul>
             </div>
@@ -240,6 +230,8 @@
             </div>
         </div>
 </section>
+
+<!--
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0" style="background-color:#000">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="null"
@@ -277,6 +269,9 @@
             </div>
         </div>
 </section>
+
+-->
+
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="null"

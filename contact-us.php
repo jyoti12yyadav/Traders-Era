@@ -1,34 +1,42 @@
 <?php include("includes/header.php"); ?>
 <style>
     .company-story__part {
-    border: solid 1px white;
-    padding: 30px;
-    border-radius: 19px;
-}
-.alt_form select{
-    border-bottom:rgb(52 56 57);
-}
-.single-input{
-    margin-top: 27px !important;
-    border-bottom: 2px solid #3a3939;
-}
-.nice-select{
-    padding-top:10px;
-    padding-bottom: 14px;
-}
-.nice-select:focus, .nice-select:hover {
-    background-color: transparent;
-    box-shadow: none;
-}
-.nice-select .list{
-    background-color:#000;
-}
-.pb-120 {
-    padding-bottom: 60px;
-}
-.pt-120 {
-    padding-top: 60px;
-}
+        border: solid 1px white;
+        padding: 30px;
+        border-radius: 19px;
+    }
+
+    .alt_form select {
+        border-bottom: rgb(52 56 57);
+    }
+
+    .single-input {
+        margin-top: 27px !important;
+        border-bottom: 2px solid #3a3939;
+    }
+
+    .nice-select {
+        padding-top: 10px;
+        padding-bottom: 14px;
+    }
+
+    .nice-select:focus,
+    .nice-select:hover {
+        background-color: transparent;
+        box-shadow: none;
+    }
+
+    .nice-select .list {
+        background-color: #000;
+    }
+
+    .pb-120 {
+        padding-bottom: 60px;
+    }
+
+    .pt-120 {
+        padding-top: 60px;
+    }
 </style>
 <section class="banner-section  pt-2 pb-1">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
@@ -52,14 +60,15 @@
                     <h2 class="mb-5 mb-lg-6">
                         Contact Our Team
                     </h2>
-                    <h3 class="heading p1-color fs-six mb-5 mt-2">Get in touch with our 24/5 customer services team. We are always glad to help!</h3>
+                    <h3 class="heading p1-color fs-six mb-5 mt-2">Get in touch with our 24/5 customer services team. We
+                        are always glad to help!</h3>
                 </div>
             </div>
         </div>
 
 
 
-        
+
         <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
             <div class="col-sm-10 col-lg-6 col-xxl-6">
                 <div class="row d-flex justify-content-end">
@@ -87,7 +96,8 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class=""><a href="https://tradersera.tawk.help/">Send a Support Ticket</a></h3>
+                                        <h3 class=""><a href="https://tradersera.tawk.help/">Send a Support Ticket</a>
+                                        </h3>
                                         <br>
                                         <span>Click here to send us a message</span>
                                     </div>
@@ -110,7 +120,7 @@
                                         <h3 class="">Email Us Directly</h3>
                                         <br>
                                         <span>support@tradersera.com</span>
-                                </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -136,44 +146,86 @@
         </div>
     </div>
 </section>
+
+
+
+
+
 <section class="provide-world pt-120 pb-120  position-relative z-0">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-8 col-xxl-7">
                 <div class="heading__content mb-2 mb-lg-6 text-center">
-                    <h3 class="mb-2 mb-lg-3">Call Us On Below Details
+                    <h3 class="mb-2 mb-lg-3 fs-3">Need help ? Let's get in touch
                     </h3>
                 </div>
             </div>
         </div>
         <div class="row gy-6 gy-xxl-0">
-            <div class="col-md-6 col-xxl-6">
+            <div class="col-md-4 col-xxl-4">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                    <img src="assets/images/icon/contact.png" alt="">
+                        <img src="assets/images/icon/contact.png" alt="">
                     </span>
-                   <h3 class="mt-5 mb-5">Call Us</h3>
-                   <p><b>+1 9142684555</b></p>
+                    <h3 class="mt-5 mb-5">No time to lose?</h3>
+                    <p>Our support team is a phone call away 24/5 GMT.</p>
+                    <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-2 mt-lg-1">
+                        <a href="https://trading.tradersera.com/register"
+                            class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center  py-lg-1 px-lg-2"
+                            style="transform: scaleX(1); background-color: #9ad953; color: #000000; margin-top: 20px; border-radius: 5px;">Call us
+                        </a>
+                    </div>
                 </div>
             </div>
-            <div class="col-md-6 col-xxl-6">
+
+            <div class="col-md-4 col-xxl-4">
                 <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                    <img src="assets/images/icon/email_us.png" alt="">
+                        <img src="assets/images/icon/chat.png" alt="chat">
                     </span>
-                   <h3 class="mt-5 mb-5">Email Enquiries</h3>
-                   <p>support@tradersera.com</p>
+                    <h3 class="mt-5 mb-5">Prefer to chat?</h3>
+                    <p>Let's do that. Our agents are waiting for you.</p>
+                    <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-2 mt-lg-1">
+                        <a href="https://trading.tradersera.com/register"
+                            class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-lg-1 px-lg-2"
+                            style="transform: scaleX(1); background-color: #9ad953; color: #000000; margin-top: 20px; border-radius: 5px;">Chat with us
+                        </a>
+                    </div>
                 </div>
+            </div>
+
+            <div class="col-md-4 col-xxl-4">
+                <div class="provide-world__card secondary nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/email_us.png" alt="">
+                    </span>
+                    <h3 class="mt-5 mb-5">Nothing urgent?</h3>
+                    <p>Send us an email and connect with one of our experts.</p>
+                    <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-2
+                                        mt-lg-1">
+                        <a href="https://trading.tradersera.com/register"
+                            class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center  py-lg-1 px-lg-2"
+                            style="transform: scaleX(1); background-color: #9ad953; color: #000000; margin-top: 20px; border-radius: 5px;">Email us
+                        </a>
+                    </div>
+                </div>
+
             </div>
         </div>
     </div>
 </section>
+
+
+
+
+
+
 <section class="pt-120 pb-120 ">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-8 col-xxl-7">
                 <div class="heading__content  text-center">
-                    <h2 >Our Office Locations
+                    <h2>Our Office Locations
                     </h2>
                 </div>
             </div>
@@ -190,7 +242,8 @@
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
                                         <h2 class="pb-3">TradersEra LLC </h2>
-                                        <span> Suite 305, Griffith Corporate Centre, PO Box 1510, Beachmont, Kingstown. St Vincent and Grenadines</span>
+                                        <span> Suite 305, Griffith Corporate Centre, PO Box 1510, Beachmont, Kingstown.
+                                            St Vincent and Grenadines</span>
                                     </div>
                                 </div>
                             </div>

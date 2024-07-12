@@ -43,7 +43,7 @@
             <div class="row gy-6 w-100 text-center text-sm-start align-items-center justify-content-sm-between">
                 <div class="col-sm-8">
                     <h4>Deposit $10 at TradersEra and Start Trading.</h4>
-                    <p class="fs-six-up fw_500 mt-5">Trade crypto, binary, forex and use AI for Investments.
+                    <p class="fs-six-up fw_500 mt-5">Trade crypto, forex and use AI for Investments.
                     </p>
                 </div>
                 <div class="col-sm-4 text-sm-end">
@@ -59,7 +59,7 @@
                         <img src="assets/images/fav.png" class="logo small_logo d-sm-none" alt="logo">
                         <img src="assets/images/logo.png" class="logo d-none d-sm-flex" alt="logo">
                     </a>
-                    <p>Your all-in-one online platform for binary and Forex trading. With our user interface and wide
+                    <p>Your all-in-one online platform for Forex trading. With our user interface and wide
                         range of tools you'll have all the support
                         to make informed decisions and maximize your profits. </p>
                     <br>
@@ -81,14 +81,14 @@
                             <a class="d-center cus-rounded-1 fs-four" href="#"><i class="ti ti-brand-youtube"></i></a>
                         </li> -->
                         <li><a class="d-center cus-rounded-1 fs-four" href="https://www.linkedin.com/company/tradersera_fxbroker"><i class="fa-brands fa-linkedin"></i></a></li>
-                                          <li><a class="d-center cus-rounded-1 fs-four" href="https://x.com/TradersEraFX"><i class="fa-brands fa-square-x-twitter"></i></a></li>
+                        <li><a class="d-center cus-rounded-1 fs-four" href="https://x.com/TradersEraFX"><i class="fab fa-x"></i></a></li>
                               
                     </ul>
                 </div>
                 <br>
                 <div class="trading-img" class="mt-10;">
                     <h6 class="mb-6 ">Powered By
-                    <img style="height:50px; " src="assets/images/icon/tradingview white logo.png" alt=""></h6>
+                    <img style="height:45px; " src="assets/images/icon/tradingview white logo.png" alt=""></h6>
                 </div>
             </div>
 
@@ -121,12 +121,12 @@
                         <li>
                             <a class="n2-color" href="crypto-cfd.php">Crypto CFD</a>
                         </li>
-                        <li>
+                        <!-- <li>
                             <a class="n2-color" href="binary.php">Binary</a>
                         </li>
                         <li>
                             <a class="n2-color" href="ai-Invest.php">AI Invest</a>
-                        </li>
+                        </li> -->
                     </ul>
                 </div>
             </div>
@@ -283,7 +283,8 @@
                                 <li><a class="d-center cus-rounded-1 fs-four" href="#"><i
                                             class="ti ti-brand-youtube"></i></a></li> -->
                                            <li><a class="d-center cus-rounded-1 fs-four" href="https://www.linkedin.com/company/tradersera_fxbroker"><i class="fa-brands fa-linkedin"></i></a></li>
-                                          <li><a class="d-center cus-rounded-1 fs-four" href="https://x.com/TradersEraFX"><i class="fa-brands fa-square-x-twitter"></i></a></li>
+                                          <li><a class="d-center cus-rounded-1 fs-four" href="https://x.com/TradersEraFX"><i class="fab fa-x"></i>
+                                          </a></li>
                               
                             </ul>
                         </div>
