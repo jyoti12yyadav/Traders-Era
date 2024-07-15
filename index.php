@@ -509,12 +509,12 @@
             </div>
             <div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="1" role="group"
                 aria-label="2 / 7" style="width: 230.571px; margin-right: 50px;">
-                <img src="assets/images/icon/logo UTIP logo black(1).png" alt="logo UTIP logo black(1)">
+                <img src="assets/images/icon/logo UTIP logo black.png" alt="logo UTIP logo black">
             </div>
             <div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-prev"
                 data-swiper-slide-index="2" role="group" aria-label="3 / 7"
                 style="width: 230.571px; margin-right: 50px;">
-                <img src="assets/images/icon/logo marketcheese  logo black.png" alt="logo marketcheese  logo black">
+                <img src="assets/images/icon/logo marketcheese logo black.png" alt="logo marketcheese logo black">
             </div>
             <div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-active"
                 data-swiper-slide-index="3" role="group" aria-label="4 / 7"
@@ -533,11 +533,11 @@
             </div>
             <div class="swiper-slide text-center" data-swiper-slide-index="1" role="group" aria-label="2 / 7"
                 style="width: 230.571px; margin-right: 50px;">
-                <img src="assets/images/icon/logo UTIP logo black(1).png" alt="logo UTIP logo black(1)">
+                <img src="assets/images/icon/logo UTIP logo black.png" alt="logo UTIP logo black">
             </div>
             <div class="swiper-slide text-center swiper-slide-prev" data-swiper-slide-index="2" role="group"
                 aria-label="3 / 7" style="width: 230.571px; margin-right: 50px;">
-                <img src="assets/images/icon/logo marketcheese  logo black.png" alt="logo marketcheese  logo black">
+                <img src="assets/images/icon/logo marketcheese logo black.png" alt="logo marketcheese  logo black">
             </div>
             <div class="swiper-slide text-center swiper-slide-active" data-swiper-slide-index="3" role="group"
                 aria-label="4 / 7" style="width: 230.571px; margin-right: 50px;">
@@ -554,12 +554,12 @@
             </div>
             <div class="swiper-slide text-center swiper-slide-duplicate" data-swiper-slide-index="1" role="group"
                 aria-label="2 / 7" style="width: 230.571px; margin-right: 50px;">
-                <img src="assets/images/icon/logo UTIP logo black(1).png" alt="logo UTIP logo black(1)">
+                <img src="assets/images/icon/logo UTIP logo black.png" alt="logo UTIP logo black">
             </div>
             <div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-prev"
                 data-swiper-slide-index="2" role="group" aria-label="3 / 7"
                 style="width: 230.571px; margin-right: 50px;">
-                <img src="assets/images/icon/logo marketcheese  logo black.png" alt="logo marketcheese  logo black">
+                <img src="assets/images/icon/logo marketcheese logo black.png" alt="logo marketcheese  logo black">
             </div>
             <div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-active"
                 data-swiper-slide-index="3" role="group" aria-label="4 / 7"
