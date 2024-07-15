@@ -415,7 +415,7 @@
                                     <p class="fs-six-up fw_500 nb4-xxl-color"> Polish your Trading skills with Zero Risk Demo Accounts.</p>
                                         <div class="d-flex mt-8">
                                       
-                                            <img  class="mx-4" src="assets/images/UTIP logo.png" alt="openai" style="height: 35px;">
+                                            <img  class="mx-4" src="logo UTIP logo black (1).png" alt="openai" style="height: 35px;">
                                             <!-- <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png" alt="Equinix_logo" style="height: 40px;"> -->
                                         </div>
                                        
