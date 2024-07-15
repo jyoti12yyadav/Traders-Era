@@ -132,26 +132,30 @@
     </div>
     <div class="container">
         <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
-            <div class="container my-5">
-                <table id="Record" class="table table-striped table-dark my-3 table-div">
+            <div class="container my-5 table-div">
+                <table id="Record" class="table table-striped table-dark my-3 ">
                     <thead>
-                        <tr class="odd">
-                            <th style="    background-color: #9ad953;
+                        <th style="    background-color: #9ad953;
     color: black;
     text-align: center;
     font-size: 16px;">Symbol</th>
-                            <th style="    background-color: #9ad953;
+                        <th style="    background-color: #9ad953;
     color: black;
     text-align: center;
-    font-size: 16px;">Full name</th>
-                            <th style="    background-color: #9ad953;
+    font-size: 16px;">Full Name</th>
+                        <th style="    background-color: #9ad953;
     color: black;
     text-align: center;
-    font-size: 16px;">Trading time<br><small>GMT+3</small></th>
-                            <th style="    background-color: #9ad953;
+    font-size: 16px;">Trading Time GMT+3</th>
+                        <th style="    background-color: #9ad953;
     color: black;
     text-align: center;
     font-size: 16px;">Exchange</th>
+                        <th style="    background-color: #9ad953;
+    color: black;
+    text-align: center;
+    font-size: 16px;">Max trade size<br>
+                            (ThinkZero)</th>
                         </tr>
                     </thead>
                     <tbody class="row-hover">
