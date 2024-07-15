@@ -87,8 +87,8 @@
                 </div>
                 <br>
                 <div class="trading-img" class="mt-10;">
-                    <h6 class="mb-6 ">Powered By
-                    <img style="height:45px; " src="assets/images/icon/tradingview white logo.png" alt=""></h6>
+                    <h5 class="mb-6 ">Powered By
+                    <img style="height:45px; " src="assets/images/logo UTIP logo white.png" alt=""></h5>
                 </div>
             </div>
 
