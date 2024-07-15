@@ -490,7 +490,7 @@
                                             style="transform: scaleX(-1);">Start
                                             Trading <i class="ti ti-trending-up"></i></a>
                                         <a href="https://trading.tradersera.com/register"
-                                            class="cmn-btn link link-xxl-color fs-five gap-2 gap-lg-3 align-items-center "
+                                            class="cmn-btn link link-xxl-color fs-five gap-2 gap-lg-3 align-items-center"
                                             style="transform: scaleX(-1);">
                                             <i class="ti ti-arrow-narrow-right fs-four"></i> Try demo account</a>
                                     </div>
