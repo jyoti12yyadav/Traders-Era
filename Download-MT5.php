@@ -224,26 +224,44 @@
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                             <img src="assets/images/icon/number-1.png" alt="null">
                         </span>
+<<<<<<< HEAD
+                        <h4 class="mt-5 mb-5">Download MT5 for Android</h4>
+                        <p style="padding-left:50px; padding-right: 50px;">Access market data, news, charting tools, and
+                            essential trading features on the go using the MT5 Android app on your smartphone or <br>tablet
+                        </p><br>
+                        <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-2 mt-lg-1">
+                            <a href="https://trading.tradersera.com/register"
+                                class="cmn-btn  alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center  py-lg-1 px-lg-2"
+                                style="transform: scaleX(1); background-color: #9ad953; color: #000000; margin-top: 20px; border-radius: 5px;">Click
+                                Me
+                            </a>
+                        </div>
+
+=======
                         <h4 class="mt-5 mb-5" >Download MT5 for Android</h4>
                         <p style="padding-left:50px; padding-right: 50px;">Access market data, news, charting tools, and essential trading features on the go using the MT5 Android app on your smartphone or tablet</p>
                         
+>>>>>>> 43cb22114221ec4e85687ea0dd76c57901521bc4
                     </div>
                     <style>
                         .border-button {
-    display: inline-block;
-    padding: 10px 20px;
-    border: 2px solid #9AD953; /* Border color */
-    color: #9AD953; /* Text color */
-    text-decoration: none;
-    border-radius: 4px;
-    transition: color 0.3s ease, border-color 0.3s ease;
-}
+                            display: inline-block;
+                            padding: 10px 20px;
+                            border: 2px solid #9AD953;
+                            /* Border color */
+                            color: #9AD953;
+                            /* Text color */
+                            text-decoration: none;
+                            border-radius: 4px;
+                            transition: color 0.3s ease, border-color 0.3s ease;
+                        }
 
-.border-button:hover {
-    color: #9AD951; /* Text color on hover */
-    border-color: #9AD951; /* Border color on hover */
-}
-
+                        .border-button:hover {
+                            color: #9AD951;
+                            /* Text color on hover */
+                            border-color: #9AD951;
+                            /* Border color on hover */
+                        }
                     </style>
                     <div class="col-md-4 provide-world__card text-center nb3-bg py-5 px-4 px-lg-5">
 
@@ -254,6 +272,16 @@
                         <p style="padding-left:50px; padding-right: 50px;">Download MetaTrader 5 on your iOS device to
                             start trading on the go. This versatile app is compatible with all iOS devices,
                             giving you the freedom to trade anytime, anywhere.</p>
+<<<<<<< HEAD
+                        <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-2 mt-lg-1">
+                            <a href="https://trading.tradersera.com/register"
+                                class="cmn-btn  alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center  py-lg-1 px-lg-2"
+                                style="transform: scaleX(1); background-color: #9ad953; color: #000000; margin-top: 20px; border-radius: 5px;">Click
+                                Me
+                            </a>
+                        </div>
+=======
+>>>>>>> 43cb22114221ec4e85687ea0dd76c57901521bc4
                     </div>
                     <div class="col-md-4 provide-world__card text-center nb3-bg py-5 px-4 px-lg-5">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
@@ -263,8 +291,19 @@
                         </h4>
                         <p style="padding-left:50px; padding-right: 50px;">Are you using a Mac? You can get a really
                             strong desktop program for your computer!
+<<<<<<< HEAD
+                            Just get the MT5 terminal for Mac OS X, set it up,<br> and start trading!</p><br>
+                        <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-2 mt-lg-1">
+                            <a href="https://trading.tradersera.com/register"
+                                class="cmn-btn  alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center  py-lg-1 px-lg-2"
+                                style="transform: scaleX(1); background-color: #9ad953; color: #000000; margin-top: 20px; border-radius: 5px;">Click
+                                Me
+                            </a>
+                        </div>
+=======
                             Just get the MT5 terminal for Mac OS X, set it up, and start trading!</p>
                             <a href="#" class="border-button" style="margin-top: 10px;">Click Me</a>
+>>>>>>> 43cb22114221ec4e85687ea0dd76c57901521bc4
                     </div>
                 </div>
             </div>
@@ -279,7 +318,10 @@
     }
 
     .provide-world__card:hover h4,
+<<<<<<< HEAD
+=======
     .provide-world__card:hover p,
+>>>>>>> 43cb22114221ec4e85687ea0dd76c57901521bc4
     .provide-world__card:hover h3 {
         color: white !important;
         /* Keeps the text color unchanged on hover */
