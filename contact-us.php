@@ -225,11 +225,12 @@
         <div class="row justify-content-center">
             <div class="col-lg-8 col-xxl-7">
                 <div class="heading__content  text-center">
-                    <h2>Our Office Locations
+                    <h2>Our Locations
                     </h2>
                 </div>
             </div>
         </div>
+        <h3 class="left-align">Registered Office : </h3>
         <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
             <div class="col-sm-12 col-lg-12 col-xxl-12">
                 <div class="row d-flex justify-content-end">
@@ -241,7 +242,7 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h2 class="pb-3">TradersEra LLC </h2>
+                                        <h2 class="pb-3">TradersEra Services LLC </h2>
                                         <span> Suite 305, Griffith Corporate Centre, PO Box 1510, Beachmont, Kingstown.
                                             St Vincent and Grenadines</span>
                                     </div>

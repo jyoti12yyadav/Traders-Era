@@ -451,7 +451,7 @@
                         class="row pt-4 pt-lg-10 gy-12 gy-lg-0 justify-content-center justify-content-lg-between align-items-center row-reverse">
                         <div class="col-sm-10 col-lg-6 col-xxl-5">
                             <div class="hero-section__thumbs hero-section-2 pb-xxl-10">
-                                <img src="assets/images/scd banner.png" class="max-auto max-xxl-un" alt="banner two">
+                                <img src="assets/images/s banner.png" class="max-auto max-xxl-un" alt="banner two">
                             </div>
                         </div>
                         <div class="col-lg-6 col-xxl-7">
@@ -840,7 +840,7 @@
 
            
             <div class="col-sm-6 col-lg-6 col-xxl-6 text-center">
-                <img src="images/icon/featuresoftradersera.png" class="img-fluid medium-image" style="border: none;" alt="Middle Image">
+                <img src="assets/images/features of tradersera - section 3.png" class="img-fluid medium-image" style="border: none;" alt="Middle Image">
             </div>
 
             
