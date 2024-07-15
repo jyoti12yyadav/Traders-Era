@@ -420,7 +420,7 @@
                                         Demo Accounts.</p>
                                     <div class="d-flex mt-8">
 
-                                        <img class="mx-4" src="images\icon\UTIP logo black slider.png" alt="openai"
+                                        <img class="mx-4" src="images\icon\logo UTIP logo black slider.png" alt="openai"
                                             style="height: 35px;">
                                         <!-- <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png" alt="Equinix_logo" style="height: 40px;"> -->
                                     </div>
@@ -478,7 +478,7 @@
                                         smarter with personalised support & market insights.</p>
                                     <div class="d-flex mt-8" style="transform: scaleX(-1);">
 
-                                        <img class="mx-4" src="assets\images\icon\logo UTIP logo black.png" alt="openai"
+                                        <img class="mx-4" src="images\icon\logo UTIP logo black slider.png" alt="openai"
                                             style="height: 35px;"></h3>
                                         <!-- <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png" alt="Equinix_logo" style="height: 35px;"> -->
                                     </div>
