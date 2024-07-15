@@ -900,7 +900,7 @@
                         <img src="assets/images/icon/number-1.png" alt="number-1">
                     </span>
                     <h3 class="mt-5 mb-5">Register</h3>
-                    <h4>Sign up using your bank details and login to dashboard.</h4>
+                    <h4>Sign up using your personal details and login to dashboard.</h4>
                     <br>
                 </div>
             </div>
@@ -928,7 +928,7 @@
                         <img src="assets/images/icon/number-4.png" alt="number-4">
                     </span>
                     <h3 class="mt-5 mb-5">Trade</h3>
-                    <h4>Start trading with binary,spot and AI trading platform.</h4>
+                    <h4>Start trading using UTIP platform.</h4>
                     <br>
                 </div>
             </div>
