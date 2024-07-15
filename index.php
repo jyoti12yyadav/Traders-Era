@@ -417,21 +417,10 @@
                                         technology.
                                     </h1>
                                     <p class="fs-six-up fw_500 nb4-xxl-color"> Polish your Trading skills with Zero Risk Demo Accounts.</p>
-                                        <div class="d-flex mt-8">
-                                      
-<<<<<<< HEAD
-                                            <img  class="mx-4" src="logo UTIP logo black (1).png" alt="openai" style="height: 35px;">
-=======
-                                            <img  class="mx-4" src="assets\images\icon\logo UTIP logo black.png" alt="openai" style="height: 35px;">
->>>>>>> 7a7e4942bf6c9c888d13268f5ca399b56d8cf92f
-                                            <!-- <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png" alt="Equinix_logo" style="height: 40px;"> -->
-                                        </div>
-                                       
-                                    <p class="fs-six-up fw_500 nb4-xxl-color"> Polish your Trading skills with Zero Risk
-                                        Demo Accounts.</p>
+                                        
+                                    
                                     <div class="d-flex mt-8">
-
-                                        <img class="mx-4" src="images\icon\logo UTIP logo black slider.png" alt="openai"
+                                        <img class="mx-1" src="images\icon\logo UTIP logo black slider.png" alt="openai"
                                             style="height: 35px;">
                                         <!-- <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png" alt="Equinix_logo" style="height: 40px;"> -->
                                     </div>
@@ -489,7 +478,7 @@
                                         smarter with personalised support & market insights.</p>
                                     <div class="d-flex mt-8" style="transform: scaleX(-1);">
 
-                                        <img class="mx-4" src="images\icon\logo UTIP logo black slider.png" alt="openai"
+                                        <img class="mx-1" src="images\icon\logo UTIP logo black slider.png" alt="openai"
                                             style="height: 35px;"></h3>
                                         <!-- <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png" alt="Equinix_logo" style="height: 35px;"> -->
                                     </div>
