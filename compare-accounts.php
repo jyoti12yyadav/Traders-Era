@@ -214,7 +214,7 @@
                             
                         </tr>
                         <tr>
-                            <td>Islamic Count</td>
+                            <td>Islamic Account</td>
                             <td>NA</td>
                             <td>NA</td>
                             <td>Available**</td>

@@ -288,13 +288,10 @@
     .active-step4 .col-3:nth-child(-n+4):before {
         background: #f89828 !important;
     }
-
-    @media (min-width: 991px) {
-        .pb-lg-120 {
-            padding-bottom: 180px !important;
-        }
-    }
-
+    @media (min-width: 991px){
+.pb-lg-120 {
+    padding-bottom: 180px !important;
+}}
     @media screen and (max-width: 640px) {
         .process-main {
             flex-wrap: wrap;
@@ -362,13 +359,13 @@
     }
 
 
-    .pb-120 {
-        padding-bottom: 60px !important;
-    }
+.pb-120 {
+    padding-bottom: 60px !important;
+}
+.pt-120 {
+    padding-top: 60px !important;
+}
 
-    .pt-120 {
-        padding-top: 60px !important;
-    }
 </style>
 
 
@@ -413,34 +410,31 @@
                                     </div>
                                     <span class="heading p1-max-xxl nb4-xxl-color fs-five mb-3">Master the
                                         Markets</span>
-                                    <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6"> UTIP Platform, with cutting edge
-                                        technology.
+                                    <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6"> UTIP Platform, with cutting edge technology.
                                     </h1>
                                     <p class="fs-six-up fw_500 nb4-xxl-color"> Polish your Trading skills with Zero Risk Demo Accounts.</p>
-                                        
-                                    
-                                    <div class="d-flex mt-8">
-                                        <img class="mx-1" src="images\icon\logo UTIP logo black slider.png" alt="openai"
-                                            style="height: 35px;">
-                                        <!-- <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png" alt="Equinix_logo" style="height: 40px;"> -->
-                                    </div>
-
+                                        <div class="d-flex mt-8">
+                                      
+                                            <img  class="mx-4" src="assets\images\icon\logo UTIP logo black.png" alt="openai" style="height: 35px;">
+                                            <!-- <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png" alt="Equinix_logo" style="height: 40px;"> -->
+                                        </div>
+                                       
                                     <div
-                                        class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8 mt-lg-10">
+                                        class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8 mt-lg-10" >
                                         <a href="https://tradersera.com/prelogin.php"
                                             class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6">Start
                                             Trading <i class="ti ti-trending-up"></i></a>
                                         <a href="https://trading.tradersera.com/register"
                                             class="cmn-btn link link-xxl-color fs-five  gap-2 gap-lg-3 align-items-center "><i
                                                 class="ti ti-arrow-narrow-right fs-four"></i> Try demo account</a>
-
+                                               
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-10 col-lg-6 col-xxl-5">
                             <div class="hero-section__thumbs pb-xxl-10">
-                                <img src="assets/images/fst banner.png" class="max-auto max-xxl-un" alt="banner one">
+                                <img src="assets/images/f banner.png" class="max-auto max-xxl-un" alt="banner one">
                             </div>
                         </div>
 
@@ -471,29 +465,30 @@
                                         style="transform: scaleX(-1);">Empower Your
                                         Trades</span>
                                     <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6" style="transform: scaleX(-1);">
-                                        Range of Markets, with Safety & Service Quality.
+                                    Range of Markets, with Safety & Service Quality.
 
                                     </h1>
-                                    <p class="fs-six-up fw_500 nb4-xxl-color" style="transform: scaleX(-1);">Trade
-                                        smarter with personalised support & market insights.</p>
-                                    <div class="d-flex mt-8" style="transform: scaleX(-1);">
-
-                                        <img class="mx-1" src="images\icon\logo UTIP logo black slider.png" alt="openai"
-                                            style="height: 35px;"></h3>
-                                        <!-- <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png" alt="Equinix_logo" style="height: 35px;"> -->
-                                    </div>
-                                    
+                                    <p class="fs-six-up fw_500 nb4-xxl-color" style="transform: scaleX(-1);">Trade smarter with personalised support & market insights.</p>
+                                        <div class="d-flex mt-8" style="transform: scaleX(-1);">
+                                      
+                                            <img  class="mx-4" src="assets\images\icon\logo UTIP logo black.png" alt="openai" style="height: 35px;"></h3>
+                                            <!-- <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png" alt="Equinix_logo" style="height: 35px;"> -->
+                                        </div>
                                     <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8
-                                        mt-lg-10">
+                                        mt-lg-10" style="
+    margin-left: 75px;
+">
                                         <a href="https://tradersera.com/prelogin.php"
                                             class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6"
                                             style="transform: scaleX(-1);">Start
                                             Trading <i class="ti ti-trending-up"></i></a>
                                         <a href="https://trading.tradersera.com/register"
-                                            class="cmn-btn link link-xxl-color fs-five gap-2 gap-lg-3 align-items-center "
-                                            style="transform: scaleX(-1);">
-                                            <i class="ti ti-arrow-narrow-right fs-four"></i> Try demo account</a>
+                                            class="cmn-btn link link-xxl-color fs-five  gap-2 gap-lg-3 align-items-center "
+                                            style="transform: scaleX(-1);"><i
+                                                class="ti ti-arrow-narrow-right fs-four"></i> Try demo account</a>
+                                                
                                     </div>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -527,7 +522,8 @@
             <div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-active"
                 data-swiper-slide-index="3" role="group" aria-label="4 / 7"
                 style="width: 230.571px; margin-right: 50px;">
-                <img src="assets/images/icon/logo SSL secured logo black.png" alt="logo SSL secured logo black">
+                <img src="assets/images/icon/logo SSL secured logo black.png"
+                    alt="logo SSL secured logo black">
             </div>
             <div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-next"
                 data-swiper-slide-index="4" role="group" aria-label="5 / 7"
@@ -823,7 +819,7 @@
             </div>
         </div>
 
-        <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
+        <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">       
             <div class="col-sm-6 col-lg-3 col-xxl-3 text-center">
                 <div class="company-story__part1 mb-lg-6">
                     <img src="images/icon/withdrawal.png" class="img-fluid medium-image" alt="Quick Withdrawals">
@@ -842,13 +838,12 @@
                 </div>
             </div>
 
-
+           
             <div class="col-sm-6 col-lg-6 col-xxl-6 text-center">
-                <img src="images/icon/featuresoftradersera.png" class="img-fluid medium-image" style="border: none;"
-                    alt="Middle Image">
+                <img src="images/icon/featuresoftradersera.png" class="img-fluid medium-image" style="border: none;" alt="Middle Image">
             </div>
 
-
+            
             <div class="col-sm-6 col-lg-3 col-xxl-3 text-center">
                 <div class="company-story__part1 mb-lg-6">
                     <img src="images/icon/stable.png" class="img-fluid medium-image" alt="Low and stable spreads">
@@ -859,8 +854,7 @@
                 </div>
 
                 <div class="company-story__part1 mt-15">
-                    <img src="images/icon/fundingoptions.png" class="img-fluid medium-image"
-                        alt="Multiple Funding Options">
+                    <img src="images/icon/fundingoptions.png" class="img-fluid medium-image" alt="Multiple Funding Options">
                     <div class="mt-4">
                         <h3 class="mb-3">Multiple Funding Options</h3>
                         <span>Choose a method that works for you and start trading.</span>
@@ -873,7 +867,7 @@
 
 <style>
     .medium-image {
-        max-width: 350px;
+        max-width: 350px; 
     }
 </style>
 
