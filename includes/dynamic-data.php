@@ -321,54 +321,59 @@ switch ($menuactive) {
         $url="https://tradersera.com/learn-binary.php";
         break;
 
-        case 'India.php':
-            $title = "Forex Trading India | MT5 | UTIP Trading Platform";
-            $description = "Experience the power of MT5 and UTIP Trading Platform. Become a partner with our forex IB program. Start trading now!";
-            $keywords = "Online Forex Trading, UTIP Trading Platform, MT5, Meta Trader 5, India, Become a Partner, forex ib program, Best Forex Broker India, Forex Introducing Brokers, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London";
-            $name="India";
-            $alternateName="India";
-            $url="https://tradersera.com/India.php";
-            break;
-        case 'Bangladesh.php':
-            $title = "Forex Trader in Bangladesh | UTIP Platform|  MT5 Trading Account";
-            $description = "Looking for a reliable Forex trader in Bangladesh? Trade Forex with MT5 and UTIP Trading Platform with top brokers in the industry.";
-            $keywords = "Forex Trading, Forex Trader in Bangladesh, MT5, Trade Crypto, Forex Trading Platform, Forex trading, UTIP Trading Platform, UTIP Trading Platform, Trading Account Forex, Meta Trader 5, Forex account types, trading account for Forex, indices, stocks, commodities, forex trading account opening online, MT5 Trading Account, Tight Spreads, Forex Leverage, financial instruments, Forex Equinix Data Center, Equinix Server, Equinix London, liquidity pool, Forex trading platform,";
-            $name="Bangladesh";
-            $alternateName="Bangladesh";
-            $url="https://tradersera.com/Bangladesh.php";
-            break;
-        case 'Srilanka.php':
-            $title = "Forex Trading in Sri Lanka  | UTIP Sri Lanka | MT5 ";
-            $description = "Get started with Forex trading in Sri Lanka using the best trading platforms and brokers. Explore MT5 and UTIP or become Forex IB program for success.";
-            $keywords = "Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Sri Lanka Forex Trading, Forex Market in Sri Lanka, MT5 Trading in Sri Lanka, Forex Trading Platforms in Sri Lanka, Forex IB Program in Sri Lanka, Forex Introducing Brokers in Sri Lanka, Equinix Data Center Sri Lanka, Equinix Server Sri Lanka, Equinix Colombo, Best Forex Broker Sri Lanka.";
-            $name="Srilanka";
-            $alternateName="Srilanka";
-            $url="https://tradersera.com/Srilanka.php";
-            break;
-        case 'Nepal.php':
-            $title = "Nepal Forex Trading | MT5 | UTIP Trading Platform";
-            $description = "Get started with Forex trading in Nepal by visiting our website. Explore the Forex market, MT5, and more to enhance your trading experience.";
-            $keywords = "Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Nepal Forex Trading, Forex Market in Nepal, MT5 Trading in Nepal, Forex Trading Platforms in Nepal, Forex IB Program in Nepal, Forex Introducing Brokers in Nepal, Equinix Data Center Nepal, Equinix Server Nepal, Equinix Kathmandu, Best Forex Broker Nepal.";
-            $name="Nepal";
-            $alternateName="Nepal";
-            $url="https://tradersera.com/Nepal.php";
-            break;
-        case 'Myanmar.php.php':
-            $title = " Forex Trading Myanmar | Forex IB | Forex Market Myanmar";
-            $description = "Start Forex trading in Myanmar with our Forex and MT5 and UTIP platforms. Join the Forex IB program .";
-            $keywords = "Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Myanmar Forex Trading, Forex Market in Myanmar, MT5 Trading in Myanmar, Forex Trading Platforms in Myanmar, Forex IB Program in Myanmar, Forex Introducing Brokers in Myanmar, Equinix Data Center Myanmar, Equinix Server Myanmar, Equinix Yangon, Best Forex Broker Myanmar.";
-            $name="Myanmar";
-            $alternateName="Myanmar";
-            $url="https://tradersera.com/Myanmar.php";
-            break;
-        case 'Bhutan.php':
-            $title ="Bhutan FX brokers | Forex Brokers in Bhutan | Bhutan FX traders";
-            $description ="Best Forex trading platform in Bhutan offering MT5 and UTIP, CFDs. Trade smarter with our innovative tools.";
-            $keywords ="Bhutan Forex Trading, Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Best Forex Brokers in Bhutan, Forex Broker in Bhutan, FX brokers in Bhutan, Forex brokers traders in Bhutan";
-            $name="Bhutan";
-            $alternateName="Bhutan";
-            $url="https://tradersera.com/Bhutan.php";
-            break;
+    case 'India.php':
+        $title = "Forex Trading India | MT5 | UTIP Trading Platform";
+        $description = "Experience the power of MT5 and UTIP Trading Platform. Become a partner with our forex IB program. Start trading now!";
+        $keywords = "Online Forex Trading, UTIP Trading Platform, MT5, Meta Trader 5, India, Become a Partner, forex ib program, Best Forex Broker India, Forex Introducing Brokers, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London";
+        $name="India";
+        $alternateName="India";
+        $url="https://tradersera.com/India.php";
+        break;
+
+    case 'Bangladesh.php':
+        $title = "Forex Trader in Bangladesh | UTIP Platform|  MT5 Trading Account";
+        $description = "Looking for a reliable Forex trader in Bangladesh? Trade Forex with MT5 and UTIP Trading Platform with top brokers in the industry.";
+        $keywords = "Forex Trading, Forex Trader in Bangladesh, MT5, Trade Crypto, Forex Trading Platform, Forex trading, UTIP Trading Platform, UTIP Trading Platform, Trading Account Forex, Meta Trader 5, Forex account types, trading account for Forex, indices, stocks, commodities, forex trading account opening online, MT5 Trading Account, Tight Spreads, Forex Leverage, financial instruments, Forex Equinix Data Center, Equinix Server, Equinix London, liquidity pool, Forex trading platform,";
+        $name="Bangladesh";
+        $alternateName="Bangladesh";
+        $url="https://tradersera.com/Bangladesh.php";
+        break;
+
+    case 'Srilanka.php':
+        $title = "Forex Trading in Sri Lanka  | UTIP Sri Lanka | MT5 ";
+        $description = "Get started with Forex trading in Sri Lanka using the best trading platforms and brokers. Explore MT5 and UTIP or become Forex IB program for success.";
+        $keywords = "Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Sri Lanka Forex Trading, Forex Market in Sri Lanka, MT5 Trading in Sri Lanka, Forex Trading Platforms in Sri Lanka, Forex IB Program in Sri Lanka, Forex Introducing Brokers in Sri Lanka, Equinix Data Center Sri Lanka, Equinix Server Sri Lanka, Equinix Colombo, Best Forex Broker Sri Lanka.";
+        $name="Srilanka";
+        $alternateName="Srilanka";
+        $url="https://tradersera.com/Srilanka.php";
+        break;
+
+    case 'Nepal.php':
+        $title = "Nepal Forex Trading | MT5 | UTIP Trading Platform";
+        $description = "Get started with Forex trading in Nepal by visiting our website. Explore the Forex market, MT5, and more to enhance your trading experience.";
+        $keywords = "Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Nepal Forex Trading, Forex Market in Nepal, MT5 Trading in Nepal, Forex Trading Platforms in Nepal, Forex IB Program in Nepal, Forex Introducing Brokers in Nepal, Equinix Data Center Nepal, Equinix Server Nepal, Equinix Kathmandu, Best Forex Broker Nepal.";
+        $name="Nepal";
+        $alternateName="Nepal";
+        $url="https://tradersera.com/Nepal.php";
+        break;
+
+    case 'Myanmar.php.php':
+        $title = " Forex Trading Myanmar | Forex IB | Forex Market Myanmar";
+        $description = "Start Forex trading in Myanmar with our Forex and MT5 and UTIP platforms. Join the Forex IB program .";
+        $keywords = "Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Myanmar Forex Trading, Forex Market in Myanmar, MT5 Trading in Myanmar, Forex Trading Platforms in Myanmar, Forex IB Program in Myanmar, Forex Introducing Brokers in Myanmar, Equinix Data Center Myanmar, Equinix Server Myanmar, Equinix Yangon, Best Forex Broker Myanmar.";
+        $name="Myanmar";
+        $alternateName="Myanmar";
+        $url="https://tradersera.com/Myanmar.php";
+        break;
+
+    case 'Bhutan.php':
+        $title ="Bhutan FX brokers | Forex Brokers in Bhutan | Bhutan FX traders";
+        $description ="Best Forex trading platform in Bhutan offering MT5 and UTIP, CFDs. Trade smarter with our innovative tools.";
+        $keywords ="Bhutan Forex Trading, Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Best Forex Brokers in Bhutan, Forex Broker in Bhutan, FX brokers in Bhutan, Forex brokers traders in Bhutan";
+        $name="Bhutan";
+        $alternateName="Bhutan";
+        $url="https://tradersera.com/Bhutan.php";
+        break;
 
             /* Indian Cities */
         case 'Mumbai.php':
@@ -484,7 +489,7 @@ switch ($menuactive) {
             $alternateName="Patna";
             $url="https://tradersera.com/Patna.php";
             break;
-            
+
         case 'Ranchi.php':
             $title = "Ranchi Forex | Ranchi Forex Trade | Ranchi Forex Trading App";
             $description = "Easily trade Forex in Ranchi with TradersEra's MT5 and UTIP platform.";

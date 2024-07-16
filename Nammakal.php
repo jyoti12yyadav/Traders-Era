@@ -5,12 +5,14 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Forex Trading India | Best Forex Broker India | Binary Trading</title>
+    <title>Namakkal Forex | Forex Services in Namakkal | Forex  Services </title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description"
-        content="Experience the power of AI forex trading and binary options on our platform. Become a partner with our forex IB program. Start trading now!" />
+        content="TradersEra offers a convenient MT5 and UTIP platform for trading Forex in Namakkal. Trade with ease" />
     <meta name="keywords"
-        content="Online Forex Trading, AI forex trading, Binary Options, AI Forex Tools, India, Become a Partner, forex ib program, Best Forex Broker India, Forex Introducing Brokers, Binary Trading, binary options trading, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London" />
+        content="Namakkal Forex, Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers,
+         MT5 trading, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Forex Services in Namakkal, 
+         Namakkal Forex Trading App, namakkal Forex Trading Services" />
     <!-- Favicon -->
     <link rel="shortcut icon" href="images/icon/fav.png" />
     <!-- Bootstrap CSS -->

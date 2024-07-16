@@ -11,12 +11,14 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Forex Trading India | Best Forex Broker India</title>
+    <title>Forex Trading in Ahmedabad | Forex Trading Services In Ahmedabad</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description"
-        content="Experience the power of AI forex trading on our platform. Become a partner with our forex IB program. Start trading now!" />
+        content="Trade Forex in Ahmedabad with our all in one Trading Platform. Learn, trade, and succeed in the foreign exchange market.  Join us Today" />
     <meta name="keywords"
-        content="Online Forex Trading, AI forex trading,  AI Forex Tools, India, Become a Partner, forex ib program, Best Forex Broker India, Forex Introducing Brokers, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London" />
+        content="Forex Trading in Ahmedabad, Online Forex Trading,  MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, 
+        Forex Introducing Brokers, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Forex Trading 
+        Services In Ahmedabad, Ahmedabad Forex Trading App" />
     <!-- Favicon -->
     <link rel="shortcut icon" href="images/icon/fav.png" />
     <!-- Bootstrap CSS -->
