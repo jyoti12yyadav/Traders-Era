@@ -7,12 +7,13 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Forex Trading India | Best Forex Broker India | Binary Trading</title>
+    <title>Forex Trading India | MT5 | UTIP Trading Platform</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description"
-        content="Experience the power of AI forex trading and binary options on our platform. Become a partner with our forex IB program. Start trading now!" />
+        content="Experience the power of MT5 and UTIP Trading Platform. Become a partner with our forex IB program. Start trading now!" />
     <meta name="keywords"
-        content="Online Forex Trading, AI forex trading, Binary Options, AI Forex Tools, India, Become a Partner, forex ib program, Best Forex Broker India, Forex Introducing Brokers, Binary Trading, binary options trading, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London" />
+        content="Online Forex Trading, UTIP Trading Platform, MT5, Meta Trader 5, India, Become a Partner, forex ib program, Best Forex Broker India, Forex Introducing Brokers, 
+        Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London" />
     <!-- Favicon -->
     <link rel="shortcut icon" href="images/icon/fav.png" />
     <!-- Bootstrap CSS -->
