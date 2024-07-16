@@ -415,7 +415,6 @@
                                     <p class="fs-six-up fw_500 nb4-xxl-color"> Polish your Trading skills with Zero Risk Demo Accounts.</p>
                                         <div class="d-flex mt-8">
                                       
-<<<<<<< HEAD
                                             <!-- <img  class="mx-4" src="logo UTIP logo black (1).png" alt="openai" style="height: 35px;"> -->
                                             <!-- <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png" alt="Equinix_logo" style="height: 40px;"> -->
                                         </div>
@@ -427,12 +426,10 @@
                                         <!-- <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png" alt="Equinix_logo" style="height: 40px;"> -->
                                     </div>
 
-=======
                                             <img  class="mx-4" src="assets\images\icon\logo UTIP logo black.png" alt="openai" style="height: 35px;">
                                             <!-- <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png" alt="Equinix_logo" style="height: 40px;"> -->
                                         </div>
                                        
->>>>>>> f531cc2531de022e2011132f846bc4b65cf566dc
                                     <div
                                         class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8 mt-lg-10" >
                                         <a href="https://tradersera.com/prelogin.php"
@@ -482,7 +479,6 @@
                                     Range of Markets, with Safety & Service Quality.
 
                                     </h1>
-<<<<<<< HEAD
                                     <p class="fs-six-up fw_500 nb4-xxl-color" style="transform: scaleX(-1);">Trade
                                         smarter with personalised support & market insights.</p>
                                     <div class="d-flex mt-8" style="transform: scaleX(-1);">
@@ -492,14 +488,12 @@
                                         <!-- <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png" alt="Equinix_logo" style="height: 35px;"> -->
                                     </div>
                                     
-=======
                                     <p class="fs-six-up fw_500 nb4-xxl-color" style="transform: scaleX(-1);">Trade smarter with personalised support & market insights.</p>
                                         <div class="d-flex mt-8" style="transform: scaleX(-1);">
                                       
                                             <img  class="mx-4" src="assets\images\icon\logo UTIP logo black.png" alt="openai" style="height: 35px;"></h3>
                                             <!-- <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png" alt="Equinix_logo" style="height: 35px;"> -->
                                         </div>
->>>>>>> f531cc2531de022e2011132f846bc4b65cf566dc
                                     <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8
                                         mt-lg-10" style="
     margin-left: 75px;
