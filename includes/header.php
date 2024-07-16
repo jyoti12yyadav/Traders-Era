@@ -3,6 +3,7 @@
 <!doctype html>
 <html lang="en">
 <!-- Mirrored from pixner.net/tradez/main/index-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 16 Jan 2024 07:19:13 GMT -->
+
 <head>
     <!-- required meta -->
     <meta charset="UTF-8">
@@ -29,21 +30,8 @@
         rel="stylesheet">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
 </head>
+
 <body>
     <!--  Preloader  -->
     <div class="preloader">
@@ -69,11 +57,13 @@
                         <div class="contact-details ">
                             <ul class="contact" style="display: flex;position: absolute;margin-top: 4px;">
                                 <li><img class="mx-2" src="assets/images/icon/mail icon png.png" alt="">
-                                <a href="mailto:support@tradersera.com">support@tradersera.com</a></li>
+                                    <a href="mailto:support@tradersera.com">support@tradersera.com</a>
+                                </li>
                                 <li><img class="mx-2" src="assets/images/icon/call icon png.png" alt="">
-                                <a href="tel:+ 44203758865">+1 9142684555</a></li>
+                                    <a href="tel:+ 44203758865">+1 9142684555</a>
+                                </li>
                                 <div class="content">
-                        </div>
+                                </div>
                             </ul>
                         </div>
                     </div>
@@ -83,10 +73,11 @@
                         <a href="javascript:void(Tawk_API.toggle())"
                             class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button"> Support </a>
                     </div> -->
-                <div class="single-item" style="margin-right: 10px; ">
+                    <div class="single-item" style="margin-right: 10px; ">
                         <a href="Download-UTIP.php"
-                            class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button">Download UTIP</a>
-                    </div> 
+                            class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button">Download
+                            UTIP</a>
+                    </div>
                     <div class="single-item" style="  margin-right: 10px; ">
                         <a href="https://trading.tradersera.com/register"
                             class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button" target="new">
@@ -118,7 +109,7 @@
                     <div class="right-area position-relative ms-0 d-center gap-1 gap-xl-4 d-lg-none">
                         <div class="single-item">
                             <a href="contact-us.php"
-                                class="cmn-btn fw-bold py-2 px-2 px-sm-3 px-lg-4 align-items-center gap-1"> Contact Us
+                                class="cmn-btn fw-bold py-2 px-2 px-sm-3 px-lg-4 align-items-center gap-1">Contact Us
                                 <i class="ti ti-arrow-right fw-semibold fs-six-up"></i></a>
                         </div>
                     </div>
@@ -139,18 +130,20 @@
                             </ul>
                         </li>
                         <mark>
-                        <li class="dropdown show-dropdown">
-                                <button type="button" aria-label="Navbar Dropdown Button" class="dropdown-toggle dropdown-nav" onmouseover="this.style.color='black'" onmouseout="this.style.color=''">
-                                    Trading 
+                            <li class="dropdown show-dropdown">
+                                <button type="button" aria-label="Navbar Dropdown Button"
+                                    class="dropdown-toggle dropdown-nav" onmouseover="this.style.color='black'"
+                                    onmouseout="this.style.color=''">
+                                    Trading
                                 </button>
-                            <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="compare-accounts.php">Compare Accounts</a></li>
-                                <li><a class="dropdown-item" href="market-hours.php">Market Hours</a></li>
-                                <li><a class="dropdown-item" href="refer-a-friend.php">Refer a Friend</a></li>
-                                <li><a class="dropdown-item" href="bonus.php">50% Bonus</a></li>
-                                <li><a class="dropdown-item" href="Download-MT5.php">Download MT5</a></li>
-                            </ul>
-                        </li>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="compare-accounts.php">Compare Accounts</a></li>
+                                    <li><a class="dropdown-item" href="market-hours.php">Market Hours</a></li>
+                                    <li><a class="dropdown-item" href="refer-a-friend.php">Refer a Friend</a></li>
+                                    <li><a class="dropdown-item" href="bonus.php">50% Bonus</a></li>
+                                    <li><a class="dropdown-item" href="Download-MT5.php">Download MT5</a></li>
+                                </ul>
+                            </li>
                         </mark>
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
@@ -218,6 +211,7 @@
             width: 25px;
             max-width: 100%;
         }
+
         .contact li {
             margin-right: 25px;
             /* Adjust the value as per your design */
@@ -231,10 +225,12 @@
             font-size: 16px;
             border: none;
         }
+
         .dropdown {
             position: relative;
             display: inline-block;
         }
+
         .dropdown-content {
             display: none;
             position: absolute;
@@ -243,24 +239,29 @@
             box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
             z-index: 1;
         }
+
         .dropdown-content a {
             color: black;
             padding: 12px 16px;
             text-decoration: none;
             display: block;
         }
+
         .dropdown-content a:hover {
             background-color: #ddd;
         }
+
         .dropdown:hover .dropdown-content {
             display: block;
         }
+
         .dropdown:hover .dropbtn {
             background-color: #3e8e41;
         }
+
         mark {
-           background-color: #9AD953;
-           border-radius: 4px; 
-           color:black;
-       } 
+            background-color: #9AD953;
+            border-radius: 4px;
+            color: black;
+        }
     </style>

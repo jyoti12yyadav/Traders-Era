@@ -415,7 +415,7 @@
                                     <p class="fs-six-up fw_500 nb4-xxl-color"> Polish your Trading skills with Zero Risk Demo Accounts.</p>
                                         <div class="d-flex mt-8">
                                       
-                                            <img  class="mx-4" src="assets\images\icon\logo UTIP logo black.png" alt="openai" style="height: 35px;">
+                                            <img  class="mx-4" src="images\icon\logo UTIP logo black white baground.png" alt="openai" style="height: 35px;">
                                             <!-- <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png" alt="Equinix_logo" style="height: 40px;"> -->
                                         </div>
                                        
@@ -471,7 +471,7 @@
                                     <p class="fs-six-up fw_500 nb4-xxl-color" style="transform: scaleX(-1);">Trade smarter with personalised support & market insights.</p>
                                         <div class="d-flex mt-8" style="transform: scaleX(-1);">
                                       
-                                            <img  class="mx-4" src="assets\images\icon\logo UTIP logo black.png" alt="openai" style="height: 35px;"></h3>
+                                            <img  class="mx-4" src="images\icon\logo UTIP logo black white baground.png" alt="openai" style="height: 35px;"></h3>
                                             <!-- <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png" alt="Equinix_logo" style="height: 35px;"> -->
                                         </div>
                                     <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8
