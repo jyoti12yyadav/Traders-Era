@@ -498,6 +498,7 @@ switch ($menuactive) {
             $alternateName="Ranchi";
             $url="https://tradersera.com/Ranchi.php";
             break;
+
             
     default:
         $title = "Title Here";
