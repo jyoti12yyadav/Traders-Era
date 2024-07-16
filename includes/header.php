@@ -71,6 +71,9 @@
                                 <li><img class="mx-2" src="assets/images/icon/mail icon png.png" alt=""><a
                                         href="mailto:support@tradersera.com">support@tradersera.com</a></li>
                                 <li><img class="mx-2" src="assets/images/icon/call icon png.png" alt=""><a href="tel:+ 44203758865">+1 9142684555</a></li>
+                                <div class="content">
+                            
+                        </div>
                             </ul>
                         </div>
                     </div>

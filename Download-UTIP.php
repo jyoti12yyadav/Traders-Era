@@ -171,7 +171,7 @@
         </div>
     </div>
 </section>
-<section class="benefits hidden-xs pb-120 pt-120" >
+<section class="benefits hidden-xs pb-120 pt-120">
     <div class="benefits__container container">
         <h2>Platform Features</h2>
         <div class="row">
@@ -231,7 +231,7 @@
 
 <section class="provide-world pt-120 position-relative z-0 mb-10 pb-120" style="background-color: #000000;">
     <div class="container">
-       
+
         <div class="row justify-content-center">
             <div class="col-lg-8 col-xxl-7">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
@@ -253,8 +253,13 @@
                         </span>
                         <h4 class="mt-5 mb-5">Download UTIP for Android</h4>
                         <p style="padding-left:50px; padding-right: 50px;">Trade on the go using your Android device.
-                            The UTIP Android app provides market data, news, charts, and important trading tools.</p>
-
+                            The UTIP Android app provides market data, news, charts, and important trading tools.</p><br><br>
+                        <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-2 mt-lg-1">
+                            <a href=""
+                                class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-lg-1 px-lg-2"
+                                style="transform: scaleX(1); background-color: #9ad953; color: #000000; margin-top: 20px; border-radius: 5px;">Download
+                            </a>
+                        </div>
                     </div>
                     <div class="col-md-4 provide-world__card text-center nb3-bg py-5 px-4 px-lg-5">
 
@@ -265,6 +270,12 @@
                         <p style="padding-left:50px; padding-right: 50px;">Download UTIP on your iOS device to trade on
                             the go using your iPhone or iPad. This app is compatible with all iOS devices, giving you
                             the freedom to trade from anywhere with your gadget.</p>
+                        <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-2 mt-lg-1">
+                            <a href=""
+                                class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-lg-1 px-lg-2"
+                                style="transform: scaleX(1); background-color: #9ad953; color: #000000; margin-top: 20px; border-radius: 5px;">Download
+                            </a>
+                        </div>
                     </div>
                     <div class="col-md-4 provide-world__card text-center nb3-bg py-5 px-4 px-lg-5">
                         <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
@@ -273,7 +284,13 @@
                         <h4 class="mt-5 mb-5" style="padding-left: 50px; padding-right: 50px;">Download UTIP for Mac
                         </h4>
                         <p style="padding-left:50px; padding-right: 50px;">Get the UTIP desktop solution for your device
-                            by downloading it on Mac OS X, installing it, and accessing the trading floor.</p>
+                            by downloading it on Mac OS X, installing it, and accessing the trading floor.</p><br><br>
+                        <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-2 mt-lg-1">
+                            <a href=""
+                                class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-lg-1 px-lg-2"
+                                style="transform: scaleX(1); background-color: #9ad953; color: #000000; margin-top: 20px; border-radius: 5px;">Download
+                            </a>
+                        </div>
                     </div>
                 </div>
             </div>

@@ -1,19 +1,6 @@
 <!-- Footer Section Starts -->
 <style>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
     .col-xxl-8 {
         flex: 0 0 auto;
         width: 100.666667%;
@@ -26,6 +13,9 @@
     .mb-lg-8 {
         margin-bottom: 1rem !important;
     }
+
+
+    
 </style>
 <footer class="footer a2-bg position-relative pt-15 pt-lg-0 z-0 ">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1 d-none d-xxxl-flex">
@@ -43,8 +33,8 @@
             <div class="row gy-6 w-100 text-center text-sm-start align-items-center justify-content-sm-between">
                 <div class="col-sm-8">
                     <h4>Deposit $10 at TradersEra and Start Trading.</h4>
-                    <!-- <p class="fs-six-up fw_500 mt-5">Trade crypto, forex and use AI for Investments.
-                    </p> -->
+                    <p class="fs-six-up fw_500 mt-5">Trade & Learn Risk Free with our Free DEMO Account on UTIP Platform.
+                    </p>
                 </div>
                 <div class="col-sm-4 text-sm-end">
                     <a href="https://trading.tradersera.com/register"
