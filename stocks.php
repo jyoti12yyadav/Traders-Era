@@ -3,24 +3,28 @@
     .pt-120 {
         padding-top: 60px;
     }
+
     .pb-120 {
         padding-top: 60px;
     }
-    .table-para{
+
+    .table-para {
         background-color: #292929;
-    padding: 35px;
-    border: 1px solid #838383;
-    border-radius: 14px;
-    margin: 10px 0px;
+        padding: 35px;
+        border: 1px solid #838383;
+        border-radius: 14px;
+        margin: 10px 0px;
     }
-    .table-para-2{
+
+    .table-para-2 {
         background-color: #292929;
-    padding: 35px;
-    border: 1px solid #838383;
-    border-radius: 14px;
-    margin: 10px 0px;
+        padding: 35px;
+        border: 1px solid #838383;
+        border-radius: 14px;
+        margin: 10px 0px;
     }
-    tr{
+
+    tr {
         text-align: center;
     }
 </style>
@@ -89,7 +93,8 @@
                         <img src="assets/images/icon/time.png" alt="null">
                     </span>
                     <h3 class="mt-5 mb-5">Quick Deposits & Withdrawals</h3>
-                    <p>Become an TradersEra client within minutes! Register yourself, fund your chosen account, and start stock trading trouble-free.</p>
+                    <p>Become an TradersEra client within minutes! Register yourself, fund your chosen account, and
+                        start stock trading trouble-free.</p>
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
@@ -98,7 +103,8 @@
                         <img src="assets/images/icon/customer-service.png" alt="null">
                     </span>
                     <h3 class="mt-5 mb-5">Unparalleled Customer Support</h3>
-                    <p>With an experienced team backing you up at every difficulty, TradersEra strives to offer you the best possible customer support 24×5.</p>
+                    <p>With an experienced team backing you up at every difficulty, TradersEra strives to offer you the
+                        best possible customer support 24×5.</p>
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
@@ -118,7 +124,8 @@
                         <img src="assets/images/icon/discount.png" alt="null">
                     </span>
                     <h3 class="mt-5 mb-5">Low Commissions</h3>
-                    <p>Get raw pricing with no markups with TradersEra. Start stock trading with us at lowest commissions possible.</p>
+                    <p>Get raw pricing with no markups with TradersEra. Start stock trading with us at lowest
+                        commissions possible.</p>
                     <br>
                 </div>
             </div>
@@ -151,11 +158,7 @@
     color: black;
     text-align: center;
     font-size: 16px;">Exchange</th>
-                        <th style="    background-color: #9ad953;
-    color: black;
-    text-align: center;
-    font-size: 16px;">Max trade size<br>
-                            (ThinkZero)</th>
+
                         </tr>
                     </thead>
                     <tbody class="row-hover">
@@ -186,7 +189,7 @@
                         <tr class="even">
                             <td>AMZN</td>
                             <td>Amazon</td>
-                           
+
                             <td>16:30 - 23:00</td>
                             <td>NASDAQ</td>
                         </tr>
@@ -259,7 +262,7 @@
                         <tr class="even">
                             <td>GE</td>
                             <td>General Electric Inc.</td>
-                           
+
                             <td>16:30 - 23:00</td>
                             <td>NYSE</td>
                         </tr>
@@ -405,7 +408,7 @@
                             <td>ORCL</td>
                             <td>Oracle Corporation</td>
                             <td>16:30 - 23:00</td>
-                            <td>NYSE</td>                            
+                            <td>NYSE</td>
                         </tr>
                         <tr class="odd">
                             <td>PEP</td>
@@ -546,15 +549,16 @@
                             <td>NYSE</td>
                         </tr>
                     </tbody>
-                </table>
+                </table><br><br>
                 <div class="table-para">
                     <ul class="contract_specifications_desc_text border-bottom">
                         <li class="contract_specifications_desc_heading"><strong>Notes:</strong></li>
-                        <li>All systems may have a restart time without execution and prices up to 10 minutes everyday at 00:00 GMT+3.</li>
+                        <li>All systems may have a restart time without execution and prices up to 10 minutes everyday
+                            at 00:00 GMT+3.</li>
                         <li>Swap charges are subject to change without prior notice.</li>
                         <li>Swap charges are tripled on Wednesdays.</li>
                         <!-- <li>Access the leverage/margin values &amp; unlock the potential for maximizing returns by <a href="https://capitalxtend.com/leverage-and-margin-requirements" target="_blank" style="color: #0D68F9;">clicking here</a>.</li> -->
-                        </ul>
+                    </ul>
                 </div>
             </div>
         </div>

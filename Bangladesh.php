@@ -12,12 +12,14 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Forex Trading India | Best Forex Broker India | Binary Trading</title>
+    <title>Forex Trader in Bangladesh | UTIP Platform | MT5 Trading Account</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description"
-        content="Experience the power of AI forex trading and binary options on our platform. Become a partner with our forex IB program. Start trading now!" />
+        content="Looking for a reliable Forex trader in Bangladesh? Trade Forex with MT5 and UTIP Trading Platform with top brokers in the industry." />
     <meta name="keywords"
-        content="Online Forex Trading, AI forex trading, Binary Options, AI Forex Tools, India, Become a Partner, forex ib program, Best Forex Broker India, Forex Introducing Brokers, Binary Trading, binary options trading, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London" />
+        content="Forex Trading, Forex Trader in Bangladesh, MT5, Trade Crypto, Forex Trading Platform, Forex trading, UTIP Trading Platform, UTIP Trading Platform, 
+        Trading Account Forex, Meta Trader 5, Forex account types, trading account for Forex, indices, stocks, commodities, forex trading account opening online, 
+        MT5 Trading Account, Tight Spreads, Forex Leverage, financial instruments, Forex Equinix Data Center, Equinix Server, Equinix London, liquidity pool, Forex trading platform,"/>
     <!-- Favicon -->
     <link rel="shortcut icon" href="images/icon/fav.png" />
     <!-- Bootstrap CSS -->

@@ -5,12 +5,15 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Forex Trading India | Best Forex Broker India | Binary Trading</title>
+    <title>Forex Trading in Sri Lanka | UTIP Sri Lanka | MT5 </title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description"
-        content="Experience the power of AI forex trading and binary options on our platform. Become a partner with our forex IB program. Start trading now!" />
+        content="Get started with Forex trading in Sri Lanka using the best trading platforms and brokers. Explore MT5 and UTIP or become Forex IB program for success." />
     <meta name="keywords"
-        content="Online Forex Trading, AI forex trading, Binary Options, AI Forex Tools, India, Become a Partner, forex ib program, Best Forex Broker India, Forex Introducing Brokers, Binary Trading, binary options trading, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London" />
+        content="Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, Trading Account
+         Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Sri Lanka Forex Trading, Forex Market in Sri Lanka, MT5 Trading in Sri Lanka,
+          Forex Trading Platforms in Sri Lanka, Forex IB Program in Sri Lanka, Forex Introducing Brokers in Sri Lanka, Equinix Data Center Sri Lanka, Equinix Server Sri Lanka, 
+          Equinix Colombo, Best Forex Broker Sri Lanka." />
     <!-- Favicon -->
     <link rel="shortcut icon" href="images/icon/fav.png" />
     <!-- Bootstrap CSS -->
