@@ -313,7 +313,7 @@
   "contactPoint": {
     "@type": "ContactPoint",
     "telephone": "+1 9142684555",
-    "contactType": "customer service",
+    "contactType": "customer service", n    
     "contactOption": "TollFree",
     "areaServed": "GB",
     "availableLanguage": "en"
