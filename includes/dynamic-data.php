@@ -265,6 +265,15 @@ switch ($menuactive) {
         $alternateName="UTIP-WebTrader";
         $url="https://tradersera.com/UTIP-WebTrader.php";
         break;
+
+    case 'UTIP-info.php':
+        $title = "UTIP Platform | UTIP Forex | UTIP WebTrader";
+        $description = "The UTIP Platform offers a complete package of software for businesses in the currency markets. The platform offers a Trader’s Room. ";
+        $keywords = "UTIP Web Trader, Online Forex Trading, UTIP Trading Platform, UTIP, UTIP Platform, Trader’s Room, UTIP Trader’s Room, Trading Account, Forex Instruments, Forex, CFD, Chinese currency pairs, Singaporean currency pairs, Philippine currency pairs, Malaysian currency pairs, currency pairs, Trader's Room Terminal, A Booking, B Booking, UTIP WEB API";
+        $name="UTIP";
+        $alternateName="UTIP-info";
+        $url="https://tradersera.com/UTIP-info.php";
+        break;
                 
             
 
