@@ -147,9 +147,9 @@
                                 </ul>
                             </li>
                         </mark>
-                        <li class="">
+                        <!-- <li class="">
                             <a class="dropdown-item" href="index.php">Markets</a>
-                        </li>
+                        </li> -->
                         <!-- <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
                                 class="dropdown-toggle dropdown-nav ">Markets</button>
