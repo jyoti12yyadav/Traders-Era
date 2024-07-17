@@ -70,7 +70,7 @@
                     </a>
                     <p>Your all-in-one online platform for Forex trading. With our user interface and wide
                         range of tools you'll have all the support
-                        to make informed decisions and maximize your profits. </p>
+                        to make informed decisions and maximize your profits.</p>
                     <br>
                     <ul class="social-area d-center gap-2 gap-md-3">
                         <li>
@@ -194,7 +194,7 @@
 
                     <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4 mb-4">
                         <li>
-                            <a class="n2-color" href="cfd-partner.php">CFD Partner</a>
+                            <a class="n2-color" href="IB-partner.php">IB Partner</a>
                         </li>
                     </ul>
                 </div>
@@ -219,7 +219,7 @@
                             <a class="n2-color" href="our-servers.php">Our Servers</a>
                         </li>
                         <li>
-                            <a class="n2-color" href="kyc-checks.php">KYC Checks</a>
+                            <a class="n2-color" href="ID-verification.php">ID Verification</a>
                         </li>
                     </ul>
                 </div>

@@ -189,7 +189,7 @@ switch ($menuactive) {
         $url="https://tradersera.com/our-servers.php";
         break;
     case 'kyc-checks.php':
-        $title = " Forex Brokers KYC | Forex KYC Checks | Identity Verification";
+        $title = "Forex Brokers KYC | Forex KYC Checks | Identity Verification";
         $description = "Trade confidently with peace of mind on TradersEra. Complete your KYC checks swiftly and securely to unlock full access to our trading platform. Start now!";
         $keywords = "Forex KYC Checks, Forex Brokers KYC, KYC Compliance for Forex Trading, Identity verification for forex brokers, Automated KYC Compliance, KYC in Forex trading, ";
         $name="KYC Checks";
