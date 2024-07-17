@@ -178,7 +178,7 @@
                             <button type="button" aria-label="Navbar Dropdown Button"
                                 class="dropdown-toggle dropdown-nav">Partners</button>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="Affiliate.php">Affiliate</a></li>
+                                <li><a class="dropdown-item" href="IB-partner.php">IB Partner</a></li>
                             </ul>
                         </li>
                         <li class="dropdown show-dropdown">
