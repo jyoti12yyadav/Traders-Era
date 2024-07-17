@@ -117,8 +117,7 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">Email Us Directly</h3>
-                                        <br>
+                                        <h3 class=""><a href="mailto:support@tradersera.com">Email Us Directly</h3>
                                         <span>support@tradersera.com</span>
                                     </div>
                                 </div>
@@ -134,7 +133,6 @@
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
                                         <h3 class="">Contact Our Team</h3>
-                                        <br>
                                         <span>Contact us: +1 9142684555</span>
                                     </div>
                                 </div>

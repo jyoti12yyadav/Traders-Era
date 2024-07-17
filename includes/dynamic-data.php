@@ -314,6 +314,7 @@ switch ($menuactive) {
         $alternateName="Crypto";
         $url="https://tradersera.com/learn-crypto.php";
         break;
+        
     case 'learn-binary.php':
         $title = "Learn Binary Options | Learn Binary Trading | Binary Option";
         $description = "Learn about Binary Options Trading. Learn to make informed decisions and make profits in this dynamic market.";
