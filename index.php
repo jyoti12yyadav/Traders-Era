@@ -656,8 +656,8 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">Web Platform for All</h3>
-                                        <span>No download, No setup, No fuss Trade on the go.</span>
+                                        <h3 class="">UTIP Platform with TradersEra</h3>
+                                        <span>Cutting Edge Technology on all your Devices Together.</span>
                                     </div>
                                 </div>
                             </div>
@@ -676,7 +676,7 @@
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
                                         <h3 class="">Multiple Funding Options</h3>
-                                        <span>Pay via cards,banks,local transfer and cryptose.</span>
+                                        <span>Pay via cards,banks,local transfer and cryptos.</span>
                                     </div>
                                 </div>
                             </div>
@@ -706,7 +706,7 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">24/7 Customer Support</h3>
+                                        <h3 class="">24/5 Customer Support</h3>
                                         <span>Speak to us and resolve your questions round the clock.</span>
                                     </div>
                                 </div>
@@ -836,7 +836,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-8 col-xxl-7">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h2 class="mb-5 mb-lg-6">Features Of TradersEra</h2>
+                    <h2 class="mb-5 mb-lg-6">Peace of Mind with TradersEra</h2>
                 </div>
             </div>
         </div>
@@ -956,7 +956,7 @@
                 </div>
                 <div class="row gy-6 w-100 text-center text-sm-start align-items-center justify-content-sm-between">
                     <div class="col-sm-8">
-                        <h4>Start Trading today with TradersEra with $10</h4>
+                        <h4>Start Trading today with TradersEra with $50</h4>
                         <!-- <p class="fs-six-up fw_500 mt-5">Trade crypto, binary, forex and use AI for Investments.
                         </p> -->
                     </div>

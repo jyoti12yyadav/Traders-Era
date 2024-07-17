@@ -73,25 +73,25 @@
                     <thead>
                         <tr>
                             <th scope="col" style="    background-color: #9ad953;
-    color: black;
-    text-align: center;
-    font-size: 16px;padding:20px;display: table-cell;">PAYMENT METHOD</th>
-                            <th scope="col" style="    background-color: #9ad953;
-    color: black;
-    text-align: center;
-    font-size: 16px;padding:20px;display: table-cell;">MINIMUM AMOUNT</th>
-                            <th scope="col" style="    background-color: #9ad953;
-    color: black;
-    text-align: center;
-    font-size: 16px;padding:20px;display: table-cell;">COMMISSION</th>
-                            <th scope="col" style="    background-color: #9ad953;
-    color: black;
-    text-align: center;
-    font-size: 16px;padding:20px;display: table-cell;">EXECUTION TIME</th>
-                            <th scope="col" style="    background-color: #9ad953;
-    color: black;
-    text-align: center;
-    font-size: 16px;padding:20px;display: table-cell;"></th>
+                                color: black;
+                                text-align: center;
+                                font-size: 16px;padding:20px;display: table-cell;">PAYMENT METHOD</th>
+                                                        <th scope="col" style="    background-color: #9ad953;
+                                color: black;
+                                text-align: center;
+                                font-size: 16px;padding:20px;display: table-cell;">MINIMUM AMOUNT</th>
+                                                        <th scope="col" style="    background-color: #9ad953;
+                                color: black;
+                                text-align: center;
+                                font-size: 16px;padding:20px;display: table-cell;">COMMISSION</th>
+                                                        <th scope="col" style="    background-color: #9ad953;
+                                color: black;
+                                text-align: center;
+                                font-size: 16px;padding:20px;display: table-cell;">EXECUTION TIME</th>
+                                                        <th scope="col" style="    background-color: #9ad953;
+                                color: black;
+                                text-align: center;
+                                font-size: 16px;padding:20px;display: table-cell;"></th>
                         </tr>
                     </thead>
                     <tbody>
