@@ -75,17 +75,17 @@
                             class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button"> Support </a>
                     </div> -->
                     <div class="single-item" style="margin-right: 10px; ">
-                        <a href="UTIP-WebTrader.php"
+                        <a href=" https://workspace.tradersera.xyz/" target="_blank"
                             class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button">
                             UTIP WebTrader</a>
                     </div>
                     <div class="single-item" style="  margin-right: 10px; ">
-                        <a href="https://trading.tradersera.com/register"
+                        <a href="https://private.tradersera.xyz/signup"
                             class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button" target="new">
                             Open an Account </a>
                     </div>
                     <div class="single-item">
-                        <a href="prelogin.php"
+                        <a href="https://private.tradersera.xyz/signin"
                             class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button" target="new">
                             Login</a>
                     </div>

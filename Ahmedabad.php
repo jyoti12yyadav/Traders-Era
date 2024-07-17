@@ -90,7 +90,7 @@
                                 Let's begin your trading journey today.
                             </p>
                             <!-- <h5>Get Access to a Range of Trading Options with Just a Minimum Deposit!</h5> -->
-                            <a class="button iq-mt-50" href="https://tradersera.com/prelogin.php" target="_blank"> <svg
+                            <a class="button iq-mt-50" href="https://private.tradersera.xyz/signup" target="_blank"> <svg
                                     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                                     <g data-name="Circle Right">
                                         <path
@@ -347,7 +347,7 @@
                 </div>
             </div>
             <div class="col-sm-12 d-flex justify-content-center">
-                <a class="button iq-mt-70" href="https://tradersera.com/prelogin.php" target="_blank"><svg
+                <a class="button iq-mt-70" href="https://private.tradersera.xyz/signup" target="_blank"><svg
                         xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                         <g data-name="Circle Right">
                             <path
@@ -446,7 +446,7 @@
                 </div>
             </div>
             <div class="col-sm-12 d-flex justify-content-center">
-                <a class="button iq-mt-70" href="https://tradersera.com/prelogin.php" target="_blank"><svg
+                <a class="button iq-mt-70" href="https://private.tradersera.xyz/signup" target="_blank"><svg
                         xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                         <g data-name="Circle Right">
                             <path

@@ -939,7 +939,7 @@
                         </p> -->
                     </div>
                     <div class="col-sm-4 text-sm-end">
-                        <a href="https://trading.tradersera.com/register"
+                        <a href="https://private.tradersera.xyz/signup"
                             class="cmn-btn secondary-alt ms-auto fs-five nb4-xxl-bg gap-2 align-items-center  py-2 px-4 py-lg-3 px-lg-5">Open
                             An
                             Account <i class="ti ti-arrow-right fs-four"></i></a>
