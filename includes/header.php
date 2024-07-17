@@ -75,7 +75,7 @@
                             class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button"> Support </a>
                     </div> -->
                     <div class="single-item" style="margin-right: 10px; ">
-                        <a href="Download-UTIP.php"
+                        <a href="UTIP-webtrader.php"
                             class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button">
                             UTIP WebTrader</a>
                     </div>
