@@ -258,6 +258,52 @@ switch ($menuactive) {
         $alternateName="Bonus";
         $url="https://tradersera.com/bonus.php";
         break;
+
+
+
+
+
+
+
+        case 'compare-accounts.php':
+            $title = "Compare UTIP Accounts | MT5 Account Differences | Forex Account Differences ";
+            $description = "Explore account options - Standard, VIP, and Pro on UTIP and MT5 platforms. Check out minimum deposits, spread pips, commissions, leverage, and more.";
+            $keywords = "Compare Trading Accounts, Compare Forex Accounts, Forex Platform, Forex, indices, stocks, commodities, Zero commission, Online Forex Trading, MT5, Meta Trader 5, UTIP, UTIP Trading Platform, Trade Crypto, Forex Trading Platform, UTIP, TradingView, AWS, Equinix, MarketCheese, SSL Secured, Forex trading, forex market, CFD, FX CFD, Crypto CFD, Online trading account types, Forex Deposit, Forex Withdrawal, Crypto Trading, Indices trading, Stock Trading, Forex Trading, Commodity Trading,  Equinix Servers, trading ecosystem, Automated Trading  ";
+            $name="Compare Account";
+            $alternateName="Compare Account";
+            $url="https://tradersera.com/compare-accounts.php";
+            break;
+    
+            case 'Download-MT5.php':
+                $title = "Download MT5 | Access MT5 |  Meta Trader 5 Platform";
+                $description = "Access the MT5 download link for Android, Windows, and iPhone on TradersEra's website. Explore the benefits of trading with our MT5 account services.";
+                $keywords = "Download MT5, MT5 Webtrader, MT5 platform,MetaTrader 5 Download, Forex Trading Platform, MetaTrader 5 for Windows, MT5 Android app, MetaTrader 5 for iOS, MT5 terminal for Mac OS, Forex, Commodities, Indicestrading Forex, CFDs, exchange-traded instruments, futures, stocks, ETFs, Stock CFDs, Stock Indices CFDs, Forex, CFDs on Cryptocurrencies, CFDs on Precious Metals, and CFDs on Energies,";
+                $name="Download MT5";
+                $alternateName="Download MT5";
+                $url="https://tradersera.com/Download-MT5.php";
+                break;
+        
+            
+
+
+                case 'UTIP-WebTrader.php':
+                    $title = "Download UTIP | Access UTIP | UTIP ttrading App";
+                    $description = "Explore UTIP account services on TradersEra Website. Download the UTIP app for Android, Windows, and iPhone to get started.";
+                    $keywords = "UTIP Download, UTIP App, UTIP Android, UTIP iOS, UTIP Mac, UTIP Win, UTIP Web Trader, Online Forex Trading, UTIP Trading Platform, UTIP, UTIP Platform, Trader’s Room, UTIP Trader’s Room, Trading Account, Forex Instruments, Forex, CFD, Chinese currency pairs, Singaporean currency pairs, Philippine currency pairs, Malaysian currency pairs, currency pairs, Trader's Room Terminal, A Booking, B Booking, UTIP WEB API";
+                    $name="UTIP-WebTrader";
+                    $alternateName="UTIP-WebTrader";
+                    $url="https://tradersera.com/UTIP-WebTrader.php";
+                    break;
+            
+            
+
+
+
+
+
+
+
+
     case 'ai-invest.php':
         $title = "AI Invest";
         $description = "AI Invest";
