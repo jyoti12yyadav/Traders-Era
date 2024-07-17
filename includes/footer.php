@@ -37,8 +37,8 @@
                     </p>
                 </div>
                 <div class="col-sm-4 text-sm-end">
-                    <a href="https://private.tradersera.xyz/signup"
-                        class="cmn-btn secondary-alt ms-auto fs-five nb4-xxl-bg gap-2 align-items-center  py-2 px-4 py-lg-3 px-lg-5" target="new">Open An Account <i class="ti ti-arrow-right fs-four"></i></a>
+                    <a href="https://trading.tradersera.com/register"
+                        class="cmn-btn secondary-alt ms-auto fs-five nb4-xxl-bg gap-2 align-items-center  py-2 px-4 py-lg-3 px-lg-5">Open An Account <i class="ti ti-arrow-right fs-four"></i></a>
                 </div>
             </div>
         </div>
@@ -331,7 +331,6 @@
 <script src="assets/js/plugins/plugins.js"></script>
 <script src="assets/js/plugins/plugin-custom.js"></script>
 <script src="assets/js/main.js"></script>
-
 <!-- schema -->
 <script type="application/ld+json">
 {
@@ -358,7 +357,7 @@ var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
 (function(){
 var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
 s1.async=true;
-s1.src='https://embed.tawk.to/6685526c9d7f358570d6924a/1i1scjubf';
+s1.src='https://embed.tawk.to/660a504ba0c6737bd126e8e2/1hqc4ja9h';
 s1.charset='UTF-8';
 s1.setAttribute('crossorigin','*');
 s0.parentNode.insertBefore(s1,s0);
