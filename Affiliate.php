@@ -3,11 +3,11 @@
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
             <div class="col-12 breadcrumb-area ">
-                <h1 class="mb-4">CFD Partner</h1>
+                <h1 class="mb-4">Affiliate</h1>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb mb-0">
                         <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                        <li class="breadcrumb-item ms-2 ps-7 active" aria-current="page"><span>CFD Partner</span>
+                        <li class="breadcrumb-item ms-2 ps-7 active" aria-current="page"><span>Affiliate</span>
                         </li>
                     </ol>
                 </nav>
