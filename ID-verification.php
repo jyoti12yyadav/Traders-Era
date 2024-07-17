@@ -60,6 +60,62 @@
         </div>
     </div>
 </section>
+<section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
+    <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
+        <img src="assets/images/coin.png" alt="null" class="position-absolute d-none d-md-flex previewShapeRevX">
+        <img src="assets/images/coin_vector.png" alt="null"
+            class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX opacity-50">
+    </div>
+    <div class="container">
+        <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
+            <div class="col-lg-6 col-xxl-5">
+                <div class="trade_on__content">
+                    <h2 class="mb-4 mb-lg-5">ID Verification</h2>
+                    <p class="fs-six mx-ch">We make every effort to complete this procedure online by utilizing the 
+                        greatest technology available. There may be occasions when you must send your papers to our 
+                        back-office staff. Please refer to the list below for the required paperwork.
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-8 col-lg-6">
+                <div class="trade_on__thumbs d-flex justify-content-end">
+                    <img src="assets/images/Crypto CFD.png" alt="Trade Crypto CFD on TradersEra Trading Paltform">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="provide-world pt-60 position-relative z-0 mb-10 pb-120">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-12 col-xxl-10">
+                <div class="heading__content mb-10 mb-lg-15 text-center">
+                    <h2 class="mb-5 mb-lg-6">Benefits And Features Of Cryptocurrency </h2>
+                </div>
+            </div>
+        </div>
+        
+        <div class="row gy-6 gy-xxl-0 mt-6">
+            <div class="col-md-6 col-xxl-6">
+                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/number-4.png" alt="null">
+                    </span>
+                    <h4 class="mt-5 mb-5">User-friendly Interface</h4>
+                    <p>Easily navigate our platform with intuitive tools and resources for efficient trading.</p>
+                </div>
+            </div>
+            <div class="col-md-6 col-xxl-6">
+                <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
+                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/number-5.png" alt="null">
+                    </span>
+                    <h4 class="mt-5 mb-5">Risk Management Tools</h4>
+                    <p>Access advanced risk management features to protect your capital while trading crypto CFDs</p>
+                </div>
+            </div>
+        </div>
+</section>
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="null"
