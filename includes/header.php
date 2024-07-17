@@ -59,8 +59,9 @@
                                 <li><img class="mx-2" src="assets/images/icon/mail icon png.png" alt="">
                                     <a href="mailto:support@tradersera.com">support@tradersera.com</a>
                                 </li>
+                                
                                 <li><img class="mx-2" src="assets/images/icon/call icon png.png" alt="">
-                                    <a href="tel:+ 44203758865">+1 9142684555</a>
+                                    <a href="tel:+44203758865">+1 9142684555</a>
                                 </li>
                                 <div class="content">
                                 </div>
@@ -75,8 +76,8 @@
                     </div> -->
                     <div class="single-item" style="margin-right: 10px; ">
                         <a href="Download-UTIP.php"
-                            class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button">Download
-                            UTIP</a>
+                            class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button">
+                            UTIP WebTrader</a>
                     </div>
                     <div class="single-item" style="  margin-right: 10px; ">
                         <a href="https://trading.tradersera.com/register"
