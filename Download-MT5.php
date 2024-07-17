@@ -148,6 +148,13 @@
                         It provides advanced tools for charting, trading, and automated trading.
                     </p>
                 </div>
+                <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-2 mt-lg-1">
+                    <a href="https://download.mql5.com/cdn/web/blackridge.trading.ltd/mt5/blackridgetrading5setup.exe" target="_blank"
+                        class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-lg-1 px-lg-2"
+                        style="transform: scaleX(1); background-color: #9ad953; color: #000000; margin-top: 20px; border-radius: 5px;">Click
+                        Me
+                    </a>
+                </div>
             </div>
             <div class="col-md-8 col-lg-6">
                 <div class="trade_on__thumbs d-flex justify-content-end">
@@ -227,9 +234,9 @@
                         <h4 class="mt-5 mb-5">Download MT5 for Android</h4>
                         <p style="padding-left:50px; padding-right: 50px;">Access market data, news, charting tools, and
                             essential trading features on the
-                            go using the MT5 Android app on your smartphone or tablet</p><br><br>
+                            go using the MT5 Android app on your smartphone or tablet.</p><br><br>
                         <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-2 mt-lg-1">
-                            <a href="https://trading.tradersera.com/register"
+                            <a href=" https://download.mql5.com/cdn/mobile/mt5/android?server=BlackridgeTrading-Real" target="_blank"
                                 class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-lg-1 px-lg-2"
                                 style="transform: scaleX(1); background-color: #9ad953; color: #000000; margin-top: 20px; border-radius: 5px;">Click
                                 Me
@@ -267,7 +274,7 @@
                             start trading on the go. This versatile app is compatible with all iOS devices,
                             giving you the freedom to trade anytime, anywhere.</p>
                         <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-2 mt-lg-1">
-                            <a href="https://trading.tradersera.com/register"
+                            <a href="https://download.mql5.com/cdn/mobile/mt5/ios?server=BlackridgeTrading-Real" target="_blank"
                                 class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-lg-1 px-lg-2"
                                 style="transform: scaleX(1); background-color: #9ad953; color: #000000; margin-top: 20px; border-radius: 5px;">Click
                                 Me
@@ -284,7 +291,8 @@
                             strong desktop program for your computer!
                             Just get the MT5 terminal for Mac OS X, set it up, and start trading!</p><br>
                         <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-2 mt-lg-1">
-                            <a href="https://trading.tradersera.com/register"
+                            <a href="https://download.mql5.com/cdn/web/metaquotes.software.corp/mt5/MetaTrader5.pkg.zip?utm_source=www.metatrader5.com&utm_campaign=download.mt5.macos
+                            " target="_blank"
                                 class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-lg-1 px-lg-2"
                                 style="transform: scaleX(1); background-color: #9ad953; color: #000000; margin-top: 20px; border-radius: 5px;">Click
                                 Me
