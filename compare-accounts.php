@@ -115,7 +115,7 @@
                     </span>
                     <h3 class="mt-5 mb-5">Low starting amount
                     </h3>
-                    <p>Begin trading by opening your account with just $10.
+                    <p>Begin trading by opening your account with just $50.
                     </p>
                     <br>
                 </div>

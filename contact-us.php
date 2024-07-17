@@ -170,7 +170,7 @@
                     <h3 class="mt-5 mb-5">No time to lose?</h3>
                     <p>Our support team is a phone call away 24/5 GMT.</p>
                     <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-2 mt-lg-1">
-                        <a href="https://trading.tradersera.com/register"
+                        <a href="tel:+1 9142684555"
                             class="cmn-btn  alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center  py-lg-1 px-lg-2"
                             style="transform: scaleX(1); background-color: #9ad953; color: #000000; margin-top: 20px; border-radius: 5px;">Call us
                         </a>

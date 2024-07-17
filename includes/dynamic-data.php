@@ -240,9 +240,11 @@ switch ($menuactive) {
         $alternateName="Market Hours";
         $url="https://tradersera.com/market-hours.php";
         break;
+
+  
     case 'refer-a-friend.php':
-        $title = "Recommend a Friend | Invite a Friend | Earn Rewards";
-        $description = "Recommend a friend and Earn rewards and enjoy the benefits of our exclusive offers.";
+        $title = "Download MT5 | Access MT5 | Link For MT5";
+        $description = "Access the MT5 download link for Android, Windows, and iPhone on TradersEra's website. Explore the benefits of trading with our MT5 account services.";
         $keywords = "Recommend a friend, Earn Rewards, Invite a Friend, Make Money, Referral Link, Forex Bonus";
         $name="Refer a Friend";
         $alternateName="Refer a Friend";
@@ -376,128 +378,128 @@ switch ($menuactive) {
         break;
 
             /* Indian Cities */
-        case 'Mumbai.php':
-            $title = "Mumbai Forex Trading | Mumbai Forex Platform | FX Trading App";
-            $description = "Start your Forex trading journey in Mumbai with our all in one platform. Join us now and experience seamless trading like never before!";
-            $keywords = "Mumbai Forex Trading, Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, MT5 trading, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Mumbai forex trading app, Mumbai Forex Trading, Mumbai Forex Platform";
-            $name="Mumbai";
-            $alternateName="Mumbai";
-            $url="https://tradersera.com/Mumbai.php";
-            break;
-        case 'Ahmedabad.php':
-            $title = "Forex Trading in Ahmedabad | Forex Trading Services In Ahmedabad";
-            $description ="Trade Forex in Ahmedabad with our all in one Trading Platform. Learn, trade, and succeed in the foreign exchange market.  Join us Today";
-            $keywords ="Forex Trading in Ahmedabad, Online Forex Trading,  MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Forex Trading Services In Ahmedabad, Ahmedabad Forex Trading App";
-            $name="Ahmedabad";
-            $alternateName="Ahmedabad";
-            $url="https://fxbrokerservice.com/Ahmedabad.php";
-            break;
-        case 'Bangalore.php':
-            $title ="Forex Bangalore Trade | Forex Trading in Bangalore";
-            $description ="Experience seamless Forex Trading in Bangalore with our all in one platform. Stay ahead of the market trends and make informed trading decisions.";
-            $keywords ="Forex Traders in Bangalore, Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Forex Bangalore Trade, Forex Traders in Bangalore, Forex Trading in Bangalore, Forex Online Trading, Forex Service in Bengaluru, Forex Traders in Bengaluru ";
-            $name="Bangalore";
-            $alternateName="Ahmedabad";
-            $url="https://tradersera.com/Bangalore.php";
-            break;
-        case 'Bhopal.php':
-            $title = "Forex Trading Bhopal | Forex Trading Bhopal | Bhopal Forex App";
-            $description = "Explore Forex Trading in Bhopal with our MT5 and UTIP Platform. Find out more about trading platform and opportunities to become a partner.";
-            $keywords = "Forex Trading Bhopal, Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Bhopal Forex, Forex Trading Bhopal, Bhopal Forex, Bhopal Forex App, Best Bhopal Forex App ";
-            $name="Bhopal";
-            $alternateName="Bhopal";
-            $url="https://tradersera.com/Bhopal.php";
-            break;
-        case 'Chandigarh.php':
-            $title = "Forex Service in Chandigarh | Chandigarh Forex Trading ";
-            $description = "Start Forex Trading in Chandigarh with our comprehensive MT5 and UTIP platform for Forex. Become a Partner and take your trading to the next level.";
-            $keywords = "Forex Service in Chandigarh, Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Chandigarh Forex Trading, Chandigarh forex trading app, Best Forex Trading in Chandigarh, Forex Trading Platforms Chandigarh.";
-            $name="Chandigarh";
-            $alternateName="Chandigarh";
-            $url="https://tradersera.com/Chandigarh.phpp";
-            break;
-        case 'Chennai.php':
-            $title = "Forex Trade in Chennai | Chennai Forex Trading | FX Trader";
-            $description = "Start Forex Trading in Chennai with our MT5 and UTIP.  Become our CFD Partner and earn up to 5% of the FTD ";
-            $keywords ="Forex Trade in Chennai, Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Chennai Forex Trading, Forex Traders in Chennai, Forex Trading Services in Chennai, Forex Trading in Chennai";
-            $name="Chennai";
-            $alternateName="Chennai";
-            $url="https://tradersera.com/Chennai.php";
-            break;
-        case 'Cochin.php':
-            $title = "Forex in Kochi | Forex Trading in Kochi | Kochin Forex Trading App";
-            $description = "Join TradersEra's comprehensive MT5 and UTIP platform for Forex trading in Kochi. Start your journey to financial success today";
-            $keywords = "Forex Trading in Kochi, Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Forex Trading in Kochi, Forex Service in Kochi, Kochin Forex Trading App, Forex in Kochi, Kochi Forex ";
-            $name="Cochin";
-            $alternateName="Cochin";
-            $url="https://tradersera.com/Cochin.php";
-            break;
-        case 'Delhi.php':
-            $title = "Delhi Forex Trading | Forex Service in Delhi | Forex Trading in Delhi";
-            $description ="Trade Forex  with ease using TradersEra's comprehensive MT5 and UTIP platform for Delhi. Your go-to solution for all your trading needs";
-            $keywords = "Delhi Forex Trading, Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, MT5 Trading, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Forex Trading in Delhi, Forex Service in Delhi, Delhi Forex Trading App";
-            $name="Delhi";
-            $alternateName="Delhi";
-            $url="https://tradersera.com/Delhi.php";
-            break;
-        case 'Jaipur.php':
-            $title = "Forex Trading in Jaipur | Jaipur Forex | Jaipur Forex Trading App";
-            $description = "Hassle-free Trading of Forex  in Jaipur with TradersEra's comprehensive MT5 and UTIP platform. Start your trading journey today!";
-            $keywords = "Forex Trading in Jaipur, Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Forex Trading Service in Jaipur, Jaipur Forex, Jaipur Forex Trading App, forex Trading in Jaipur";
-            $name="Jaipur";
-            $alternateName="Jaipur";
-            $url="https://tradersera.com/Jaipur.php";
-            break;
-        case 'Kolkata.php':
-            $title = "Kolkata Forex Trading | Kolkata Forex Trading App | Kolkata FX ";
-            $description = "Trade Forex  effortlessly with TradersEra's MT5 and UTIP platform for Kolkata. Start your trading journey today!";
-            $keywords = "Kolkata Forex Trading, Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Kolkata Forex Trading App, Kolkata FX Trade.";
-            $name="Kolkata";
-            $alternateName="Kolkata";
-            $url="https://tradersera.com/Kolkata.php";
-            break;
-        case 'Lucknow.php':
-            $title = "Lucknow Forex Trading | Forex Trading in Lucknow ";
-            $description = "Trade Forex effortlessly with TradersEra's MT5 and UTIP platform for Lucknow. Start your journey today!";
-            $keywords = "Lucknow Forex Trading, Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Forex Trading in Lucknow, Lucknow Forex, Lucknow Forex Trading Platform";
-            $name="Lucknow";
-            $alternateName="Lucknow";
-            $url="https://tradersera.com/Lucknow.php";
-            break;
-        case 'Madurai.php':
-            $title = "Madurai Forex Trading | Forex Services Madurai | Forex Trading";
-            $description = "Start Trading Forex seamlessly with TradersEra's MT5 and UTIP platform for Madurai. Join Today";
-            $keywords = "Madurai Forex Trading, Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, MT5 Trading, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, FX in Madurai, Madurai Forex Trading App, Forex Madurai, Forex Services Madurai, Best Forex in Madurai";
-            $name="Madurai";
-            $alternateName="Madurai";
-            $url="https://tradersera.com/Madurai.php";
-            break;
-        case 'Nammakal.php':
-            $title = "Namakkal Forex | Forex Services in Namakkal | Forex  Services ";
-            $description = "TradersEra offers a convenient MT5 and UTIP platform for trading Forex in Namakkal. Trade with ease";
-            $keywords = "Namakkal Forex, Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, MT5 trading, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Forex Services in Namakkal, Namakkal Forex Trading App, namakkal Forex Trading Services";
-            $name="Nammakal";
-            $alternateName="Nammakal";
-            $url="https://tradersera.com/Nammakal.php";
-            break;
+    case 'Mumbai.php':
+        $title = "Mumbai Forex Trading | Mumbai Forex Platform | FX Trading App";
+        $description = "Start your Forex trading journey in Mumbai with our all in one platform. Join us now and experience seamless trading like never before!";
+        $keywords = "Mumbai Forex Trading, Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, MT5 trading, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Mumbai forex trading app, Mumbai Forex Trading, Mumbai Forex Platform";
+        $name="Mumbai";
+        $alternateName="Mumbai";
+        $url="https://tradersera.com/Mumbai.php";
+        break;
+    case 'Ahmedabad.php':
+        $title = "Forex Trading in Ahmedabad | Forex Trading Services In Ahmedabad";
+        $description ="Trade Forex in Ahmedabad with our all in one Trading Platform. Learn, trade, and succeed in the foreign exchange market.  Join us Today";
+        $keywords ="Forex Trading in Ahmedabad, Online Forex Trading,  MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Forex Trading Services In Ahmedabad, Ahmedabad Forex Trading App";
+        $name="Ahmedabad";
+        $alternateName="Ahmedabad";
+        $url="https://fxbrokerservice.com/Ahmedabad.php";
+        break;
+    case 'Bangalore.php':
+        $title ="Forex Bangalore Trade | Forex Trading in Bangalore";
+        $description ="Experience seamless Forex Trading in Bangalore with our all in one platform. Stay ahead of the market trends and make informed trading decisions.";
+        $keywords ="Forex Traders in Bangalore, Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Forex Bangalore Trade, Forex Traders in Bangalore, Forex Trading in Bangalore, Forex Online Trading, Forex Service in Bengaluru, Forex Traders in Bengaluru ";
+        $name="Bangalore";
+        $alternateName="Ahmedabad";
+        $url="https://tradersera.com/Bangalore.php";
+        break;
+    case 'Bhopal.php':
+        $title = "Forex Trading Bhopal | Forex Trading Bhopal | Bhopal Forex App";
+        $description = "Explore Forex Trading in Bhopal with our MT5 and UTIP Platform. Find out more about trading platform and opportunities to become a partner.";
+        $keywords = "Forex Trading Bhopal, Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Bhopal Forex, Forex Trading Bhopal, Bhopal Forex, Bhopal Forex App, Best Bhopal Forex App ";
+        $name="Bhopal";
+        $alternateName="Bhopal";
+        $url="https://tradersera.com/Bhopal.php";
+        break;
+    case 'Chandigarh.php':
+        $title = "Forex Service in Chandigarh | Chandigarh Forex Trading ";
+        $description = "Start Forex Trading in Chandigarh with our comprehensive MT5 and UTIP platform for Forex. Become a Partner and take your trading to the next level.";
+        $keywords = "Forex Service in Chandigarh, Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Chandigarh Forex Trading, Chandigarh forex trading app, Best Forex Trading in Chandigarh, Forex Trading Platforms Chandigarh.";
+        $name="Chandigarh";
+        $alternateName="Chandigarh";
+        $url="https://tradersera.com/Chandigarh.phpp";
+        break;
+    case 'Chennai.php':
+        $title = "Forex Trade in Chennai | Chennai Forex Trading | FX Trader";
+        $description = "Start Forex Trading in Chennai with our MT5 and UTIP.  Become our CFD Partner and earn up to 5% of the FTD ";
+        $keywords ="Forex Trade in Chennai, Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Chennai Forex Trading, Forex Traders in Chennai, Forex Trading Services in Chennai, Forex Trading in Chennai";
+        $name="Chennai";
+        $alternateName="Chennai";
+        $url="https://tradersera.com/Chennai.php";
+        break;
+    case 'Cochin.php':
+        $title = "Forex in Kochi | Forex Trading in Kochi | Kochin Forex Trading App";
+        $description = "Join TradersEra's comprehensive MT5 and UTIP platform for Forex trading in Kochi. Start your journey to financial success today";
+        $keywords = "Forex Trading in Kochi, Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Forex Trading in Kochi, Forex Service in Kochi, Kochin Forex Trading App, Forex in Kochi, Kochi Forex ";
+        $name="Cochin";
+        $alternateName="Cochin";
+        $url="https://tradersera.com/Cochin.php";
+        break;
+    case 'Delhi.php':
+        $title = "Delhi Forex Trading | Forex Service in Delhi | Forex Trading in Delhi";
+        $description ="Trade Forex  with ease using TradersEra's comprehensive MT5 and UTIP platform for Delhi. Your go-to solution for all your trading needs";
+        $keywords = "Delhi Forex Trading, Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, MT5 Trading, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Forex Trading in Delhi, Forex Service in Delhi, Delhi Forex Trading App";
+        $name="Delhi";
+        $alternateName="Delhi";
+        $url="https://tradersera.com/Delhi.php";
+        break;
+    case 'Jaipur.php':
+        $title = "Forex Trading in Jaipur | Jaipur Forex | Jaipur Forex Trading App";
+        $description = "Hassle-free Trading of Forex  in Jaipur with TradersEra's comprehensive MT5 and UTIP platform. Start your trading journey today!";
+        $keywords = "Forex Trading in Jaipur, Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Forex Trading Service in Jaipur, Jaipur Forex, Jaipur Forex Trading App, forex Trading in Jaipur";
+        $name="Jaipur";
+        $alternateName="Jaipur";
+        $url="https://tradersera.com/Jaipur.php";
+        break;
+    case 'Kolkata.php':
+        $title = "Kolkata Forex Trading | Kolkata Forex Trading App | Kolkata FX ";
+        $description = "Trade Forex  effortlessly with TradersEra's MT5 and UTIP platform for Kolkata. Start your trading journey today!";
+        $keywords = "Kolkata Forex Trading, Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Kolkata Forex Trading App, Kolkata FX Trade.";
+        $name="Kolkata";
+        $alternateName="Kolkata";
+        $url="https://tradersera.com/Kolkata.php";
+        break;
+    case 'Lucknow.php':
+        $title = "Lucknow Forex Trading | Forex Trading in Lucknow ";
+        $description = "Trade Forex effortlessly with TradersEra's MT5 and UTIP platform for Lucknow. Start your journey today!";
+        $keywords = "Lucknow Forex Trading, Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Forex Trading in Lucknow, Lucknow Forex, Lucknow Forex Trading Platform";
+        $name="Lucknow";
+        $alternateName="Lucknow";
+        $url="https://tradersera.com/Lucknow.php";
+        break;
+    case 'Madurai.php':
+        $title = "Madurai Forex Trading | Forex Services Madurai | Forex Trading";
+        $description = "Start Trading Forex seamlessly with TradersEra's MT5 and UTIP platform for Madurai. Join Today";
+        $keywords = "Madurai Forex Trading, Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, MT5 Trading, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, FX in Madurai, Madurai Forex Trading App, Forex Madurai, Forex Services Madurai, Best Forex in Madurai";
+        $name="Madurai";
+        $alternateName="Madurai";
+        $url="https://tradersera.com/Madurai.php";
+        break;
+    case 'Nammakal.php':
+        $title = "Namakkal Forex | Forex Services in Namakkal | Forex  Services ";
+        $description = "TradersEra offers a convenient MT5 and UTIP platform for trading Forex in Namakkal. Trade with ease";
+        $keywords = "Namakkal Forex, Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, MT5 trading, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Forex Services in Namakkal, Namakkal Forex Trading App, namakkal Forex Trading Services";
+        $name="Nammakal";
+        $alternateName="Nammakal";
+        $url="https://tradersera.com/Nammakal.php";
+        break;
 
-        case 'Patna.php':
-            $title = "Forex Exchange In Patna | Patna Forex | Patna Forex Trading";
-            $description = "Start trading Forex in Patna effortlessly with TradersEra's MT5 and UTIP platform. Join us today";
-            $keywords="Forex Exchange In Patna, Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, MT5 trading, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Patna Forex, Patna Forex Trading App, Patna Forex Trading";
-            $name="Patna";
-            $alternateName="Patna";
-            $url="https://tradersera.com/Patna.php";
-            break;
+    case 'Patna.php':
+        $title = "Forex Exchange In Patna | Patna Forex | Patna Forex Trading";
+        $description = "Start trading Forex in Patna effortlessly with TradersEra's MT5 and UTIP platform. Join us today";
+        $keywords="Forex Exchange In Patna, Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, MT5 trading, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Patna Forex, Patna Forex Trading App, Patna Forex Trading";
+        $name="Patna";
+        $alternateName="Patna";
+        $url="https://tradersera.com/Patna.php";
+        break;
 
-        case 'Ranchi.php':
-            $title = "Ranchi Forex | Ranchi Forex Trade | Ranchi Forex Trading App";
-            $description = "Easily trade Forex in Ranchi with TradersEra's MT5 and UTIP platform.";
-            $keywords ="Ranchi Forex, Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, MT5 Trading, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Ranchi Forex Exchange, Ranchi Forex Trading App, Ranchi Forex Trade";
-            $name="Ranchi";
-            $alternateName="Ranchi";
-            $url="https://tradersera.com/Ranchi.php";
-            break;
+    case 'Ranchi.php':
+        $title = "Ranchi Forex | Ranchi Forex Trade | Ranchi Forex Trading App";
+        $description = "Easily trade Forex in Ranchi with TradersEra's MT5 and UTIP platform.";
+        $keywords ="Ranchi Forex, Online Forex Trading, MT5, Meta Trader 5, UTIP Trading Platform, Become a Partner, forex ib program, Best Forex Broker, Forex Introducing Brokers, MT5 Trading, Trading Account Forex, Forex Equinix Data Center, Equinix Server, Forex Leverage, Equinix Server, Equinix London, Ranchi Forex Exchange, Ranchi Forex Trading App, Ranchi Forex Trade";
+        $name="Ranchi";
+        $alternateName="Ranchi";
+        $url="https://tradersera.com/Ranchi.php";
+        break;
 
             
     default:
