@@ -147,7 +147,10 @@
                                 </ul>
                             </li>
                         </mark>
-                        <li class="dropdown show-dropdown">
+                        <li class="">
+                            <a class="dropdown-item" href="index.php">Markets</a>
+                        </li>
+                        <!-- <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
                                 class="dropdown-toggle dropdown-nav ">Markets</button>
                             <ul class="dropdown-menu">
@@ -156,9 +159,9 @@
                                 <li><a class="dropdown-item" href="stocks.php">Stocks</a></li>
                                 <li><a class="dropdown-item" href="forex.php">Forex</a></li>
                                 <li><a class="dropdown-item" href="commodity.php">Commodity</a></li>
-                                <li><a class="dropdown-item" href="faq.php">FAQ</a></li>
+                                
                             </ul>
-                        </li>
+                        </li> -->
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
                                 class="dropdown-toggle dropdown-nav">Tools</button>
@@ -168,13 +171,14 @@
                                 <li><a class="dropdown-item" href="glossary.php">Glossary</a></li>
                                 <li><a class="dropdown-item " href="learn.php">Learn</a></li>
                                 <li><a class="dropdown-item " href="interest-rate.php">Interest Rate</a></li>
+                                <li><a class="dropdown-item" href="faq.php">FAQ</a></li>
                             </ul>
                         </li>
                         <li class="dropdown show-dropdown">
                             <button type="button" aria-label="Navbar Dropdown Button"
                                 class="dropdown-toggle dropdown-nav">Partners</button>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="cfd-partner.php">CFD Partner</a></li>
+                                <li><a class="dropdown-item" href="cfd-partner.php">Affiliate</a></li>
                             </ul>
                         </li>
                         <li class="dropdown show-dropdown">
