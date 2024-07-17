@@ -205,6 +205,14 @@ switch ($menuactive) {
         $alternateName="Contact Us";
         $url="https://tradersera.com/contact-us.php";
         break;
+    case 'compare-accounts.php':
+        $title = "Compare UTIP Accounts | MT5 Account Differences | Forex Account Differences ";
+        $description = "Explore account options - Standard, VIP, and Pro on UTIP and MT5 platforms. Check out minimum deposits, spread pips, commissions, leverage, and more.";
+        $keywords = "Compare Trading Accounts, Compare Forex Accounts, Forex Platform, Forex, indices, stocks, commodities, Zero commission, Online Forex Trading, MT5, Meta Trader 5, UTIP, UTIP Trading Platform, Trade Crypto, Forex Trading Platform, UTIP, TradingView, AWS, Equinix, MarketCheese, SSL Secured, Forex trading, forex market, CFD, FX CFD, Crypto CFD, Online trading account types, Forex Deposit, Forex Withdrawal, Crypto Trading, Indices trading, Stock Trading, Forex Trading, Commodity Trading,  Equinix Servers, trading ecosystem, Automated Trading  ";
+        $name="Compare Accounts";
+        $alternateName="Compare Accounts";
+        $url="https://tradersera.com/compare-accounts.php";
+        break;
     case 'market-hours.php':
         $title = "Forex Market Hours | Market Hours Indicator | Global Forex Hours";
         $description = "Explore the best times to trade in the Forex market with our guide on global Forex market hours. Start maximizing your trading potential today!";
@@ -238,14 +246,7 @@ switch ($menuactive) {
 
 
 
-    case 'compare-accounts.php':
-    $title = "Compare UTIP Accounts | MT5 Account Differences | Forex Account Differences ";
-    $description = "Explore account options - Standard, VIP, and Pro on UTIP and MT5 platforms. Check out minimum deposits, spread pips, commissions, leverage, and more.";
-    $keywords = "Compare Trading Accounts, Compare Forex Accounts, Forex Platform, Forex, indices, stocks, commodities, Zero commission, Online Forex Trading, MT5, Meta Trader 5, UTIP, UTIP Trading Platform, Trade Crypto, Forex Trading Platform, UTIP, TradingView, AWS, Equinix, MarketCheese, SSL Secured, Forex trading, forex market, CFD, FX CFD, Crypto CFD, Online trading account types, Forex Deposit, Forex Withdrawal, Crypto Trading, Indices trading, Stock Trading, Forex Trading, Commodity Trading,  Equinix Servers, trading ecosystem, Automated Trading  ";
-    $name="Compare Account";
-    $alternateName="Compare Account";
-    $url="https://tradersera.com/compare-accounts.php";
-    break;
+    
 
     case 'Download-MT5.php':
         $title = "Download MT5 | Access MT5 |  Meta Trader 5 Platform";
@@ -261,8 +262,8 @@ switch ($menuactive) {
         $title = "Download UTIP | Access UTIP | UTIP ttrading App";
         $description = "Explore UTIP account services on TradersEra Website. Download the UTIP app for Android, Windows, and iPhone to get started.";
         $keywords = "UTIP Download, UTIP App, UTIP Android, UTIP iOS, UTIP Mac, UTIP Win, UTIP Web Trader, Online Forex Trading, UTIP Trading Platform, UTIP, UTIP Platform, Trader’s Room, UTIP Trader’s Room, Trading Account, Forex Instruments, Forex, CFD, Chinese currency pairs, Singaporean currency pairs, Philippine currency pairs, Malaysian currency pairs, currency pairs, Trader's Room Terminal, A Booking, B Booking, UTIP WEB API";
-        $name="UTIP-WebTrader";
-        $alternateName="UTIP-WebTrader";
+        $name="UTIP WebTrader";
+        $alternateName="UTIP WebTrader";
         $url="https://tradersera.com/UTIP-WebTrader.php";
         break;
 
