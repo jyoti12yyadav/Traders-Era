@@ -47,7 +47,7 @@
                         individuals the opportunity to trade over 80 currency pairs at competitive rates.</p>
                     <br>
                 </div>
-                <a href="https://trading.tradersera.com/register" class="cmn-btn fs-five nb4-xxl-bg align-items-center py-3 px-6 py-lg-3 px-lg-8"
+                <a href="https://private.tradersera.xyz/signup" class="cmn-btn fs-five nb4-xxl-bg align-items-center py-3 px-6 py-lg-3 px-lg-8"
                     style="--top: 26px; --left: 113.203125px;">Open An Account</a>
             </div>
         </div>
@@ -136,7 +136,7 @@
                             committed to your success.</p>
                     </ul>
                     <br>
-                    <a href="https://trading.tradersera.com/register" class="cmn-btn fs-five nb4-xxl-bg align-items-center py-3 px-6 py-lg-3 px-lg-8"
+                    <a href="https://private.tradersera.xyz/signup" class="cmn-btn fs-five nb4-xxl-bg align-items-center py-3 px-6 py-lg-3 px-lg-8"
                         style="--top: 26px; --left: 113.203125px;">Open An Account</a>
                 </div>
             </div>
