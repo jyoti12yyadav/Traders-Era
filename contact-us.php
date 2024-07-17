@@ -168,7 +168,7 @@
                     <h3 class="mt-5 mb-5">No time to lose?</h3>
                     <p>Our support team is a phone call away 24/5 GMT.</p>
                     <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-2 mt-lg-1">
-                        <a href="https://trading.tradersera.com/register"
+                        <a href="tel:+1 9142684555"
                             class="cmn-btn  alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center  py-lg-1 px-lg-2"
                             style="transform: scaleX(1); background-color: #9ad953; color: #000000; margin-top: 20px; border-radius: 5px;">Call us
                         </a>
@@ -184,7 +184,7 @@
                     <h3 class="mt-5 mb-5">Prefer to chat?</h3>
                     <p>Let's do that. Our agents are waiting for you.</p>
                     <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-2 mt-lg-1">
-                        <a href="https://trading.tradersera.com/register"
+                        <a href=" https://tawk.to/chat/660a504ba0c6737bd126e8e2/1hqc4ja9h"
                             class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-lg-1 px-lg-2"
                             style="transform: scaleX(1); background-color: #9ad953; color: #000000; margin-top: 20px; border-radius: 5px;">Chat with us
                         </a>
@@ -201,7 +201,7 @@
                     <p>Send us an email and connect with one of our experts.</p>
                     <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-2
                                         mt-lg-1">
-                        <a href="https://trading.tradersera.com/register"
+                        <a href="mailto:support@tradersera.com"
                             class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center  py-lg-1 px-lg-2"
                             style="transform: scaleX(1); background-color: #9ad953; color: #000000; margin-top: 20px; border-radius: 5px;">Email us
                         </a>

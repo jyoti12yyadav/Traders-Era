@@ -61,7 +61,11 @@
                                 </li>
                                 
                                 <li><img class="mx-2" src="assets/images/icon/call icon png.png" alt="">
+<<<<<<< HEAD
+                                    <a href="tel:+1 9142684555">+1 9142684555</a>
+=======
                                     <a href="tel:+44203758865">+1 9142684555</a>
+>>>>>>> 93b786b3d245a565fd7f54644970a0d0bb0ff109
                                 </li>
                                 <div class="content">
                                 </div>
