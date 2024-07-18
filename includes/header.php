@@ -127,7 +127,11 @@
                                 class="dropdown-toggle dropdown-nav">Products</button>
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item" href="fx-cfd.php">FX CFDs</a></li>
-                                <li><a class="dropdown-item" href="crypto-cfd.php">Crypto CFD </a></li>
+                                <li><a class="dropdown-item" href="forex.php">Forex</a></li>
+                                <li><a class="dropdown-item" href="commodity.php">Commodity </a></li>
+                                <li><a class="dropdown-item" href="crypto.php">Crypto</a></li>
+                                <li><a class="dropdown-item" href="indices.php">Indices</a></li>
+                                <li><a class="dropdown-item" href="stocks.php">Stocks </a></li>
                                 <!-- <li><a class="dropdown-item" href="binary.php">Binary </a></li>
                                 <li><a class="dropdown-item" href="ai-Invest.php">AI Invest </a></li> -->
                             </ul>
