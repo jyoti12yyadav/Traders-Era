@@ -935,8 +935,8 @@
                 <div class="row gy-6 w-100 text-center text-sm-start align-items-center justify-content-sm-between">
                     <div class="col-sm-8">
                         <h4>Start Trading today with TradersEra with $50</h4>
-                        <!-- <p class="fs-six-up fw_500 mt-5">Trade crypto, binary, forex and use AI for Investments.
-                        </p> -->
+                        <p class="fs-six-up fw_500 mt-5">Trade & Learn Risk Free with our Free DEMO Account on UTIP Platform.
+                        </p>
                     </div>
                     <div class="col-sm-4 text-sm-end">
                         <a href="https://private.tradersera.xyz/signup"
@@ -1209,7 +1209,7 @@
             <div class="col-lg-6 col-xxl-5 pt-xl-20">
                 <div class="trade_on__content me-xl-10 pt-120 pb-0 pb-lg-120">
                     <span class="heading p1-color fs-six mb-5"></span>
-                    <h2 class="mb-4 mb-lg-5" style="font-size: 32px;">Trade Anywhere, Anytime with TradersEra App</h2>
+                    <h2 class="mb-4 mb-lg-5" style="font-size: 32px;">Trade Anywhere, Anytime with Web Trader</h2>
                     <p class="mx-ch">Don't let trading opportunities slip away.</p>
                     <br>
                     <p class="mx-ch">Download the TradersEra Trader app for commission-free trading and ultra-low
