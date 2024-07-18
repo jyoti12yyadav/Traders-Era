@@ -111,7 +111,7 @@
                         <li>
                             <a class="dropdown-item" href="market-hours.php">Market Hours</a>
                         </li>
-                        <li>
+                        <!-- <li>
                             <a class="dropdown-item" href="refer-a-friend.php">Refer a Friend</a>
                         </li>
                         <li>
@@ -122,7 +122,7 @@
                         </li>
                         <li>
                             <a class="dropdown-item" href="Download-UTIP.php">UTIP WebTrader</a>
-                        </li>
+                        </li> -->
                     </ul>
                     <br>
                     <h4 class="mb-6 mb-lg-8 mt-4">Products</h4>
@@ -131,8 +131,24 @@
                             <a class="n2-color" href="fx-cfd.php">Fx CFDs</a>
                         </li>
                         <li>
+                            <a class="dropdown-item" href="forex.php">Forex</a>
+                        </li>
+                        <li>
+                            <a class="dropdown-item" href="commodity.php">Commodity </a>
+                        </li>
+                        <li>
+                            <a class="dropdown-item" href="crypto.php">Crypto</a>
+                        </li>
+                        <li>
+                            <a class="dropdown-item" href="indices.php">Indices</a>
+                        </li>
+                        <li>
+                            <a class="dropdown-item" href="stocks.php">Stocks </a>
+                        </li>
+                        <li>
                             <a class="n2-color" href="crypto-cfd.php">Crypto CFD</a>
                         </li>
+
                         <!-- <li>
                             <a class="n2-color" href="binary.php">Binary</a>
                         </li>
@@ -177,16 +193,16 @@
                             <a class="n2-color" href="economic-calendar.php">Economic Calendar</a>
                         </li>
                         <li>
-                            <a class="n2-color" href="news-research.php">News & Research</a>
+                            <a class="n2-color" href="market-forecast.php">Market Forecast</a>
                         </li>
                         <li>
                             <a class="n2-color" href="glossary.php">Glossary</a>
                         </li>
                         <li>
-                            <a class="n2-color" href="learn.php">Learn</a>
+                            <a class="n2-color" href="learn.php">Learn Trading</a>
                         </li>
                         <li>
-                            <a class="n2-color" href="interest-rate.php">Interest Rate</a>
+                            <a class="n2-color" href="interest-rate.php">Interest Rates</a>
                         </li>
                     </ul>
                     <br>
@@ -195,6 +211,9 @@
                     <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4 mb-4">
                         <li>
                             <a class="n2-color" href="IB-partner.php">IB Partner</a>
+                        </li>
+                        <li>
+                            <a class="n2-color" href="refer-a-friend.php">Refer A Friend</a>
                         </li>
                     </ul>
                 </div>
@@ -220,6 +239,9 @@
                         </li>
                         <li>
                             <a class="n2-color" href="ID-verification.php">ID Verification</a>
+                        </li>
+                        <li>
+                            <a class="n2-color" href="contact-us.php">Contact Us</a>
                         </li>
                     </ul>
                 </div>
