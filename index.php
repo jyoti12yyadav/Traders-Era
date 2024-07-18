@@ -1196,8 +1196,8 @@
             class="position-absolute push_animat end-0 top-0 mt-20 pt-xl-15 me-xl-20 pe-10 d-none d-md-flex">
         <img src="assets/images/vector2.png" alt="vector2"
             class="position-absolute bottom-0 start-0 d-none d-xxxl-flex"> -->
-        <img src="assets/images/vector_rocket2.png" alt="vector_rocket2"
-            class="position-absolute d-none d-xxxl-flex bottom-0 end-0  pe-12 pb-10 fadeInTopLeft">
+        <!-- <img src="assets/images/vector_rocket2.png" alt="vector_rocket2"
+            class="position-absolute d-none d-xxxl-flex bottom-0 end-0  pe-12 pb-10 fadeInTopLeft"> -->
         <img src="assets/images/cross2.png" alt="cross2"
             class="position-absolute push_animat ms-lg-20 ps-4 top-0 start-50 pt-120 mt-20 d-none d-xxxl-flex">
     </div>
