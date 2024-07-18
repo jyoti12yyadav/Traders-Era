@@ -475,9 +475,7 @@
                                             <!-- <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png" alt="Equinix_logo" style="height: 35px;"> -->
                                         </div>
                                     <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8
-                                        mt-lg-10" style="
-    margin-left: 75px;
-">
+                                        mt-lg-10" style="margin-left: 75px;">
                                         <a href="https://private.tradersera.xyz/signup"
                                             class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6"
                                             style="transform: scaleX(-1);">Start
@@ -604,8 +602,8 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">Forex, Crypto Trading</h3>
-                                        <span>Multiple Assets and Trading type under one Roof.</span>
+                                        <h3 class="">Multiple Asset Trading</h3>
+                                        <span>Multiple options of trading like Forex, Crypto</span>
                                     </div>
                                 </div>
                             </div>
@@ -619,8 +617,8 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">Trading Across Many Platforms</h3>
-                                        <span>Trading using simple options on several platforms like MT5 & UTIP.</span>
+                                        <h3 class="">Multiple Funding</h3>
+                                        <span>Customized funding to your needs & your investment journey.</span>
                                     </div>
                                 </div>
                             </div>
@@ -634,8 +632,8 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">UTIP Platform with TradersEra</h3>
-                                        <span>Cutting Edge Technology on all your Devices Together.</span>
+                                        <h3 class="">Regulated & Established Broker</h3>
+                                        <span>Trading services with a regulated and established broker</span>
                                     </div>
                                 </div>
                             </div>
@@ -653,8 +651,8 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">Multiple Funding Options</h3>
-                                        <span>Pay via cards,banks,local transfer and cryptos.</span>
+                                        <h3 class="">Web Platform</h3>
+                                        <span>Our web-based platform supports all operating systems</span>
                                     </div>
                                 </div>
                             </div>
@@ -668,9 +666,8 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">Safety of Funds Assured</h3>
-                                        <span>Safeguarding you and all peers with top security and regulatory frameworks
-                                            practices.</span>
+                                        <h3 class="">Trade with Top Platform</h3>
+                                        <span>Trading using simple options on several platforms like MT5 & UTIP</span>
                                     </div>
                                 </div>
                             </div>
@@ -684,8 +681,8 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">24/5 Customer Support</h3>
-                                        <span>Speak to us and resolve your questions round the clock.</span>
+                                        <h3 class="">24/7 Customer Support</h3>
+                                        <span>Raise a Ticket and resolve the problem real quick</span>
                                     </div>
                                 </div>
                             </div>
