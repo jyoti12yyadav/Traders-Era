@@ -307,11 +307,11 @@
                                 <li><a class="n2-color" href="Refund-policy.php">Refund Policy</a></li>
                             </ul>
                             <ul class="social-area d-center gap-2 gap-md-3">
-                                <li><img style=" border-radius:17px;  height:35px;" src="assets/images/_app store.png">
+                                <li><img style=" border-radius:17px;  height:43px;" src="assets/images/_app store.png">
                                 </li>
-                                <li><img style=" border-radius:17px;  height:50px;"
+                                <li><img style=" border-radius:17px;  height:43px;"
                                         src="assets/images/_google play store.png"></li>
-                                <li><img style=" border-radius:17px;  height:35px;"
+                                <li><img style=" border-radius:17px;  height:45px;"
                                         src="assets/images/_download APK.png"></li>
                             </ul>
                             <ul class="social-area d-center gap-2 gap-md-3">
