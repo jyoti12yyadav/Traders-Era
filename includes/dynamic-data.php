@@ -493,7 +493,56 @@ switch ($menuactive) {
         $name="Ranchi";
         $alternateName="Ranchi";
         $url="https://tradersera.com/Ranchi.php";
-        break;           
+        break;
+    case 'terms-condition.php':
+        $title = "Terms and Conditions  | Account Registration |  Forex Trading";
+        $description = "TradersEra's detailed Terms and Conditions for Forex Trading online. Read more about Forex Account Registration and Trading Eligibility on our platform.";
+        $keywords ="TradersEra Terms and Conditions, Online Forex Trading, Forex Terms and Conditions, Forex Account Registration, Forex Trading Eligibility, MT5, Meta Trader 5, UTIP, UTIP Trading Platform, Compliance with Laws, Trade Crypto, Forex Trading Platform, UTIP, TradingView, AWS, Equinix, MarketCheese, SSL Secured, Forex trading, forex market, CFD, FX CFD, Crypto CFD, Online trading account types, Forex Deposit, Forex Withdrawal";
+        $name="Terms & Conditions";
+        $alternateName="Terms & Conditions";
+        $url="http://localhost/traders-era/terms-condition.php";
+        break;
+    case 'risk-disclaimer.php':
+        $title = "Risk Disclaimer  | Forex Risk Warning |  Forex Trading Risk";
+        $description = "Read risk disclaimer on our website and get a clear understanding of risk warning. Learn about the risks involved in forex trading and financial instruments. ";
+        $keywords ="Risk Disclaimer, Forex Risk Warning, Financial Instruments Risks, Forex Trading Risk, Forex Technical Risk, Client Terminal, Abnormal Market Conditions, Forex Risk Warning, Futures, Options, Collateral Risks, Forex Third Party Risk, CFD, FX CFD, Crypto CFD, Online trading account types, Forex Deposit, Forex Withdrawal, MT5, Meta Trader 5, UTIP, UTIP Trading Platform, Compliance with Laws, Trade Crypto, Forex Trading Platform, UTIP, TradingView, AWS, Equinix, MarketCheese, SSL Secured, Forex trading, forex market,";
+        $name="Risk Disclaimer";
+        $alternateName="Risk Disclaimer";
+        $url="http://localhost/traders-era/risk-disclaimer.php";
+        break;      
+    case 'privacy-policy.php':
+        $title = "Privacy Policy  | Trading  Transaction |  TradersEra Account";
+        $description = "Learn about our comprehensive Trading Account options and ensure your security with our TradersEra Privacy Policy. Start your trading journey today!";
+        $keywords ="TradersEra Privacy Policy, TradersEra Account, Trading Account, Forex Trading Account, Forex Transaction information, Forex Trade Personal Information, MT5, Meta Trader 5, UTIP, UTIP Trading Platform, Trade Crypto, Forex Trading Platform, UTIP, TradingView, AWS, Equinix, MarketCheese, SSL Secured, Forex trading, forex market, CFD, FX CFD, Crypto CFD, Online trading account types, Forex Deposit, Forex Withdrawal ";
+        $name="Privacy Policy";
+        $alternateName="Privacy Policy";
+        $url="http://localhost/traders-era/privacy-policy.php";
+        break;
+    case 'aml-kyc.php':
+        $title = "Trading Account |  Forex Account KYC |  TradersEra Account";
+        $description = "Learn how our KYC checks protect your Forex Account and enhance your Trading Account security. Start trading with confidence today";
+        $keywords ="Trading Account, Forex Know Your Customer, Forex Account KYC, Anti-Money Laundering compliance, AML compliance, Forex Client Activity, Record keeping, No Third Parties Fund, Bank to Forex Account, MT5, Meta Trader 5, UTIP, UTIP Trading Platform, Trade Crypto, Forex Trading Platform, UTIP, TradingView, AWS, Equinix, MarketCheese, SSL Secured, Forex trading, forex market, CFD, FX CFD, Crypto CFD, Online trading account types, Forex Deposit, Forex Withdrawal";
+        $name="AML & KYC Policy";
+        $alternateName="AML & KYC Policy";
+        $url="http://localhost/traders-era/aml-kyc.php";
+        break;
+    case 'IB-agreement.php':
+        $title = "TradersEra IB |  Forex IB Program |  Forex Introducing Broker";
+        $description = "Join the TradersEra Forex IB Program. Explore our Forex IB Agreement and discover the benefits of partnering with us today!";
+        $keywords ="Forex IB Program, Forex IB Agreement, Forex Introducing Broker, Client Referral, IB Commission, IB Payment, Introducing Broker Agreement, MT5, Meta Trader 5, UTIP, UTIP Trading Platform, Trade Crypto, Forex Trading Platform, UTIP, TradingView, AWS, Equinix, MarketCheese, SSL Secured, Forex trading, forex market, CFD, FX CFD, Crypto CFD, Online trading account types, Forex Deposit, Forex Withdrawal";
+        $name="IB Agreement";
+        $alternateName="IB Agreement";
+        $url="http://localhost/traders-era/IB-agreement.php";
+        break;
+
+    case 'Refund-policy.php':
+        $title = "Refund Policy |  TradersEra Refund Policy |  Forex Refund ";
+        $description = "Learn about TradersEra's  Refund options form your Registered Account. Discover how to  request a refund and enhance your trading experience today";
+        $keywords ="Refund Policy, TradersEra Refund Policy, Forex Refund, Refund Registered Account, Refund from TradersEra, TradersEra Compliance Department, Money Refund, cancellation policy, MT5, Meta Trader 5, UTIP, UTIP Trading Platform, Trade Crypto, Forex Trading Platform, UTIP, TradingView, AWS, Equinix, MarketCheese, SSL Secured, Forex trading, forex market, CFD, FX CFD, Crypto CFD, Online trading account types, Forex Deposit, Forex Withdrawal";
+        $name="Refund Policy";
+        $alternateName="Refund Policy";
+        $url="http://localhost/traders-era/Refund-policy.php";
+        break;
     default:
         $title = "Title Here";
         $description = "Description Here";
