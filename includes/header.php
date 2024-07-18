@@ -78,17 +78,17 @@
                     <div class="single-item" style="margin-right: 10px; ">
                         <a href=" https://workspace.tradersera.xyz/" target="_blank"
                             class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button"
-                            style="background-color:#9ad953; color: black;">
+                            style="background-color:#d0a460; color: black;">
                             UTIP WebTrader</a>
                     </div>
                     <div class="single-item" style="margin-right: 10px; ">
                         <a href="https://private.tradersera.xyz/signup"
-                            class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button" target="new">
+                            class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button"  style="background-color:#d0a460; color: black;" target="new">
                             Open an Account </a>
                     </div>
                     <div class="single-item">
                         <a href="bonus.php"
-                            class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button" target="new">
+                            class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button" target="new" style="background-color: #d0a460; color: black;">
                             50% Bonus</a>
                     </div>
                 </div>
@@ -168,6 +168,7 @@
                                 class="dropdown-toggle dropdown-nav">Tools</button>
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item" href="economic-calendar.php">Economic Calender</a></li>
+                                <li><a class="dropdown-item" href="market-forecast.php">Market Forecast</a></li>
                                 <!-- <li><a class="dropdown-item" href="news-research.php">News & Research</a></li> -->
                                 <li><a class="dropdown-item" href="glossary.php">Glossary</a></li>
                                 <li><a class="dropdown-item " href="learn.php">Learn Trading</a></li>
