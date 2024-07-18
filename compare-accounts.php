@@ -90,7 +90,7 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/Spreads.png" alt="stock-market">
                     </span>
-                    <h3 class="mt-5 mb-5">Spreads from 0.4 pips
+                    <h3 class="mt-5 mb-5">Spreads from 0 pips
                     </h3>
                     <p>Our consolidated liquidity helps maintain low spreads, typically throughout trading periods.
                     </p>
@@ -101,7 +101,7 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/commission.png" alt="stock-market">
                     </span>
-                    <h3 class="mt-5 mb-5">Zero commission
+                    <h3 class="mt-5 mb-5">Multiple Funding Options
                     </h3>
                     <p>Start trading from as low as $0 per lot on our VIP or spread-only trading accounts.
                     </p>
@@ -310,7 +310,7 @@
                     <h3 class="mt-5 mb-5">
                         Micro lot trading
                     </h3>
-                    <p>Begin trading from just $0.10 per pip, perfect for smaller accounts and improved risk management.
+                    <p>Begin trading from just 0.01 lots per pip, perfect for smaller accounts and improved risk management.
                     </p>
                 </div>
             </div>
@@ -335,4 +335,62 @@
 
 
 <br>
+
+
+
+
+
+
+
+<!--People Trust start-->
+<section class="worldwide alt-color p1-bg pseudo_element_after">
+    <div class="animation vector position-absolute top-0 left-0 w-100 h-100 z-n1">
+        <img src="assets/images/cross.png" alt="cross"
+            class="position-absolute push_animat ms-lg-20 ps-4 top-0 pt-120 mt-20 start-0 d-none d-xxxl-flex">
+        <img src="assets/images/star.png" alt="star"
+            class="position-absolute push_animat end-0 top-0 mt-20 pt-xl-15 me-xl-20 pe-10 d-none d-md-flex">
+        <img src="assets/images/vector2.png" alt="vector2"
+            class="position-absolute bottom-0 start-0 d-none d-xxxl-flex">
+        <img src="assets/images/vector_rocket2.png" alt="vector_rocket2"
+            class="position-absolute d-none d-xxxl-flex bottom-0 end-0  pe-12 pb-10 fadeInTopLeft">
+        <img src="assets/images/cross2.png" alt="cross2"
+            class="position-absolute push_animat ms-lg-20 ps-4 top-0 start-50 pt-120 mt-20 d-none d-xxxl-flex">
+    </div>
+    <div class="container position-relative">
+        <div class="row gy-10 gy-lg-0 justify-content-center justify-content-lg-between align-items-end">
+            <div class="col-lg-6 col-xxl-5 pt-xl-20">
+                <div class="trade_on__content me-xl-10 pt-120 pb-0 pb-lg-120">
+                    <span class="heading p1-color fs-six mb-5"></span>
+                    <h2 class="mb-4 mb-lg-5" style="font-size: 32px;">Trade Anywhere, Anytime with Web Trader</h2>
+                    <p class="mx-ch">Don't let trading opportunities slip away.</p>
+                    <br>
+                    <p class="mx-ch">Download the TradersEra Trader app for commission-free trading and ultra-low
+                        spreads on major FX pairs and gold.</p>
+                    <br>
+                    <p class="mx-ch">All you require in a single app.</p>
+                    <br>
+                    <div class="col-4 mt-4" style="display: flex; justify-content: space-evenly; ">
+                        <img style="border-radius:10px;" src="assets/images/_app store.png" alt="_app store">
+                        <img style="border-radius:10px; margin-left:20px;" src="assets/images/_google play store.png"
+                            alt="_google play store">
+                        <img style="border-radius:10px; margin-left:20px;" src="assets/images/_download APK.png"
+                            alt="_download APK">
+                    </div>
+                </div>
+            </div>
+            <div class="col-8 col-sm-7 col-lg-6 col-xxl-5">
+                <div class="worldwide_thumb d-flex ms-lg-15 ms-xl-0">
+                    <img src="assets/images/trade anyware home page.png" class="max-xl-un"
+                        alt="TradersEra Trading app ">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+<br><br>
+
 <?php include("includes/footer.php"); ?>
