@@ -1192,10 +1192,10 @@
     <div class="animation vector position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/cross.png" alt="cross"
             class="position-absolute push_animat ms-lg-20 ps-4 top-0 pt-120 mt-20 start-0 d-none d-xxxl-flex">
-        <img src="assets/images/star.png" alt="star"
+        <!-- <img src="assets/images/star.png" alt="star"
             class="position-absolute push_animat end-0 top-0 mt-20 pt-xl-15 me-xl-20 pe-10 d-none d-md-flex">
         <img src="assets/images/vector2.png" alt="vector2"
-            class="position-absolute bottom-0 start-0 d-none d-xxxl-flex">
+            class="position-absolute bottom-0 start-0 d-none d-xxxl-flex"> -->
         <img src="assets/images/vector_rocket2.png" alt="vector_rocket2"
             class="position-absolute d-none d-xxxl-flex bottom-0 end-0  pe-12 pb-10 fadeInTopLeft">
         <img src="assets/images/cross2.png" alt="cross2"
@@ -1206,11 +1206,15 @@
             <div class="col-lg-6 col-xxl-5 pt-xl-20">
                 <div class="trade_on__content me-xl-10 pt-120 pb-0 pb-lg-120">
                     <span class="heading p1-color fs-six mb-5"></span>
-                    <h2 class="mb-4 mb-lg-5" style="font-size: 32px;">Trade Anywhere, Anytime with Web Trader</h2>
-                    <p class="mx-ch">Don't let trading opportunities slip away.</p>
+                    <h2 class="mb-4 mb-lg-5" style="font-size: 32px;">Trade With TradersEra, Trade Anywhere
+                    </h2>
+                    <p class="mx-ch">Experience seamless trading with a web trading platform designed for flexibility and ease of use. Access a wide range of financial instruments and powerful tools directly from your browser, anytime, anywhere. 
+
+                    </p>
                     <br>
-                    <p class="mx-ch">Download the TradersEra Trader app for commission-free trading and ultra-low
-                        spreads on major FX pairs and gold.</p>
+                    <p class="mx-ch">Enjoy a user-friendly interface that empowers you to make informed trading decisions on the go!
+
+                    <p>
                     <br>
                     <p class="mx-ch">All you require in a single app.</p>
                     <br>
@@ -1248,10 +1252,9 @@
                             <h2 class="mb-3 mt-5" style="font-size: 32px;">Multiple Funding Options</h2>
                             <br>
                             <p>
-                                At TradersEra we've got all your account funding needs sorted. Whether you fancy the
-                                ease of Visa or Mastercard, the trustworthiness of a wire transfer or the modern touch
-                                of cryptocurrency we offer a range of options to kick off smoothly. Pick the approach
-                                that suits you and dive into trading
+                            TradersEra offers a variety of funding options to accommodate different trading needs. From traditional bank transfers to modern e-wallet solutions, traders can choose the method that best suits them. This flexibility ensures a seamless and convenient funding experience for all users.
+
+
                             </p>
                             <br>
                         </div>
