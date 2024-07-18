@@ -57,9 +57,10 @@
                         <div class="contact-details ">
                             <ul class="contact" style="display: flex;position: absolute;margin-top: 4px;">
                                 <li><img class="mx-2" src="assets/images/icon/mail icon png.png" alt="">
-                                    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=support@tradersera.com" target="_blank">support@tradersera.com</a>
+                                    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=support@tradersera.com"
+                                        target="_blank">support@tradersera.com</a>
                                 </li>
-                                
+
                                 <li><img class="mx-2" src="assets/images/icon/call icon png.png" alt="">
                                     <a href="tel:+1 9142684555">+1 9142684555</a>
                                 </li>
@@ -76,18 +77,19 @@
                     </div> -->
                     <div class="single-item" style="margin-right: 10px; ">
                         <a href=" https://workspace.tradersera.xyz/" target="_blank"
-                            class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button">
+                            class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button"
+                            style="background-color:#9ad953; color: black;">
                             UTIP WebTrader</a>
                     </div>
-                    <div class="single-item" style="  margin-right: 10px; ">
+                    <div class="single-item" style="margin-right: 10px; ">
                         <a href="https://private.tradersera.xyz/signup"
                             class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button" target="new">
                             Open an Account </a>
                     </div>
                     <div class="single-item">
-                        <a href="https://private.tradersera.xyz/signin"
+                        <a href="bonus.php"
                             class="rotate_eff flex-nowrap py-1 px-2 px-xl-3 d-end gap-1 fw-bold nw-button" target="new">
-                            Login</a>
+                            50% Bonus</a>
                     </div>
                 </div>
             </div>
@@ -140,10 +142,9 @@
                                 <ul class="dropdown-menu">
                                     <li><a class="dropdown-item" href="compare-accounts.php">Compare Accounts</a></li>
                                     <li><a class="dropdown-item" href="market-hours.php">Market Hours</a></li>
-                                    <li><a class="dropdown-item" href="refer-a-friend.php">Refer a Friend</a></li>
-                                    <li><a class="dropdown-item" href="bonus.php">50% Bonus</a></li>
-                                    <li><a class="dropdown-item" href="Download-MT5.php">Download MT5</a></li>
-                                    <li><a class="dropdown-item" href="UTIP-WebTrader.php">Download UTIP</a></li>
+                                    <!-- <li><a class="dropdown-item" href="bonus.php">50% Bonus</a></li> -->
+                                    <!-- <li><a class="dropdown-item" href="Download-MT5.php">Download MT5</a></li>
+                                    <li><a class="dropdown-item" href="UTIP-WebTrader.php">Download UTIP</a></li> -->
                                 </ul>
                             </li>
                         </mark>
@@ -167,11 +168,11 @@
                                 class="dropdown-toggle dropdown-nav">Tools</button>
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item" href="economic-calendar.php">Economic Calender</a></li>
-                                <li><a class="dropdown-item" href="news-research.php">News & Research</a></li>
+                                <!-- <li><a class="dropdown-item" href="news-research.php">News & Research</a></li> -->
                                 <li><a class="dropdown-item" href="glossary.php">Glossary</a></li>
-                                <li><a class="dropdown-item " href="learn.php">Learn</a></li>
-                                <li><a class="dropdown-item " href="interest-rate.php">Interest Rate</a></li>
-                                <li><a class="dropdown-item" href="faq.php">FAQ</a></li>
+                                <li><a class="dropdown-item " href="learn.php">Learn Trading</a></li>
+                                <li><a class="dropdown-item " href="interest-rate.php">Interest Rates</a></li>
+                                <!-- <li><a class="dropdown-item" href="faq.php">FAQ</a></li> -->
                             </ul>
                         </li>
                         <li class="dropdown show-dropdown">
@@ -179,6 +180,7 @@
                                 class="dropdown-toggle dropdown-nav">Partners</button>
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item" href="IB-partner.php">IB Partner</a></li>
+                                <li><a class="dropdown-item" href="refer-a-friend.php">Refer a Friend</a></li>
                             </ul>
                         </li>
                         <li class="dropdown show-dropdown">
@@ -192,6 +194,8 @@
                                         Center</a></li>
                                 <li><a class="dropdown-item" href="our-servers.php">Our Servers</a></li>
                                 <li><a class="dropdown-item" href="ID-verification.php">ID Verification</a></li>
+                                <li><a class="dropdown-item" href="contact-us.php">Contact Us</a></li>
+
                             </ul>
                         </li>
                         <li class="dropdown show-dropdown">
@@ -202,8 +206,8 @@
                 </div>
                 <div class="right-area position-relative  ms-0 d-center gap-1 gap-xl-4 d-none d-lg-flex">
                     <div class="single-item">
-                        <a href="contact-us.php"
-                            class="cmn-btn fw-bold py-2 px-2 px-sm-3 px-lg-4 align-items-center gap-1">Contact Us<i
+                        <a href="https://private.tradersera.xyz/signin"
+                            class="cmn-btn fw-bold py-2 px-2 px-sm-3 px-lg-4 align-items-center gap-1">Login<i
                                 class="ti ti-arrow-right fw-semibold fs-six-up"></i></a>
                     </div>
                 </div>
