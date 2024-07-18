@@ -104,7 +104,7 @@
                         <span></span><span></span><span></span><span></span>
                     </button>
                     <a href="index.php" class="navbar-brand m-0 p-0 d-flex align-items-center gap-5 gap-xl-5 me-2">
-                        <img src="assets/images/fav.png" class="logo small_logo d-sm-none" alt="logo">
+                        <img src="assets/images/logo.png" class="logo small_logo d-sm-none" alt="logo">
                         <img src="assets/images/logo.png" class="logo d-none d-sm-flex" alt="logo">
                     </a>
                 </div>
@@ -117,6 +117,24 @@
                         </div>
                     </div>
                 </div>
+                <style>
+
+                /* Default styles for the images */
+.logo {
+     /* Adjust this size as needed */
+    height: auto;
+}
+
+/* Media query for small devices */
+@media (max-width: 200px) {
+    .small_logo {
+        width: auto;
+        height: auto;
+        max-width: 50%; /* Ensure it doesn't overflow its container */
+    }
+}
+
+                </style>
                 <div class="collapse navbar-collapse justify-content-center" id="navbar-content">
                     <ul class="navbar-nav gap-2 gap-lg-3 gap-xxl-8  align-self-center mx-auto mt-4 mt-lg-0">
                         <li class="">

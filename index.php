@@ -451,7 +451,7 @@
                         class="row pt-4 pt-lg-10 gy-12 gy-lg-0 justify-content-center justify-content-lg-between align-items-center row-reverse">
                         <div class="col-sm-10 col-lg-6 col-xxl-5">
                             <div class="hero-section__thumbs hero-section-2 pb-xxl-10">
-                                <img src="assets/images/s banner.png" class="max-auto max-xxl-un" alt="banner two">
+                                <img src="assets\images\banner 2 .png" class="max-auto max-xxl-un" alt="banner two">
                             </div>
                         </div>
                         <div class="col-lg-6 col-xxl-7">
@@ -1228,7 +1228,7 @@
             </div>
             <div class="col-8 col-sm-7 col-lg-6 col-xxl-5">
                 <div class="worldwide_thumb d-flex ms-lg-15 ms-xl-0">
-                    <img src="assets/images/tradersera logo on phone.png" class="max-xl-un"
+                    <img src="assets/images/trade anyware home page.png" class="max-xl-un"
                         alt="TradersEra Trading app ">
                 </div>
             </div>
@@ -1240,7 +1240,7 @@
         <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
             <div class="col-sm-10 col-lg-6 col-xxl-5 order-2 order-lg-0">
                 <div class="company-story__thumbs d-center">
-                    <img src="assets/images/deposite.png" class="cus-rounded-1 w-100"
+                    <img src="assets\images\Multiple Funding Options.png" class="cus-rounded-1 w-100"
                         alt="TradersEra's Visa, Mastercard, wire transfer, or crypto  your funding ">
                 </div>
             </div>
