@@ -132,6 +132,7 @@
                                 <li><a class="dropdown-item" href="crypto.php">Crypto</a></li>
                                 <li><a class="dropdown-item" href="indices.php">Indices</a></li>
                                 <li><a class="dropdown-item" href="stocks.php">Stocks </a></li>
+                                <li><a class="dropdown-item" href="crypto-cfd.php">Crypto-CFD</a></li>
                                 <!-- <li><a class="dropdown-item" href="binary.php">Binary </a></li>
                                 <li><a class="dropdown-item" href="ai-Invest.php">AI Invest </a></li> -->
                             </ul>
