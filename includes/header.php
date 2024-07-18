@@ -117,6 +117,24 @@
                         </div>
                     </div>
                 </div>
+                <style>
+
+                /* Default styles for the images */
+.logo {
+     /* Adjust this size as needed */
+    height: auto;
+}
+
+/* Media query for small devices */
+@media (max-width: 200px) {
+    .small_logo {
+        width: auto;
+        height: auto;
+        max-width: 50%; /* Ensure it doesn't overflow its container */
+    }
+}
+
+                </style>
                 <div class="collapse navbar-collapse justify-content-center" id="navbar-content">
                     <ul class="navbar-nav gap-2 gap-lg-3 gap-xxl-8  align-self-center mx-auto mt-4 mt-lg-0">
                         <li class="">
