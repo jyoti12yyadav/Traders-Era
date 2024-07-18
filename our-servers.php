@@ -43,7 +43,11 @@
                     <br>
                     <p class="mx-ch">We carefully analyzed the best locations for our traders to gain an edge in the
                         markets. London and New York emerged as the top choices. It is from these cities that we link
-                        our liquidity pool to your trading platform.</p>
+                        our liquidity pool to your trading platform.</p><br>
+                        <ul class=" d-flex   gap-md-3 mt-4">
+                        <li><img style=" height:35px;" src="assets/images/icon/logo equinix logo white.png" alt="logo equinix logo white"></li>
+                       
+                    </ul>
                     <br>
                 </div>
             </div>
