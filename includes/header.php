@@ -191,7 +191,7 @@
                                 <li><a class="dropdown-item" target="_blank" href="https://tradersera.tawk.help/">Help
                                         Center</a></li>
                                 <li><a class="dropdown-item" href="our-servers.php">Our Servers</a></li>
-                                <li><a class="dropdown-item" href="ID-verification.php">ID-Verification</a></li>
+                                <li><a class="dropdown-item" href="ID-verification.php">ID Verification</a></li>
                             </ul>
                         </li>
                         <li class="dropdown show-dropdown">

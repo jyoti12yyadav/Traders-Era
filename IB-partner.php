@@ -348,7 +348,8 @@
         <div class="row justify-content-center">
             <div class="col-lg-12 col-xxl-10">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h2 class="mb-5 mb-lg-6">Important Aspects Of The IB Program
+                    <h2 class="mb-5 mb-lg-6">Become An IB
+
                     </h2>
                     <!-- <h4 class="mb-5 mb-lg-6">Where to begin
                     </h4> -->
@@ -361,9 +362,9 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/number-1.png" alt="time">
                     </span>
-                    <h3 class="mt-5 mb-5">Recruiting </h3>
-                    <p>As per the marketing structure of TradersEra, you will receive a portion of the sales made by
-                        your recruits if you accomplish this.
+                    <h3 class="mt-5 mb-5">Register </h3>
+                    <p>Enroll in an IB program with a major international multi-asset broker.
+<br><br>
                     </p>
                 </div>
             </div>
@@ -372,9 +373,10 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/two.png" alt="wallet">
                     </span>
-                    <h3 class="mt-5 mb-5">Events</h3>
-                    <p>TradersEra offers a variety of trading competitions that let traders make the most money
-                        possible.
+                    <h3 class="mt-5 mb-5">Refer
+                    </h3>
+                    <p>Bring in more business by bringing new customers to Vantage for trading.
+<br>
                     </p>
                     <br>
                 </div>
@@ -384,10 +386,12 @@
                     <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
                         <img src="assets/images/icon/number-3.png" alt="customer">
                     </span>
-                    <h3 class="mt-5 mb-5">Financing</h3>
-                    <p>TradersEra's global sponsorship initiatives help a variety of communities and organizations.
+                    <h3 class="mt-5 mb-5">Acquire
+                    </h3>
+                    <p>Receive volume-based commissions on each deal that customers you have recommended make.
+
                     </p>
-                    <br>
+                 
                 </div>
             </div>
         </div>
@@ -409,10 +413,16 @@
             </div>
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
-                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;">Advantages for your clientele
+                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;">Introducing Brokers and Linking Traders
+
                     </h2>
+                    <h3 class="mb-4 mb-lg-5">An Introducing Broker
+                    </h3>
+                    <p>In between individual traders and forex brokers, an introducing broker acts as a mediator. In exchange for compensation, introducing brokers, as the name implies, introduces new customers to a forex brokers.                    </p>
+               <br>
+               <p>You will get volume-based commissions on each transaction placed by the customers you refer to the broker as an IB partner.</p>
                 </div>
-                <ul class="d-flex gap-4 flex-column mt-6">
+                <!-- <ul class="d-flex gap-4 flex-column mt-6">
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>MetaTrader5, the award-winning trading
                         platform, provides a range of advanced features to enhance
@@ -428,7 +438,7 @@
                         customers exceptional liquidity, low spreads, and swap-free conditions for their benefit.
                     </li>
                     <br>
-                </ul>
+                </ul> -->
             </div>
         </div>
 </section>
