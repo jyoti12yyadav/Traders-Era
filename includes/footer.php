@@ -101,7 +101,7 @@
                 </div>
             </div>
 
-            <div class="col-6 col-lg-2">
+            <div class="col-6 col-lg-2" style="margin-left:100px;">
                 <div class="footer__part">
                     <h4 class="mb-6 mb-lg-8">Trading</h4>
                     <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
@@ -144,7 +144,7 @@
             </div>
             <div class="col-6 col-lg-2">
                 <div class="footer__part">
-                    <h4 class="mb-6 mb-lg-8">Markets</h4>
+                    <!-- <h4 class="mb-6 mb-lg-8">Markets</h4>
                     <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
                         <li>
                             <a class="n2-color" href="crypto.php">Crypto</a>
@@ -164,12 +164,12 @@
                         <li>
                             <a class="n2-color" href="faq.php">FAQ's</a>
                         </li>
-                    </ul>
-                    <br>
-                    <h4 class="mb-6 mb-lg-8 mt-4" href="https://tradersera.com/blogs">Blogs</h4>
+                    </ul> -->
+                    <!-- <br>
+                    <h4 class="mb-6 mb-lg-8 mt-4" href="https://tradersera.com/blogs">Blogs</h4> -->
                 </div>
             </div>
-            <div class="col-6 col-lg-2">
+            <div class="col-6 col-lg-2" style="margin-left:-180px;">
                 <div class="footer__part">
                     <h4 class="mb-6 mb-lg-8">Tools</h4>
                     <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
