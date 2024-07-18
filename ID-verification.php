@@ -156,7 +156,7 @@
                             class="ti ti-circle-check s1-color fs-four"></i>Utility bill (phone, electricity, gas, or water) within the last six months.
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Bank or credit card statement dated within the last six months.
+                            class="ti ti-circle-check s1-color fs-four"></i>Bank or credit card statement dated within the last three months.
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>Rental agreement or lease with your name and current address.
