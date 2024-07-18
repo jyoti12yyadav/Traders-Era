@@ -148,7 +148,7 @@ switch ($menuactive) {
         break;
     case 'tradersera.php':
         $title = "About Us | Forex Trading Platform";
-        $description = "TradersEra's Forex Platform provides a variety of services including MT5 and UTIP Trading Platform with Local Deposit. Sign Up Now !";
+        $description = "TradersEra's Forex Platform provides a variety of services including MT5 and UTIP Trading Platform with Local Deposit.Sign Up Now !";
         $keywords = "About Us, online forex trading, MT5, UTIP Trading Platform, Forex service, online forex trading, Trade crypto, Forex trading, Forex Market, All in One Forex trading Platform";
         $name="About Us";
         $alternateName="About Us";
