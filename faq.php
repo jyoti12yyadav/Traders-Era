@@ -3,6 +3,7 @@
     .pb-120 {
         padding-bottom: 60px !important;
     }
+
     .pt-120 {
         padding-top: 60px !important;
     }
@@ -35,11 +36,20 @@
         <div class="row justify-content-center">
             <div class="col-lg-8 col-xxl-7">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <span class="heading fs-five p1-color mb-5">Faq’s</span>
+                    <!-- <span class="heading fs-five p1-color mb-5">FAQ's</span> -->
                     <h2>Frequently Asked Question</h2>
                 </div>
             </div>
         </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-8 col-xxl-7">
+                <div class="heading__content mb-10 mb-lg-15 text-center">
+                    <span class="heading fs-five p1-color mb-5">General Account Questions</span>
+                   
+                </div>
+            </div>
+        </div>
+        <br>
         <div class="row gy-10 justify-content-center align-items-center">
             <div class="col-md-12 col-lg-12 col-xxl-12">
                 <div class="faq__part">
@@ -48,12 +58,14 @@
                             <h3 class="header-area">
                                 <button
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
-                                    type="button"> What is Forex?</button>
+                                    type="button">1. Is TradersEra safe to use?
+                                </button>
                             </h3>
                             <div class="content-area">
                                 <div class="content-body pt-5">
-                                    <p>You can read the detailed answer in the separate section of the site — What is
-                                        Forex?.</p>
+                                    <p>Yes, TradersEra employs industry-standard security measures, including encryption
+                                        and two-factor authentication, to ensure the safety of your personal and
+                                        financial information.</p>
                                 </div>
                             </div>
                         </div>
@@ -62,14 +74,14 @@
                                 <button
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
-                                    How can I start trading Forex?
+                                    2. Can I trade on mobile?
                                 </button>
                             </h3>
                             <div class="content-area">
                                 <div class="content-body pt-5">
-                                    <p>You'll need to register a trading account with a Forex broker, such as Exness.
-                                        Then you can begin using their Forex client program to buy and sell currencies.
-                                        This will take less than 5 minutes of your time!</p>
+                                    <p>Yes, TradersEra has a mobile app available for both iOS and Android devices,
+                                        allowing you to trade on the go.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -78,15 +90,17 @@
                                 <button
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
-                                    Who owns Forex and where is it located?
+                                    3. How do I open a trading account?
+
                                 </button>
                             </h3>
                             <div class="content-area">
                                 <div class="content-body pt-5">
-                                    <p>It isn't owned by anyone in particular. Forex is an interbank market, meaning
-                                        that its transactions are conducted only between two participants — seller and
-                                        the buyer. So as long as the current banking system will exist, Forex will be
-                                        here. It isn't connected to any specific country or government organization.</p>
+                                    <p>You simply need to complete our online application form here, and your account
+                                        will be ready for trading in a matter of minutes.
+
+
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -95,13 +109,15 @@
                                 <button
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
-                                    What are the working hours of Forex market?
+                                    4. Do I need to provide any documentation to open an account?
+
                                 </button>
                             </h3>
                             <div class="content-area">
                                 <div class="content-body pt-5">
-                                    <p>Forex market is open from 22:00 GMT Sunday (opening of the Australian trading
-                                        session) till 22:00 GMT Friday (closing of the US trading session).</p>
+                                    <p>Yes, you'll typically need to provide identification documents such as a passport
+                                        or driver's license, as well as proof of address.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -110,14 +126,15 @@
                                 <button
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
-                                    What is margin?
+                                    5. How long does it take to open my account?
+
                                 </button>
                             </h3>
                             <div class="content-area">
                                 <div class="content-body pt-5">
-                                    <p>Margin is money you need to have in your broker account to secure your open
-                                        position. Different brokers require different amount of margin money to keep
-                                        your positions open.</p>
+                                    <p>Accounts are usually opened within one business day after all required
+                                        documentation has been submitted and verified.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -126,14 +143,16 @@
                                 <button
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
-                                    What are the long and short positions?
+                                    6. How do I change my registered email address?
+
                                 </button>
                             </h5>
                             <div class="content-area">
                                 <div class="content-body pt-5">
-                                    <p>A long position is a buy position, meaning that this position will be in profit
-                                        if the currency rate goes up. A short position is a sell position, meaning that
-                                        this position will be in profit if the currency rate goes down.</p>
+                                    <p>You can change your registered email address by contacting our support team and
+                                        providing the necessary verification information.
+
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -142,14 +161,15 @@
                                 <button
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
-                                    What is the best Forex trading strategy?
+                                    7. Can I open multiple trading accounts?
+
                                 </button>
                             </h3>
                             <div class="content-area">
                                 <div class="content-body pt-5">
-                                    <p>There is none. You should constantly develop your own strategies for every
-                                        possible market situation if you want to be in profit. Specific Forex strategies
-                                        can only be good for a limited period and for specific currency pairs.</p>
+                                    <p>Yes, you can open multiple trading accounts with different specifications, such
+                                        as account types or base currencies.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -158,14 +178,16 @@
                                 <button
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
-                                    How much money do I need to start trading Forex?
+                                    8. Can I open a demo account, and when will it expire?
+
                                 </button>
                             </h3>
                             <div class="content-area">
                                 <div class="content-body pt-5">
-                                    <p>With some Forex brokers you can start trading Forex with as little as $1.
-                                        Usually, the minimum amount varies from $100 to $10,000 ($100,000 and more for
-                                        interbank trading).</p>
+                                    <p>Yes, we offer demo accounts for you to practice trading with virtual funds. Demo
+                                        accounts typically do not expire unless there is a prolonged period of
+                                        inactivity.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -174,15 +196,14 @@
                                 <button
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
-                                    A news (macroeconomic report) came out that should have pushed a currency pair
-                                    up/down, but it did not react or moved in the opposite direction. Why?
+                                    9. Can I close my account at any time?
+
                                 </button>
                             </h3>
                             <div class="content-area">
                                 <div class="content-body pt-5">
-                                    <p>Forex market often ignores fundamental reports. There are thousands factors
-                                        affecting the currency rates. Their sum can move a currency pair without any
-                                        regard to some macroeconomic data report.</p>
+                                    <p>Yes, you can close your account at any time by contacting our support team.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -191,14 +212,14 @@
                                 <button
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
-                                    I've downloaded the expert advisor for MetaTrader platform but I don't know how to
-                                    install it. What should I do?
+                                    10. Can I update my personal information?
                                 </button>
                             </h3>
                             <div class="content-area">
                                 <div class="content-body pt-5">
-                                    <p>You can read the MetaTrader Expert Advisors User's Tutorial to find out how to
-                                        install those expert advisors.</p>
+                                    <p>Yes, you can update your personal information by logging into your account and
+                                        accessing the profile settings.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -207,30 +228,57 @@
                                 <button
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
-                                    I've downloaded a custom indicator for MetaTrader platform but I don't know how to
-                                    install it. What should I do?
+                                    11. How can I connect my trading account to an affiliate/IB?
+
                                 </button>
                             </h3>
                             <div class="content-area">
                                 <div class="content-body pt-5">
-                                    <p>You can read the MetaTrader Indicators User's Tutorial to find out how to install
-                                        those indicators.</p>
+                                    <p>You can connect your trading account to an affiliate or introduce a Broker (IB)
+                                        by providing their referral code or affiliate link during the account opening
+                                        process.
+                                    </p>
                                 </div>
                             </div>
                         </div>
+
+
+<br>
+
+
+
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8 col-xxl-7">
+                                <div class="heading__content mb-10 mb-lg-15 text-center">
+                                    <span class="heading fs-five p1-color mb-5">Accounts and Fees
+                                    </span>
+                                
+                                </div>
+                            </div>
+                        </div>
+
+
+
+
+
+
+
+
                         <div class="accordion-single cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
                             <h5 class="header-area">
                                 <button
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
-                                    Can I open a buy trade in EUR/USD and withdraw the bought euros?
+                                    1. Are there any fees associated with using TradersEra?
+
                                 </button>
                             </h5>
                             <div class="content-area">
                                 <div class="content-body pt-5">
-                                    <p>No, you cannot. There is no delivery in spot Forex market. Such trade is a
-                                        contract, not an actual act of exchange. At the same time, some brokers allow
-                                        exchanging currencies at favorable rates inside one multi-currency account.</p>
+                                    <p>TradersEra has a transparent fee structure. While trading fees may vary by asset
+                                        class, there are generally no hidden fees. Please refer to the fee schedule on
+                                        our website for detailed information.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -239,36 +287,168 @@
                                 <button
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
-                                    Can you code an indicator/expert advisor/script for me?
+                                    2. How can I deposit or withdraw funds?
+
                                 </button>
                             </h3>
+
+
+
+                            
+
                             <div class="content-area">
                                 <div class="content-body pt-5">
-                                    <p>Sorry, but we are not doing coding requests, but you can try asking at our forums
-                                        or contact our partners who are professional MetaTrader coders.</p>
+                                    <p>You can deposit or withdraw funds using various methods, including bank
+                                        transfers, credit/debit cards, and e-wallets.
+                                    </p>
                                 </div>
                             </div>
                         </div>
+
+<br>
+
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8 col-xxl-7">
+                                <div class="heading__content mb-10 mb-lg-15 text-center">
+                                    <span class="heading fs-five p1-color mb-5">Trading Support
+
+                                    </span>
+                                
+                                </div>
+                            </div>
+                        </div>
+
+
+
+
+
                         <div class="accordion-single cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
                             <h3 class="header-area">
                                 <button
                                     class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
                                     type="button">
-                                    Why does any trade that I open starts in a loss?
+                                    1. Does TradersEra provide customer support?
+
                                 </button>
                             </h3>
                             <div class="content-area">
                                 <div class="content-body pt-5">
-                                    <p>When you open a trade, you do it at the Ask price for Buy trades or at the Bid
-                                        price for Sell trades. If you were to close the trade, the opposite price is
-                                        used — the Bid price to close a Buy trade and the Ask price to close a Sell
-                                        trade. The same applies for calculating the trade's floating profit or loss.
-                                        Hence, when opening a new trade, it always starts in the red due to the Bid/Ask
-                                        spread. This is why, every traders must first beat the spread for their
-                                        positions to become profitable.</p>
+                                    <p>Yes, TradersEra offers 24/7 customer support via live chat, email, and phone. Our
+                                        support team is ready to assist you with any questions or concerns.
+                                    </p>
                                 </div>
                             </div>
                         </div>
+
+
+
+                        <div class="accordion-single cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
+                            <h3 class="header-area">
+                                <button
+                                    class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
+                                    type="button">
+                                    2. Are there educational resources available for traders?
+
+
+
+
+                                </button>
+                            </h3>
+                            <div class="content-area">
+                                <div class="content-body pt-5">
+                                    <p>Yes, TradersEra provides a range of educational resources, including tutorials, webinars, and articles designed to help traders improve their skills and knowledge.
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+<br>
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8 col-xxl-7">
+                                <div class="heading__content mb-10 mb-lg-15 text-center">
+                                    <span class="heading fs-five p1-color mb-5">Security and Regulations
+                                    </span>
+                                
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="accordion-single cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
+                            <h3 class="header-area">
+                                <button
+                                    class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
+                                    type="button">
+                                    1.  Is TradersEra regulated?
+
+
+
+                                </button>
+                            </h3>
+                            <div class="content-area">
+                                <div class="content-body pt-5">
+                                    <p>TradersEra operates under the regulations of [insert relevant regulatory body], ensuring compliance with industry standards for trading platforms.
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="accordion-single cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
+                            <h3 class="header-area">
+                                <button
+                                    class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
+                                    type="button">
+                                    2. How does TradersEra protect my personal information?
+
+
+
+
+                                </button>
+                            </h3>
+                            <div class="content-area">
+                                <div class="content-body pt-5">
+                                    <p>TradersEra uses advanced security protocols, including SSL encryption and secure server technology, to protect your personal and financial information.
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+<br>
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8 col-xxl-7">
+                                <div class="heading__content mb-10 mb-lg-15 text-center">
+                                    <span class="heading fs-five p1-color mb-5">Troubleshooting
+
+                                    </span>
+                                
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="accordion-single cus-rounded-1 nb3-bg box-shadow py-3 py-md-4 px-4 px-md-5">
+                            <h3 class="header-area">
+                                <button
+                                    class="accordion-btn transition fw-semibold text-start d-flex position-relative w-100"
+                                    type="button">
+                                    1. I didn't receive my trading account login details?
+
+
+
+                                </button>
+                            </h3>
+                            <div class="content-area">
+                                <div class="content-body pt-5">
+                                    <p>Please check your Junk/Spam/Other folder, and if you are still unable to find the
+                                        email, please contact our support team for assistance.
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
+
                     </div>
                 </div>
             </div>
