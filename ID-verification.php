@@ -107,6 +107,7 @@
                     evidence of residence.</p>
                 </div>
             </div>
+            
             <div class="col-md-6 col-xxl-6">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
                     <!-- <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
@@ -117,6 +118,42 @@
                 </div>
             </div>
         </div>
+</section>
+<section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0" style="background-color: #000;">
+    <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
+        <img src="assets/images/star3.png" alt="vector" class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
+    </div>
+    <div class="container">
+        <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
+            <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
+                <div class="trade_on__thumbs d-flex justify-content-end">
+                    <img src="assets/images/your friend will need to follow these steps.png" alt="TradersEra's Global markets, liquidity, low spreads, swap-free">
+                </div>
+            </div>
+            <div class="col-md-10 col-lg-6 col-xxl-5">
+                <div class="trade_on__content">
+                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;">How To Take Pictures of or Scanning ID Documents
+                    </h2>
+                </div>
+                <ul class="d-flex gap-4 flex-column mt-6">
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>The ID card should be flat.
+
+                    </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Make full use of natural lighting rather than using a flash.
+
+                    </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Take a picture as close to the ID as you can. Make sure your ID is not covered by your shadow.
+
+                    </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i class="ti ti-circle-check s1-color fs-four"></i>Verify that your ID's four corners are visible in the picture, and there are no hiding or covering features on the ID; all information is visible and readable.
+
+
+                    </li>
+                   
+                </ul>
+            </div>
+        </div>
+    </div>
 </section>
 <section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
@@ -227,14 +264,14 @@
         </div>
     </div>
 </section> -->
-<section class="provide-world a2-bg pt-120 pb-120  position-relative z-0" style="background-color: #141414;" >
+<!-- <section class="provide-world a2-bg pt-120 pb-120  position-relative z-0" style="background-color: #141414;" >
     <div class="container" style="background-color: #141414;">
         <div class="row justify-content-center">
             <div class="col-lg-8 col-xxl-10">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h2>How To Take Pictures of or Scanning ID Documents</h2>
+                     <h2>How To Take Pictures of or Scanning ID Documents</h2> 
                     <br>
-                    <!-- <h4>Kindly provide a copy of ONE of the following papers proving your identity:</h4> -->
+                 <h4>Kindly provide a copy of ONE of the following papers proving your identity:</h4> 
                 </div>
             </div>
         </div>
@@ -278,7 +315,7 @@
         </div>
         
     </div>
-</section>
+</section> -->
 <!-- <section class="provide-world  pt-120 pb-120  position-relative z-0">-->
     <!-- <div class="container">
         <div class="row justify-content-center">
