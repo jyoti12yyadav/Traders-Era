@@ -918,7 +918,7 @@
                     </span>
                     <h3 class="mt-5 mb-5">Trade</h3>
                     <h4>Start trading using UTIP platform.</h4>
-                    <br>
+                    <br><br>
                 </div>
             </div>
         </div>
