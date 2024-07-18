@@ -254,6 +254,8 @@
                             </div>
                         </div>
                     </div>
+                    <br><br>
+                    <div class="g-recaptcha" data-sitekey="6LfpCBMqAAAAANY7agf35xO_uqYdcGWOn9xeDwy3"></div>
                     <button type="submit" class="cmn-btn py-3 px-5 px-lg-6 d-flex ms-1 mt-8 mb-4" name="submit" id="submit">Submit<i class="bi bi-arrow-up-right"></i><span></span></button>
                 </form>
             </div>
