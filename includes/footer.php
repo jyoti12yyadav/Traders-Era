@@ -225,25 +225,7 @@
                 </div>
             </div>
             
-        <section class="privacy-policy pt-20 ">
-                <div class="container">
-                    <div class="row justify-content-center">
-                        <div class="col-lg-10 col-xxl-8">
-                            <div class="nb3-lg-bg pb-0 pb-md-4 p-4 p-sm-10 p-lg-15 cus-rounded-2">
-                                <h3 class="text-center ">Authorised Domains</h3>
-                                <div class="privacy-policy__card d-flex flex-column ">
-                                    <div class="privacy-policy__part">
-                                       
-                                        <p class="mt-4 mb-5" style="font-size: 15px;">TradersEra operates these two domains. <a href="www.tradersera.com" target="_blank">www.tradersera.com</a> and <a href="www.tradersera.xyz " target="_blank">www.tradersera.xyz</a> for Technical & Web Purposes. Clients are requested to only trust and use these two domains/emails.
-                                        </p>
-                                    </div>
-                                   
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
+    
 
             <section class="privacy-policy pt-20 ">
                 <div class="container">
@@ -276,6 +258,12 @@
                                             Canada, Australia, United Kingdom, Iran, North Korea, Pakistan, New Zealand,
                                             Afghanistan, Saint Vincent and the Grenadines.
                                         </p>
+                                    </div>
+                                    <hr>
+                                    <div class="privacy-policy__part">
+                                    <h3 class="text-center ">Authorised Domains</h3>
+                                    <p class="mt-4 mb-5" style="font-size: 15px;">TradersEra operates these two domains. <a href="www.tradersera.com" target="_blank">www.tradersera.com</a> and <a href="www.tradersera.xyz " target="_blank">www.tradersera.xyz</a> for Technical & Web Purposes. Clients are requested to only trust and use these two domains/emails.
+                                    </p>
                                     </div>
                                 </div>
                             </div>

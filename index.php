@@ -1002,10 +1002,7 @@
                 <div class="heading__content mb-10 mb-lg-15 text-center">
                     <h2 class="">Markets Data</h2>
                     <br>
-                    <span class="heading p1-color fs-six mb-5 mt-2">
-                        <h3>Learn and understand markets with our available
-                            market table.</h3>
-                    </span>
+                  
                 </div>
             </div>
         </div>

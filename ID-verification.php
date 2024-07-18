@@ -278,8 +278,13 @@
         </div>
     </div>
 </section> -->
+<<<<<<< HEAD
+<section class="provide-world a2-bg pt-120 pb-120  position-relative z-0" style="background-color: #141414;">
+    <div class="container" style="background-color: #141414;">
+=======
 <!-- <section class="provide-world a2-bg pt-120 pb-120  position-relative z-0">
     <div class="container">
+>>>>>>> b93f3ac84fb5d7947ccdd7f4f69c6dc181045b6e
         <div class="row justify-content-center">
             <div class="col-lg-8 col-xxl-10">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
@@ -374,11 +379,16 @@
         </div>
     </div>
 </section>
+<<<<<<< HEAD
+<!-- <section class="provide-world  pt-120 pb-120  position-relative z-0">-->
+    <!-- <div class="container">
+=======
 
 
 
 <section class="provide-world  pt-120 pb-120  position-relative z-0" >
     <div class="container">
+>>>>>>> b93f3ac84fb5d7947ccdd7f4f69c6dc181045b6e
         <div class="row justify-content-center">
             <div class="col-lg-8 col-xxl-6">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
@@ -395,8 +405,8 @@
                         <img style="height:100px;" src="assets/images/id card nn.png" alt="null">
                     </span>
                     <hr>
-                    <!-- <span class="idverify">Capturing Id</span> -->
-                   <br>
+                    <span class="idverify">Capturing Id</span> -->
+                   <!-- <br>
                    <p>The user can capture or upload a photo of their government-issued identity document instantly.</p>
                    <br>
                 </div>
@@ -409,7 +419,7 @@
                         <img style="height:100px;" src="assets/images/idextract.png" alt="null">
                     </span>
                     <hr>
-                    <!-- <span class="idverify">Capturing Id</span> -->
+                    <span class="idverify">Capturing Id</span> 
                    <br>
                    <p>Our smart system utilizes OCR technology to automatically extract data from the document.</p>
                    <br>
@@ -425,7 +435,7 @@
                         <img style="height:100px;" src="assets/images/idverify.png" alt="null">
                     </span>
                     <hr>
-                    <!-- <span class="idverify">Capturing Id</span> -->
+                     <span class="idverify">Capturing Id</span> 
                    <br>
                    <p>Our advanced AI verification technology confirms the format and details of identity documents.</p>
                    <br>
@@ -439,14 +449,14 @@
                         <img style="height:100px;" src="assets/images/verifydone.png" alt="null">
                     </span>
                     <hr>
-                    <!-- <span class="idverify">Capturing Id</span> -->
+                    <span class="idverify">Capturing Id</span> 
                    <br>
                    <p>The user will receive a clear 'Yes' or 'No' response for their verification, and all the results will be securely stored in the back-office.</p>
                 </div>
             </div>
         </div>
-    </div>
-</section>
+    </div> --> 
+<!-- </section>  -->
 <!-- <section class="  pt-120 pb-120  position-relative z-0">
 <div class="container">
     <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
