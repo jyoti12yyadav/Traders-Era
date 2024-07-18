@@ -848,7 +848,7 @@
                 <div class="company-story__part1 mb-lg-6">
                     <img src="images/icon/stable.png" class="img-fluid medium-image" alt="Low and stable spreads">
                     <div class="mt-4">
-                        <h3 class="mb-3">Low and stable spreads</h3>
+                        <h3 class="mb-3">Lowest spreads</h3>
                         <span>Stable trading with tight spreads starting from 0 pips.</span>
                     </div>
                 </div>
@@ -889,8 +889,8 @@
                         <img src="assets/images/icon/number-1.png" alt="number-1">
                     </span>
                     <h3 class="mt-5 mb-5">Register</h3>
-                    <h4>Sign up using your personal details and login to dashboard.</h4>
-                    <br>
+                   <p>Sign up using your personal details and login to dashboard.</p>
+                   
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
@@ -899,7 +899,7 @@
                         <img src="assets/images/icon/two.png" alt="two">
                     </span>
                     <h3 class="mt-5 mb-5">Verify</h3>
-                    <h4>Use our online verification tool and submit your details and document.</h4>
+                    <p>Use our online verification tool and submit your details and document.</p>
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
@@ -908,7 +908,7 @@
                         <img src="assets/images/icon/number-3.png" alt="number-3">
                     </span>
                     <h3 class="mt-5 mb-5">Fund</h3>
-                    <h4>Fund your trading account using a wide range of funding methods.</h4>
+                    <p>Fund your trading account using a wide range of funding methods.</p>
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
@@ -917,8 +917,8 @@
                         <img src="assets/images/icon/number-4.png" alt="number-4">
                     </span>
                     <h3 class="mt-5 mb-5">Trade</h3>
-                    <h4>Start trading using UTIP platform.</h4>
-                    <br><br>
+                    <p>Start trading using UTIP platform.</p>
+                   <br>
                 </div>
             </div>
         </div>
