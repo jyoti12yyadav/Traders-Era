@@ -47,6 +47,7 @@
 </style>
 <section class="banner-section  pt-2 pb-1">
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
+        
         <div class="row">
             <div class="col-12 breadcrumb-area ">
                 <h1 class="mb-4">ID-Verification</h1>
@@ -127,7 +128,7 @@
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/your friend will need to follow these steps.png" alt="TradersEra's Global markets, liquidity, low spreads, swap-free">
+                    <img src="assets/images/How To Take Pictures of or Scanning ID Documents.png" alt="How To Take Pictures of or Scanning ID Documents ">
                 </div>
             </div>
             <div class="col-md-10 col-lg-6 col-xxl-5">
