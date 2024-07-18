@@ -421,10 +421,10 @@
                                        
                                     <div
                                         class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8 mt-lg-10" >
-                                        <a href="https://tradersera.com/prelogin.php"
+                                        <a href="https://private.tradersera.xyz/signup"
                                             class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6">Start
                                             Trading <i class="ti ti-trending-up"></i></a>
-                                        <a href="https://trading.tradersera.com/register"
+                                        <a href="https://private.tradersera.xyz/signup"
                                             class="cmn-btn link link-xxl-color fs-five  gap-2 gap-lg-3 align-items-center "><i
                                                 class="ti ti-arrow-narrow-right fs-four"></i> Try demo account</a>
                                                
@@ -478,11 +478,11 @@
                                         mt-lg-10" style="
     margin-left: 75px;
 ">
-                                        <a href="https://tradersera.com/prelogin.php"
+                                        <a href="https://private.tradersera.xyz/signup"
                                             class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6"
                                             style="transform: scaleX(-1);">Start
                                             Trading <i class="ti ti-trending-up"></i></a>
-                                        <a href="https://trading.tradersera.com/register"
+                                        <a href="https://private.tradersera.xyz/signup"
                                             class="cmn-btn link link-xxl-color fs-five  gap-2 gap-lg-3 align-items-center "
                                             style="transform: scaleX(-1);"><i
                                                 class="ti ti-arrow-narrow-right fs-four"></i> Try demo account</a>
@@ -615,7 +615,7 @@
                         <div class="company-story__part d-flex align-items-sm-center flex-column flex-sm-row">
                             <div class="row">
                                 <div class="col-lg-2 d-flex align-items-center">
-                                    <img src="assets/images/icon/candlestick-chart.png" alt="candlestick-chart">
+                                    <img src="assets/images/icon/chart.png" alt="candlestick-chart">
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
