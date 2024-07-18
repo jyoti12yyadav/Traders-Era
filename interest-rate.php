@@ -11,11 +11,11 @@
     <div class="container mt-lg-0 pt-18 pt-xl-20">
         <div class="row">
             <div class="col-12 breadcrumb-area ">
-                <h1 class="mb-4">Interest Rate</h1>
+                <h1 class="mb-4">Interest Rates</h1>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb mb-0">
                         <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                        <li class="breadcrumb-item ms-2 ps-7 active" aria-current="page"><span>Interest Rate</span></li>
+                        <li class="breadcrumb-item ms-2 ps-7 active" aria-current="page"><span>Interest Rates</span></li>
                     </ol>
                 </nav>
             </div>
