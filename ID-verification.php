@@ -130,57 +130,61 @@
                     <h2 class="mb-4 mb-lg-5" style="font-size:35px;">Which Files Are Considered?</h2>
                 </div>
                 <ul class="d-flex gap-4 flex-column mt-6">
+                <h3 class="mb-4 mb-lg-5" >Verification of Identity</h3>
+                
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Verify the identity of customers through
-                        government-issued identification documents.
+                            class="ti ti-circle-check s1-color fs-four"></i>Passport.
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Confirm the authenticity of provided
-                        documents through manual review or automated verification systems.
+                            class="ti ti-circle-check s1-color fs-four"></i>Driver’s Licence.
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Conduct due diligence checks to ensure
-                        compliance with regulatory requirements and prevent fraud.
+                            class="ti ti-circle-check s1-color fs-four"></i>National ID card.
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Validate the residential address of
-                        customers by cross-referencing their identification documents with bank statements, or other
-                        official documents.
+                            class="ti ti-circle-check s1-color fs-four"></i>Proof of age card.
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Screen customers against global watchlists
-                        and sanctions databases to ensure they are not involved in any illegal activities.
+                            class="ti ti-circle-check s1-color fs-four"></i>Birth certificate (as a secondary ID only).
                     </li>
-                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                    <!-- <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>Conduct enhanced due diligence for high-risk
                         customers or transactions, which may involve gathering additional information, performing
                         background checks, or seeking approval from senior management.
+                    </li> -->
+                </ul>
+            </div>  
+            <div class="col-md-10 col-lg-6 col-xxl-5"  style="margin-top:45px;">
+            <ul class="d-flex gap-4 flex-column mt-6">
+                <h3 class="mb-4 mb-lg-5" >Evidence of Address</h3>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>Utility bill (phone, electricity, gas, or water) within the last six months.
                     </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>Bank or credit card statement dated within the last six months.
+                    </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>Rental agreement or lease with your name and current address.
+                    </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>Official government correspondence (tax document, benefits letter, etc.) dated within the last six months.
+                    </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>Please note that a PO box is not acceptable.
+
+                    </li>
+                    <!-- <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>Conduct enhanced due diligence for high-risk
+                        customers or transactions, which may involve gathering additional information, performing
+                        background checks, or seeking approval from senior management.
+                    </li> -->
                 </ul>
             </div>
-            <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0 d-flex gap-4 flex-column mt-6">
-    <li class="d-flex align-items-center gap-3 fs-six-up">
-            <i
-                            class="ti ti-circle-check s1-color fs-four"></i>Verify the identity of customers through
-                        government-issued identification documents.
-                    </li>
-                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Confirm the authenticity of provided
-                        documents through manual review or automated verification systems.
-                    </li>
-                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Conduct due diligence checks to ensure
-                        compliance with regulatory requirements and prevent fraud.
-                    </li>
-                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Validate the residential address of
-                        customers by cross-referencing their identification documents with bank statements, or other
-                        official documents.
-                    </li>
-            </div>
         </div>
+    </div>
 </section>
-<section class="company-story position-relative z-0  pt-120 pb-120 ">
+
+<!-- <section class="company-story position-relative z-0  pt-120 pb-120 ">
     <div class="animation position-absolute w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="null"
             class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
@@ -227,15 +231,15 @@
                 office staff. Please refer to the list below for the required paperwork.</p>
         </div>
     </div>
-</section>
+</section> -->
 <section class="provide-world a2-bg pt-120 pb-120  position-relative z-0">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-lg-8 col-xxl-6">
+            <div class="col-lg-8 col-xxl-10">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h2>Documents Required</h2>
+                    <h2>How To Take Pictures of or Scanning ID Documents</h2>
                     <br>
-                    <h4>Kindly provide a copy of ONE of the following papers proving your identity:</h4>
+                    <!-- <h4>Kindly provide a copy of ONE of the following papers proving your identity:</h4> -->
                 </div>
             </div>
         </div>
@@ -248,12 +252,13 @@
                         <img src="assets/images/icon/file.png" alt="null">
                     </span>
 <br>
-                    <p>Passport (must to be valid right now)</p>
+                    <p>The ID card should be flat</p>
                     <hr>
-                    <p>a current driver's license
+                    <p>Make full use of natural lighting than using a flash.
                     </p>
                     <hr>
-                    <p> Authentic Proof of Age card.</p>
+                    <p>Take a picture as close to the ID as you can. Make sure your ID is not covered by your shadow.
+                    </p>
                     <br>
                     <br>
                 </div>
@@ -264,17 +269,19 @@
                         <img src="assets/images/icon/bill.png" alt="null">
                     </span>
                     <br>
-                    <p> Utility Bill (Phone, Electricity, Gas) id doc arrow ico</p>
+                    <p> Verify that:</p>
                     <hr>
-                    <p> Statement from a bank or credit card </p>
+                    <p>Your ID's four corners are visible in the picture</p>
                     <hr>
-                    <p>Tax Document Issued by the Government
+                    <p>There are no hiding or covering features on the ID; all information is visible and readable.
                     </p>
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
             </div>
+            
         </div>
+        
     </div>
 </section>
 <section class="provide-world  pt-120 pb-120  position-relative z-0">
@@ -347,7 +354,7 @@
         </div>
     </div>
 </section>
-<section class="  pt-120 pb-120  position-relative z-0">
+<!-- <section class="  pt-120 pb-120  position-relative z-0">
 <div class="container">
     <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
         <div class="col-sm-10 col-lg-6 col-xxl-12">
@@ -431,5 +438,5 @@
         </div>
     </div>
 </div>
-</section>
+</section> -->
 <?php include("includes/footer.php"); ?>
