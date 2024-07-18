@@ -160,7 +160,7 @@
                         <img src="assets/images/icon/two.png" alt="null">
                     </span>
                     <h4 class="mt-5 mb-5">Leveraged Trading</h4>
-                    <p>Maximize potential gains with leverage</p>
+                    <p>Maximize potential gains with leverage.</p>
                     <br>
                 </div>
             </div>
@@ -190,7 +190,7 @@
                         <img src="assets/images/icon/number-5.png" alt="null">
                     </span>
                     <h4 class="mt-5 mb-5">Risk Management Tools</h4>
-                    <p>Access advanced risk management features to protect your capital while trading crypto CFDs</p>
+                    <p>Access advanced risk management features to protect your capital while trading crypto CFDs.</p>
                 </div>
             </div>
         </div>

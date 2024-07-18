@@ -60,7 +60,53 @@
         </div>
     </div>
 </section>
-<section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="trade_on a2-bg pt-120 pb-120 position-relative z-0" style="background-color: #141414;">
+    <div class="animation position-absolute top-0 center-0 w-100 h-100 z-n1">
+        <!-- <img src="assets/images/coin.png" alt="null" class="position-absolute d-none d-md-flex previewShapeRevX">
+        <img src="assets/images/coin_vector.png" alt="null"
+            class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX opacity-50"> -->
+    </div>
+    <div class="container">
+        <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
+            <div class="col-lg-6 col-xxl-5">
+                <div class="trade_on__content">
+                    <h2 class="mb-4 mb-lg-5">ID Verification</h2>
+                    <p class="fs-six mx-ch">We make every effort to complete this procedure online by utilizing the 
+                        greatest technology available. There may be occasions when you must send your papers to our 
+                        back-office staff. Please refer to the list below for the required paperwork.
+                    </p>
+                   
+                </div>
+            </div>
+            <div class="col-md-8 col-lg-6">
+                <div class="trade_on__thumbs d-flex justify-content-end">
+                    <img src="assets/images/financial markets trading hours.png"
+                        alt="Trade Forex CFDs on TradersEra Paltform">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+
+<!-- 
+<section class="trade_on a2-bg pt-120 pb-120 position-relative z-0" >
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/coin.png" alt="null" class="position-absolute d-none d-md-flex previewShapeRevX">
         <img src="assets/images/coin_vector.png" alt="null"
@@ -84,8 +130,8 @@
             </div>
         </div>
     </div>
-</section>
-<section class="provide-world pt-60 position-relative z-0 mb-10 pb-120">
+</section> -->
+<section class="provide-world pt-60 position-relative z-0 mb-10 pb-120" style="background-color: #000;">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-12 col-xxl-10">
@@ -118,7 +164,7 @@
             </div>
         </div>
 </section>
-<section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0">
+<section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0" >
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="null"
             class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
@@ -154,7 +200,7 @@
                     </li> -->
                 </ul>
             </div>  
-            <div class="col-md-10 col-lg-6 col-xxl-5"  style="margin-top:45px;">
+            <div class="col-md-10 col-lg-6 col-xxl-5"  style="margin-top:45px;" style="background-color: #000;" >
             <ul class="d-flex gap-4 flex-column mt-6">
                 <h3 class="mb-4 mb-lg-5" >Evidence of Address</h3>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
@@ -232,14 +278,19 @@
         </div>
     </div>
 </section> -->
+<<<<<<< HEAD
 <section class="provide-world a2-bg pt-120 pb-120  position-relative z-0" style="background-color: #141414;">
     <div class="container" style="background-color: #141414;">
+=======
+<!-- <section class="provide-world a2-bg pt-120 pb-120  position-relative z-0">
+    <div class="container">
+>>>>>>> b93f3ac84fb5d7947ccdd7f4f69c6dc181045b6e
         <div class="row justify-content-center">
             <div class="col-lg-8 col-xxl-10">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
                     <h2>How To Take Pictures of or Scanning ID Documents</h2>
                     <br>
-                    <!-- <h4>Kindly provide a copy of ONE of the following papers proving your identity:</h4> -->
+                  
                 </div>
             </div>
         </div>
@@ -259,8 +310,7 @@
                     <hr>
                     <p>Take a picture as close to the ID as you can. Make sure your ID is not covered by your shadow.
                     </p>
-                    <br>
-                    <br>
+                   
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
@@ -283,9 +333,62 @@
         </div>
         
     </div>
+</section> -->
+
+
+
+<section class="trade_on trade_on--secondary pt-120 pb-120 position-relative z-0" style="background-color: #000;">
+    <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
+        <img src="assets/images/star3.png" alt="vector"
+            class="position-absolute push_animat d-none d-xxxl-flex top-0 start-0 pt-lg-16 ps-20 ms-lg-8">
+    </div>
+    <div class="container">
+        <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
+            <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
+                <div class="trade_on__thumbs d-flex justify-content-end">
+                    <img src="assets/images/your friend will need to follow these steps.png"
+                        alt="TradersEra's Global markets, liquidity, low spreads, swap-free">
+                </div>
+            </div>
+            <div class="col-md-10 col-lg-6 col-xxl-5">
+                <div class="trade_on__content">
+                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;">How To Take Pictures of or Scanning ID Documents
+                    </h2>
+                </div>
+                <ul class="d-flex gap-4 flex-column mt-6">
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>The ID card should be flat.
+
+                    </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>Make full use of natural lighting rather than using a flash.
+
+                    </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>Take a picture as close to the ID as you can. Make sure your ID is not covered by your shadow.
+
+                    </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>Verify that your ID's four corners are visible in the picture, and there are no hiding or covering features on the ID; all information is visible and readable.
+
+
+                    </li>
+                   
+                </ul>
+            </div>
+        </div>
+    </div>
 </section>
+<<<<<<< HEAD
 <!-- <section class="provide-world  pt-120 pb-120  position-relative z-0">-->
     <!-- <div class="container">
+=======
+
+
+
+<section class="provide-world  pt-120 pb-120  position-relative z-0" >
+    <div class="container">
+>>>>>>> b93f3ac84fb5d7947ccdd7f4f69c6dc181045b6e
         <div class="row justify-content-center">
             <div class="col-lg-8 col-xxl-6">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
