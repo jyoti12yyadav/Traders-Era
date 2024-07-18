@@ -4,7 +4,8 @@ switch ($menuactive) {
     case 'index.php':
         $title = "Forex Trading Platform | MT5 | UTIP Trading Platform ";
         $description = "Experience the power of MT5 and UTIP Trading Platform with TradersEra. Trade confidently and efficiently with us!";
-        $keywords = "Online Forex Trading, MT5, Meta Trader 5, UTIP, UTIP Trading Platform, Trade Crypto, Forex Trading Platform, UTIP, TradingView, AWS, Equinix, MarketCheese, SSL Secured, Forex trading, forex market, CFD, FX CFD, Crypto CFD, Online trading account types, Forex Deposit, Forex Withdrawal, Crypto Trading, Indices trading, Stock Trading, Forex Trading, Commodity Trading, Economic Calendar, Forex Market Updates, Forex Glossary, Interest Rates, introducing broker, Forex IB, IB Program, trading account types, Regulatory Compliance, Equinix Servers, trading ecosystem, Automated Trading";
+        $keywords = "Online Forex Trading, MT5, Meta Trader 5, UTIP, UTIP Trading Platform, Trade Crypto, Forex Trading Platform, UTIP, TradingView, AWS, Equinix, MarketCheese, SSL Secured, Forex trading, forex market, CFD, FX CFD, Crypto CFD, Online trading account types, Forex Deposit, Forex Withdrawal, Crypto Trading, Indices trading, 
+        Stock Trading, Forex Trading, Commodity Trading, Economic Calendar, Forex Market Updates, Forex Glossary, Interest Rates, introducing broker, Forex IB, IB Program, trading account types, Regulatory Compliance, Equinix Servers, trading ecosystem, Automated Trading";
         $name="TradersEra";
         $alternateName="TradersEra";
         $url="https://tradersera.com";
@@ -25,9 +26,6 @@ switch ($menuactive) {
         $alternateName="Crypto CFD";
         $url="https://tradersera.com/crypto-cfd.php";
         break;
-
-
-
     case 'account-types.php':
         $title = "Trading Account Types | Forex Trading Accounts  ";
         $description = "Start trading with confidence on the best Forex trading account. Explore different Forex account types to suit your trading needs. Start trading now!";
@@ -221,11 +219,9 @@ switch ($menuactive) {
         $alternateName="Market Hours";
         $url="https://tradersera.com/market-hours.php";
         break;
-
-  
     case 'refer-a-friend.php':
-        $title = "Download MT5 | Access MT5 | Link For MT5";
-        $description = "Access the MT5 download link for Android, Windows, and iPhone on TradersEra's website. Explore the benefits of trading with our MT5 account services.";
+        $title = "Recommend a Friend | Invite a Friend | Earn Rewards";
+        $description = "Recommend a friend and Earn rewards and enjoy the benefits of our exclusive offers.";
         $keywords = "Recommend a friend, Earn Rewards, Invite a Friend, Make Money, Referral Link, Forex Bonus";
         $name="Refer a Friend";
         $alternateName="Refer a Friend";
@@ -234,20 +230,11 @@ switch ($menuactive) {
     case 'bonus.php':
         $title = "Forex Bonus on Deposit | Get 50% Deposit Bonus | Earn Rewards";
         $description = "Get a whopping 50% deposit bonus and Boost your trading power with TradersEra! Join us today!";
-        $keywords = "Forex Bonus Deposit, Deposit Bonus, 50% Deposit Bonus, Forex market, Forex trading, Currency Pairs, Cryptocurrencies, Get 100% Deposit Bonus, maximum deposit bonus  ";
+        $keywords = "Forex Bonus Deposit, Deposit Bonus, 50% Deposit Bonus, Forex market, Forex trading, Currency Pairs, Cryptocurrencies, Get 50% Deposit Bonus, maximum deposit bonus  ";
         $name="Bonus";
         $alternateName="Bonus";
         $url="https://tradersera.com/bonus.php";
         break;
-
-
-
-
-
-
-
-    
-
     case 'Download-MT5.php':
         $title = "Download MT5 | Access MT5 |  Meta Trader 5 Platform";
         $description = "Access the MT5 download link for Android, Windows, and iPhone on TradersEra's website. Explore the benefits of trading with our MT5 account services.";
@@ -256,17 +243,14 @@ switch ($menuactive) {
         $alternateName="Download MT5";
         $url="https://tradersera.com/Download-MT5.php";
         break;
-
-
     case 'UTIP-WebTrader.php':
-        $title = "Download UTIP | Access UTIP | UTIP ttrading App";
+        $title = "Download UTIP | Access UTIP | UTIP trading App";
         $description = "Explore UTIP account services on TradersEra Website. Download the UTIP app for Android, Windows, and iPhone to get started.";
         $keywords = "UTIP Download, UTIP App, UTIP Android, UTIP iOS, UTIP Mac, UTIP Win, UTIP Web Trader, Online Forex Trading, UTIP Trading Platform, UTIP, UTIP Platform, Trader’s Room, UTIP Trader’s Room, Trading Account, Forex Instruments, Forex, CFD, Chinese currency pairs, Singaporean currency pairs, Philippine currency pairs, Malaysian currency pairs, currency pairs, Trader's Room Terminal, A Booking, B Booking, UTIP WEB API";
         $name="UTIP WebTrader";
         $alternateName="UTIP WebTrader";
         $url="https://tradersera.com/UTIP-WebTrader.php";
         break;
-
     case 'UTIP-info.php':
         $title = "UTIP Platform | UTIP Forex | UTIP WebTrader";
         $description = "The UTIP Platform offers a complete package of software for businesses in the currency markets. The platform offers a Trader’s Room. ";
@@ -275,16 +259,6 @@ switch ($menuactive) {
         $alternateName="UTIP";
         $url="https://tradersera.com/UTIP-info.php";
         break;
-                
-            
-
-
-
-
-
-
-
-
     case 'ai-invest.php':
         $title = "AI Invest";
         $description = "AI Invest";
@@ -340,8 +314,7 @@ switch ($menuactive) {
         $name="Crypto";
         $alternateName="Crypto";
         $url="https://tradersera.com/learn-crypto.php";
-        break;
-        
+        break;     
     case 'learn-binary.php':
         $title = "Learn Binary Options | Learn Binary Trading | Binary Option";
         $description = "Learn about Binary Options Trading. Learn to make informed decisions and make profits in this dynamic market.";
@@ -350,7 +323,6 @@ switch ($menuactive) {
         $alternateName="Binary";
         $url="https://tradersera.com/learn-binary.php";
         break;
-
     case 'India.php':
         $title = "Forex Trading India | MT5 | UTIP Trading Platform";
         $description = "Experience the power of MT5 and UTIP Trading Platform. Become a partner with our forex IB program. Start trading now!";
@@ -359,7 +331,6 @@ switch ($menuactive) {
         $alternateName="India";
         $url="https://tradersera.com/India.php";
         break;
-
     case 'Bangladesh.php':
         $title = "Forex Trader in Bangladesh | UTIP Platform|  MT5 Trading Account";
         $description = "Looking for a reliable Forex trader in Bangladesh? Trade Forex with MT5 and UTIP Trading Platform with top brokers in the industry.";
@@ -368,7 +339,6 @@ switch ($menuactive) {
         $alternateName="Bangladesh";
         $url="https://tradersera.com/Bangladesh.php";
         break;
-
     case 'Srilanka.php':
         $title = "Forex Trading in Sri Lanka  | UTIP Sri Lanka | MT5 ";
         $description = "Get started with Forex trading in Sri Lanka using the best trading platforms and brokers. Explore MT5 and UTIP or become Forex IB program for success.";
@@ -377,7 +347,6 @@ switch ($menuactive) {
         $alternateName="Srilanka";
         $url="https://tradersera.com/Srilanka.php";
         break;
-
     case 'Nepal.php':
         $title = "Nepal Forex Trading | MT5 | UTIP Trading Platform";
         $description = "Get started with Forex trading in Nepal by visiting our website. Explore the Forex market, MT5, and more to enhance your trading experience.";
@@ -386,7 +355,6 @@ switch ($menuactive) {
         $alternateName="Nepal";
         $url="https://tradersera.com/Nepal.php";
         break;
-
     case 'Myanmar.php.php':
         $title = " Forex Trading Myanmar | Forex IB | Forex Market Myanmar";
         $description = "Start Forex trading in Myanmar with our Forex and MT5 and UTIP platforms. Join the Forex IB program .";
@@ -395,7 +363,6 @@ switch ($menuactive) {
         $alternateName="Myanmar";
         $url="https://tradersera.com/Myanmar.php";
         break;
-
     case 'Bhutan.php':
         $title ="Bhutan FX brokers | Forex Brokers in Bhutan | Bhutan FX traders";
         $description ="Best Forex trading platform in Bhutan offering MT5 and UTIP, CFDs. Trade smarter with our innovative tools.";
@@ -404,6 +371,7 @@ switch ($menuactive) {
         $alternateName="Bhutan";
         $url="https://tradersera.com/Bhutan.php";
         break;
+
 
             /* Indian Cities */
     case 'Mumbai.php':
@@ -510,7 +478,6 @@ switch ($menuactive) {
         $alternateName="Nammakal";
         $url="https://tradersera.com/Nammakal.php";
         break;
-
     case 'Patna.php':
         $title = "Forex Exchange In Patna | Patna Forex | Patna Forex Trading";
         $description = "Start trading Forex in Patna effortlessly with TradersEra's MT5 and UTIP platform. Join us today";
@@ -519,7 +486,6 @@ switch ($menuactive) {
         $alternateName="Patna";
         $url="https://tradersera.com/Patna.php";
         break;
-
     case 'Ranchi.php':
         $title = "Ranchi Forex | Ranchi Forex Trade | Ranchi Forex Trading App";
         $description = "Easily trade Forex in Ranchi with TradersEra's MT5 and UTIP platform.";
@@ -527,9 +493,7 @@ switch ($menuactive) {
         $name="Ranchi";
         $alternateName="Ranchi";
         $url="https://tradersera.com/Ranchi.php";
-        break;
-
-            
+        break;           
     default:
         $title = "Title Here";
         $description = "Description Here";

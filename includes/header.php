@@ -57,7 +57,7 @@
                         <div class="contact-details ">
                             <ul class="contact" style="display: flex;position: absolute;margin-top: 4px;">
                                 <li><img class="mx-2" src="assets/images/icon/mail icon png.png" alt="">
-                                    <a href="mailto:support@tradersera.com">support@tradersera.com</a>
+                                    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=support@tradersera.com" target="_blank">support@tradersera.com</a>
                                 </li>
                                 
                                 <li><img class="mx-2" src="assets/images/icon/call icon png.png" alt="">
