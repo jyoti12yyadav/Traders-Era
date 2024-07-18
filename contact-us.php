@@ -52,7 +52,7 @@
         </div>
     </div>
 </section>
-<section class="pt-120 pb-120 ">
+<!-- <section class="pt-120 pb-120 ">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-8 col-xxl-7">
@@ -143,7 +143,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
 
