@@ -564,24 +564,24 @@
                     <tbody class="justify-content-left">
                         <tr>
                             <td>Instrument Type</td>
-                            <td>Contracts for Difference (CFDs)
+                            <td>Contracts for Difference(CFDs).
 </td>
                         </tr>
                         <tr>
                             <td>Asset Class</td>
-                            <td>Foreign Exchange (FX)</td>
+                            <td>Foreign Exchange(FX).</td>
                         </tr>
                         <tr>
                             <td>Leverage</td>
-                            <td>Amplify your trades with flexible leverage</td>
+                            <td>Amplify your trades with flexible leverage.</td>
                         </tr>
                         <tr>
                             <td>Trading Hours</td>
-                            <td>Access the markets 24/5</td>
+                            <td>Access the markets 24/5.</td>
                         </tr>
                         <tr>
                             <td>Variety</td>
-                            <td>Trade a wide range of currency pairs</td>
+                            <td>Trade a wide range of currency pairs.</td>
                         </tr>
                         <tr>
                             <td>Hedging</td>
@@ -593,15 +593,14 @@
                         </tr>
                         <tr>
                             <td>Risk Management</td>
-                            <td>Set stop-loss orders and manage risk effectively</td>
+                            <td>Set stop-loss orders and manage risk effectively.</td>
                         </tr><tr>
                             <td>Market Analysis</td>
                             <td> Access real-time charts and analysis tools.</td>
                         </tr>
                         <tr>
                             <td>Support</td>
-                            <td>Expert support team available for assistance
-.</td>
+                            <td>Expert support team available for assistance.</td>
                         </tr>
                     </tbody>
                 </table>
