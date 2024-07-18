@@ -658,8 +658,9 @@
                     </div>
                 </div>
             </div>
+
             <div class="col-12 col-lg-7 col-xl-6 nb3-bg">
-                <form action="become-an-ib-form.php" method="POST" autocomplete="off"
+            <form action="become-an-ib-form.php" method="POST" autocomplete="off"
                     class="contact__form alt_form px-4 px-lg-8">
                     <h3 class="contact__title  mb-lg-7 mt-8">Sign Up Today</h3>
                     <h6 class="mb-lg-7">
@@ -962,13 +963,16 @@
                             <textarea class="fs-six-up" name="message" rows="4" placeholder="" required=""></textarea>
                         </div>
                     </div>
+                    <div class="g-recaptcha" data-sitekey="6LfpCBMqAAAAANY7agf35xO_uqYdcGWOn9xeDwy3"></div>
                     <span id="msg"></span>
                     <button type="submit" class="cmn-btn py-3 px-5 px-lg-6  d-flex ms-auto" name="submit"
                         id="submit">Become An IB Now<i class="bi bi-arrow-up-right"></i><span></span></button>
                     <br>
                     <br>
-                </form>
-            </div>
+                
+    
+    
+</form>  
             <!-- <div class="col-12">
                 <iframe class="cus-rounded-1 cus_map"
                     src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d5156.793422135061!2d-105.02171047857397!3d39.77899593135569!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1699354709950!5m2!1sen!2sbd"
