@@ -188,13 +188,13 @@ switch ($menuactive) {
         $alternateName="Our Server";
         $url="https://tradersera.com/our-servers.php";
         break;
-    case 'kyc-checks.php':
-        $title = "Forex Brokers KYC | Forex KYC Checks | Identity Verification";
-        $description = "Trade confidently with peace of mind on TradersEra. Complete your KYC checks swiftly and securely to unlock full access to our trading platform. Start now!";
-        $keywords = "Forex KYC Checks, Forex Brokers KYC, KYC Compliance for Forex Trading, Identity verification for forex brokers, Automated KYC Compliance, KYC in Forex trading, ";
-        $name="KYC Checks";
-        $alternateName="KYC Checks";
-        $url="https://tradersera.com/kyc-checks.php";
+    case 'ID-verification.php':
+        $title = " ID Verification | Forex KYC Checks | Identity Verification";
+        $description = "Trade confidently with peace of mind on TradersEra. Complete your ID verification checks swiftly and securely to access our trading platform. Start now!";
+        $keywords = "Forex Identity Verification, Forex KYC Checks, Forex Account Verification, Forex Brokers KYC, KYC Compliance for Forex Trading, Identity verification for forex brokers, Automated KYC Compliance, KYC in Forex trading,";
+        $name="ID-Verification";
+        $alternateName="ID-Verification";
+        $url="http://localhost/traders-era/ID-verification.php";
         break;
     case 'contact-us.php':
         $title = "Contact Us | Email Us | TradersEra Contact | Get in Touch";
@@ -301,13 +301,13 @@ switch ($menuactive) {
         $alternateName="Learn";
         $url="https://tradersera.com/learn.php";
         break;
-    case 'cfd-partner.php':
-        $title = " Introducing Broker | CFD Partner | Forex IB Program | CFDs";
-        $description = "Join the TradersEra CFD Partner Program and unlock lucrative opportunities in forex trading. Collaborate with us to grow";
-        $keywords = "CFD Partner, forex ib program, Forex Introducing Brokers, forex ib commission, Introducing Broker, IB agents, Become an IB, CFD, Trade Shares, Stocks, Commodities, Gold, Oil, Forex, Cryptocurrencies,";
-        $name="CFD Partner";
-        $alternateName="CFD Partner";
-        $url="http://tradersera.com/cfd-partner.php";
+    case 'IB-partner.php':
+        $title = " IB Partner | Become an IB | Forex IB Program ";
+        $description = "Become an Introducing Broker and start earning commissions with our Forex IB program. Collaborate with us to grow";
+        $keywords = "Forex IB program, Forex Introducing Brokers, forex ib commission, Introducing Broker, IB agents, Become an IB,Trade Shares, Stocks, Commodities, Gold, Oil, Forex, Cryptocurrencies,";
+        $name="IB Partner";
+        $alternateName="IB Partner";
+        $url="http://localhost/traders-era/IB-partner.php";
         break;
     case 'binary-trading.php':
         $title = "Binary Trading | Binary Options Platform | Forex Binary Options";

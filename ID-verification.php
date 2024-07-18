@@ -49,11 +49,11 @@
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
             <div class="col-12 breadcrumb-area ">
-                <h1 class="mb-4">KYC Checks</h1>
+                <h1 class="mb-4">ID-Verification</h1>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb mb-0">
                         <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                        <li class="breadcrumb-item ms-2 ps-7 active" aria-current="page"><span>KYC Checks</span></li>
+                        <li class="breadcrumb-item ms-2 ps-7 active" aria-current="page"><span>ID-Verification</span></li>
                     </ol>
                 </nav>
             </div>
@@ -90,7 +90,8 @@
         <div class="row justify-content-center">
             <div class="col-lg-12 col-xxl-10">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h2 class="mb-5 mb-lg-6">Benefits And Features Of Cryptocurrency </h2>
+                    <h2 class="mb-5 mb-lg-6" style="margin-top: 80px;">What is necessary?</h2>
+                    <h3 class="mb-5 mb-lg-6">We need one of the following to complete our verification</h3>
                 </div>
             </div>
         </div>
@@ -98,20 +99,21 @@
         <div class="row gy-6 gy-xxl-0 mt-6">
             <div class="col-md-6 col-xxl-6">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/number-4.png" alt="null">
+                    <!-- <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/number-4.png" alt="null"> -->
                     </span>
-                    <h4 class="mt-5 mb-5">User-friendly Interface</h4>
-                    <p>Easily navigate our platform with intuitive tools and resources for efficient trading.</p>
+                    <h4 class="mt-5 mb-5">Choice A</h4>
+                    <p>One ID was issued by the government as was
+                    evidence of residence.</p>
                 </div>
             </div>
             <div class="col-md-6 col-xxl-6">
                 <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-5 py-lg-10 px-4 px-lg-9">
-                    <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
-                        <img src="assets/images/icon/number-5.png" alt="null">
+                    <!-- <span class="provide-card__icon d-center nb4-bg p-4 rounded-circle mx-auto">
+                        <img src="assets/images/icon/number-5.png" alt="null"> -->
                     </span>
-                    <h4 class="mt-5 mb-5">Risk Management Tools</h4>
-                    <p>Access advanced risk management features to protect your capital while trading crypto CFDs</p>
+                    <h4 class="mt-5 mb-5">Choice B</h4>
+                    <p>A primary ID issued by the government and a backup ID.</p>
                 </div>
             </div>
         </div>
@@ -125,45 +127,64 @@
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
-                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;">KYC Checks</h2>
+                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;">Which Files Are Considered?</h2>
                 </div>
                 <ul class="d-flex gap-4 flex-column mt-6">
+                <h3 class="mb-4 mb-lg-5" >Verification of Identity</h3>
+                
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Verify the identity of customers through
-                        government-issued identification documents.
+                            class="ti ti-circle-check s1-color fs-four"></i>Passport.
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Confirm the authenticity of provided
-                        documents through manual review or automated verification systems.
+                            class="ti ti-circle-check s1-color fs-four"></i>Driver’s Licence.
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Conduct due diligence checks to ensure
-                        compliance with regulatory requirements and prevent fraud.
+                            class="ti ti-circle-check s1-color fs-four"></i>National ID card.
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Validate the residential address of
-                        customers by cross-referencing their identification documents with bank statements, or other
-                        official documents.
+                            class="ti ti-circle-check s1-color fs-four"></i>Proof of age card.
                     </li>
                     <li class="d-flex align-items-center gap-3 fs-six-up"><i
-                            class="ti ti-circle-check s1-color fs-four"></i>Screen customers against global watchlists
-                        and sanctions databases to ensure they are not involved in any illegal activities.
+                            class="ti ti-circle-check s1-color fs-four"></i>Birth certificate (as a secondary ID only).
                     </li>
-                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                    <!-- <li class="d-flex align-items-center gap-3 fs-six-up"><i
                             class="ti ti-circle-check s1-color fs-four"></i>Conduct enhanced due diligence for high-risk
                         customers or transactions, which may involve gathering additional information, performing
                         background checks, or seeking approval from senior management.
+                    </li> -->
+                </ul>
+            </div>  
+            <div class="col-md-10 col-lg-6 col-xxl-5"  style="margin-top:45px;">
+            <ul class="d-flex gap-4 flex-column mt-6">
+                <h3 class="mb-4 mb-lg-5" >Evidence of Address</h3>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>Utility bill (phone, electricity, gas, or water) within the last six months.
                     </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>Bank or credit card statement dated within the last six months.
+                    </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>Rental agreement or lease with your name and current address.
+                    </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>Official government correspondence (tax document, benefits letter, etc.) dated within the last six months.
+                    </li>
+                    <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>Please note that a PO box is not acceptable.
+
+                    </li>
+                    <!-- <li class="d-flex align-items-center gap-3 fs-six-up"><i
+                            class="ti ti-circle-check s1-color fs-four"></i>Conduct enhanced due diligence for high-risk
+                        customers or transactions, which may involve gathering additional information, performing
+                        background checks, or seeking approval from senior management.
+                    </li> -->
                 </ul>
             </div>
-            <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
-                <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/KYC checks.png" alt="Forex KYC Checks ">
-                </div>
-            </div>
         </div>
+    </div>
 </section>
-<section class="company-story position-relative z-0  pt-120 pb-120 ">
+
+<!-- <section class="company-story position-relative z-0  pt-120 pb-120 ">
     <div class="animation position-absolute w-100 h-100 z-n1">
         <img src="assets/images/star3.png" alt="null"
             class="position-absolute top-0 end-0 pt-10 pe-20 me-20 d-none d-xxl-flex previewSkew">
@@ -210,15 +231,15 @@
                 office staff. Please refer to the list below for the required paperwork.</p>
         </div>
     </div>
-</section>
+</section> -->
 <section class="provide-world a2-bg pt-120 pb-120  position-relative z-0">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-lg-8 col-xxl-6">
+            <div class="col-lg-8 col-xxl-10">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h2>Documents Required</h2>
+                    <h2>How To Take Pictures of or Scanning ID Documents</h2>
                     <br>
-                    <h4>Kindly provide a copy of ONE of the following papers proving your identity:</h4>
+                    <!-- <h4>Kindly provide a copy of ONE of the following papers proving your identity:</h4> -->
                 </div>
             </div>
         </div>
@@ -231,12 +252,13 @@
                         <img src="assets/images/icon/file.png" alt="null">
                     </span>
 <br>
-                    <p>Passport (must to be valid right now)</p>
+                    <p>The ID card should be flat</p>
                     <hr>
-                    <p>a current driver's license
+                    <p>Make full use of natural lighting than using a flash.
                     </p>
                     <hr>
-                    <p> Authentic Proof of Age card.</p>
+                    <p>Take a picture as close to the ID as you can. Make sure your ID is not covered by your shadow.
+                    </p>
                     <br>
                     <br>
                 </div>
@@ -247,17 +269,19 @@
                         <img src="assets/images/icon/bill.png" alt="null">
                     </span>
                     <br>
-                    <p> Utility Bill (Phone, Electricity, Gas) id doc arrow ico</p>
+                    <p> Verify that:</p>
                     <hr>
-                    <p> Statement from a bank or credit card </p>
+                    <p>Your ID's four corners are visible in the picture</p>
                     <hr>
-                    <p>Tax Document Issued by the Government
+                    <p>There are no hiding or covering features on the ID; all information is visible and readable.
                     </p>
                 </div>
             </div>
             <div class="col-md-6 col-xxl-3">
             </div>
+            
         </div>
+        
     </div>
 </section>
 <section class="provide-world  pt-120 pb-120  position-relative z-0">
@@ -330,7 +354,7 @@
         </div>
     </div>
 </section>
-<section class="  pt-120 pb-120  position-relative z-0">
+<!-- <section class="  pt-120 pb-120  position-relative z-0">
 <div class="container">
     <div class="row gy-15 gy-lg-0 justify-content-center align-items-center">
         <div class="col-sm-10 col-lg-6 col-xxl-12">
@@ -414,5 +438,5 @@
         </div>
     </div>
 </div>
-</section>
+</section> -->
 <?php include("includes/footer.php"); ?>
