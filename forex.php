@@ -115,12 +115,10 @@
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
                     <h2 class="mb-4 mb-lg-5" style="font-size:35px;">Commodities:</h2>
-                    <p class="mx-ch">Commodity trading involves buying and selling various instruments like oil,
-                         gold, silver, sugar, wheat, and coffee. Traders speculate on the future value of these 
-                         commodities by either buying (going long) or selling (going short) based on their price 
-                         predictions. Factors like supply and demand, geopolitical tensions, weather, and natural 
-                         disasters greatly impact commodity prices. TradersEra offers futures trading on a wide 
-                         range of commodities worldwide. Join us now to start commodity trading and access numerous benefits.</p>
+                    <p class="mx-ch">Commodity trading involves buying and selling various instruments like oil, gold, 
+                        silver, sugar, wheat, and coffee based on price predictions. Factors like supply and demand, 
+                        geopolitical tensions, weather, and natural disasters affect commodity prices. TradersEra offers 
+                        futures trading for a range of commodities worldwide. Join now to start trading and enjoy the benefits</p>
                 </div>
                 
             </div>
@@ -152,15 +150,12 @@
                     </h2>
                     <!-- <h3 class="mb-4 mb-lg-5">An Introducing Broker
                     </h3> -->
-                    <p>Cryptocurrencies, or Cryptos, are digital currencies that are unique and popular. 
-                        They have been growing rapidly and are revolutionizing the financial industry. 
-                        Their lack of physical form and decentralized nature make them ideal for trading. 
-                        Cryptos often have the highest trading volume on exchanges. When trading derivatives 
-                        on cryptos, such as Bitcoin, the price is typically quoted against the US dollar. 
-                        This means you are exchanging dollars for bitcoins. Various factors can impact the 
-                        price of cryptocurrencies, including supply and demand, regulations, news, media, 
-                        and price speculation. At TradersEra, we provide the opportunity to trade derivatives 
-                        on popular cryptos with 24-hour trading, allowing you to trade on both rising and falling prices.</p>
+                    <p>Cryptocurrencies, or Cryptos, are digital assets gaining popularity for their unique characteristics. 
+                        They are reshaping the financial sector with their decentralized nature, making them ideal for trading. 
+                        Cryptos, especially Bitcoin, dominate trading volumes on exchanges. Factors like supply and demand, 
+                        regulations, news, and price speculation can influence their value. At TradersEra, we offer the 
+                        opportunity to trade derivatives on top cryptos 24/7, allowing you to profit from price movements.
+                    </p>
                 </div>
             </div>
         </div>
@@ -209,12 +204,11 @@ spreads and fast order execution.
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
                     <h2 class="mb-4 mb-lg-5" style="font-size:35px;">Stocks:</h2>
-                    <p class="mx-ch">Engaging in stock trading involves purchasing and selling a company's shares in order to generate profits.
-                         By acquiring shares of a company, you obtain a legal ownership stake in that company, and the worth of your investment
-                          will change in accordance with the company's share prices. Traders rely on a range of information sources such as 
-                          company earnings, company announcements, and technical analysis to make well-informed decisions about which shares 
-                          to purchase and when.<br><br>
-In stock trading, there are no restrictions on the duration for which you can retain your shares, and you have the freedom to sell them whenever you choose.
+                    <p class="mx-ch">Stock trading involves buying and selling company shares to make money. When you buy shares, 
+                        you own part of the company and your investment value changes with the share prices.
+Traders use various sources like company earnings, announcements, and analysis to decide which shares to buy. 
+ In stock trading, you can hold onto your shares for as long as you want and sell them whenever you like.
+
 </p>
                 </div>
                 
