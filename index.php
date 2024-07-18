@@ -1195,8 +1195,8 @@
     <div class="animation vector position-absolute top-0 left-0 w-100 h-100 z-n1">
         <img src="assets/images/cross.png" alt="cross"
             class="position-absolute push_animat ms-lg-20 ps-4 top-0 pt-120 mt-20 start-0 d-none d-xxxl-flex">
-        <!-- <img src="assets/images/star.png" alt="star"
-            class="position-absolute push_animat end-0 top-0 mt-20 pt-xl-15 me-xl-20 pe-10 d-none d-md-flex"> -->
+        <img src="assets/images/star.png" alt="star"
+            class="position-absolute push_animat end-0 top-0 mt-20 pt-xl-15 me-xl-20 pe-10 d-none d-md-flex">
         <img src="assets/images/vector2.png" alt="vector2"
             class="position-absolute bottom-0 start-0 d-none d-xxxl-flex">
         <img src="assets/images/vector_rocket2.png" alt="vector_rocket2"
