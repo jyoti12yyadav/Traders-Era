@@ -380,7 +380,7 @@
             </div>
             <div class="col-8 col-sm-7 col-lg-6 col-xxl-5">
                 <div class="worldwide_thumb d-flex ms-lg-15 ms-xl-0">
-                    <img src="assets/images/trade anyware home page.png" class="max-xl-un"
+                    <img src="assets/images/trade anywhere home page.png" class="max-xl-un"
                         alt="TradersEra Trading app ">
                 </div>
             </div>
