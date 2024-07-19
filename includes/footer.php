@@ -144,23 +144,26 @@
                     <h4 class="mb-6 mb-lg-8">Products</h4>
                     <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
                         <li>
-                            <a class="n2-color" href="crypto.php">Crypto CFD</a>
+                            <a class="n2-color" href="crypto-cfd.php">Crypto-CFD</a>
                         </li>
                         <li>
-                            <a class="n2-color" href="indices.php">Fx CFDs</a>
+                            <a class="n2-color" href="fx-cfd.php">Fx-CFDs</a>
                         </li>
                         <li>
-                            <a class="n2-color" href="crypto-cfd.php">Commodity</a>
+                            <a class="n2-color" href="forex.php">Forex</a>
+                        </li>
+                        <li>
+                            <a class="n2-color" href="commodity.php">Commodity</a>
                         </li>
                         <li>
                             <a class="n2-color" href="stocks.php">Stocks</a>
                         </li>
                         
                         <li>
-                            <a class="n2-color" href="forex.php">Indices</a>
+                            <a class="n2-color" href="indices.php">Indices</a>
                         </li>
                         <li>
-                            <a class="n2-color" href="commodity.php">Crypto</a>
+                            <a class="n2-color" href="crypto.php">Crypto</a>
                         </li>
                         
                     </ul>
