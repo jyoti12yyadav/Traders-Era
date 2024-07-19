@@ -220,6 +220,7 @@
                                 <li><a class="dropdown-item" href="our-servers.php">Our Servers</a></li>
                                 <li><a class="dropdown-item" href="ID-verification.php">ID Verification</a></li>
                                 <li><a class="dropdown-item" href="contact-us.php">Contact Us</a></li>
+                                <li><a class="dropdown-item" href="faq.php">FAQs</a></li>
 
                             </ul>
                         </li>
