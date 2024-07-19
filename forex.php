@@ -89,7 +89,7 @@
             </div>
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
-                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;">Forex:
+                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;">Forex
 
                     </h2>
                     <!-- <h3 class="mb-4 mb-lg-5">An Introducing Broker
@@ -114,7 +114,7 @@
 
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
-                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;">Commodities:</h2>
+                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;">Commodities</h2>
                     <p class="mx-ch">Commodity trading involves buying and selling various instruments like oil, gold, 
                         silver, sugar, wheat, and coffee based on price predictions. Factors like supply and demand, 
                         geopolitical tensions, weather, and natural disasters affect commodity prices. TradersEra offers 
@@ -144,7 +144,7 @@
             </div>
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
-                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;">Crypto:
+                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;">Crypto
 
 
                     </h2>
@@ -175,7 +175,7 @@
             </div>
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
-                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;">Indices:
+                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;">Indices
 
                     </h2>
                     <!-- <h3 class="mb-4 mb-lg-5">An Introducing Broker
@@ -203,7 +203,7 @@ spreads and fast order execution.
 
             <div class="col-md-10 col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
-                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;">Stocks:</h2>
+                    <h2 class="mb-4 mb-lg-5" style="font-size:35px;">Stocks</h2>
                     <p class="mx-ch">Stock trading involves buying and selling company shares to make money. When you buy shares, 
                         you own part of the company and your investment value changes with the share prices.
 Traders use various sources like company earnings, announcements, and analysis to decide which shares to buy. 
