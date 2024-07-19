@@ -41,7 +41,7 @@
             </div>
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/Advantages for introducing brokers.png"
+                    <img src="assets/images/Market Forecast.png"
                         alt="TradersEra's Global markets, liquidity, low spreads, swap-free">
                 </div>
             </div>
@@ -59,7 +59,7 @@
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/How To Take Pictures of or Scanning ID Documents.png" alt="How To Take Pictures of or Scanning ID Documents ">
+                    <img src="assets/images/Benefits of Market Forecasting.png" alt="How To Take Pictures of or Scanning ID Documents ">
                 </div>
             </div>
             <div class="col-md-10 col-lg-6 col-xxl-5">
@@ -111,7 +111,7 @@
    
     <div class="container">
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
-        <h2 class="d-flex justify-content-center" style="margin-bottom: 10px;">Market Forecast</h2>
+        <h2 class="d-flex justify-content-center mb-6" style="margin-bottom: 10px;">Market Forecast</h2>
         <!DOCTYPE html>
 <html lang="en">
 <head>

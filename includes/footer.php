@@ -266,12 +266,13 @@
                                             Afghanistan, Saint Vincent and the Grenadines.
                                         </p>
                                     </div>
-                                    <hr>
                                     <div class="privacy-policy__part">
-                                    <h3 class="text-center ">Authorised Domains</h3>
-                                    <p class="mt-4 mb-5" style="font-size: 15px;">TradersEra operates these two domains. <a href="www.tradersera.com" target="_blank">www.tradersera.com</a> and <a href="www.tradersera.xyz " target="_blank">www.tradersera.xyz</a> for Technical & Web Purposes. Clients are requested to only trust and use these two domains/emails.
-                                    </p>
+                                        <h6 class="mb-4">Authorised Domains:</h6>
+                                        <p class="mt-4 mb-5" style="font-size: 15px;">TradersEra operates these two domains. <a href="www.tradersera.com" target="_blank">www.tradersera.com</a> and <a href="www.tradersera.xyz " target="_blank">www.tradersera.xyz</a> for Technical & Web Purposes. Clients are requested to only trust and use these two domains/emails.
+                                        </p>
+                                        
                                     </div>
+                                    
                                 </div>
                             </div>
                         </div>
