@@ -38,10 +38,10 @@
             <div class="col-lg-8 col-xxl-12">
                 <!-- TradingView Widget BEGIN -->
                 <h2 class="d-flex justify-content-center" style="margin-bottom: 10px;">Stay Ahead with TradersEra's
-                    Economic Calendar</h2>
-               <center> <h3 class="fs-six-up  mx-auto">Maximize Your Forex Trading Potential with Real-Time Market Insights
-                </h3></center>
-                <br><br>
+                    Economic Calendar</h2><br>
+               <h3 class="fs-six-up  mx-auto text-center">Maximize Your Forex Trading Potential with Real-Time Market Insights
+                </h3>
+                <br><br><br>
                 <section class="privacy-policy ">
                     <div class="container">
                         <div class="row justify-content-center">

@@ -267,13 +267,13 @@ switch ($menuactive) {
         $alternateName="50% Bonus";
         $url="";
         break;
-    case 'learn.php':
+    case 'learn-trading.php':
         $title = "MT5 | Cryptocurrency Trading Learn | Forex Info";
         $description = "Learn more about Forex and Cryptocurrency Trading with TradersEra MT5 and UTIP. Start your journey to success today!";
         $keywords = "Forex Trading Learn, Learn More Forex, Learn, Learn TradersEra, Learn MT5, Learn Forex, Learn Forex Trading, Learn FX trading, Cryptocurrency Trading, CFD trading account, Online Forex Trading, AI Forex Trading, AI Forex Tools, introducing broker, Forex IB, IB Program ";
         $name="Learn";
         $alternateName="Learn";
-        $url="https://tradersera.com/learn.php";
+        $url="https://tradersera.com/learn-trading.php";
         break;
     case 'IB-partner.php':
         $title = " IB Partner | Become an IB | Forex IB Program ";

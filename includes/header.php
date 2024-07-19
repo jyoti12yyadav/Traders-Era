@@ -195,7 +195,7 @@
                                 <li><a class="dropdown-item" href="market-forecast.php">Market Forecast</a></li>
                                 <!-- <li><a class="dropdown-item" href="news-research.php">News & Research</a></li> -->
                                 <li><a class="dropdown-item" href="glossary.php">Glossary</a></li>
-                                <li><a class="dropdown-item " href="learn.php">Learn Trading</a></li>
+                                <li><a class="dropdown-item " href="learn-trading.php">Learn Trading</a></li>
                                 <li><a class="dropdown-item " href="interest-rate.php">Interest Rates</a></li>
                                 <!-- <li><a class="dropdown-item" href="faq.php">FAQ</a></li> -->
                             </ul>
