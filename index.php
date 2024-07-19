@@ -416,9 +416,8 @@
                                     <p class="fs-six-up fw_500 nb4-xxl-color"> Polish your Trading skills with Zero Risk Demo Accounts.</p>
                                         <div class="d-flex mt-8">
                                       
-                                            <img  class="mx-4" src="images\icon\logo UTIP logo black white baground.png" alt="openai" style="height: 40px;">
+                                            <img  class="mx-4" src="images\icon\logo UTIP logo black white baground.png" alt="openai" style="height: 35px;">
                                             <!-- <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png" alt="Equinix_logo" style="height: 40px;"> -->
-                                            <a href=""><img style=" border-radius:17px;  height:40px;" src="assets/images/_download APK.png"></a>
                                         </div>
                                        
                                     <div
@@ -436,10 +435,10 @@
                         </div>
                         <div class="col-sm-10 col-lg-6 col-xxl-5">
                             <div class="hero-section__thumbs pb-xxl-10">
-                                <img src="assets/images/banner 1.png" class="max-auto max-xxl-un" alt="banner one">
+                                <img src="assets/images/f banner.png" class="max-auto max-xxl-un" alt="banner one">
+                                <img src="assets/images/banner 1 resize.png" class="logo small_logo d-sm-none" alt="logo">
                             </div>
                         </div>
-
                     </div>
                 </div>
             </div>
@@ -451,9 +450,11 @@
                 <div class="container">
                     <div
                         class="row pt-4 pt-lg-10 gy-12 gy-lg-0 justify-content-center justify-content-lg-between align-items-center row-reverse">
-                        <div class="col-sm-10 col-lg-6 col-xxl-5">
+                        <div class="col-sm-12 col-md-8 col-lg-6 col-xxl-5"> 
+                            
                             <div class="hero-section__thumbs hero-section-2 pb-xxl-10">
                                 <img src="assets\images\banner-2.png" class="max-auto max-xxl-un" alt="banner two">
+                                <img src="assets\images\banner 2  Resize.png" class="logo small_logo d-sm-none" alt="logo">
                             </div>
                         </div>
                         <div class="col-lg-6 col-xxl-7">
@@ -492,13 +493,34 @@
                                 </div>
                             </div>
                         </div>
-
-
                     </div>
                 </div>
             </div>
         </div>
     </div>
+<style>
+    @media (max-width: 576px) {
+    .hero-section__thumbs img {
+        width: 100%; /* Ensure image fills its container */
+        height: auto; /* Maintain aspect ratio */
+        display: block; /* Ensure image behaves as a block element */
+        /* Add some spacing between the images if needed */
+    }
+}
+@media (max-width: 576px) {
+    .hero-section-2 img {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+}
+.hero-section__thumbs img {
+    max-width: 100%; /* Ensure image fills its container */
+    height: auto; /* Maintain aspect ratio */
+}
+
+
+</style>
 </div><!-- End // .slider -->
 
 
@@ -581,7 +603,14 @@
     </div>
 </div>
 
+<style>
+    @media (max-width: 576px) {
+    .client_company_section {
+        margin-top: 30px; /* Adjust this value as needed */
+    }
+}
 
+</style>
 
 <!--Trade On start-->
 <section class="pt-120 pb-120" style="background-color: #000;">
@@ -607,8 +636,7 @@
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
                                         <h3 class="">Multiple Asset Trading</h3>
-                                        <span>Multiple options of trading like Forex, Crypto, Stocks, Indices and commodities. 
-                                        </span>
+                                        <span>Multiple options of trading like Forex, Crypto</span>
                                     </div>
                                 </div>
                             </div>
@@ -623,8 +651,7 @@
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
                                         <h3 class="">Multiple Funding</h3>
-                                        <span>Local and international funding option for better trading.
-                                        </span>
+                                        <span>Customized funding to your needs & your investment journey.</span>
                                     </div>
                                 </div>
                             </div>
@@ -638,9 +665,8 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">Free Market Forecast</h3>
-                                        <span>Learn and understand market better without free market forecast. 
-                                        </span>
+                                        <h3 class="">Regulated & Established Broker</h3>
+                                        <span>Trading services with a regulated and established broker</span>
                                     </div>
                                 </div>
                             </div>
@@ -659,7 +685,7 @@
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
                                         <h3 class="">Web Platform</h3>
-                                        <span>No download, trade with anywhere on any device.</span>
+                                        <span>Our web-based platform supports all operating systems</span>
                                     </div>
                                 </div>
                             </div>
@@ -674,8 +700,7 @@
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
                                         <h3 class="">Trade with Top Platform</h3>
-                                        <span>Trading using simple options on several platforms like MT5 & UTIP.
-                                        </span>
+                                        <span>Trading using simple options on several platforms like MT5 & UTIP</span>
                                     </div>
                                 </div>
                             </div>
@@ -689,8 +714,8 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">24/5 Customer Support</h3>
-                                        <span>Team available for all your trading support.</span>
+                                        <h3 class="">24/7 Customer Support</h3>
+                                        <span>Raise a Ticket and resolve the problem real quick</span>
                                     </div>
                                 </div>
                             </div>
