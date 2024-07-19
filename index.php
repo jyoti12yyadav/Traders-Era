@@ -468,7 +468,7 @@
                                         style="transform: scaleX(-1);">Empower Your
                                         Trades</span>
                                     <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6" style="transform: scaleX(-1);">
-                                    Range of Markets, with Safety & Service Quality.
+                                    Range of Markets, with Safety & Service Quality
 
                                     </h1>
                                     <p class="fs-six-up fw_500 nb4-xxl-color" style="transform: scaleX(-1);">Trade smarter with personalised support & market insights.</p>
