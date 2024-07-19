@@ -42,11 +42,11 @@
     <div class="container mt-10 mt-lg-0 pt-15 pt-lg-20 pb-5 pb-lg-0">
         <div class="row">
             <div class="col-12 breadcrumb-area ">
-                <h2 class="mb-4">Learn</h2>
+                <h2 class="mb-4">Learn Trading</h2>
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb mb-0">
                         <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                        <li class="breadcrumb-item ms-2 ps-7 active" aria-current="page"><span>Learn</span></li>
+                        <li class="breadcrumb-item ms-2 ps-7 active" aria-current="page"><span>Learn Trading</span></li>
                     </ol>
                 </nav>
             </div>
@@ -81,7 +81,7 @@
                             <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-lg-10 px-4 px-lg-9">
                             <p>Forex trading, also known as foreign exchange or FX trading, is the conversion of one currency into another.</p>
 <br>
-                            <a href="learn-forex.php" class="cmn-btn secondary-alt ms-auto fs-five nb4-xxl-bg gap-2 align-items-center  py-2 px-4 py-lg-3 px-lg-5" style="--top: 48.109375px; --left: 114.5625px;">Learn More<i class="ti ti-arrow-right fs-four"></i></a>
+                            <a href="learn-forex.php" class="cmn-btn secondary-alt ms-auto fs-five nb4-xxl-bg gap-2 align-items-center  py-2 px-4 py-lg-3 px-lg-5" target="blank" style="--top: 48.109375px; --left: 114.5625px;">Learn More<i class="ti ti-arrow-right fs-four"></i></a>
                             </div>
                         </div> 
                         <div class="col-xxl-12 mt-8 mt-md-10 mt-xxl-13">
@@ -103,7 +103,7 @@
                             <div class="provide-world__card nb3-bg text-center cus-rounded-1 py-lg-10 px-4 px-lg-9">
                                 <p>Cryptocurrency trading involves speculating on price movements via a CFD trading account, or buying and selling the underlying coins via an exchange.</p>
 <br>
-                            <a href="learn-crypto.php" class="cmn-btn secondary-alt ms-auto fs-five nb4-xxl-bg gap-2 align-items-center  py-2 px-4 py-lg-3 px-lg-5" style="--top: 48.109375px; --left: 114.5625px;">Learn More<i class="ti ti-arrow-right fs-four"></i></a>
+                            <a href="learn-crypto.php" class="cmn-btn secondary-alt ms-auto fs-five nb4-xxl-bg gap-2 align-items-center  py-2 px-4 py-lg-3 px-lg-5" target="blank" style="--top: 48.109375px; --left: 114.5625px;">Learn More<i class="ti ti-arrow-right fs-four"></i></a>
                             </div>
                         </div>  
                     </div>  
@@ -145,7 +145,7 @@
                             <div class="provide-world__card text-start cus-rounded-1 py-5 px-4 px-lg-9">
                                <h2 class="mt-5 mb-5 offers-title">What are options and how do they work?</h2>
                                <hr>
-                               <a href="UTIP-info.php" class="cmn-btn secondary-alt ms-auto fs-five nb4-xxl-bg gap-2 align-items-center  py-2 px-4 py-lg-3 px-lg-5" style="--top: 48.109375px; --left: 114.5625px;">Learn More<i class="ti ti-arrow-right fs-four"></i></a>
+                               <a href="UTIP-info.php" class="cmn-btn secondary-alt ms-auto fs-five nb4-xxl-bg gap-2 align-items-center  py-2 px-4 py-lg-3 px-lg-5" target="blank" style="--top: 48.109375px; --left: 114.5625px;">Learn More<i class="ti ti-arrow-right fs-four"></i></a>
                             </div>
                         </div> 
                     </div>  

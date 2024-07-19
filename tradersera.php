@@ -48,7 +48,7 @@
                     <br>
                 </div>
                 <a href="https://private.tradersera.xyz/signup" class="cmn-btn fs-five nb4-xxl-bg align-items-center py-3 px-6 py-lg-3 px-lg-8"
-                    style="--top: 26px; --left: 113.203125px;">Open An Account</a>
+                target="blank" style="--top: 26px; --left: 113.203125px;">Open An Account</a>
             </div>
         </div>
     </div>
@@ -137,7 +137,7 @@
                     </ul>
                     <br>
                     <a href="https://private.tradersera.xyz/signup" class="cmn-btn fs-five nb4-xxl-bg align-items-center py-3 px-6 py-lg-3 px-lg-8"
-                        style="--top: 26px; --left: 113.203125px;">Open An Account</a>
+                    target="blank" style="--top: 26px; --left: 113.203125px;">Open An Account</a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-6">
@@ -180,7 +180,7 @@
                         pleasant experience, for all.Start your trading journey with TradersEra!</p>
                     <div class="col-12 mt-10 mt-lg-15  d-flex ">
                         <a href="https://trading.tradersera.com/register" class="cmn-btn fs-five nb4-xxl-bg align-items-center py-3 px-6 py-lg-3 px-lg-8"
-                            style="--top: 26px; --left: 113.203125px;">Sign Up Now</a>
+                        target="blank" style="--top: 26px; --left: 113.203125px;">Sign Up Now</a>
                     </div>
                 </div>
             </div>

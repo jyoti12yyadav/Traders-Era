@@ -421,7 +421,7 @@
                                        
                                     <div
                                         class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8 mt-lg-10" >
-                                        <a href="https://private.tradersera.xyz/signup"
+                                        <a href="https://private.tradersera.xyz/signup" target= "blank"
                                             class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6">Start
                                             Trading <i class="ti ti-trending-up"></i></a>
                                         <a href="https://private.tradersera.xyz/signup"
@@ -477,7 +477,7 @@
                                     <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8
                                         mt-lg-10" style="margin-left: 75px;">
                                         <a href="https://private.tradersera.xyz/signup"
-                                            class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6"
+                                            class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6" target= "blank"
                                             style="transform: scaleX(-1);">Start
                                             Trading <i class="ti ti-trending-up"></i></a>
                                         <a href="https://private.tradersera.xyz/signup"
@@ -875,7 +875,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-12 col-xxl-10">
                 <div class="heading__content mb-10 mb-lg-15 text-center">
-                    <h2 class="mb-5 mb-lg-6">Open an account in 4 simple steps</h2>
+                    <h2 class="mb-5 mb-lg-6" >Open an account in 4 simple steps</h2>
                 </div>
             </div>
         </div>
@@ -935,9 +935,9 @@
                         <p class="fs-six-up fw_500 mt-5">Trade & Learn Risk Free with our Free DEMO Account on UTIP Platform.
                         </p>
                     </div>
-                    <div class="col-sm-4 text-sm-end">
+                    <div class="col-sm-4 text-sm-end" >
                         <a href="https://private.tradersera.xyz/signup"
-                            class="cmn-btn secondary-alt ms-auto fs-five nb4-xxl-bg gap-2 align-items-center  py-2 px-4 py-lg-3 px-lg-5">Open
+                            class="cmn-btn secondary-alt ms-auto fs-five nb4-xxl-bg gap-2 align-items-center  py-2 px-4 py-lg-3 px-lg-5" target= "blank">Open
                             An
                             Account <i class="ti ti-arrow-right fs-four"></i></a>
                     </div>
