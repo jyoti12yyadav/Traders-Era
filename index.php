@@ -454,7 +454,7 @@
                             
                             <div class="hero-section__thumbs hero-section-2 pb-xxl-10">
                                 <img src="assets\images\banner-2.png" class="max-auto max-xxl-un" alt="banner two">
-                                <img src="assets\images\banner 2  Resize.png" class="logo small_logo d-sm-none" alt="logo">
+                                <img src="assets\images\banner 2  Resize new.png" class="logo small_logo d-sm-none" alt="logo">
                             </div>
                         </div>
                         <div class="col-lg-6 col-xxl-7">
