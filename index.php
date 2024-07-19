@@ -714,7 +714,7 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">24/7 Customer Support</h3>
+                                        <h3 class="">24/5 Customer Support</h3>
                                         <span>Raise a Ticket and resolve the problem real quick</span>
                                     </div>
                                 </div>
