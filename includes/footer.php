@@ -131,21 +131,6 @@
                             <a class="n2-color" href="fx-cfd.php">Fx CFDs</a>
                         </li>
                         <li>
-                            <a class="dropdown-item" href="forex.php">Forex</a>
-                        </li>
-                        <li>
-                            <a class="dropdown-item" href="commodity.php">Commodity </a>
-                        </li>
-                        <li>
-                            <a class="dropdown-item" href="crypto.php">Crypto</a>
-                        </li>
-                        <li>
-                            <a class="dropdown-item" href="indices.php">Indices</a>
-                        </li>
-                        <li>
-                            <a class="dropdown-item" href="stocks.php">Stocks </a>
-                        </li>
-                        <li>
                             <a class="n2-color" href="crypto-cfd.php">Crypto CFD</a>
                         </li>
 
