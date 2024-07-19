@@ -335,8 +335,7 @@
                                 </li>
                                 <li><img style=" border-radius:17px;  height:43px;"
                                         src="assets/images/_google play store.png"></li>
-                                <li><img style=" border-radius:17px;  height:45px;"
-                                        src="assets/images/_download APK.png"></li>
+                                <li><img style=" border-radius:17px;  height:45px;" src="assets/images/_download APK.png"></li>
                             </ul>
                             <ul class="social-area d-center gap-2 gap-md-3">
                                 <li><a class="d-center cus-rounded-1 fs-four" href="https://www.facebook.com/TradersEra"><i
@@ -358,6 +357,8 @@
                     </div>
                 </div>
             </div>
+
+            
 </footer>
 <!-- Footer Section Ends -->
 <!-- ==== js dependencies start ==== -->
