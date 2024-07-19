@@ -298,7 +298,7 @@
 
 
 </style>
-<section class="privacy-policy">
+<section class="privacy-policy" style= "margin-bottom:100px;">
     <div class="container"  >
         <div class="row justify-content-center" >
             <div class="col-lg-10 col-xxl-10" >
@@ -306,71 +306,23 @@
                     <h2 class="text-center mb-10 mb-lg-15">Terms & conditions</h2>
                     <div class="privacy-policy__card d-flex flex-column gap-8 gap-lg-10">
                         <div class="privacy-policy__part">
-                            <h5 class="mb-4">TradersEra Terms and Conditions</h5>
+                            <!-- <h5 class="mb-4">TradersEra Terms and Conditions</h5>
                             <p class="mt-3">Welcome to TradersEra! These Terms and Conditions govern your use of our
                                 website and services. By accessing or using our website or services, you agree to be
-                                bound by these Terms and Conditions. Please read them carefully.</p>
+                                bound by these Terms and Conditions. Please read them carefully.</p> -->
                         </div>
                         <div class="privacy-policy__part">
-                            <h5 class="mb-4">1. Account Registration: </h5>
-                            <p class="mt-4 mb-5">To access certain features of our website or services, you may be
-                                required to register for an account. You agree to provide accurate, current, and
-                                complete information during the registration process and to update such information to
-                                keep it accurate, current, and complete. You are responsible for maintaining the
-                                confidentiality of your account credentials and for all activities that occur under your
-                                account.</p>
+                            <h6 class="mb-4">1.The promotion will be available from March 1st to December 31st, 2024.</h5>
+                            <h6 class="mb-4">2.Clients can receive a maximum total bonus of $500.</h5>
+                            <h6 class="mb-4">3.The welcome promotion is applicable to new customers.</h5>
+                            <h6 class="mb-4">4.The Tradable Bonus is valid for deposits exceeding $50.</h5>
+                            <h6 class="mb-4">5.New customers can enjoy a 50% bonus on their initial deposit, with a maximum deposit limit of $1000.<br> Which ever is Higher</h5>
+                            <h6 class="mb-4">6.Please email back office at TradersEra.com once you make Deposit to avail Bonus.</h5>
+                            <h6 class="mb-4">7.New clients can only receive this bonus on their first deposit made within the promotional period.</h5>
+                            <h6 class="mb-4">8.Every fresh customer is eligible for the 50% welcome bonus deal one time.</h5>
+                           
                         </div>
-                        <div class="privacy-policy__part">
-                            <h5 class="mb-4">2. Eligibility: </h5>
-                            <p class="mt-3">You must be at least 18 years old to use our website or services. By using
-                                our website or services, you represent and warrant that you are at least 18 years old
-                                and have the legal capacity to enter into these Terms and Conditions.
-                            </p>
-                        </div>
-                        <div class="privacy-policy__part">
-                            <h5 class="mb-4">3. Compliance with Laws:</h5>
-                            <p>You agree to comply with all applicable laws, rules, and regulations governing your use
-                                of our website and services. You are solely responsible for ensuring that your use of
-                                our website and services is in compliance with such laws, rules, and regulations.
-                            </p>
-                        </div>
-                        <div class="privacy-policy__part">
-                            <h5 class="mb-4">4. Intellectual Property:</h5>
-                            <p>To the fullest extent permitted by applicable law, TradersEra shall not be liable for any
-                                indirect, incidental, special, consequential, or punitive damages, or any loss of
-                                profits or revenues, whether incurred directly or indirectly, arising out of your use of
-                                our website or services.
-                            </p>
-                        </div>
-                        <div class="privacy-policy__part">
-                            <h5 class="mb-4">5. Limitation of Liability: </h5>
-                            <p>All content on our website, including but not limited to text, graphics, logos, images,
-                                and software, is the property of TradersEra or its licensors and is protected by
-                                copyright, trademark, and other intellectual property laws. You may not reproduce,
-                                distribute, modify, or create derivative works of such content without our prior written
-                                consent.
-                            </p>
-                        </div>
-                        <div class="privacy-policy__part">
-                            <h5 class="mb-4">6. Termination: </h5>
-                            <p>We reserve the right to terminate or suspend your access to our website or services at
-                                any time, for any reason, without prior notice or liability. Upon termination or
-                                suspension, your right to use our website and services will immediately cease.
-                            </p>
-                        </div>
-                        <div class="privacy-policy__part">
-                            <h5 class="mb-4">7. Changes to Terms and Conditions:
-                            </h5>
-                            <p>We reserve the right to modify or update these Terms and Conditions at any time, without
-                                prior notice, by posting the revised Terms and Conditions on our website. Your continued
-                                use of our website or services after any such changes constitutes your acceptance of the
-                                revised Terms and Conditions.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+                        
     </div>
 </section>
 <?php include("includes/footer.php"); ?>
