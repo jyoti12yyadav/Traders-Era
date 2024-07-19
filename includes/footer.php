@@ -65,7 +65,7 @@
             <div class="col-6 col-lg-3">
                 <div class="footer__part">
                     <a href="index.html" class="navbar-brand m-0 p-0 d-flex align-items-center gap-5 gap-xl-5 me-2">
-                        <img src="assets/images/fav.png" class="logo small_logo d-sm-none" alt="logo">
+                        <img src="assets/images/logo.png" class="logo small_logo d-sm-none" alt="logo">
                         <img src="assets/images/logo.png" class="logo d-none d-sm-flex" alt="logo">
                     </a>
                     <p>Your all-in-one online platform for Forex trading. With our user interface and wide
