@@ -84,7 +84,7 @@
                 </div>
             </div>
 
-            <div class="col-6 col-lg-2" style="margin-left:100px;">
+            <div class="col-6 col-lg-2" >
                 <div class="footer__part">
                     <h4 class="mb-6 mb-lg-8">Trading</h4>
                     <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
@@ -97,6 +97,7 @@
                         <li>
                             <a class="dropdown-item" href="market-forecast.php">Market Forecast</a>
                         </li>
+                        <h4 class="mb-6 mb-lg-8" href="https://tradersera.com/blogs">Blogs</h4>
                         <!-- <li>
                             <a class="dropdown-item" href="refer-a-friend.php">Refer a Friend</a>
                         </li>
@@ -111,8 +112,10 @@
                         </li> -->
                     </ul>
                     <br>
-                    <h4 class="mb-6 mb-lg-8 mt-4">Products</h4>
-                    <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4 mb-4">
+                    <!-- <h4 class="mb-6 mb-lg-8">Products</h4>
+                    
+                    
+                    <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
                         <li>
                             <a class="n2-color" href="fx-cfd.php">Crypto CFD</a>
                         </li>
@@ -130,7 +133,7 @@
                         </li>
                         <li>
                             <a class="n2-color" href="crypto-cfd.php">Crypto</a>
-                        </li>
+                        </li> -->
 
                         
                     </ul>
@@ -138,32 +141,33 @@
             </div>
             <div class="col-6 col-lg-2">
                 <div class="footer__part">
-                    <!-- <h4 class="mb-6 mb-lg-8">Markets</h4>
+                    <h4 class="mb-6 mb-lg-8">Products</h4>
                     <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
                         <li>
-                            <a class="n2-color" href="crypto.php">Crypto</a>
+                            <a class="n2-color" href="crypto.php">Crypto CFD</a>
                         </li>
                         <li>
-                            <a class="n2-color" href="indices.php">Indices</a>
+                            <a class="n2-color" href="indices.php">Fx CFDs</a>
+                        </li>
+                        <li>
+                            <a class="n2-color" href="crypto-cfd.php">Commodity</a>
                         </li>
                         <li>
                             <a class="n2-color" href="stocks.php">Stocks</a>
                         </li>
+                        
                         <li>
-                            <a class="n2-color" href="forex.php">Forex</a>
+                            <a class="n2-color" href="forex.php">Indices</a>
                         </li>
                         <li>
-                            <a class="n2-color" href="commodity.php">Commodity</a>
+                            <a class="n2-color" href="commodity.php">Crypto</a>
                         </li>
-                        <li>
-                            <a class="n2-color" href="faq.php">FAQ's</a>
-                        </li>
-                    </ul> -->
-                    <!-- <br>
-                    <h4 class="mb-6 mb-lg-8 mt-4" href="https://tradersera.com/blogs">Blogs</h4> -->
+                        
+                    </ul>
+                    
                 </div>
             </div>
-            <div class="col-6 col-lg-2" style="margin-left:-180px;">
+            <div class="col-6 col-lg-2" >
                 <div class="footer__part">
                     <h4 class="mb-6 mb-lg-8">Tools</h4>
                     <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
