@@ -534,7 +534,6 @@ switch ($menuactive) {
         $alternateName="IB Agreement";
         $url="http://localhost/traders-era/IB-agreement.php";
         break;
-
     case 'Refund-policy.php':
         $title = "Refund Policy |  TradersEra Refund Policy |  Forex Refund ";
         $description = "Learn about TradersEra's  Refund options form your Registered Account. Discover how to  request a refund and enhance your trading experience today";
@@ -543,13 +542,21 @@ switch ($menuactive) {
         $alternateName="Refund Policy";
         $url="http://localhost/traders-era/Refund-policy.php";
         break;
-    case 'Refund-policy.php':
-        $title = "Refund Policy |  TradersEra Refund Policy |  Forex Refund ";
-        $description = "Learn about TradersEra's  Refund options form your Registered Account. Discover how to  request a refund and enhance your trading experience today";
-        $keywords ="Refund Policy, TradersEra Refund Policy, Forex Refund, Refund Registered Account, Refund from TradersEra, TradersEra Compliance Department, Money Refund, cancellation policy, MT5, Meta Trader 5, UTIP, UTIP Trading Platform, Trade Crypto, Forex Trading Platform, UTIP, TradingView, AWS, Equinix, MarketCheese, SSL Secured, Forex trading, forex market, CFD, FX CFD, Crypto CFD, Online trading account types, Forex Deposit, Forex Withdrawal";
-        $name="Refund Policy";
-        $alternateName="Refund Policy";
-        $url="http://localhost/traders-era/Refund-policy.php";
+    case 'market-forecast.php':
+        $title = "Forex Forecasts | Currency Forecasts | Forex Predictions";
+        $description = "Our website offers valuable Forex forecast insights to empower brokers and businesses in making informed decisions for risk management and returns.";
+        $keywords ="Forex Forecasts, Forecasts Currency Pairs, Forex Market Forecasts, Forex technical analysis, Forecast Currency Exchange, Forex indicator, Currency Forecasts, Gold Forecasts, Forex Strategy, Forex Analysis, Forex Predictions, Forex technical indicators, FX pairs, Commodities, Equities, EUR Forecast, Oil Forecast, latest financial market, UTIP, UTIP Trading Platform, Trade Crypto, Forex Trading Platform, UTIP, TradingView, AWS, Equinix, MarketCheese, SSL Secured, Forex trading, forex market, CFD, FX CFD, Crypto CFD, Online trading account types, Forex Deposit, Forex Withdrawal";
+        $name="Market Forecast";
+        $alternateName="Market Forecast";
+        $url="http://localhost/traders-era/market-forecast.php";
+        break;
+    case 'blog.php':
+        $title = "";
+        $description = "";
+        $keywords ="";
+        $name="Blog";
+        $alternateName="Blog";
+        $url="https://tradersera.com/blogs";
         break;
     default:
         $title = "Title Here";
