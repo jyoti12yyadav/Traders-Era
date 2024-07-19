@@ -228,6 +228,9 @@
                         <li>
                             <a class="n2-color" href="contact-us.php">Contact Us</a>
                         </li>
+                        <li>
+                            <a class="n2-color" href="faq.php">FAQs</a>
+                        </li>
                     </ul>
                 </div>
             </div>
