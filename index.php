@@ -499,6 +499,8 @@
         </div>
     </div>
 </div><!-- End // .slider -->
+
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <div class="client_company_section py-10 p1-bg align-items-center justify-content-center">
     <!-- Swiper -->
@@ -1199,8 +1201,8 @@
             class="position-absolute bottom-0 start-0 d-none d-xxxl-flex"> -->
         <!-- <img src="assets/images/vector_rocket2.png" alt="vector_rocket2"
             class="position-absolute d-none d-xxxl-flex bottom-0 end-0  pe-12 pb-10 fadeInTopLeft"> -->
-        <img src="assets/images/cross2.png" alt="cross2"
-            class="position-absolute push_animat ms-lg-20 ps-4 top-0 start-50 pt-120 mt-20 d-none d-xxxl-flex">
+        <!-- <img src="assets/images/cross2.png" alt="cross2"
+            class="position-absolute push_animat ms-lg-20 ps-4 top-0 start-50 pt-120 mt-20 d-none d-xxxl-flex"> -->
     </div>
     <div class="container position-relative">
         <div class="row gy-10 gy-lg-0 justify-content-center justify-content-lg-between align-items-end">
@@ -1230,7 +1232,7 @@
             </div>
             <div class="col-8 col-sm-7 col-lg-6 col-xxl-5">
                 <div class="worldwide_thumb d-flex ms-lg-15 ms-xl-0">
-                    <img src="assets/images/trade anywhere home page.png" class="max-xl-un"
+                    <img src="assets/images/trade anyware home page.png" class="max-xl-un"
                         alt="TradersEra Trading app ">
                 </div>
             </div>
