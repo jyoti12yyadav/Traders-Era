@@ -551,9 +551,9 @@ switch ($menuactive) {
         $url="http://localhost/traders-era/market-forecast.php";
         break;
     case 'blog.php':
-        $title = "";
-        $description = "";
-        $keywords ="";
+        $title = "Forex Trading Blog | TradersEra | Forex Info";
+        $description = "Stay informed about Forex Market and Trading with TradersEra Blog. Improve your trading with information and gain insights from traders and investors.";
+        $keywords ="Forex Trading Blog, Forex Blog, Forex Info, Forex Trading Tip, Profitable Trading Strategies, Forex Trading Info, TradersEra Blog, Blogs on forex trading, UTIP, UTIP Trading Platform, Trade Crypto, Forex Trading Platform, UTIP, TradingView, AWS, Equinix, MarketCheese, SSL Secured, Forex trading, forex market, CFD, FX CFD, Crypto CFD ";
         $name="Blog";
         $alternateName="Blog";
         $url="https://tradersera.com/blogs";

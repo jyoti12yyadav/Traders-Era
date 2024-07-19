@@ -435,7 +435,7 @@
                         </div>
                         <div class="col-sm-10 col-lg-6 col-xxl-5">
                             <div class="hero-section__thumbs pb-xxl-10">
-                                <img src="assets/images/f banner.png" class="max-auto max-xxl-un" alt="banner one">
+                                <img src="assets/images/banner 1.png" class="max-auto max-xxl-un" alt="banner one">
                             </div>
                         </div>
 
