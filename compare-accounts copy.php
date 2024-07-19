@@ -353,8 +353,8 @@
             class="position-absolute bottom-0 start-0 d-none d-xxxl-flex">
         <img src="assets/images/vector_rocket2.png" alt="vector_rocket2"
             class="position-absolute d-none d-xxxl-flex bottom-0 end-0  pe-12 pb-10 fadeInTopLeft">
-        <!-- <img src="assets/images/cross2.png" alt="cross2"
-            class="position-absolute push_animat ms-lg-20 ps-4 top-0 start-50 pt-120 mt-20 d-none d-xxxl-flex"> -->
+        <img src="assets/images/cross2.png" alt="cross2"
+            class="position-absolute push_animat ms-lg-20 ps-4 top-0 start-50 pt-120 mt-20 d-none d-xxxl-flex">
     </div>
     <div class="container position-relative">
         <div class="row gy-10 gy-lg-0 justify-content-center justify-content-lg-between align-items-end">
