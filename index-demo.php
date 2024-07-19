@@ -450,50 +450,91 @@
 
 
 
-            <div class="slide hero-section--secondary hero-section position-relative z-0 ">
+
+
+
+            <!-- <div class="slide hero-section--secondary hero-section position-relative z-0 ">
                 <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
                     <img src="assets/images/hero_vector.png" alt="hero_vector"
                         class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX">
                 </div>
                 <div class="container">
-                    <div class="row pt-4 pt-lg-10 gy-12 gy-lg-0 justify-content-center justify-content-lg-between align-items-center">
+
+                    <div
+                        class="row pt-4 pt-lg-10 gy-12 gy-lg-0 justify-content-center justify-content-lg-between align-items-center">
+
                         <div class="col-lg-6 col-xxl-7">
+
                             <div class="hero-card p1-xxl-bg pt-xl-20 pb-xl-20 position-relative">
-                                <div class="pt-xxl-10 pb-xxl-10">
-                                    
-                                    <div class="first d-center cus-z1 position-absolute end-0 top-0 d-none d-xxl-flex  me-lg-10 mt-lg-10">
-
-                                        
-                
-                                    </div>
-                                    <span class="heading p1-max-xxl nb4-xxl-color fs-five mb-3">Master the
-                                        Markets</span>
-                                    <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Trade Smart With AI Trading And
-                                        Make Profit
-                                    </h1>
-                                    <p class="fs-six-up fw_500 nb4-xxl-color">TradingEra helps you trade smarter with
-                                        tools and insights, making navigating financial markets easier.</p>
-                                    <div class="d-flex mt-8">
-                                        <img class="mx-4" src="assets/images/icon/openai.png" alt="openai" style="height: 35px;">
-                                        <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png" alt="Equinix_logo" style="height: 40px;">
-                                    </div>
-
-                                    <div class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8 mt-lg-10">
-                                        <a href="https://tradersera.com/prelogin.php" class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6">Start
-                                            Trading <i class="ti ti-trending-up"></i></a>
-                                        <a href="https://trading.tradersera.com/register" class="cmn-btn link link-xxl-color fs-five  gap-2 gap-lg-3 align-items-center "><i class="ti ti-arrow-narrow-right fs-four"></i> Try demo account</a>
-
+                                <div class="col-sm-10 col-lg-6 col-xxl-5">
+                                    <div class="hero-section__thumbs pb-xxl-10">
+                                        <img src="assets/images/banner 1.png" class="max-auto max-xxl-un"
+                                            alt="banner one">
                                     </div>
                                 </div>
+                                <div class="col-lg-6 col-xxl-7">
+                                    <div class="hero-card p1-xxl-bg pt-xl-20 pb-xl-20 position-relative">
+                                        <div class="pt-xxl-10 pb-xxl-10">
+                                            <div
+                                                class="first d-center cus-z1 position-absolute end-0 top-0 d-none d-xxl-flex  me-lg-10 mt-lg-10">
+        
+        
+                                            </div>
+                                            <span class="heading p1-max-xxl nb4-xxl-color fs-five mb-3">Master the
+                                                Markets</span>
+                                            <h1 class="display-two nb4-xxl-color mb-5 mb-lg-6">Trade Smart With AI Trading And
+                                                Make Profit
+                                            </h1>
+                                            <p class="fs-six-up fw_500 nb4-xxl-color">TradingEra helps you trade smarter with
+                                                tools and insights, making navigating financial markets easier.</p>
+                                            <div class="d-flex mt-8">
+                                                <img class="mx-4" src="assets/images/icon/openai.png" alt="openai"
+                                                    style="height: 35px;">
+                                                <img class="mx-4" src="assets/images/icon/Equinix_logo.svg.png"
+                                                    alt="Equinix_logo" style="height: 40px;">
+                                            </div>
+        
+                                            <div
+                                                class="d-inline-flex flex-wrap gap-4 gap-lg-10 align-items-center mt-8 mt-lg-10">
+                                                <a href="https://tradersera.com/prelogin.php"
+                                                    class="cmn-btn alt-xxl-bg fs-five nb4-xxl-bg gap-2 gap-lg-3 align-items-center py-2 px-5 py-lg-3 px-lg-6">Start
+                                                    Trading <i class="ti ti-trending-up"></i></a>
+                                                <a href="https://trading.tradersera.com/register"
+                                                    class="cmn-btn link link-xxl-color fs-five  gap-2 gap-lg-3 align-items-center "><i
+                                                        class="ti ti-arrow-narrow-right fs-four"></i> Try demo account</a>
+        
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                           
                             </div>
                         </div>
-                      
+
+
                     </div>
                 </div>
-            </div>
+            </div> -->
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
 
             <!-- <div class="slide hero-section--secondary hero-section2 position-relative z-0 ">
                 <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
