@@ -89,15 +89,15 @@
                     <h4 class="mb-6 mb-lg-8">Trading</h4>
                     <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
                         <li>
-                            <a class="n2-color d-flex align-items-center" href="forex-cfds.php">Compare Accounts</a>
+                            <a class="dropdown-item" href="compare-accounts.php">Compare Accounts</a>
                         </li>
                         <li>
                             <a class="dropdown-item" href="market-hours.php">Market Hours</a>
                         </li>
                         <li>
                             <a class="dropdown-item" href="market-forecast.php">Market Forecast</a>
-                        </li>
-                        <h4 class="mb-6 mb-lg-8" href="https://tradersera.com/blogs">Blogs</h4>
+                        </li><br>
+                        <h4 class="mb-6 mb-lg-8" href="https://tradersera.com/blogs">Blogs</h4><br>
                         <!-- <li>
                             <a class="dropdown-item" href="refer-a-friend.php">Refer a Friend</a>
                         </li>
@@ -111,7 +111,7 @@
                             <a class="dropdown-item" href="Download-UTIP.php">UTIP WebTrader</a>
                         </li> -->
                     </ul>
-                    <br>
+                    
                     <!-- <h4 class="mb-6 mb-lg-8">Products</h4>
                     
                     
@@ -144,27 +144,30 @@
                     <h4 class="mb-6 mb-lg-8">Products</h4>
                     <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4">
                         <li>
-                            <a class="n2-color" href="crypto.php">Crypto CFD</a>
+                            <a class="n2-color" href="crypto-cfd.php">Crypto-CFD</a>
                         </li>
                         <li>
-                            <a class="n2-color" href="indices.php">Fx CFDs</a>
+                            <a class="n2-color" href="fx-cfd.php">Fx-CFDs</a>
                         </li>
                         <li>
-                            <a class="n2-color" href="crypto-cfd.php">Commodity</a>
+                            <a class="n2-color" href="forex.php">Forex</a>
+                        </li>
+                        <li>
+                            <a class="n2-color" href="commodity.php">Commodity</a>
                         </li>
                         <li>
                             <a class="n2-color" href="stocks.php">Stocks</a>
                         </li>
                         
                         <li>
-                            <a class="n2-color" href="forex.php">Indices</a>
+                            <a class="n2-color" href="indices.php">Indices</a>
                         </li>
                         <li>
-                            <a class="n2-color" href="commodity.php">Crypto</a>
+                            <a class="n2-color" href="crypto.php">Crypto</a>
                         </li>
                         
                     </ul>
-                    
+                    <br>
                 </div>
             </div>
             <div class="col-6 col-lg-2" >
@@ -197,7 +200,7 @@
                         <li>
                             <a class="n2-color" href="refer-a-friend.php">Refer A Friend</a>
                         </li>
-                    </ul>
+                    </ul><br>
                 </div>
             </div>
             <div class="col-6 col-lg-2">
@@ -232,7 +235,24 @@
                 </div>
             </div>
             
-    
+            <style>
+                @media (max-width: 767.98px) {
+    .footer__part {
+        text-align: center;
+    }
+    .footer_list {
+        justify-content: center;
+    }
+    .col-6 {
+        width: 100%;
+        margin: 0 auto;
+    }
+    .footer__part h4 {
+        text-align: center;
+    }
+}
+
+            </style>
 
             <section class="privacy-policy pt-20 ">
                 <div class="container">
@@ -292,6 +312,24 @@
                                 <li><a class="n2-color" href="IB-agreement.php">IB Agreement</a></li>
                                 <li><a class="n2-color" href="Refund-policy.php">Refund Policy</a></li>
                             </ul>
+                            <style>
+                                @media (max-width: 767.98px) {
+                               .footer__copyright {
+                                text-align: center;
+                                flex-direction: column;
+                                                  }
+                                .footer__copyright ul {
+                                justify-content: center;
+                                flex-direction: column;
+                                 }
+                                .footer__copyright ul li {
+                                display: block;
+                                text-align: center;
+    }
+}
+
+                            </style>
+                            <div class="footer__copyright2 d-center gap-15 flex-wrap justify-content-md-between">
                             <ul class="social-area d-center gap-2 gap-md-3">
                                 <li><img style=" border-radius:17px;  height:43px;" src="assets/images/_app store.png">
                                 </li>
