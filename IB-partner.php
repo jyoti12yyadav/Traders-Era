@@ -949,14 +949,7 @@
                                         required="">
                                 </div>
                             </div>
-                            <div class="col-sm-12">
-                                <div class="single-input">
-                                    <br>
-                                    <br>
-                                    <label for="legacyfx"><b>How do you intent to promote legacyfx?</b></label>
-                                    <input type="text" class="fs-six-up" name="legacyfx" placeholder="" required="">
-                                </div>
-                            </div>
+                            
                         </div>
                         <div class="input-single">
                             <label for="message"><b>Message(Freetext)</b></label>

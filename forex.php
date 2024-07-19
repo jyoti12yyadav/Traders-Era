@@ -124,7 +124,7 @@
             </div>
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/Boost your earnings with the help of AI.png" alt="TradersEra' AI trading">
+                    <img src="assets/images/Commodities.png" alt="TradersEra' AI trading">
                 </div>
             </div>
         </div>
@@ -138,7 +138,7 @@
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/Advantages for introducing brokers.png"
+                    <img src="assets/images/Crypto.png"
                         alt="TradersEra's Global markets, liquidity, low spreads, swap-free">
                 </div>
             </div>
@@ -169,7 +169,7 @@
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/Advantages for introducing brokers.png"
+                    <img src="assets/images/Indices.png"
                         alt="TradersEra's Global markets, liquidity, low spreads, swap-free">
                 </div>
             </div>
@@ -180,14 +180,11 @@
                     </h2>
                     <!-- <h3 class="mb-4 mb-lg-5">An Introducing Broker
                     </h3> -->
-                    <p>An index is a collection of stocks that represent a specific market or sector. 
-                        It helps measure the price performance of a group of stocks in that sector.
-                        <br> <br>For example, the USA500 is based on the 500 largest companies listed on the New York Exchange or NASDAQ,
-                         weighted by market capitalization. 
-                         Trading indices allows you to have exposure to an entire sector or market with just one trade. <br>
-                         Prices of indices can fluctuate due to various factors like political events, company news, and employment data.
-                        <br> <br> At TradersEra, traders can trade derivatives on major global indices. Open a live account to enjoy benefits like tight 
-spreads and fast order execution.
+                    <p>A stock index measures the performance of a market or sector by tracking a collection of stocks. 
+                        For example, the USA500 includes the 500 largest companies listed on the New York Exchange or NASDAQ, 
+                        and their prices are influenced by factors like political events, company news, and employment data. 
+                        TradersEra allows trading derivatives on major global indices with benefits such as tight spreads and 
+                        fast order execution for live account holders
 </p>
                 </div>
             </div>
@@ -215,7 +212,7 @@ Traders use various sources like company earnings, announcements, and analysis t
             </div>
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/Boost your earnings with the help of AI.png" alt="TradersEra' AI trading">
+                    <img src="assets/images/Stocks.png" alt="TradersEra' AI trading">
                 </div>
             </div>
         </div>

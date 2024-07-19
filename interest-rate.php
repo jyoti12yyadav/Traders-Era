@@ -36,12 +36,12 @@
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">
             <div class="col-10 col-sm-8 col-md-7 col-lg-6 order-2 order-lg-0">
                 <div class="trade_on__thumbs d-flex justify-content-end">
-                    <img src="assets/images/tradersera.png" alt=" Learn about Forex Trading">
+                    <img src="assets/images/What are interest rates.png" alt=" Learn about Forex Trading">
                 </div>
             </div>
             <div class="col-lg-6 col-xxl-5">
                 <div class="trade_on__content">
-                    <h2 class="mb-4 mb-lg-5">What is interest rates?</h2>
+                    <h2 class="mb-4 mb-lg-5">What are interest rates?</h2>
                     <p class="fs-six mx-ch">Interest rates are the cost of borrowing money or the return on savings, 
                         expressed as a percentage. They can be fixed (remaining constant throughout the loan period) 
                         or variable (fluctuating over time). </p>
