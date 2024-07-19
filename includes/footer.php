@@ -15,7 +15,6 @@
     }
 
 
-    
 </style>
 <footer class="footer a2-bg position-relative pt-15 pt-lg-0 z-0 ">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1 d-none d-xxxl-flex">
@@ -37,27 +36,11 @@
                     </p>
                 </div>
                 <div class="col-sm-4 text-sm-end">
-                    <a href="https://trading.tradersera.com/register"
+                    <a href="https://trading.tradersera.com/register" target="_blank"
                         class="cmn-btn secondary-alt ms-auto fs-five nb4-xxl-bg gap-2 align-items-center  py-2 px-4 py-lg-3 px-lg-5">Open An Account <i class="ti ti-arrow-right fs-four"></i></a>
                 </div>
             </div>
         </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -111,6 +94,9 @@
                         <li>
                             <a class="dropdown-item" href="market-hours.php">Market Hours</a>
                         </li>
+                        <li>
+                            <a class="dropdown-item" href="market-forecast.php">Market Forecast</a>
+                        </li>
                         <!-- <li>
                             <a class="dropdown-item" href="refer-a-friend.php">Refer a Friend</a>
                         </li>
@@ -128,18 +114,25 @@
                     <h4 class="mb-6 mb-lg-8 mt-4">Products</h4>
                     <ul class="footer_list d-flex flex-column gap-2 gap-sm-3 gap-md-4 mb-4">
                         <li>
-                            <a class="n2-color" href="fx-cfd.php">Fx CFDs</a>
+                            <a class="n2-color" href="fx-cfd.php">Crypto CFD</a>
                         </li>
                         <li>
-                            <a class="n2-color" href="crypto-cfd.php">Crypto CFD</a>
+                            <a class="n2-color" href="crypto-cfd.php">Fx CFDs</a>
+                        </li>
+                        <li>
+                            <a class="n2-color" href="crypto-cfd.php">Commodity</a>
+                        </li>
+                        <li>
+                            <a class="n2-color" href="crypto-cfd.php">Stocks</a>
+                        </li>
+                        <li>
+                            <a class="n2-color" href="crypto-cfd.php">Indices</a>
+                        </li>
+                        <li>
+                            <a class="n2-color" href="crypto-cfd.php">Crypto</a>
                         </li>
 
-                        <!-- <li>
-                            <a class="n2-color" href="binary.php">Binary</a>
-                        </li>
-                        <li>
-                            <a class="n2-color" href="ai-Invest.php">AI Invest</a>
-                        </li> -->
+                        
                     </ul>
                 </div>
             </div>
@@ -177,17 +170,17 @@
                         <li>
                             <a class="n2-color" href="economic-calendar.php">Economic Calendar</a>
                         </li>
-                        <li>
+                        <!-- <li>
                             <a class="n2-color" href="market-forecast.php">Market Forecast</a>
-                        </li>
-                        <li>
-                            <a class="n2-color" href="glossary.php">Glossary</a>
-                        </li>
+                        </li> -->
                         <li>
                             <a class="n2-color" href="learn-trading.php">Learn Trading</a>
                         </li>
                         <li>
                             <a class="n2-color" href="interest-rate.php">Interest Rates</a>
+                        </li>
+                        <li>
+                            <a class="n2-color" href="glossary.php">Glossary</a>
                         </li>
                     </ul>
                     <br>

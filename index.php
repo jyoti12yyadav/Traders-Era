@@ -104,6 +104,7 @@
         .next_btn {
             right: 50px;
         }
+        
     }
 
     .fs-three,

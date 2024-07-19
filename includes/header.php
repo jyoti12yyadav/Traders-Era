@@ -145,13 +145,12 @@
                             <button type="button" aria-label="Navbar Dropdown Button"
                                 class="dropdown-toggle dropdown-nav">Products</button>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="forex.php">Forex</a></li>
-                                <!-- <li><a class="dropdown-item" href="forex.php">Forex</a></li>
-                                <li><a class="dropdown-item" href="commodity.php">Commodity </a></li>
-                                <li><a class="dropdown-item" href="crypto.php">Crypto</a></li>
-                                <li><a class="dropdown-item" href="indices.php">Indices</a></li>
-                                <li><a class="dropdown-item" href="stocks.php">Stocks </a></li> -->
                                 <li><a class="dropdown-item" href="crypto-cfd.php">Crypto-CFD</a></li>
+                                <li><a class="dropdown-item" href="forex.php">Fx CFDs</a></li>
+                                <li><a class="dropdown-item" href="commodity.php">Commodity </a></li>
+                                <li><a class="dropdown-item" href="stocks.php">Stocks </a></li>
+                                <li><a class="dropdown-item" href="indices.php">Indices</a></li> 
+                                <li><a class="dropdown-item" href="crypto.php">Crypto</a></li>                              
                                 <!-- <li><a class="dropdown-item" href="binary.php">Binary </a></li>
                                 <li><a class="dropdown-item" href="ai-Invest.php">AI Invest </a></li> -->
                             </ul>
@@ -166,6 +165,7 @@
                                 <ul class="dropdown-menu">
                                     <li><a class="dropdown-item" href="compare-accounts.php">Compare Accounts</a></li>
                                     <li><a class="dropdown-item" href="market-hours.php">Market Hours</a></li>
+                                    <li><a class="dropdown-item" href="market-forecast.php">Market Forecast</a></li>
                                     <!-- <li><a class="dropdown-item" href="bonus.php">50% Bonus</a></li> -->
                                     <!-- <li><a class="dropdown-item" href="Download-MT5.php">Download MT5</a></li>
                                     <li><a class="dropdown-item" href="UTIP-WebTrader.php">Download UTIP</a></li> -->
@@ -192,11 +192,10 @@
                                 class="dropdown-toggle dropdown-nav">Tools</button>
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item" href="economic-calendar.php">Economic Calender</a></li>
-                                <li><a class="dropdown-item" href="market-forecast.php">Market Forecast</a></li>
                                 <!-- <li><a class="dropdown-item" href="news-research.php">News & Research</a></li> -->
-                                <li><a class="dropdown-item" href="glossary.php">Glossary</a></li>
                                 <li><a class="dropdown-item " href="learn-trading.php">Learn Trading</a></li>
                                 <li><a class="dropdown-item " href="interest-rate.php">Interest Rates</a></li>
+                                <li><a class="dropdown-item" href="glossary.php">Glossary</a></li>
                                 <!-- <li><a class="dropdown-item" href="faq.php">FAQ</a></li> -->
                             </ul>
                         </li>
