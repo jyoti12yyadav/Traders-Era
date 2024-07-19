@@ -45,7 +45,7 @@
                         markets. London and New York emerged as the top choices. It is from these cities that we link
                         our liquidity pool to your trading platform.</p><br>
                         <ul class=" d-flex   gap-md-3 mt-4">
-                        <li><img style=" height:35px;" src="assets/images/icon/logo equinix logo white.png" alt="logo equinix logo white"></li>
+                        <li><img style=" height:100px;" src="assets/images/icon/logo equinix logo white.png" alt="logo equinix logo white"></li>
                        
                     </ul>
                     <br>
