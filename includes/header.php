@@ -112,8 +112,8 @@
                 <div class="nav_alt">
                     <div class="right-area position-relative ms-0 d-center gap-1 gap-xl-4 d-lg-none">
                         <div class="single-item">
-                            <a href="contact-us.php"
-                                class="cmn-btn fw-bold py-2 px-2 px-sm-3 px-lg-4 align-items-center gap-1">Contact Us
+                            <a href="https://private.tradersera.xyz/signin" target="_blank"
+                                class="cmn-btn fw-bold py-2 px-2 px-sm-3 px-lg-4 align-items-center gap-1">Login
                                 <i class="ti ti-arrow-right fw-semibold fs-six-up"></i></a>
                         </div>
                     </div>
