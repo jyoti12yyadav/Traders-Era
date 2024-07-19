@@ -543,6 +543,14 @@ switch ($menuactive) {
         $alternateName="Refund Policy";
         $url="http://localhost/traders-era/Refund-policy.php";
         break;
+    case 'Refund-policy.php':
+        $title = "Refund Policy |  TradersEra Refund Policy |  Forex Refund ";
+        $description = "Learn about TradersEra's  Refund options form your Registered Account. Discover how to  request a refund and enhance your trading experience today";
+        $keywords ="Refund Policy, TradersEra Refund Policy, Forex Refund, Refund Registered Account, Refund from TradersEra, TradersEra Compliance Department, Money Refund, cancellation policy, MT5, Meta Trader 5, UTIP, UTIP Trading Platform, Trade Crypto, Forex Trading Platform, UTIP, TradingView, AWS, Equinix, MarketCheese, SSL Secured, Forex trading, forex market, CFD, FX CFD, Crypto CFD, Online trading account types, Forex Deposit, Forex Withdrawal";
+        $name="Refund Policy";
+        $alternateName="Refund Policy";
+        $url="http://localhost/traders-era/Refund-policy.php";
+        break;
     default:
         $title = "Title Here";
         $description = "Description Here";
