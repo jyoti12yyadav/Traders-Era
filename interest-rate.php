@@ -54,7 +54,7 @@
 <!-- Trade On end -->
 <section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-        <img src="assets/images/coin.png" alt="vector" class="position-absolute d-none d-md-flex previewShapeRevX">
+        <!-- <img src="assets/images/coin.png" alt="vector" class="position-absolute d-none d-md-flex previewShapeRevX"> -->
     </div>
     <div class="container">
         <div class="row gy-10 gy-xxl-0 justify-content-center justify-content-xxl-between align-items-center">

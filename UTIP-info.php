@@ -81,7 +81,7 @@
 </section>
 <section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-        <img src="assets/images/coin.png" alt="vector" class="position-absolute d-none d-md-flex previewShapeRevX">
+        <!-- <img src="assets/images/coin.png" alt="vector" class="position-absolute d-none d-md-flex previewShapeRevX"> -->
         <img src="assets/images/coin_vector.png" alt="vector"
             class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX opacity-50">
     </div>
@@ -90,7 +90,7 @@
             <div class="col-lg-7 col-xxl-6">
                 <div class="trade_on__content">
                     <!-- <span class="heading s1-color fs-five mb-5">Trade On Our</span> -->
-                    <h2 class="mb-4 mb-lg-5">Platform Features:                 
+                    <h2 class="mb-4 mb-lg-5">Platform Features                 
                     </h2>
                     <h3 class="mb-4">1.Traders Server:</h3>
                             <p class="mt-4 mb-5">The main feature of the UTIP trading platform is that it can handle 
@@ -163,7 +163,7 @@
 </section>
 <section class="trade_on a2-bg pt-120 pb-120 position-relative z-0">
     <div class="animation position-absolute top-0 left-0 w-100 h-100 z-n1">
-        <img src="assets/images/coin.png" alt="vector" class="position-absolute d-none d-md-flex previewShapeRevX">
+        <!-- <img src="assets/images/coin.png" alt="vector" class="position-absolute d-none d-md-flex previewShapeRevX"> -->
         <img src="assets/images/coin_vector.png" alt="vector"
             class="position-absolute d-none d-xxxl-flex bottom-0 end-0 previewShapeRevX opacity-50">
     </div>
