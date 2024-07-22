@@ -369,17 +369,16 @@
                     <br>
                     <p class="mx-ch">All you require in a single app.</p>
                     <br>
-                    <div class="col-4 mt-4" style="display: flex; justify-content: space-evenly; ">
-                        <img style="border-radius:10px;" src="assets/images/_app store.png" alt="_app store">
-                        <img style="border-radius:10px; margin-left:20px;" src="assets/images/_google play store.png"
-                            alt="_google play store">
-                            <a href="https://example.com/google_play_store_link" style="display: inline-block; margin-left:20px;">
-    <img style="border-radius:10px; display: block;" src="assets/images/_google play store.png" alt="_google play store">
-</a>
+                    <div class="col-4 mt-4" >
+                        <ul><li><img style="border-radius:10px;" src="assets/images/_app store.png" 
+                            alt="_app store"></li>
+                        <img style="border-radius:10px; " src="assets/images/_google play store.png" 
+                            alt="_google play store"> 
 
-
-                        <img style="border-radius:10px; margin-left:20px;" src="assets/images/_download APK.png"
-                            alt="_download APK">
+                        <li><a href="https://tradersera.com/TradersEra_Mobile.apk" style= "margin-right:10px;" >
+                            <img style="border-radius:10px;" src="assets/images/_download APK.png"
+                                alt="_download APK"></li></ul>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -392,6 +391,7 @@
         </div>
     </div>
 </section>
+
 
 
 
