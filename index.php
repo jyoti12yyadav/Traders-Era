@@ -636,7 +636,8 @@
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
                                         <h3 class="">Multiple Asset Trading</h3>
-                                        <span>Multiple options of trading like Forex, Crypto</span>
+                                        <span>Multiple options of trading like Forex, Crypto, Stocks, Indices and commodities. 
+                                        </span>
                                     </div>
                                 </div>
                             </div>
@@ -651,7 +652,8 @@
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
                                         <h3 class="">Multiple Funding</h3>
-                                        <span>Customized funding to your needs & your investment journey.</span>
+                                        <span>Local and international funding options for better trading.
+                                        </span>
                                     </div>
                                 </div>
                             </div>
@@ -665,8 +667,9 @@
                                 </div>
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
-                                        <h3 class="">Regulated & Established Broker</h3>
-                                        <span>Trading services with a regulated and established broker</span>
+                                        <h3 class="">Free Market Forecast</h3>
+                                        <span>Learn and understand the market better without a free market forecast. 
+                                        </span>
                                     </div>
                                 </div>
                             </div>
@@ -685,7 +688,8 @@
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
                                         <h3 class="">Web Platform</h3>
-                                        <span>Our web-based platform supports all operating systems</span>
+                                        <span> No download, trade with anywhere on any device.
+                                        </span>
                                     </div>
                                 </div>
                             </div>
@@ -700,7 +704,8 @@
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
                                         <h3 class="">Trade with Top Platform</h3>
-                                        <span>Trading using simple options on several platforms like MT5 & UTIP</span>
+                                        <span>Trading using simple options on several platforms like MT5 & UTIP.
+                                        </span>
                                     </div>
                                 </div>
                             </div>
@@ -715,7 +720,8 @@
                                 <div class="col-lg-10 d-flex align-items-center">
                                     <div class="row">
                                         <h3 class="">24/5 Customer Support</h3>
-                                        <span>Raise a Ticket and resolve the problem real quick</span>
+                                        <span>Team available for all your trading support 
+                                        </span>
                                     </div>
                                 </div>
                             </div>
