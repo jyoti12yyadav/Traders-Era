@@ -1258,7 +1258,7 @@
                         <img style="border-radius:10px; margin-left:20px;" src="assets/images/_download APK.png"
                             alt="_download APK">
                     </div>
-                </div>
+                </div> 
             </div>
             <div class="col-8 col-sm-7 col-lg-6 col-xxl-5">
                 <div class="worldwide_thumb d-flex ms-lg-15 ms-xl-0">
