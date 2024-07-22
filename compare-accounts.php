@@ -373,6 +373,11 @@
                         <img style="border-radius:10px;" src="assets/images/_app store.png" alt="_app store">
                         <img style="border-radius:10px; margin-left:20px;" src="assets/images/_google play store.png"
                             alt="_google play store">
+                            <a href="https://example.com/google_play_store_link" style="display: inline-block; margin-left:20px;">
+    <img style="border-radius:10px; display: block;" src="assets/images/_google play store.png" alt="_google play store">
+</a>
+
+
                         <img style="border-radius:10px; margin-left:20px;" src="assets/images/_download APK.png"
                             alt="_download APK">
                     </div>

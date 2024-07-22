@@ -330,19 +330,19 @@
 
                             </style>
                             <div class="footer__copyright2 d-center gap-15 flex-wrap justify-content-md-between">
-                            <ul class="social-area d-center gap-2 gap-md-3">
-                                
+                            <ul class="app d-center gap-2 ">
                                 <li><img style=" border-radius:17px;  height:43px;" src="assets/images/_app store.png">
                                 </li></ul>
-                                <ul class="social-area d-center gap-2 gap-md-3">
-                                <li><img style=" border-radius:17px;  height:43px;"
-                                        src="assets/images/_google play store.png"></li> </ul>
-                                        <ul class="social-area d-center gap-2 gap-md-3">
-    <li><a href="https://tradersera.com/TradersEra_Mobile.apk">
-        <img style="border-radius:17px; height:45px;" src="assets/images/_download APK.png">
-    </a></li>
-</ul>
+                                <ul class="app d-center gap-2">
+                                <li><img style=" border-radius:10px;  height:43px;" src="assets/images/_google play store.png">
+                                </li> </ul>
+                                <ul class="app d-center gap-2 ">
+                                <li><a href="https://tradersera.com/TradersEra_Mobile.apk">
+                                <img style="border-radius:17px; height:45px;" src="assets/images/_download APK.png"></a>
+                                </li></ul>
+                                                                                                                                        
 
+                                                                                                                             
                             </ul>
                             <ul class="social-area d-center gap-2 gap-md-3">
                                 <li><a class="d-center cus-rounded-1 fs-four" href="https://www.facebook.com/TradersEra"><i
